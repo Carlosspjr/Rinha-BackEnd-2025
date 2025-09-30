@@ -1,0 +1,13 @@
+
+time="2025-08-21T02:25:10Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T02:25:10Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 0" source=console
+time="2025-08-21T02:25:10Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 28 vs 0" source=console
+time="2025-08-21T02:25:20Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T02:25:20Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 0" source=console
+time="2025-08-21T02:25:20Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 2952 vs 3186" source=console
+time="2025-08-21T02:25:50Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T02:25:50Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 2557 vs 2555" source=console
+time="2025-08-21T02:25:50Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 1415 vs 1415" source=console
+time="2025-08-21T02:25:58Z" level=info msg="summaries from 2025-08-21T02:19:58.031Z to 2025-08-21T02:25:58.031Z" source=console
+time="2025-08-21T02:25:58Z" level=error msg="test run was aborted because k6 received a 'interrupt' signal"
+log truncated at line 1000

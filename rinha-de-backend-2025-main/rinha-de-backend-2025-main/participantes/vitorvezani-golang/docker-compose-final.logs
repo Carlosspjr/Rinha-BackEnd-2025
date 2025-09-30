@@ -1,0 +1,115 @@
+
+ nginx Pulling 
+ redis Pulling 
+ api1 Pulling 
+ api2 Pulling 
+ 9824c27679d3 Already exists 
+ 4f4fb700ef54 Pulling fs layer 
+ 83c86f116af0 Pulling fs layer 
+ 9824c27679d3 Already exists 
+ 4f4fb700ef54 Pulling fs layer 
+ 83c86f116af0 Pulling fs layer 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 83c86f116af0 Downloading [>                                                  ]   97.1kB/8.084MB
+ 83c86f116af0 Downloading [>                                                  ]   97.1kB/8.084MB
+ 83c86f116af0 Downloading [==========================>                        ]  4.276MB/8.084MB
+ 83c86f116af0 Downloading [==========================>                        ]  4.276MB/8.084MB
+ 83c86f116af0 Download complete 
+ 83c86f116af0 Download complete 
+ 83c86f116af0 Extracting [>                                                  ]   98.3kB/8.084MB
+ 83c86f116af0 Extracting [>                                                  ]   98.3kB/8.084MB
+ 83c86f116af0 Extracting [==================================================>]  8.084MB/8.084MB
+ 83c86f116af0 Extracting [==================================================>]  8.084MB/8.084MB
+ 83c86f116af0 Pull complete 
+ 83c86f116af0 Pull complete 
+ api2 Pulled 
+ api1 Pulled 
+ 0368fd46e3c6 Already exists 
+ 4abcf2066143 Pulling fs layer 
+ fc21a1d387f5 Pulling fs layer 
+ e6ef242c1570 Pulling fs layer 
+ 13fcfbc94648 Pulling fs layer 
+ d4bca490e609 Pulling fs layer 
+ 5406ed7b06d9 Pulling fs layer 
+ 8a3742a9529d Pulling fs layer 
+ 0d0c16747d2c Pulling fs layer 
+ 13fcfbc94648 Waiting 
+ d4bca490e609 Waiting 
+ 5406ed7b06d9 Waiting 
+ 8a3742a9529d Waiting 
+ 0d0c16747d2c Waiting 
+ 4e225d7a935a Already exists 
+ 74ab898fdb32 Already exists 
+ 311eca34042e Already exists 
+ bb1131de5e60 Already exists 
+ 407621d26c3b Already exists 
+ 4f4fb700ef54 Already exists 
+ 87acabadf81b Already exists 
+ e6ef242c1570 Downloading [==================================================>]     629B/629B
+ e6ef242c1570 Verifying Checksum 
+ e6ef242c1570 Download complete 
+ fc21a1d387f5 Downloading [>                                                  ]  41.08kB/3.985MB
+ 4abcf2066143 Downloading [>                                                  ]  34.28kB/3.409MB
+ redis Pulled 
+ 4abcf2066143 Verifying Checksum 
+ 4abcf2066143 Download complete 
+ 4abcf2066143 Extracting [>                                                  ]  65.54kB/3.409MB
+ fc21a1d387f5 Verifying Checksum 
+ fc21a1d387f5 Download complete 
+ 4abcf2066143 Extracting [==================================================>]  3.409MB/3.409MB
+ 4abcf2066143 Pull complete 
+ fc21a1d387f5 Extracting [>                                                  ]  65.54kB/3.985MB
+ fc21a1d387f5 Extracting [=================================================> ]  3.932MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ 13fcfbc94648 Download complete 
+ fc21a1d387f5 Pull complete 
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ 5406ed7b06d9 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 5406ed7b06d9 Downloading [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Download complete 
+ d4bca490e609 Downloading [==================================================>]     393B/393B
+ d4bca490e609 Verifying Checksum 
+ d4bca490e609 Download complete 
+ e6ef242c1570 Pull complete 
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Pull complete 
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Pull complete 
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Pull complete 
+ 8a3742a9529d Downloading [=====================================>             ]  1.049kB/1.398kB
+ 8a3742a9529d Downloading [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Download complete 
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Pull complete 
+ 0d0c16747d2c Downloading [>                                                  ]  131.3kB/13.04MB
+ 0d0c16747d2c Downloading [=========================================>         ]  10.87MB/13.04MB
+ 0d0c16747d2c Verifying Checksum 
+ 0d0c16747d2c Download complete 
+ 0d0c16747d2c Extracting [>                                                  ]  131.1kB/13.04MB
+ 0d0c16747d2c Extracting [==========>                                        ]  2.621MB/13.04MB
+ 0d0c16747d2c Extracting [========================================>          ]  10.49MB/13.04MB
+ 0d0c16747d2c Extracting [==================================================>]  13.04MB/13.04MB
+ 0d0c16747d2c Pull complete 
+ nginx Pulled 
+ Network vitorvezani-golang_backend  Creating
+ Network vitorvezani-golang_backend  Created
+ Container rinha-redis  Creating
+ Container rinha-redis  Error response from daemon: Conflict. The container name "/rinha-redis" is already in use by container "aca6e785960c6306ff98750a97763ebcb6b53389544dcf0acccbac9584df48b9". You have to remove (or rename) that container to be able to reuse that name.
+Error response from daemon: Conflict. The container name "/rinha-redis" is already in use by container "aca6e785960c6306ff98750a97763ebcb6b53389544dcf0acccbac9584df48b9". You have to remove (or rename) that container to be able to reuse that name.

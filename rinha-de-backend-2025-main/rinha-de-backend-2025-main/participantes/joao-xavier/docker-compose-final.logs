@@ -1,0 +1,1001 @@
+
+ worker Pulling 
+ api1 Pulling 
+ lb Pulling 
+ api0 Pulling 
+ 400fe5c6b87b Pulling fs layer 
+ 2e4cf50eeb92 Pulling fs layer 
+ 4e9f20d26c87 Pulling fs layer 
+ e1089d61b200 Pulling fs layer 
+ 0f8b424aa0b9 Pulling fs layer 
+ d557676654e5 Pulling fs layer 
+ d82bc7a76a83 Pulling fs layer 
+ d858cbc252ad Pulling fs layer 
+ 1069fc2daed1 Pulling fs layer 
+ b40161cd83fc Pulling fs layer 
+ 3f4e2c586348 Pulling fs layer 
+ eb8f5749650b Pulling fs layer 
+ e95e5abe292b Pulling fs layer 
+ 3c47353ed960 Pulling fs layer 
+ efcd351f9944 Pulling fs layer 
+ bad6dfda9ce3 Pulling fs layer 
+ 24445b2631ba Pulling fs layer 
+ 70876f70922f Pulling fs layer 
+ ba6c1d1862ae Pulling fs layer 
+ e1089d61b200 Waiting 
+ 0f8b424aa0b9 Waiting 
+ d557676654e5 Waiting 
+ d82bc7a76a83 Waiting 
+ d858cbc252ad Waiting 
+ 1069fc2daed1 Waiting 
+ b40161cd83fc Waiting 
+ 3f4e2c586348 Waiting 
+ eb8f5749650b Waiting 
+ e95e5abe292b Waiting 
+ 3c47353ed960 Waiting 
+ efcd351f9944 Waiting 
+ bad6dfda9ce3 Waiting 
+ 24445b2631ba Waiting 
+ 70876f70922f Waiting 
+ ba6c1d1862ae Waiting 
+ 400fe5c6b87b Pulling fs layer 
+ 2e4cf50eeb92 Pulling fs layer 
+ 4e9f20d26c87 Pulling fs layer 
+ e1089d61b200 Pulling fs layer 
+ 0f8b424aa0b9 Pulling fs layer 
+ d557676654e5 Pulling fs layer 
+ d82bc7a76a83 Pulling fs layer 
+ d858cbc252ad Pulling fs layer 
+ 1069fc2daed1 Pulling fs layer 
+ b40161cd83fc Pulling fs layer 
+ 3f4e2c586348 Pulling fs layer 
+ eb8f5749650b Pulling fs layer 
+ e95e5abe292b Pulling fs layer 
+ 3c47353ed960 Pulling fs layer 
+ efcd351f9944 Pulling fs layer 
+ bad6dfda9ce3 Pulling fs layer 
+ 24445b2631ba Pulling fs layer 
+ 70876f70922f Pulling fs layer 
+ ba6c1d1862ae Pulling fs layer 
+ ba6c1d1862ae Waiting 
+ 1069fc2daed1 Waiting 
+ d557676654e5 Waiting 
+ 0f8b424aa0b9 Waiting 
+ d82bc7a76a83 Waiting 
+ d858cbc252ad Waiting 
+ e1089d61b200 Waiting 
+ 3c47353ed960 Waiting 
+ b40161cd83fc Waiting 
+ bad6dfda9ce3 Waiting 
+ 3f4e2c586348 Waiting 
+ efcd351f9944 Waiting 
+ eb8f5749650b Waiting 
+ e95e5abe292b Waiting 
+ 24445b2631ba Waiting 
+ 70876f70922f Waiting 
+ 400fe5c6b87b Pulling fs layer 
+ 2e4cf50eeb92 Pulling fs layer 
+ 4e9f20d26c87 Pulling fs layer 
+ e1089d61b200 Pulling fs layer 
+ 0f8b424aa0b9 Pulling fs layer 
+ d557676654e5 Pulling fs layer 
+ d82bc7a76a83 Pulling fs layer 
+ d858cbc252ad Pulling fs layer 
+ 1069fc2daed1 Pulling fs layer 
+ b40161cd83fc Pulling fs layer 
+ 3f4e2c586348 Pulling fs layer 
+ eb8f5749650b Pulling fs layer 
+ e95e5abe292b Pulling fs layer 
+ 3c47353ed960 Pulling fs layer 
+ efcd351f9944 Pulling fs layer 
+ bad6dfda9ce3 Pulling fs layer 
+ 24445b2631ba Pulling fs layer 
+ 70876f70922f Pulling fs layer 
+ ba6c1d1862ae Pulling fs layer 
+ ba6c1d1862ae Waiting 
+ 1069fc2daed1 Waiting 
+ e1089d61b200 Waiting 
+ 3c47353ed960 Waiting 
+ b40161cd83fc Waiting 
+ 3f4e2c586348 Waiting 
+ eb8f5749650b Waiting 
+ e95e5abe292b Waiting 
+ bad6dfda9ce3 Waiting 
+ efcd351f9944 Waiting 
+ d557676654e5 Waiting 
+ 0f8b424aa0b9 Waiting 
+ d82bc7a76a83 Waiting 
+ d858cbc252ad Waiting 
+ 24445b2631ba Waiting 
+ 70876f70922f Waiting 
+ 4e9f20d26c87 Downloading [>                                                  ]  5.498kB/458.3kB
+ 4e9f20d26c87 Downloading [>                                                  ]  5.498kB/458.3kB
+ 4e9f20d26c87 Downloading [>                                                  ]  5.498kB/458.3kB
+ 4e9f20d26c87 Verifying Checksum 
+ 4e9f20d26c87 Verifying Checksum 
+ 4e9f20d26c87 Download complete 
+ 4e9f20d26c87 Verifying Checksum 
+ 4e9f20d26c87 Download complete 
+ 4e9f20d26c87 Download complete 
+ 400fe5c6b87b Downloading [>                                                  ]  1.378kB/84.69kB
+ 400fe5c6b87b Downloading [>                                                  ]  1.378kB/84.69kB
+ 400fe5c6b87b Downloading [>                                                  ]  1.378kB/84.69kB
+ 2e4cf50eeb92 Downloading [=====>                                             ]  1.378kB/12.58kB
+ 2e4cf50eeb92 Downloading [=====>                                             ]  1.378kB/12.58kB
+ 2e4cf50eeb92 Downloading [=====>                                             ]  1.378kB/12.58kB
+ 2e4cf50eeb92 Downloading [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Downloading [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Verifying Checksum 
+ 2e4cf50eeb92 Download complete 
+ 2e4cf50eeb92 Verifying Checksum 
+ 2e4cf50eeb92 Download complete 
+ 2e4cf50eeb92 Downloading [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Verifying Checksum 
+ 2e4cf50eeb92 Download complete 
+ 400fe5c6b87b Downloading [==================================================>]  84.69kB/84.69kB
+ 400fe5c6b87b Downloading [==================================================>]  84.69kB/84.69kB
+ 400fe5c6b87b Verifying Checksum 
+ 400fe5c6b87b Verifying Checksum 
+ 400fe5c6b87b Download complete 
+ 400fe5c6b87b Download complete 
+ 400fe5c6b87b Extracting [===================>                               ]  32.77kB/84.69kB
+ 400fe5c6b87b Extracting [===================>                               ]  32.77kB/84.69kB
+ 400fe5c6b87b Verifying Checksum 
+ 400fe5c6b87b Download complete 
+ 400fe5c6b87b Extracting [===================>                               ]  32.77kB/84.69kB
+ 400fe5c6b87b Extracting [==================================================>]  84.69kB/84.69kB
+ 400fe5c6b87b Extracting [==================================================>]  84.69kB/84.69kB
+ 400fe5c6b87b Extracting [==================================================>]  84.69kB/84.69kB
+ 400fe5c6b87b Pull complete 
+ 400fe5c6b87b Pull complete 
+ 400fe5c6b87b Pull complete 
+ 2e4cf50eeb92 Extracting [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Extracting [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Extracting [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Extracting [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Extracting [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Extracting [==================================================>]  12.58kB/12.58kB
+ 2e4cf50eeb92 Pull complete 
+ 2e4cf50eeb92 Pull complete 
+ 2e4cf50eeb92 Pull complete 
+ 4e9f20d26c87 Extracting [===>                                               ]  32.77kB/458.3kB
+ 4e9f20d26c87 Extracting [===>                                               ]  32.77kB/458.3kB
+ 4e9f20d26c87 Extracting [===>                                               ]  32.77kB/458.3kB
+ 4e9f20d26c87 Extracting [==========================================>        ]  393.2kB/458.3kB
+ 4e9f20d26c87 Extracting [==========================================>        ]  393.2kB/458.3kB
+ 4e9f20d26c87 Extracting [==========================================>        ]  393.2kB/458.3kB
+ 4e9f20d26c87 Extracting [==================================================>]  458.3kB/458.3kB
+ 4e9f20d26c87 Extracting [==================================================>]  458.3kB/458.3kB
+ 4e9f20d26c87 Extracting [==================================================>]  458.3kB/458.3kB
+ e1089d61b200 Downloading [==>                                                ]  1.378kB/28.39kB
+ e1089d61b200 Downloading [==>                                                ]  1.378kB/28.39kB
+ e1089d61b200 Downloading [==>                                                ]  1.378kB/28.39kB
+ 4e9f20d26c87 Extracting [==================================================>]  458.3kB/458.3kB
+ 4e9f20d26c87 Extracting [==================================================>]  458.3kB/458.3kB
+ 4e9f20d26c87 Extracting [==================================================>]  458.3kB/458.3kB
+ e1089d61b200 Verifying Checksum 
+ e1089d61b200 Download complete 
+ e1089d61b200 Downloading [==================================================>]  28.39kB/28.39kB
+ e1089d61b200 Verifying Checksum 
+ e1089d61b200 Verifying Checksum 
+ e1089d61b200 Download complete 
+ e1089d61b200 Download complete 
+ 0f8b424aa0b9 Downloading [==================================================>]      75B/75B
+ 0f8b424aa0b9 Verifying Checksum 
+ 0f8b424aa0b9 Download complete 
+ 0f8b424aa0b9 Verifying Checksum 
+ 0f8b424aa0b9 Download complete 
+ 0f8b424aa0b9 Verifying Checksum 
+ 0f8b424aa0b9 Download complete 
+ d557676654e5 Downloading [==================================================>]     193B/193B
+ d557676654e5 Verifying Checksum 
+ d557676654e5 Verifying Checksum 
+ d557676654e5 Download complete 
+ d557676654e5 Download complete 
+ d557676654e5 Download complete 
+ 4e9f20d26c87 Pull complete 
+ 4e9f20d26c87 Pull complete 
+ 4e9f20d26c87 Pull complete 
+ e1089d61b200 Extracting [==================================================>]  28.39kB/28.39kB
+ e1089d61b200 Extracting [==================================================>]  28.39kB/28.39kB
+ e1089d61b200 Extracting [==================================================>]  28.39kB/28.39kB
+ e1089d61b200 Extracting [==================================================>]  28.39kB/28.39kB
+ e1089d61b200 Extracting [==================================================>]  28.39kB/28.39kB
+ e1089d61b200 Extracting [==================================================>]  28.39kB/28.39kB
+ e1089d61b200 Pull complete 
+ e1089d61b200 Pull complete 
+ e1089d61b200 Pull complete 
+ 0f8b424aa0b9 Extracting [==================================================>]      75B/75B
+ 0f8b424aa0b9 Extracting [==================================================>]      75B/75B
+ 0f8b424aa0b9 Extracting [==================================================>]      75B/75B
+ 0f8b424aa0b9 Extracting [==================================================>]      75B/75B
+ 0f8b424aa0b9 Extracting [==================================================>]      75B/75B
+ 0f8b424aa0b9 Extracting [==================================================>]      75B/75B
+ 0f8b424aa0b9 Pull complete 
+ 0f8b424aa0b9 Pull complete 
+ 0f8b424aa0b9 Pull complete 
+ d557676654e5 Extracting [==================================================>]     193B/193B
+ d557676654e5 Extracting [==================================================>]     193B/193B
+ d557676654e5 Extracting [==================================================>]     193B/193B
+ d557676654e5 Extracting [==================================================>]     193B/193B
+ d557676654e5 Extracting [==================================================>]     193B/193B
+ d557676654e5 Extracting [==================================================>]     193B/193B
+ d557676654e5 Pull complete 
+ d557676654e5 Pull complete 
+ d557676654e5 Pull complete 
+ d82bc7a76a83 Downloading [==================================================>]     130B/130B
+ d82bc7a76a83 Download complete 
+ d82bc7a76a83 Downloading [==================================================>]     130B/130B
+ d82bc7a76a83 Download complete 
+ d82bc7a76a83 Downloading [==================================================>]     130B/130B
+ d82bc7a76a83 Verifying Checksum 
+ d82bc7a76a83 Download complete 
+ d82bc7a76a83 Extracting [==================================================>]     130B/130B
+ d82bc7a76a83 Extracting [==================================================>]     130B/130B
+ d82bc7a76a83 Extracting [==================================================>]     130B/130B
+ d82bc7a76a83 Extracting [==================================================>]     130B/130B
+ d82bc7a76a83 Extracting [==================================================>]     130B/130B
+ d82bc7a76a83 Extracting [==================================================>]     130B/130B
+ d858cbc252ad Download complete 
+ d858cbc252ad Downloading [==================================================>]     173B/173B
+ d858cbc252ad Download complete 
+ d858cbc252ad Download complete 
+ 1069fc2daed1 Downloading [==================================================>]      97B/97B
+ 1069fc2daed1 Downloading [==================================================>]      97B/97B
+ 1069fc2daed1 Downloading [==================================================>]      97B/97B
+ 1069fc2daed1 Verifying Checksum 
+ 1069fc2daed1 Verifying Checksum 
+ 1069fc2daed1 Download complete 
+ 1069fc2daed1 Verifying Checksum 
+ 1069fc2daed1 Download complete 
+ 1069fc2daed1 Download complete 
+ d82bc7a76a83 Pull complete 
+ d82bc7a76a83 Pull complete 
+ d82bc7a76a83 Pull complete 
+ d858cbc252ad Extracting [==================================================>]     173B/173B
+ d858cbc252ad Extracting [==================================================>]     173B/173B
+ d858cbc252ad Extracting [==================================================>]     173B/173B
+ d858cbc252ad Extracting [==================================================>]     173B/173B
+ d858cbc252ad Extracting [==================================================>]     173B/173B
+ d858cbc252ad Extracting [==================================================>]     173B/173B
+ d858cbc252ad Pull complete 
+ d858cbc252ad Pull complete 
+ d858cbc252ad Pull complete 
+ 1069fc2daed1 Extracting [==================================================>]      97B/97B
+ 1069fc2daed1 Extracting [==================================================>]      97B/97B
+ 1069fc2daed1 Extracting [==================================================>]      97B/97B
+ 1069fc2daed1 Extracting [==================================================>]      97B/97B
+ 1069fc2daed1 Extracting [==================================================>]      97B/97B
+ 1069fc2daed1 Extracting [==================================================>]      97B/97B
+ 1069fc2daed1 Pull complete 
+ 1069fc2daed1 Pull complete 
+ 1069fc2daed1 Pull complete 
+ b40161cd83fc Downloading [==================================================>]     382B/382B
+ b40161cd83fc Verifying Checksum 
+ b40161cd83fc Download complete 
+ b40161cd83fc Verifying Checksum 
+ b40161cd83fc Download complete 
+ b40161cd83fc Verifying Checksum 
+ b40161cd83fc Download complete 
+ b40161cd83fc Extracting [==================================================>]     382B/382B
+ b40161cd83fc Extracting [==================================================>]     382B/382B
+ b40161cd83fc Extracting [==================================================>]     382B/382B
+ b40161cd83fc Extracting [==================================================>]     382B/382B
+ b40161cd83fc Extracting [==================================================>]     382B/382B
+ b40161cd83fc Extracting [==================================================>]     382B/382B
+ 3f4e2c586348 Downloading [==================================================>]     326B/326B
+ 3f4e2c586348 Verifying Checksum 
+ 3f4e2c586348 Download complete 
+ 3f4e2c586348 Download complete 
+ 3f4e2c586348 Download complete 
+ eb8f5749650b Downloading [>                                                  ]  1.378kB/130.9kB
+ eb8f5749650b Downloading [>                                                  ]  1.378kB/130.9kB
+ eb8f5749650b Downloading [>                                                  ]  1.378kB/130.9kB
+ eb8f5749650b Downloading [==================================================>]  130.9kB/130.9kB
+ eb8f5749650b Downloading [==================================================>]  130.9kB/130.9kB
+ eb8f5749650b Verifying Checksum 
+ eb8f5749650b Download complete 
+ eb8f5749650b Verifying Checksum 
+ eb8f5749650b Downloading [==================================================>]  130.9kB/130.9kB
+ eb8f5749650b Verifying Checksum 
+ eb8f5749650b Download complete 
+ eb8f5749650b Download complete 
+ b40161cd83fc Pull complete 
+ b40161cd83fc Pull complete 
+ b40161cd83fc Pull complete 
+ 3f4e2c586348 Extracting [==================================================>]     326B/326B
+ 3f4e2c586348 Extracting [==================================================>]     326B/326B
+ 3f4e2c586348 Extracting [==================================================>]     326B/326B
+ 3f4e2c586348 Extracting [==================================================>]     326B/326B
+ 3f4e2c586348 Extracting [==================================================>]     326B/326B
+ 3f4e2c586348 Extracting [==================================================>]     326B/326B
+ 3f4e2c586348 Pull complete 
+ 3f4e2c586348 Pull complete 
+ 3f4e2c586348 Pull complete 
+ eb8f5749650b Extracting [============>                                      ]  32.77kB/130.9kB
+ eb8f5749650b Extracting [============>                                      ]  32.77kB/130.9kB
+ eb8f5749650b Extracting [============>                                      ]  32.77kB/130.9kB
+ eb8f5749650b Extracting [==================================================>]  130.9kB/130.9kB
+ eb8f5749650b Extracting [==================================================>]  130.9kB/130.9kB
+ eb8f5749650b Extracting [==================================================>]  130.9kB/130.9kB
+ eb8f5749650b Pull complete 
+ eb8f5749650b Pull complete 
+ eb8f5749650b Pull complete 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ b1badc6e5066 Waiting 
+ 14a859b5ba24 Waiting 
+ a2da0c0f2353 Waiting 
+ 716cdf61af59 Waiting 
+ e5d9bb0b85cc Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ e95e5abe292b Downloading [>                                                  ]  65.54kB/5.088MB
+ e95e5abe292b Downloading [>                                                  ]  65.54kB/5.088MB
+ e95e5abe292b Downloading [>                                                  ]  65.54kB/5.088MB
+ 3c47353ed960 Downloading [>                                                  ]  26.09kB/2.572MB
+ 3c47353ed960 Downloading [>                                                  ]  26.09kB/2.572MB
+ 3c47353ed960 Downloading [>                                                  ]  26.09kB/2.572MB
+ 3c47353ed960 Verifying Checksum 
+ 3c47353ed960 Download complete 
+ 3c47353ed960 Verifying Checksum 
+ 3c47353ed960 Download complete 
+ 3c47353ed960 Verifying Checksum 
+ 3c47353ed960 Download complete 
+ efcd351f9944 Downloading [=>                                                 ]  1.378kB/40.41kB
+ efcd351f9944 Downloading [=>                                                 ]  1.378kB/40.41kB
+ efcd351f9944 Downloading [=>                                                 ]  1.378kB/40.41kB
+ efcd351f9944 Downloading [==================================================>]  40.41kB/40.41kB
+ efcd351f9944 Verifying Checksum 
+ efcd351f9944 Download complete 
+ efcd351f9944 Downloading [==================================================>]  40.41kB/40.41kB
+ efcd351f9944 Download complete 
+ efcd351f9944 Downloading [==================================================>]  40.41kB/40.41kB
+ efcd351f9944 Verifying Checksum 
+ efcd351f9944 Download complete 
+ e95e5abe292b Downloading [===========================================>       ]  4.453MB/5.088MB
+ e95e5abe292b Downloading [===========================================>       ]  4.453MB/5.088MB
+ e95e5abe292b Downloading [===========================================>       ]  4.453MB/5.088MB
+ e95e5abe292b Verifying Checksum 
+ e95e5abe292b Download complete 
+ e95e5abe292b Verifying Checksum 
+ e95e5abe292b Download complete 
+ e95e5abe292b Verifying Checksum 
+ e95e5abe292b Download complete 
+ e95e5abe292b Extracting [>                                                  ]  65.54kB/5.088MB
+ e95e5abe292b Extracting [>                                                  ]  65.54kB/5.088MB
+ e95e5abe292b Extracting [>                                                  ]  65.54kB/5.088MB
+ e95e5abe292b Extracting [====================================>              ]   3.67MB/5.088MB
+ e95e5abe292b Extracting [====================================>              ]   3.67MB/5.088MB
+ e95e5abe292b Extracting [====================================>              ]   3.67MB/5.088MB
+ e95e5abe292b Extracting [==================================================>]  5.088MB/5.088MB
+ e95e5abe292b Extracting [==================================================>]  5.088MB/5.088MB
+ e95e5abe292b Extracting [==================================================>]  5.088MB/5.088MB
+ e95e5abe292b Pull complete 
+ e95e5abe292b Pull complete 
+ e95e5abe292b Pull complete 
+ 3c47353ed960 Extracting [>                                                  ]  32.77kB/2.572MB
+ 3c47353ed960 Extracting [>                                                  ]  32.77kB/2.572MB
+ 3c47353ed960 Extracting [>                                                  ]  32.77kB/2.572MB
+ 3c47353ed960 Extracting [==================================================>]  2.572MB/2.572MB
+ 3c47353ed960 Extracting [==================================================>]  2.572MB/2.572MB
+ 3c47353ed960 Extracting [==================================================>]  2.572MB/2.572MB
+ bad6dfda9ce3 Downloading [>                                                  ]  2.756kB/138.1kB
+ bad6dfda9ce3 Downloading [>                                                  ]  2.756kB/138.1kB
+ bad6dfda9ce3 Downloading [>                                                  ]  2.756kB/138.1kB
+ bad6dfda9ce3 Downloading [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Verifying Checksum 
+ bad6dfda9ce3 Download complete 
+ bad6dfda9ce3 Downloading [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Verifying Checksum 
+ bad6dfda9ce3 Download complete 
+ bad6dfda9ce3 Downloading [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Verifying Checksum 
+ bad6dfda9ce3 Download complete 
+ 24445b2631ba Downloading [>                                                  ]  8.268kB/804.1kB
+ 24445b2631ba Downloading [>                                                  ]  8.268kB/804.1kB
+ 24445b2631ba Downloading [>                                                  ]  8.268kB/804.1kB
+ 24445b2631ba Verifying Checksum 
+ 24445b2631ba Download complete 
+ 24445b2631ba Verifying Checksum 
+ 24445b2631ba Download complete 
+ 24445b2631ba Verifying Checksum 
+ 24445b2631ba Download complete 
+ 3c47353ed960 Pull complete 
+ 3c47353ed960 Pull complete 
+ 3c47353ed960 Pull complete 
+ efcd351f9944 Extracting [========================================>          ]  32.77kB/40.41kB
+ efcd351f9944 Extracting [========================================>          ]  32.77kB/40.41kB
+ efcd351f9944 Extracting [========================================>          ]  32.77kB/40.41kB
+ efcd351f9944 Extracting [==================================================>]  40.41kB/40.41kB
+ efcd351f9944 Extracting [==================================================>]  40.41kB/40.41kB
+ efcd351f9944 Extracting [==================================================>]  40.41kB/40.41kB
+ efcd351f9944 Pull complete 
+ efcd351f9944 Pull complete 
+ efcd351f9944 Pull complete 
+ 70876f70922f Downloading [=>                                                 ]  1.378kB/59.26kB
+ 70876f70922f Downloading [=>                                                 ]  1.378kB/59.26kB
+ 70876f70922f Downloading [=>                                                 ]  1.378kB/59.26kB
+ 70876f70922f Verifying Checksum 
+ 70876f70922f Download complete 
+ 70876f70922f Verifying Checksum 
+ 70876f70922f Download complete 
+ 70876f70922f Verifying Checksum 
+ 70876f70922f Download complete 
+ bad6dfda9ce3 Extracting [===========>                                       ]  32.77kB/138.1kB
+ bad6dfda9ce3 Extracting [===========>                                       ]  32.77kB/138.1kB
+ bad6dfda9ce3 Extracting [===========>                                       ]  32.77kB/138.1kB
+ bad6dfda9ce3 Extracting [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Extracting [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Extracting [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Extracting [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Extracting [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Extracting [==================================================>]  138.1kB/138.1kB
+ bad6dfda9ce3 Pull complete 
+ bad6dfda9ce3 Pull complete 
+ bad6dfda9ce3 Pull complete 
+ 24445b2631ba Extracting [==>                                                ]  32.77kB/804.1kB
+ 24445b2631ba Extracting [==>                                                ]  32.77kB/804.1kB
+ 24445b2631ba Extracting [==>                                                ]  32.77kB/804.1kB
+ 24445b2631ba Extracting [==================================================>]  804.1kB/804.1kB
+ 24445b2631ba Extracting [==================================================>]  804.1kB/804.1kB
+ 24445b2631ba Extracting [==================================================>]  804.1kB/804.1kB
+ 24445b2631ba Extracting [==================================================>]  804.1kB/804.1kB
+ 24445b2631ba Extracting [==================================================>]  804.1kB/804.1kB
+ 24445b2631ba Extracting [==================================================>]  804.1kB/804.1kB
+ 24445b2631ba Pull complete 
+ 24445b2631ba Pull complete 
+ 24445b2631ba Pull complete 
+ 70876f70922f Extracting [===========================>                       ]  32.77kB/59.26kB
+ 70876f70922f Extracting [===========================>                       ]  32.77kB/59.26kB
+ 70876f70922f Extracting [===========================>                       ]  32.77kB/59.26kB
+ 70876f70922f Extracting [==================================================>]  59.26kB/59.26kB
+ 70876f70922f Extracting [==================================================>]  59.26kB/59.26kB
+ 70876f70922f Extracting [==================================================>]  59.26kB/59.26kB
+ 70876f70922f Pull complete 
+ 70876f70922f Pull complete 
+ 70876f70922f Pull complete 
+ ba6c1d1862ae Downloading [>                                                  ]  19.14kB/1.911MB
+ ba6c1d1862ae Downloading [>                                                  ]  19.14kB/1.911MB
+ ba6c1d1862ae Downloading [>                                                  ]  19.14kB/1.911MB
+ ba6c1d1862ae Verifying Checksum 
+ ba6c1d1862ae Download complete 
+ ba6c1d1862ae Extracting [>                                                  ]  32.77kB/1.911MB
+ ba6c1d1862ae Verifying Checksum 
+ ba6c1d1862ae Download complete 
+ ba6c1d1862ae Extracting [>                                                  ]  32.77kB/1.911MB
+ ba6c1d1862ae Verifying Checksum 
+ ba6c1d1862ae Download complete 
+ ba6c1d1862ae Extracting [>                                                  ]  32.77kB/1.911MB
+ ba6c1d1862ae Extracting [==================================================>]  1.911MB/1.911MB
+ ba6c1d1862ae Extracting [==================================================>]  1.911MB/1.911MB
+ ba6c1d1862ae Extracting [==================================================>]  1.911MB/1.911MB
+ ba6c1d1862ae Pull complete 
+ ba6c1d1862ae Pull complete 
+ ba6c1d1862ae Pull complete 
+ worker Pulled 
+ api1 Pulled 
+ api0 Pulled 
+ b1badc6e5066 Downloading [>                                                  ]  294.9kB/28.23MB
+ a2da0c0f2353 Downloading [>                                                  ]  450.6kB/44.07MB
+ b1badc6e5066 Downloading [==========>                                        ]  5.784MB/28.23MB
+ a2da0c0f2353 Downloading [=====>                                             ]  4.502MB/44.07MB
+ b1badc6e5066 Downloading [======================>                            ]  12.78MB/28.23MB
+ a2da0c0f2353 Downloading [============>                                      ]  10.76MB/44.07MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ b1badc6e5066 Downloading [====================================>              ]  20.84MB/28.23MB
+ a2da0c0f2353 Downloading [===================>                               ]  17.43MB/44.07MB
+ b1badc6e5066 Downloading [================================================>  ]  27.21MB/28.23MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ a2da0c0f2353 Downloading [============================>                      ]     25MB/44.07MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ a2da0c0f2353 Downloading [===================================>               ]  31.24MB/44.07MB
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ a2da0c0f2353 Downloading [=========================================>         ]   36.6MB/44.07MB
+ b1badc6e5066 Extracting [======================>                            ]  12.68MB/28.23MB
+ a2da0c0f2353 Downloading [================================================>  ]  42.84MB/44.07MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ b1badc6e5066 Extracting [====================================>              ]  20.35MB/28.23MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ a2da0c0f2353 Extracting [=========>                                         ]  8.258MB/44.07MB
+ a2da0c0f2353 Extracting [================>                                  ]  14.68MB/44.07MB
+ a2da0c0f2353 Extracting [===========================>                       ]  23.86MB/44.07MB
+ a2da0c0f2353 Extracting [====================================>              ]  32.57MB/44.07MB
+ a2da0c0f2353 Extracting [===========================================>       ]  38.54MB/44.07MB
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ a2da0c0f2353 Extracting [=================================================> ]  44.04MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ lb Pulled 
+ Network joao-xavier_default  Creating
+ Network joao-xavier_default  Created
+ Volume "joao-xavier_uds"  Creating
+ Volume "joao-xavier_uds"  Created
+ Container joao-xavier-worker-1  Creating
+ Container joao-xavier-worker-1  Created
+ Container joao-xavier-api1-1  Creating
+ Container joao-xavier-api0-1  Creating
+ Container joao-xavier-api0-1  Created
+ Container joao-xavier-api1-1  Created
+ Container joao-xavier-lb-1  Creating
+ Container joao-xavier-lb-1  Created
+Attaching to api0-1, api1-1, lb-1, worker-1
+worker-1  | 2025-08-21T03:17:36.452248Z  INFO ThreadId(01) src/worker/mod.rs:25: starting worker
+worker-1  | 2025-08-21T03:17:36.452272Z  INFO ThreadId(01) src/worker/mod.rs:37: starting payment_req_consumer
+worker-1  | 2025-08-21T03:17:36.452586Z  INFO ThreadId(01) src/worker/mod.rs:72: listening on /var/run/worker.sock
+api1-1    | 2025-08-21T03:17:36.705262Z  INFO ThreadId(01) src/api/mod.rs:19: starting API
+api1-1    | 2025-08-21T03:17:36.705429Z  INFO ThreadId(01) src/api/mod.rs:26: binded to unix socket on /var/run/api1.sock
+api0-1    | 2025-08-21T03:17:36.770185Z  INFO ThreadId(01) src/api/mod.rs:19: starting API
+api0-1    | 2025-08-21T03:17:36.771103Z  INFO ThreadId(01) src/api/mod.rs:26: binded to unix socket on /var/run/api0.sock
+lb-1      | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+lb-1      | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+lb-1      | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+lb-1      | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+lb-1      | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+lb-1      | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+lb-1      | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+lb-1      | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+lb-1      | /docker-entrypoint.sh: Configuration complete; ready for start up
+worker-1  | 2025-08-21T03:17:44.993076Z  INFO ThreadId(03) src/worker/mod.rs:116: db purged
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                        Units 𝚫 Delta                                                            | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=549.9899558852801, p99=1789.8731313216515, max=4190]#49 ns    𝚫 [p50=+549.9899558852801, p99=+1789.8731313216515, max=+4190]#+49 | db insert time              | 
+worker-1  | db.select  Histogram [p50=1810.032391586105, p99=1810.032391586105, max=6810]#2   ns    𝚫 [p50=+1810.032391586105, p99=+1810.032391586105, max=+6810]#+2   | db query time               | 
+worker-1  | pp_http    Histogram [p50=479.9586793836274, p99=4471.593103108587, max=6350]#49  μs    𝚫 [p50=+479.9586793836274, p99=+4471.593103108587, max=+6350]#+49  | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.999643201074881, p99=2527.7883289316096, max=3139]#52 μs    𝚫 [p50=+5.999643201074881, p99=+2527.7883289316096, max=+3139]#+52 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                      Units 𝚫 Delta                                                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   1                                                          N/A   𝚫 0.06666632311288156/s                                          | N/A               | 
+api1-1    | http.post Histogram [p50=8.000467695685316, p99=11.999920242205052, max=14]#28 μs    𝚫 [p50=+8.000467695685316, p99=+11.999920242205052, max=+14]#+28 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                        Units 𝚫 Delta                                                            | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   1                                                            N/A   𝚫 0.06666630409086081/s                                            | N/A               | 
+api0-1    | http.get  Histogram [p50=2830.1925338726146, p99=2830.1925338726146, max=3486]#2 μs    𝚫 [p50=+2830.1925338726146, p99=+2830.1925338726146, max=+3486]#+2 | http handler time | 
+api0-1    | http.post Histogram [p50=8.000467695685316, p99=12.999358414978186, max=13]#28   μs    𝚫 [p50=+8.000467695685316, p99=+12.999358414978186, max=+13]#+28   | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                         Units 𝚫 Delta                                                           | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=530.0121951029549, p99=1669.8682661174403, max=4190]#491 ns    𝚫 [p50=-19.977760782325163, p99=-120.00486520421123, max=+0]#+442 | db insert time              | 
+worker-1  | db.select  Histogram [p50=2069.9919977920504, p99=2731.2100217056595, max=6810]#4  ns    𝚫 [p50=+259.9596062059454, p99=+921.1776301195546, max=+0]#+2     | db query time               | 
+worker-1  | pp_http    Histogram [p50=451.0147370576855, p99=810.053275174244, max=6350]#491   μs    𝚫 [p50=-28.943942325941862, p99=-3661.5398279343426, max=+0]#+442 | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.000310449291975, p99=23.00013315940336, max=3383]#496  μs    𝚫 [p50=-0.999332751782906, p99=-2504.788195772206, max=+244]#+444 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                       Units 𝚫 Delta                                                           | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   1                                                           N/A   𝚫 0/s                                                             | N/A               | 
+api1-1    | http.get  Histogram [p50=3520.998954497708, p99=3520.998954497708, max=3521]#1  μs    𝚫 [p50=+3520.998954497708, p99=+3520.998954497708, max=+3521]#+1  | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=47]#253 μs    𝚫 [p50=-2.000824494610435, p99=+15.001784591130074, max=+33]#+225 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                        Units 𝚫 Delta                                                          | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   1                                                            N/A   𝚫 0/s                                                            | N/A               | 
+api0-1    | http.get  Histogram [p50=3230.8483278531025, p99=3230.8483278531025, max=3486]#3 μs    𝚫 [p50=+400.65579398048794, p99=+400.65579398048794, max=+0]#+1  | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=17.001473290435033, max=31]#253  μs    𝚫 [p50=-2.000824494610435, p99=+4.002114875456847, max=+18]#+225 | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                            Units 𝚫 Delta                                                             | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=520.0370275390912, p99=1530.1178222738915, max=4190]#963    ns    𝚫 [p50=-9.975167563863693, p99=-139.75044384354874, max=+0]#+472    | db insert time              | 
+worker-1  | db.select  Histogram [p50=2731.2100217056595, p99=2909.9757348356834, max=6810]#5     ns    𝚫 [p50=+661.2180239136092, p99=+178.76571313002387, max=+0]#+1      | db query time               | 
+worker-1  | pp_http    Histogram [p50=1427.5286611790195, p99=999989.4831426962, max=1001604]#963 μs    𝚫 [p50=+976.513924121334, p99=+999179.429867522, max=+995254]#+472  | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=9.999149133010329, max=3901]#1392   μs    𝚫 [p50=+0.5591440995193855, p99=-13.000984026393033, max=+518]#+896 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                       Units 𝚫 Delta                                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   1                                                           N/A   𝚫 0/s                                            | N/A               | 
+api1-1    | http.get  Histogram [p50=3520.998954497708, p99=3520.998954497708, max=4088]#2  μs    𝚫 [p50=+0, p99=+0, max=+567]#+1                  | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=26.000090163966476, max=47]#703 μs    𝚫 [p50=+0, p99=-1.0016146693686494, max=+0]#+450 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                        Units 𝚫 Delta                                           | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   1                                                            N/A   𝚫 0/s                                             | N/A               | 
+api0-1    | http.get  Histogram [p50=3230.8483278531025, p99=3230.8483278531025, max=3486]#3 μs    𝚫 [p50=+0, p99=+0, max=+0]#+0                     | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=42]#703  μs    𝚫 [p50=+0, p99=+10.000231542900092, max=+11]#+450 | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                             Units 𝚫 Delta                                          | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=520.0370275390912, p99=1530.1178222738915, max=4190]#993     ns    𝚫 [p50=+0, p99=+0, max=+0]#+30                   | db insert time              | 
+worker-1  | db.select  Histogram [p50=2731.2100217056595, p99=3499.936212115847, max=6810]#7       ns    𝚫 [p50=+0, p99=+589.9604772801636, max=+0]#+2    | db query time               | 
+worker-1  | pp_http    Histogram [p50=1427.5286611790195, p99=1000789.7948138628, max=1001632]#993 μs    𝚫 [p50=+0, p99=+800.3116711665643, max=+28]#+30  | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=11.999920242205052, max=3901]#2741   μs    𝚫 [p50=+0, p99=+2.000771109194723, max=+0]#+1349 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                        Units 𝚫 Delta                                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   2                                                            N/A   𝚫 0.06666634113047851/s                          | N/A               | 
+api1-1    | http.get  Histogram [p50=3483.8734780987547, p99=3520.998954497708, max=4088]#4  μs    𝚫 [p50=-37.1254763989532, p99=+0, max=+0]#+2     | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=47]#1377 μs    𝚫 [p50=+0, p99=+1.0016146693686494, max=+0]#+674 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                        Units 𝚫 Delta                          | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   2                                                            N/A   𝚫 0.0666663220640035/s           | N/A               | 
+api0-1    | http.get  Histogram [p50=3230.8483278531025, p99=3230.8483278531025, max=3486]#3 μs    𝚫 [p50=+0, p99=+0, max=+0]#+0    | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=59]#1379 μs    𝚫 [p50=+0, p99=+0, max=+17]#+676 | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                             Units 𝚫 Delta                                           | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=520.0370275390912, p99=1570.1085240146926, max=4190]#1035    ns    𝚫 [p50=+0, p99=+39.990701740801114, max=+0]#+42   | db insert time              | 
+worker-1  | db.select  Histogram [p50=2350.7742497987283, p99=3499.936212115847, max=6810]#8       ns    𝚫 [p50=-380.4357719069312, p99=+0, max=+0]#+1     | db query time               | 
+worker-1  | pp_http    Histogram [p50=1427.5286611790195, p99=1000989.972790624, max=1001632]#1035 μs    𝚫 [p50=+0, p99=+200.1779767612461, max=+0]#+42    | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=15.000747062474648, max=3901]#4538   μs    𝚫 [p50=+0, p99=+3.0008268202695962, max=+0]#+1797 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                        Units 𝚫 Delta                                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   3                                                            N/A   𝚫 0.06666630725527099/s                          | N/A               | 
+api1-1    | http.get  Histogram [p50=3483.8734780987547, p99=3520.998954497708, max=4088]#5  μs    𝚫 [p50=+0, p99=+0, max=+0]#+1                    | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=28.002674013785647, max=47]#2276 μs    𝚫 [p50=+0, p99=+1.0009691804505216, max=+0]#+899 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                        Units 𝚫 Delta                         | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   3                                                            N/A   𝚫 0.06666636414359503/s         | N/A               | 
+api0-1    | http.get  Histogram [p50=3230.8483278531025, p99=3230.8483278531025, max=3486]#3 μs    𝚫 [p50=+0, p99=+0, max=+0]#+0   | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=61]#2280 μs    𝚫 [p50=+0, p99=+0, max=+2]#+901 | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                             Units 𝚫 Delta                                          | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=520.0370275390912, p99=1669.8682661174403, max=4190]#1095    ns    𝚫 [p50=+0, p99=+99.75974210274762, max=+0]#+60   | db insert time              | 
+worker-1  | db.select  Histogram [p50=2731.2100217056595, p99=3499.936212115847, max=6810]#10      ns    𝚫 [p50=+380.4357719069312, p99=+0, max=+0]#+2    | db query time               | 
+worker-1  | pp_http    Histogram [p50=1427.5286611790195, p99=1000989.972790624, max=1001632]#1095 μs    𝚫 [p50=+0, p99=+0, max=+0]#+60                   | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=19.001159522702586, max=3901]#6786   μs    𝚫 [p50=+0, p99=+4.000412460227938, max=+0]#+2248 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                        Units 𝚫 Delta                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   4                                                            N/A   𝚫 0.06666631895292469/s          | N/A               | 
+api1-1    | http.get  Histogram [p50=3483.8734780987547, p99=3520.998954497708, max=4088]#5  μs    𝚫 [p50=+0, p99=+0, max=+0]#+0    | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=28.002674013785647, max=47]#3402 μs    𝚫 [p50=+0, p99=+0, max=+0]#+1126 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                         Units 𝚫 Delta                                        | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   5                                                             N/A   𝚫 0.13333266333670007/s                        | N/A               | 
+api0-1    | http.get  Histogram [p50=3230.8483278531025, p99=3258.101758054775, max=3486]#5   μs    𝚫 [p50=+0, p99=+27.253430201672472, max=+0]#+2 | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=113]#3409 μs    𝚫 [p50=+0, p99=+0, max=+52]#+1129              | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                              Units 𝚫 Delta                                                               | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=520.0370275390912, p99=1679.9175935820724, max=4190]#1129     ns    𝚫 [p50=+0, p99=+10.049327464632142, max=+0]#+34                       | db insert time              | 
+worker-1  | db.select  Histogram [p50=2731.2100217056595, p99=3499.936212115847, max=6810]#11       ns    𝚫 [p50=+0, p99=+0, max=+0]#+1                                         | db query time               | 
+worker-1  | pp_http    Histogram [p50=2851.2136408629763, p99=1001390.4488709513, max=2000669]#1137 μs    𝚫 [p50=+1423.6849796839567, p99=+400.47608032729477, max=+999037]#+42 | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=24.001108231483542, max=3901]#9484    μs    𝚫 [p50=+0, p99=+4.9999487087809555, max=+0]#+2698                     | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                        Units 𝚫 Delta                                        | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   6                                                            N/A   𝚫 0.13333267461658765/s                        | N/A               | 
+api1-1    | http.get  Histogram [p50=3302.7146219567426, p99=3520.998954497708, max=4088]#6  μs    𝚫 [p50=-181.15885614201216, p99=+0, max=+0]#+1 | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=28.002674013785647, max=50]#4756 μs    𝚫 [p50=+0, p99=+0, max=+3]#+1354               | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                         Units 𝚫 Delta                           | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   6                                                             N/A   𝚫 0.06666633024169774/s           | N/A               | 
+api0-1    | http.get  Histogram [p50=3230.8483278531025, p99=3258.101758054775, max=3486]#5   μs    𝚫 [p50=+0, p99=+0, max=+0]#+0     | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=195]#4766 μs    𝚫 [p50=+0, p99=+0, max=+82]#+1357 | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                              Units 𝚫 Delta                                                           | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=520.0370275390912, p99=1679.9175935820724, max=4190]#1129     ns    𝚫 [p50=+0, p99=+0, max=+0]#+0                                     | db insert time              | 
+worker-1  | db.select  Histogram [p50=2709.989451278469, p99=3499.936212115847, max=6810]#13        ns    𝚫 [p50=-21.220570427190523, p99=+0, max=+0]#+2                    | db query time               | 
+worker-1  | pp_http    Histogram [p50=2852.3543544506315, p99=2000484.6683939416, max=2001202]#1151 μs    𝚫 [p50=+1.1407135876552275, p99=+999094.2195229903, max=+533]#+14 | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=27.001704833335125, max=3901]#12630   μs    𝚫 [p50=+0, p99=+3.0005966018515835, max=+0]#+3146                 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                        Units 𝚫 Delta                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   7                                                            N/A   𝚫 0.06666631762404969/s          | N/A               | 
+api1-1    | http.get  Histogram [p50=3302.7146219567426, p99=3520.998954497708, max=4088]#7  μs    𝚫 [p50=+0, p99=+0, max=+0]#+1    | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=28.002674013785647, max=52]#6337 μs    𝚫 [p50=+0, p99=+0, max=+2]#+1581 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                         Units 𝚫 Delta                                      | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   7                                                             N/A   𝚫 0.06666632517508259/s                      | N/A               | 
+api0-1    | http.get  Histogram [p50=3221.8146056181604, p99=3258.101758054775, max=3486]#6   μs    𝚫 [p50=-9.03372223494216, p99=+0, max=+0]#+1 | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=195]#6344 μs    𝚫 [p50=+0, p99=+0, max=+0]#+1578             | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                            Units 𝚫 Delta                                              | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=520.0370275390912, p99=1679.9175935820724, max=4190]#1129   ns    𝚫 [p50=+0, p99=+0, max=+0]#+0                        | db insert time              | 
+worker-1  | db.select  Histogram [p50=2570.09982917632, p99=3499.936212115847, max=6810]#14       ns    𝚫 [p50=-139.88962210214913, p99=+0, max=+0]#+1       | db query time               | 
+worker-1  | pp_http    Histogram [p50=7127.38741337043, p99=2000484.6683939416, max=5000412]#1163 μs    𝚫 [p50=+4275.033058919798, p99=+0, max=+2999210]#+12 | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=32.99975069216289, max=3901]#16229  μs    𝚫 [p50=+0, p99=+5.998045858827766, max=+0]#+3599     | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                         Units 𝚫 Delta                           | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   10                                                            N/A   𝚫 0.19999904945785102/s           | N/A               | 
+api1-1    | http.get  Histogram [p50=3302.7146219567426, p99=3520.998954497708, max=4088]#7   μs    𝚫 [p50=+0, p99=+0, max=+0]#+0     | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=28.002674013785647, max=111]#8142 μs    𝚫 [p50=+0, p99=+0, max=+59]#+1805 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                         Units 𝚫 Delta                          | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   10                                                            N/A   𝚫 0.19999909464409837/s          | N/A               | 
+api0-1    | http.get  Histogram [p50=3221.8146056181604, p99=3258.101758054775, max=3486]#7   μs    𝚫 [p50=+0, p99=+0, max=+0]#+1    | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=195]#8149 μs    𝚫 [p50=+0, p99=+0, max=+0]#+1805 | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                           Units 𝚫 Delta                                          | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=520.0370275390912, p99=1679.9175935820724, max=4190]#1129  ns    𝚫 [p50=+0, p99=+0, max=+0]#+0                    | db insert time              | 
+worker-1  | db.select  Histogram [p50=2709.989451278469, p99=3499.936212115847, max=6810]#16     ns    𝚫 [p50=+139.88962210214913, p99=+0, max=+0]#+2   | db query time               | 
+worker-1  | pp_http    Histogram [p50=7127.38741337043, p99=2000884.805341313, max=5000412]#1169 μs    𝚫 [p50=+0, p99=+400.13694737129845, max=+0]#+6   | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=42.00127636477028, max=3901]#20278 μs    𝚫 [p50=+0, p99=+9.001525672607386, max=+0]#+4049 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                          Units 𝚫 Delta                                      | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   12                                                             N/A   𝚫 0.13333270522962554/s                      | N/A               | 
+api1-1    | http.get  Histogram [p50=3271.160264732545, p99=3520.998954497708, max=4088]#8     μs    𝚫 [p50=-31.5543572241977, p99=+0, max=+0]#+1 | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=28.002674013785647, max=256]#10173 μs    𝚫 [p50=+0, p99=+0, max=+145]#+2031           | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                          Units 𝚫 Delta                                        | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   12                                                             N/A   𝚫 0.13333270477629647/s                        | N/A               | 
+api0-1    | http.get  Histogram [p50=3042.6983679534856, p99=3258.101758054775, max=3486]#8    μs    𝚫 [p50=-179.11623766467483, p99=+0, max=+0]#+1 | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=27.001704833335125, max=195]#10181 μs    𝚫 [p50=+0, p99=+0, max=+0]#+2032               | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                              Units 𝚫 Delta                                                                  | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=20375.73534629803, p99=20375.73534629803, max=14295003]#24568 ns    𝚫 [p50=+19855.69831875894, p99=+18695.81775271596, max=+14290813]#+23439 | db insert time              | 
+worker-1  | db.select  Histogram [p50=2731.2100217056595, p99=3499.936212115847, max=6810]#17       ns    𝚫 [p50=+21.220570427190523, p99=+0, max=+0]#+1                           | db query time               | 
+worker-1  | pp_http    Histogram [p50=7127.38741337043, p99=24668.934752357356, max=5000880]#24608  μs    𝚫 [p50=+0, p99=-1976215.8705889555, max=+468]#+23439                     | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=87.99676125885976, max=3901]#24775    μs    𝚫 [p50=+0, p99=+45.995484894089486, max=+0]#+4497                        | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                          Units 𝚫 Delta                                            | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   16                                                             N/A   𝚫 0.26666532455786585/s                            | N/A               | 
+api1-1    | http.get  Histogram [p50=3271.160264732545, p99=3520.998954497708, max=4088]#9     μs    𝚫 [p50=+0, p99=+0, max=+0]#+1                      | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=29.997078882470035, max=332]#12428 μs    𝚫 [p50=+0, p99=+1.9944048686843878, max=+76]#+2255 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                         Units 𝚫 Delta                                             | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   14                                                            N/A   𝚫 0.1333329407744891/s                              | N/A               | 
+api0-1    | http.get  Histogram [p50=3042.6983679534856, p99=3258.101758054775, max=3486]#8   μs    𝚫 [p50=+0, p99=+0, max=+0]#+0                       | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=29.00012111115082, max=318]#12437 μs    𝚫 [p50=+0, p99=+1.9984162778156929, max=+123]#+2256 | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                              Units 𝚫 Delta                                                            | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=20375.73534629803, p99=20375.73534629803, max=14295003]#29711 ns    𝚫 [p50=+0, p99=+0, max=+0]#+5143                                   | db insert time              | 
+worker-1  | db.select  Histogram [p50=2820.0221583766684, p99=15871.812675259293, max=34412]#19     ns    𝚫 [p50=+88.81213667100883, p99=+12371.876463143446, max=+27602]#+2 | db query time               | 
+worker-1  | pp_http    Histogram [p50=7127.38741337043, p99=14604.719764019947, max=5000880]#29753  μs    𝚫 [p50=+0, p99=-10064.21498833741, max=+0]#+5145                   | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=113.98877866505526, max=3901]#29731   μs    𝚫 [p50=+0, p99=+25.9920174061955, max=+0]#+4956                    | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                          Units 𝚫 Delta                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   17                                                             N/A   𝚫 0.0666663651613636/s           | N/A               | 
+api1-1    | http.get  Histogram [p50=3271.160264732545, p99=3520.998954497708, max=4088]#9     μs    𝚫 [p50=+0, p99=+0, max=+0]#+0    | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=29.997078882470035, max=332]#14902 μs    𝚫 [p50=+0, p99=+0, max=+0]#+2474 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                         Units 𝚫 Delta                                                        | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   20                                                            N/A   𝚫 0.3999979752102495/s                                         | N/A               | 
+api0-1    | http.get  Histogram [p50=3221.8146056181604, p99=3317.9421056298297, max=3486]#10 μs    𝚫 [p50=+179.11623766467483, p99=+59.84034757505469, max=+0]#+2 | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=29.00012111115082, max=318]#14914 μs    𝚫 [p50=+0, p99=+0, max=+0]#+2477                               | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                              Units 𝚫 Delta                                           | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=20375.73534629803, p99=20375.73534629803, max=14295003]#32865 ns    𝚫 [p50=+0, p99=+0, max=+0]#+3154                  | db insert time              | 
+worker-1  | db.select  Histogram [p50=2820.0221583766684, p99=15871.812675259293, max=34412]#20     ns    𝚫 [p50=+0, p99=+0, max=+0]#+1                     | db query time               | 
+worker-1  | pp_http    Histogram [p50=7127.38741337043, p99=100338.02686836172, max=5000880]#32907  μs    𝚫 [p50=+0, p99=+85733.30710434177, max=+0]#+3154  | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=135.00340648617467, max=3901]#35141   μs    𝚫 [p50=+0, p99=+21.014627821119404, max=+0]#+5410 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                          Units 𝚫 Delta                                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   23                                                             N/A   𝚫 0.3999981033956595/s                           | N/A               | 
+api1-1    | http.get  Histogram [p50=3271.160264732545, p99=3520.998954497708, max=4088]#9     μs    𝚫 [p50=+0, p99=+0, max=+0]#+0                    | http handler time | 
+api1-1    | http.post Histogram [p50=5.999643201074881, p99=31.998851340699826, max=332]#17610 μs    𝚫 [p50=+0, p99=+2.001772458229791, max=+0]#+2708 | http handler time | 
+api1-1    | 
+api1-1    | ================================ After 15.000 s ================================
+api1-1    | 
+api0-1    | =================================== Metrics ====================================
+api0-1    | 
+api0-1    | Key       Kind      Value                                                          Units 𝚫 Delta                                            | Description       | Labels
+api0-1    | --------------------------------------------------------------------------------
+api0-1    | http.conn Counter   23                                                             N/A   𝚫 0.1999990360979789/s                             | N/A               | 
+api0-1    | http.get  Histogram [p50=3230.8483278531025, p99=3317.9421056298297, max=3486]#11  μs    𝚫 [p50=+9.03372223494216, p99=+0, max=+0]#+1       | http handler time | 
+api0-1    | http.post Histogram [p50=5.999643201074881, p99=30.997296978647597, max=348]#17621 μs    𝚫 [p50=+0, p99=+1.9971758674967788, max=+30]#+2707 | http handler time | 
+api0-1    | 
+api0-1    | ================================ After 15.000 s ================================
+api0-1    | 
+worker-1  | =================================== Metrics ====================================
+worker-1  | 
+worker-1  | Key        Kind      Value                                                              Units 𝚫 Delta                                          | Description                 | Labels
+worker-1  | --------------------------------------------------------------------------------
+worker-1  | db.insert  Histogram [p50=20375.73534629803, p99=20375.73534629803, max=14295003]#33161 ns    𝚫 [p50=+0, p99=+0, max=+0]#+296                  | db insert time              | 
+worker-1  | db.select  Histogram [p50=2870.0938872333836, p99=15871.812675259293, max=34412]#22     ns    𝚫 [p50=+50.071728856715254, p99=+0, max=+0]#+2   | db query time               | 
+worker-1  | pp_http    Histogram [p50=7127.38741337043, p99=101143.95048219556, max=5000880]#33203  μs    𝚫 [p50=+0, p99=+805.9236138338456, max=+0]#+296  | payment processor http time | 
+worker-1  | uds.handle Histogram [p50=5.5594545488113605, p99=142.01035983430427, max=3901]#41000   μs    𝚫 [p50=+0, p99=+7.006953348129599, max=+0]#+5859 | http handler time           | 
+worker-1  | 
+worker-1  | ================================ After 15.000 s ================================
+worker-1  | 
+api1-1    | =================================== Metrics ====================================
+api1-1    | 
+api1-1    | Key       Kind      Value                                                          Units 𝚫 Delta                          | Description       | Labels
+api1-1    | --------------------------------------------------------------------------------
+api1-1    | http.conn Counter   28                                                             N/A   𝚫 0.33333175902965756/s          | N/A               | 
+log truncated at line 1000

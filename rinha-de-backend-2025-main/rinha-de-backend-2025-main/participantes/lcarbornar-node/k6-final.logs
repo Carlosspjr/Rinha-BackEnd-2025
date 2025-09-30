@@ -1,0 +1,37 @@
+
+time="2025-08-21T01:28:43Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:28:28.390Z&to=2025-08-21T01:28:41.390Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:28:43Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T01:28:43Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 200" source=console
+time="2025-08-21T01:28:43Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T01:28:53Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:28:38.393Z&to=2025-08-21T01:28:51.393Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:28:53Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T01:28:53Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 9" source=console
+time="2025-08-21T01:28:53Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T01:29:03Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:28:48.395Z&to=2025-08-21T01:29:01.395Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:29:13Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:28:58.398Z&to=2025-08-21T01:29:11.398Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:29:23Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:29:08.402Z&to=2025-08-21T01:29:21.402Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:29:33Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:29:18.405Z&to=2025-08-21T01:29:31.405Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:29:43Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:29:28.407Z&to=2025-08-21T01:29:41.407Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:29:53Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:29:38.409Z&to=2025-08-21T01:29:51.409Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:30:03Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:29:48.411Z&to=2025-08-21T01:30:01.411Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:30:13Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:29:58.413Z&to=2025-08-21T01:30:11.413Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:30:23Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:30:08.415Z&to=2025-08-21T01:30:21.415Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:30:33Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:30:18.417Z&to=2025-08-21T01:30:31.417Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:30:43Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:30:28.420Z&to=2025-08-21T01:30:41.420Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:30:53Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:30:38.422Z&to=2025-08-21T01:30:51.422Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:31:03Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:30:48.425Z&to=2025-08-21T01:31:01.425Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:31:13Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:30:58.427Z&to=2025-08-21T01:31:11.427Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:31:23Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:31:08.429Z&to=2025-08-21T01:31:21.429Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:31:33Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:31:18.431Z&to=2025-08-21T01:31:31.431Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:31:43Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:31:28.433Z&to=2025-08-21T01:31:41.433Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:31:53Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:31:38.435Z&to=2025-08-21T01:31:51.435Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:32:03Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:31:48.437Z&to=2025-08-21T01:32:01.437Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:32:13Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:31:58.439Z&to=2025-08-21T01:32:11.439Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:32:23Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:32:08.441Z&to=2025-08-21T01:32:21.441Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:32:33Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:32:18.442Z&to=2025-08-21T01:32:31.442Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:32:43Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:32:28.444Z&to=2025-08-21T01:32:41.444Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:32:53Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:32:38.446Z&to=2025-08-21T01:32:51.446Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:33:03Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:32:48.449Z&to=2025-08-21T01:33:01.449Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:33:13Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T01:32:58.451Z&to=2025-08-21T01:33:11.451Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T01:33:24Z" level=info msg="summaries from 2025-08-21T01:27:24.377Z to 2025-08-21T01:33:24.377Z" source=console
+log truncated at line 1000

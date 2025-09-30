@@ -1,0 +1,1001 @@
+
+ redis Pulling 
+ api01 Pulling 
+ nginx Pulling 
+ api02 Pulling 
+ worker Pulling 
+ af3dbdd79a8f Pulling fs layer 
+ 277c5e14ec46 Pulling fs layer 
+ 379a572eb87f Pulling fs layer 
+ af3dbdd79a8f Pulling fs layer 
+ 277c5e14ec46 Pulling fs layer 
+ 379a572eb87f Pulling fs layer 
+ 379a572eb87f Downloading [>                                                  ]  15.83kB/1.459MB
+ 379a572eb87f Downloading [>                                                  ]  15.83kB/1.459MB
+ 277c5e14ec46 Downloading [>                                                  ]  6.932kB/587.9kB
+ 277c5e14ec46 Downloading [>                                                  ]  6.932kB/587.9kB
+ 379a572eb87f Verifying Checksum 
+ 379a572eb87f Download complete 
+ 379a572eb87f Verifying Checksum 
+ 379a572eb87f Download complete 
+ 277c5e14ec46 Download complete 
+ 277c5e14ec46 Downloading [==================================================>]  587.9kB/587.9kB
+ 277c5e14ec46 Verifying Checksum 
+ 277c5e14ec46 Download complete 
+ af3dbdd79a8f Downloading [>                                                  ]  282.7kB/28.23MB
+ af3dbdd79a8f Downloading [>                                                  ]  282.7kB/28.23MB
+ af3dbdd79a8f Downloading [=========>                                         ]  5.499MB/28.23MB
+ af3dbdd79a8f Downloading [=========>                                         ]  5.499MB/28.23MB
+ af3dbdd79a8f Pulling fs layer 
+ 277c5e14ec46 Pulling fs layer 
+ 379a572eb87f Pulling fs layer 
+ 379a572eb87f Download complete 
+ 277c5e14ec46 Download complete 
+ af3dbdd79a8f Downloading [=========>                                         ]  5.499MB/28.23MB
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ e5d9bb0b85cc Waiting 
+ 14e422fd20a0 Waiting 
+ 14a859b5ba24 Waiting 
+ c3741b707ce6 Waiting 
+ 716cdf61af59 Waiting 
+ 0368fd46e3c6 Already exists 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ e6fe6f07e192 Waiting 
+ 4c55286bbede Waiting 
+ a2cadbfeca72 Waiting 
+ 5e28347af205 Waiting 
+ 4f4fb700ef54 Waiting 
+ 311eca34042e Waiting 
+ a976ed7e7808 Waiting 
+ af3dbdd79a8f Downloading [===============>                                   ]  8.977MB/28.23MB
+ af3dbdd79a8f Downloading [===============>                                   ]  8.977MB/28.23MB
+ af3dbdd79a8f Downloading [===============>                                   ]  8.977MB/28.23MB
+ af3dbdd79a8f Downloading [=======================>                           ]  13.31MB/28.23MB
+ af3dbdd79a8f Downloading [=======================>                           ]  13.31MB/28.23MB
+ af3dbdd79a8f Downloading [=======================>                           ]  13.31MB/28.23MB
+ af3dbdd79a8f Downloading [======================================>            ]  21.69MB/28.23MB
+ af3dbdd79a8f Downloading [======================================>            ]  21.69MB/28.23MB
+ af3dbdd79a8f Downloading [======================================>            ]  21.69MB/28.23MB
+ af3dbdd79a8f Verifying Checksum 
+ af3dbdd79a8f Download complete 
+ af3dbdd79a8f Download complete 
+ af3dbdd79a8f Download complete 
+ af3dbdd79a8f Extracting [>                                                  ]  294.9kB/28.23MB
+ af3dbdd79a8f Extracting [>                                                  ]  294.9kB/28.23MB
+ af3dbdd79a8f Extracting [>                                                  ]  294.9kB/28.23MB
+ af3dbdd79a8f Extracting [=========>                                         ]  5.308MB/28.23MB
+ af3dbdd79a8f Extracting [=========>                                         ]  5.308MB/28.23MB
+ af3dbdd79a8f Extracting [=========>                                         ]  5.308MB/28.23MB
+ a2da0c0f2353 Downloading [>                                                  ]  442.4kB/44.07MB
+ b1badc6e5066 Downloading [>                                                  ]  294.9kB/28.23MB
+ af3dbdd79a8f Extracting [================>                                  ]  9.142MB/28.23MB
+ af3dbdd79a8f Extracting [================>                                  ]  9.142MB/28.23MB
+ af3dbdd79a8f Extracting [================>                                  ]  9.142MB/28.23MB
+ a2da0c0f2353 Downloading [=====>                                             ]  4.899MB/44.07MB
+ b1badc6e5066 Downloading [=========>                                         ]  5.517MB/28.23MB
+ af3dbdd79a8f Extracting [===================>                               ]  11.21MB/28.23MB
+ af3dbdd79a8f Extracting [===================>                               ]  11.21MB/28.23MB
+ af3dbdd79a8f Extracting [===================>                               ]  11.21MB/28.23MB
+ a2da0c0f2353 Downloading [=========>                                         ]  8.466MB/44.07MB
+ b1badc6e5066 Downloading [================>                                  ]  9.568MB/28.23MB
+ af3dbdd79a8f Extracting [================================>                  ]  18.58MB/28.23MB
+ af3dbdd79a8f Extracting [================================>                  ]  18.58MB/28.23MB
+ af3dbdd79a8f Extracting [================================>                  ]  18.58MB/28.23MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ b1badc6e5066 Downloading [=======================>                           ]  13.37MB/28.23MB
+ a2da0c0f2353 Downloading [===============>                                   ]  13.36MB/44.07MB
+ af3dbdd79a8f Extracting [=========================================>         ]  23.59MB/28.23MB
+ af3dbdd79a8f Extracting [=========================================>         ]  23.59MB/28.23MB
+ af3dbdd79a8f Extracting [=========================================>         ]  23.59MB/28.23MB
+ b1badc6e5066 Downloading [===========================>                       ]  15.42MB/28.23MB
+ a2da0c0f2353 Downloading [====================>                              ]  18.25MB/44.07MB
+ af3dbdd79a8f Extracting [==========================================>        ]  23.89MB/28.23MB
+ af3dbdd79a8f Extracting [==========================================>        ]  23.89MB/28.23MB
+ af3dbdd79a8f Extracting [==========================================>        ]  23.89MB/28.23MB
+ a2da0c0f2353 Downloading [===========================>                       ]  24.05MB/44.07MB
+ b1badc6e5066 Downloading [===================================>               ]  20.04MB/28.23MB
+ af3dbdd79a8f Extracting [===============================================>   ]  26.84MB/28.23MB
+ af3dbdd79a8f Extracting [===============================================>   ]  26.84MB/28.23MB
+ af3dbdd79a8f Extracting [===============================================>   ]  26.84MB/28.23MB
+ a2da0c0f2353 Downloading [=============================>                     ]  26.29MB/44.07MB
+ b1badc6e5066 Downloading [=======================================>           ]  22.07MB/28.23MB
+ a2da0c0f2353 Downloading [================================>                  ]  28.98MB/44.07MB
+ b1badc6e5066 Downloading [==========================================>        ]   24.1MB/28.23MB
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ a2da0c0f2353 Downloading [==================================>                ]  30.79MB/44.07MB
+ b1badc6e5066 Downloading [================================================>  ]  27.28MB/28.23MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ a2da0c0f2353 Downloading [=========================================>         ]  36.16MB/44.07MB
+ af3dbdd79a8f Extracting [================================================>  ]  27.43MB/28.23MB
+ af3dbdd79a8f Extracting [================================================>  ]  27.43MB/28.23MB
+ af3dbdd79a8f Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ a2da0c0f2353 Downloading [============================================>      ]  39.27MB/44.07MB
+ b1badc6e5066 Extracting [========>                                          ]  5.014MB/28.23MB
+ af3dbdd79a8f Extracting [==================================================>]  28.23MB/28.23MB
+ af3dbdd79a8f Extracting [==================================================>]  28.23MB/28.23MB
+ af3dbdd79a8f Extracting [==================================================>]  28.23MB/28.23MB
+ a2da0c0f2353 Downloading [=================================================> ]  43.75MB/44.07MB
+ af3dbdd79a8f Pull complete 
+ af3dbdd79a8f Pull complete 
+ af3dbdd79a8f Pull complete 
+ 277c5e14ec46 Extracting [==>                                                ]  32.77kB/587.9kB
+ 277c5e14ec46 Extracting [==>                                                ]  32.77kB/587.9kB
+ 277c5e14ec46 Extracting [==>                                                ]  32.77kB/587.9kB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ 277c5e14ec46 Extracting [==================================================>]  587.9kB/587.9kB
+ 277c5e14ec46 Extracting [==================================================>]  587.9kB/587.9kB
+ 277c5e14ec46 Extracting [==================================================>]  587.9kB/587.9kB
+ 277c5e14ec46 Extracting [==================================================>]  587.9kB/587.9kB
+ 277c5e14ec46 Extracting [==================================================>]  587.9kB/587.9kB
+ 277c5e14ec46 Extracting [==================================================>]  587.9kB/587.9kB
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ 277c5e14ec46 Pull complete 
+ 277c5e14ec46 Pull complete 
+ 277c5e14ec46 Pull complete 
+ 379a572eb87f Extracting [=>                                                 ]  32.77kB/1.459MB
+ 379a572eb87f Extracting [=>                                                 ]  32.77kB/1.459MB
+ 379a572eb87f Extracting [=>                                                 ]  32.77kB/1.459MB
+ 379a572eb87f Extracting [==================================================>]  1.459MB/1.459MB
+ 379a572eb87f Extracting [==================================================>]  1.459MB/1.459MB
+ 379a572eb87f Extracting [==================================================>]  1.459MB/1.459MB
+ 379a572eb87f Extracting [==================================================>]  1.459MB/1.459MB
+ 379a572eb87f Extracting [==================================================>]  1.459MB/1.459MB
+ 379a572eb87f Extracting [==================================================>]  1.459MB/1.459MB
+ 379a572eb87f Pull complete 
+ 379a572eb87f Pull complete 
+ 379a572eb87f Pull complete 
+ api01 Pulled 
+ api02 Pulled 
+ worker Pulled 
+ b1badc6e5066 Extracting [===================>                               ]  10.91MB/28.23MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ b1badc6e5066 Extracting [=============================>                     ]  16.52MB/28.23MB
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ b1badc6e5066 Extracting [=========================================>         ]   23.3MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Download complete 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Pull complete 
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Download complete 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ 5e28347af205 Pull complete 
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ 311eca34042e Downloading [>                                                  ]     11kB/1.003MB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ e6fe6f07e192 Downloading [>                                                  ]  127.3kB/12.41MB
+ a2da0c0f2353 Extracting [=======>                                           ]  6.881MB/44.07MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ e6fe6f07e192 Downloading [===============================>                   ]  7.778MB/12.41MB
+ a2da0c0f2353 Extracting [==============>                                    ]  12.85MB/44.07MB
+ e6fe6f07e192 Downloading [=============================================>     ]   11.2MB/12.41MB
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ a2da0c0f2353 Extracting [========================>                          ]  21.56MB/44.07MB
+ e6fe6f07e192 Extracting [===================>                               ]  4.719MB/12.41MB
+ a2da0c0f2353 Extracting [================================>                  ]   28.9MB/44.07MB
+ e6fe6f07e192 Extracting [=============================================>     ]  11.27MB/12.41MB
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ a2da0c0f2353 Extracting [========================================>          ]  35.32MB/44.07MB
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ a2da0c0f2353 Extracting [=============================================>     ]  39.91MB/44.07MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Download complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ redis Pulled 
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ a2da0c0f2353 Extracting [=================================================> ]  44.04MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ nginx Pulled 
+ Network ovelha_backend  Creating
+ Network ovelha_backend  Created
+ Container redis  Creating
+ Container redis  Created
+ Container worker  Creating
+ Container api01  Creating
+ Container api02  Creating
+ Container worker  Created
+ Container api02  Created
+ Container api01  Created
+ Container nginx  Creating
+ Container nginx  Created
+Attaching to api01, api02, nginx, redis, worker
+redis  | 1:C 20 Aug 2025 22:55:18.505 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis  | 1:C 20 Aug 2025 22:55:18.505 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis  | 1:C 20 Aug 2025 22:55:18.505 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+redis  | 1:C 20 Aug 2025 22:55:18.505 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+redis  | 1:M 20 Aug 2025 22:55:18.506 * monotonic clock: POSIX clock_gettime
+redis  | 1:M 20 Aug 2025 22:55:18.506 * Running mode=standalone, port=6379.
+redis  | 1:M 20 Aug 2025 22:55:18.506 * Server initialized
+redis  | 1:M 20 Aug 2025 22:55:18.506 * Ready to accept connections tcp
+api02  | 🐑 Ovelha server starting on port 3000...
+api02  | 🐑 API Redis pool size: 10, Thread pool size: 10
+api01  | 🐑 Ovelha server starting on port 3000...
+api01  | 🐑 API Redis pool size: 10, Thread pool size: 10
+worker  | 🐑 Ovelha worker starting...
+worker  | 🐑 Worker Redis pool size: 10, Thread pool size: 10
+worker  | 🐑 Payment worker 0 started
+worker  | 🐑 Payment worker 2 started
+worker  | 🐑 Payment worker 1 started
+worker  | 🐑 Payment worker 5 started
+worker  | 🐑 Payment worker 6 started
+worker  | 🐑 Payment worker 3 started
+worker  | 🐑 Payment worker 7 started
+worker  | 🐑 Payment worker 4 started
+worker  | 🐑 Payment worker 8 started
+worker  | 🐑 Payment worker 9 started
+nginx   | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx   | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx   | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx   | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx   | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx   | /docker-entrypoint.sh: Configuration complete; ready for start up
+api01   | 🐑 Received query params: from=None, to=None
+api01   | 🐑 Received query params: from=Some("2025-08-20T22:55:15.572Z"), to=Some("2025-08-20T22:55:28.572Z")
+worker  | 🐑 Payment 38671ea8-f1ff-405b-b3aa-eedbf96b8d78 processed by default (attempt 1)
+worker  | 🐑 Payment 9fd5960f-000a-4890-861e-7e27de6a211c processed by default (attempt 1)
+worker  | 🐑 Payment d1425cae-f307-4388-b904-1789dea2da8e processed by default (attempt 1)
+worker  | 🐑 Payment ecc155ea-361d-4bdf-abbe-c37cb317d760 processed by default (attempt 1)
+worker  | 🐑 Payment 03c71ab0-04ac-4f92-9b39-841d104951db processed by default (attempt 1)
+worker  | 🐑 Payment ece728a5-0a53-4d3c-aa43-86bc7e3f069f processed by default (attempt 1)
+worker  | 🐑 Payment e473a67f-d313-42d3-8be2-ff8aac0fea70 processed by default (attempt 1)
+worker  | 🐑 Payment 6a94a105-31df-47d8-b24e-b8bdc6034d03 processed by default (attempt 1)
+worker  | 🐑 Payment 4686dfb9-adeb-4e03-bb5e-392472063f7c processed by default (attempt 1)
+worker  | 🐑 Payment 791ece62-e30c-4c54-837c-af90a159b88f processed by default (attempt 1)
+worker  | 🐑 Payment fe3393c2-bd26-4eab-b33c-f4802b039764 processed by default (attempt 1)
+worker  | 🐑 Payment 4ef72eec-063e-4a29-b010-7f29c8f6bd6b processed by default (attempt 1)
+worker  | 🐑 Payment 583dd9ed-7f11-4d42-95a6-eb4442e68935 processed by default (attempt 1)
+worker  | 🐑 Payment 091e7ef9-8bfc-4681-b045-4ad187846731 processed by default (attempt 1)
+worker  | 🐑 Payment 9a10dedd-3af7-41af-a840-076fca65cb40 processed by default (attempt 1)
+worker  | 🐑 Payment d9ccdf09-a7cd-474f-9b9f-69e46a048e24 processed by default (attempt 1)
+worker  | 🐑 Payment f6c3eb30-e9f5-401c-b17d-e4be34713b96 processed by default (attempt 1)
+worker  | 🐑 Payment 71b70148-69a1-46ec-acf3-f3e91433c415 processed by default (attempt 1)
+worker  | 🐑 Payment aa69f3b5-a51d-4880-8695-c843e719f6e5 processed by default (attempt 1)
+worker  | 🐑 Payment 85c327ac-59b5-48ae-9270-591fbff48ec9 processed by default (attempt 1)
+worker  | 🐑 Payment 5a0ebbe9-9b65-4d2b-842c-45a74edf7754 processed by default (attempt 1)
+worker  | 🐑 Payment 9a7b0a23-d6f1-410d-90cb-e8c730aa7262 processed by default (attempt 1)
+worker  | 🐑 Payment f60e85bd-d171-4e1d-9144-88961693bba5 processed by default (attempt 1)
+worker  | 🐑 Payment 699517e4-a9f3-4957-ab5c-83ed5c4b43a6 processed by default (attempt 1)
+worker  | 🐑 Payment bb90f161-6983-4e6a-84cd-bc88c353024b processed by default (attempt 1)
+worker  | 🐑 Payment c901de9f-9652-46b4-bbad-c787da306625 processed by default (attempt 1)
+worker  | 🐑 Payment b7b484e9-974c-4495-b93c-931fea8c8a80 processed by default (attempt 1)
+worker  | 🐑 Payment 8e254427-0e6b-41e0-ba64-9188f689c584 processed by default (attempt 1)
+worker  | 🐑 Payment 03ccfc09-c5f5-40d5-93a9-a371fadec4ad processed by default (attempt 1)
+worker  | 🐑 Payment 4516d1fd-f570-47ed-b9d6-1856f0c8a54a processed by default (attempt 1)
+worker  | 🐑 Payment 17ee054d-7c93-4846-984b-abaa942fea34 processed by default (attempt 1)
+worker  | 🐑 Payment c2b565b4-620a-4ff0-b20a-7321534f645d processed by default (attempt 1)
+worker  | 🐑 Payment 5838204e-576b-47c2-82f1-e29dfd928df4 processed by default (attempt 1)
+worker  | 🐑 Payment f8beac51-9b0e-40b0-94d6-7d6cf7fb8243 processed by default (attempt 1)
+worker  | 🐑 Payment 5ecf8b46-4882-456b-a19e-ce0a6079f3ba processed by default (attempt 1)
+worker  | 🐑 Payment 65a156c3-bfa3-47a3-8fd7-8f965cc173a5 processed by default (attempt 1)
+worker  | 🐑 Payment 605d50a3-22f4-4aaf-9e83-d73e9469bf1c processed by default (attempt 1)
+worker  | 🐑 Payment 6efd8240-cd30-4b97-9355-05cb7f62418d processed by default (attempt 1)
+worker  | 🐑 Payment c1953a15-32a7-446c-9943-a826d4582ee7 processed by default (attempt 1)
+worker  | 🐑 Payment 2baa7d19-0be3-4a01-af8b-67cb09a8380e processed by default (attempt 1)
+worker  | 🐑 Payment c14a789e-5be0-4906-a832-ced86c621ad5 processed by default (attempt 1)
+worker  | 🐑 Payment 781ba351-8966-45a1-a3be-0a66a40f45f9 processed by default (attempt 1)
+worker  | 🐑 Payment a233941c-e64f-46c3-878d-7fb08848a48a processed by default (attempt 1)
+worker  | 🐑 Payment 9b3cc633-ef9a-49e0-a31b-123762c39685 processed by default (attempt 1)
+worker  | 🐑 Payment 8919197d-8bc3-4149-afe5-f518b322ac2c processed by default (attempt 1)
+worker  | 🐑 Payment 57c81e83-ee44-40ef-8ec2-f8e2d386a587 processed by default (attempt 1)
+worker  | 🐑 Payment 92c7a8e3-ce5d-40fa-98b1-5a2bf54c0170 processed by default (attempt 1)
+worker  | 🐑 Payment 1995a590-7ba5-4ead-b5c7-2afe17142e9f processed by default (attempt 1)
+worker  | 🐑 Payment c992b12f-da06-49fb-b130-7778fce2bd98 processed by default (attempt 1)
+worker  | 🐑 Payment 696c1cad-d8ce-4c21-8da5-ca8416b470e0 processed by default (attempt 1)
+worker  | 🐑 Payment e23bd2b5-d6c8-4f6d-a3fa-a96995634527 processed by default (attempt 1)
+worker  | 🐑 Payment 302d4699-7fc9-464e-a877-178d66756e67 processed by default (attempt 1)
+worker  | 🐑 Payment acea9901-fbda-42cb-b60f-f6646840e645 processed by default (attempt 1)
+worker  | 🐑 Payment c20ddf6d-a5f6-446c-a73b-0ff38af4e054 processed by default (attempt 1)
+worker  | 🐑 Payment 220b488a-7cbf-42d5-a2a6-75a65b3732da processed by default (attempt 1)
+worker  | 🐑 Payment beaf2653-b1b0-4510-989e-35ae0bcb5736 processed by default (attempt 1)
+worker  | 🐑 Payment 27c0ec90-72e7-4312-87ea-09a187474f8f processed by default (attempt 1)
+worker  | 🐑 Payment 2e69e908-9306-4b2e-b582-6063e7c2b4c8 processed by default (attempt 1)
+worker  | 🐑 Payment 92a0fee2-e010-4b0d-8645-2355ab668ade processed by default (attempt 1)
+worker  | 🐑 Payment f07c25b8-5506-42a2-99c4-0dfd65082a5a processed by default (attempt 1)
+worker  | 🐑 Payment 8bf460b0-e224-476a-959e-861c9aa79a52 processed by default (attempt 1)
+worker  | 🐑 Payment c5f8e8d5-54d7-4220-b8f1-7ee30b110f29 processed by default (attempt 1)
+worker  | 🐑 Payment 6726ed06-6cab-4c74-add1-4c9caab076ef processed by default (attempt 1)
+worker  | 🐑 Payment e21e0661-fa16-46d4-a702-b87a35d00f74 processed by default (attempt 1)
+worker  | 🐑 Payment d10edf14-9b73-4043-9e3e-d73c7bb73740 processed by default (attempt 1)
+worker  | 🐑 Payment 81bd722a-3947-4843-bade-47c858d4a779 processed by default (attempt 1)
+worker  | 🐑 Payment d849f46e-e61c-43cc-91a5-78438aca6340 processed by default (attempt 1)
+worker  | 🐑 Payment 876fbde0-b108-4c72-b60e-d349550eea04 processed by default (attempt 1)
+worker  | 🐑 Payment 7398cfcf-a452-4ebd-8d6b-71bc07128446 processed by default (attempt 1)
+worker  | 🐑 Payment 7505f9ae-c6c2-4068-bb12-6a56a2bdcf7c processed by default (attempt 1)
+worker  | 🐑 Payment 4bc2091a-6391-405e-a694-3f8fc966d2ff processed by default (attempt 1)
+worker  | 🐑 Payment db776cd0-a83a-4c4e-b721-b10348e21ce3 processed by default (attempt 1)
+worker  | 🐑 Payment 78c8f47a-9f98-490a-b581-e633917ede39 processed by default (attempt 1)
+worker  | 🐑 Payment a2f1b41a-3c08-456e-97bb-a40e48e95673 processed by default (attempt 1)
+worker  | 🐑 Payment 811b203f-ba07-4989-b23d-40c0ec0c0690 processed by default (attempt 1)
+worker  | 🐑 Payment e4ce68dd-a086-4442-a8d6-f75f7056a820 processed by default (attempt 1)
+worker  | 🐑 Payment 0b5a38a1-c0f2-41bd-9eb7-f7d17dc139cf processed by default (attempt 1)
+worker  | 🐑 Payment 46acc691-da30-485e-b604-1f4ba6eabd36 processed by default (attempt 1)
+worker  | 🐑 Payment badc977d-a65c-49d5-b368-e51b8c046cb1 processed by default (attempt 1)
+worker  | 🐑 Payment 38450455-5cfb-4bef-a8d4-7610ba58147b processed by default (attempt 1)
+worker  | 🐑 Payment 9d6bb109-abe3-4b5e-9967-ee7ae4eb0e08 processed by default (attempt 1)
+worker  | 🐑 Payment 62ed8a75-b7a6-4fd0-a37d-93829887565b processed by default (attempt 1)
+worker  | 🐑 Payment 44f5db1b-4d30-4fec-924d-eec471781913 processed by default (attempt 1)
+worker  | 🐑 Payment ff492869-1502-4cb8-a4d1-92172b0de7c9 processed by default (attempt 1)
+worker  | 🐑 Payment 705d07a6-b84f-4535-894d-4e1a81bf5c54 processed by default (attempt 1)
+worker  | 🐑 Payment 9e4cd076-fff7-430b-8f12-e8bd4559a9e9 processed by default (attempt 1)
+worker  | 🐑 Payment 7749d6a4-ba2d-4cfc-a54d-05ef185bea08 processed by default (attempt 1)
+worker  | 🐑 Payment 0ed63de7-4167-4f0d-af20-b4a676c8b51b processed by default (attempt 1)
+worker  | 🐑 Payment dd2c807f-4cec-47fc-82e2-ce14b2d09812 processed by default (attempt 1)
+worker  | 🐑 Payment 5ac38615-0f0f-4b13-8d7e-71e95faf9477 processed by default (attempt 1)
+worker  | 🐑 Payment a0d0d8ec-0003-4306-bb96-6f02c05495d6 processed by default (attempt 1)
+worker  | 🐑 Payment 01acf3db-763c-434b-ac53-e66de240d0dd processed by default (attempt 1)
+worker  | 🐑 Payment af2f995f-b70c-4916-bdd6-0151faededbc processed by default (attempt 1)
+worker  | 🐑 Payment 589f2fb1-d912-47b8-b1d0-00391006ea90 processed by default (attempt 1)
+worker  | 🐑 Payment 4bdc4d49-40e0-4f5f-834d-cd7f177b8de7 processed by default (attempt 1)
+worker  | 🐑 Payment 0883c8a0-1b1a-47f6-bdd7-1c46ea48bb39 processed by default (attempt 1)
+worker  | 🐑 Payment b6ca5527-fa96-4609-a729-cba52617c515 processed by default (attempt 1)
+worker  | 🐑 Payment b5cbac08-bd25-46e3-9e5b-f1149abba99b processed by default (attempt 1)
+worker  | 🐑 Payment 6a594e16-99ec-4497-9bbe-2d3766148083 processed by default (attempt 1)
+worker  | 🐑 Payment 030ff5ae-74e1-4463-8f6d-792e7334623a processed by default (attempt 1)
+worker  | 🐑 Payment bb49a082-54a9-42f2-8cad-56ae347a7475 processed by default (attempt 1)
+worker  | 🐑 Payment adf9006e-09b6-462b-9155-83f4a03e4cdf processed by default (attempt 1)
+worker  | 🐑 Payment 2ccd0419-9799-463c-8ab1-57d5b0abd4a3 processed by default (attempt 1)
+worker  | 🐑 Payment 1c967d9b-c0da-4b3c-8163-170e7e1b5b3e processed by default (attempt 1)
+worker  | 🐑 Payment e921d60a-be28-4b81-ae4f-76818585371f processed by default (attempt 1)
+worker  | 🐑 Payment f6335c84-35dc-4503-98ee-700bd265d361 processed by default (attempt 1)
+worker  | 🐑 Payment 6c5947db-2661-4230-be24-8a57083166b0 processed by default (attempt 1)
+worker  | 🐑 Payment 5c6cab6c-7701-43e9-a64a-1ba795aee064 processed by default (attempt 1)
+worker  | 🐑 Payment 110baee1-48f1-4fe1-9c42-f7abba2696bd processed by default (attempt 1)
+worker  | 🐑 Payment 8f046707-98d2-4fe4-958f-9cb4bad9e59d processed by default (attempt 1)
+worker  | 🐑 Payment cb2706dd-7a1b-43c3-9f48-8760c5cb6e8d processed by default (attempt 1)
+worker  | 🐑 Payment 0d8ddcb6-2f04-4102-8dcd-df290c87eda3 processed by default (attempt 1)
+worker  | 🐑 Payment fb4a45d9-2256-4b79-a912-a563d29ccbb9 processed by default (attempt 1)
+worker  | 🐑 Payment 5f793555-1032-4ba8-b5df-5fff2774f2b6 processed by default (attempt 1)
+worker  | 🐑 Payment 04cd92fa-cd11-44e8-83ff-2f7ee47d3ef3 processed by default (attempt 1)
+worker  | 🐑 Payment 325f830f-59e2-4bd7-a741-3f607753481f processed by default (attempt 1)
+worker  | 🐑 Payment 5b781473-16dd-4ffb-9cff-e7c74fd77dec processed by default (attempt 1)
+worker  | 🐑 Payment 28819715-106f-417b-8db3-94d8f5d6dc59 processed by default (attempt 1)
+api02   | 🐑 Received query params: from=Some("2025-08-20T22:55:25.577Z"), to=Some("2025-08-20T22:55:38.577Z")
+worker  | 🐑 Payment bf8cc74f-33f2-4589-a43f-976ccd953943 processed by default (attempt 1)
+worker  | 🐑 Payment 250531ea-6c69-4b99-b971-e722ed35f790 processed by default (attempt 1)
+worker  | 🐑 Payment 0793193b-38a3-41de-b048-0c7be248ff2d processed by default (attempt 1)
+worker  | 🐑 Payment 5b4b7246-9b74-487a-8c51-a242db7d87c5 processed by default (attempt 1)
+worker  | 🐑 Payment 0132e690-110d-459f-b9c1-a492606158d2 processed by default (attempt 1)
+worker  | 🐑 Payment 6aceb082-d9eb-4a0b-9866-7fcb035911a8 processed by default (attempt 1)
+worker  | 🐑 Payment 75aa66b1-659e-4934-b786-a664077855be processed by default (attempt 1)
+worker  | 🐑 Payment 211f0c23-6275-4843-bfe6-ecdea9380b66 processed by default (attempt 1)
+worker  | 🐑 Payment f25bb229-6e83-4c20-9d59-cd5bdc8a2ebd processed by default (attempt 1)
+worker  | 🐑 Payment 50354081-e1a3-4e42-9cdb-e4586ad52ee0 processed by default (attempt 1)
+worker  | 🐑 Payment b4180954-4068-4ada-be8b-fe4e0fa4fb11 processed by default (attempt 1)
+worker  | 🐑 Payment 6d9f7e8f-6ae7-435a-ae25-4371cbaf7784 processed by default (attempt 1)
+worker  | 🐑 Payment 0ff5c9ab-2f0f-4a8f-80bb-0090dce6e0d5 processed by default (attempt 1)
+worker  | 🐑 Payment f14e766c-49a6-4721-8a67-47a32c0db456 processed by default (attempt 1)
+worker  | 🐑 Payment a7a29d2a-8c7f-42af-a4b5-911dc8350910 processed by default (attempt 1)
+worker  | 🐑 Payment 37503aa1-5785-4edf-9445-d523055921e8 processed by default (attempt 1)
+worker  | 🐑 Payment 347348f3-3027-4a3e-8257-bf1e6585fec5 processed by default (attempt 1)
+worker  | 🐑 Payment 06c92b52-3f1a-4c1f-9f30-73889d105c7a processed by default (attempt 1)
+worker  | 🐑 Payment 08aeffb3-6cb4-4bbb-a1fe-8c9cb542d9c3 processed by default (attempt 1)
+worker  | 🐑 Payment d92ae2c5-04cc-4c0f-badc-f6d898a5c0ab processed by default (attempt 1)
+worker  | 🐑 Payment 98ce166c-c75c-4dfc-8e5e-a05877326c4f processed by default (attempt 1)
+worker  | 🐑 Payment 0a34018a-852c-4d29-9f53-5479eedba883 processed by default (attempt 1)
+worker  | 🐑 Payment b8d7e74f-b7f7-4b51-82e2-0084c8246792 processed by default (attempt 1)
+worker  | 🐑 Payment 41dfb26f-1d56-4b0b-9930-01b84997b1f7 processed by default (attempt 1)
+worker  | 🐑 Payment 8cf02cc1-761a-4739-832d-976f869c2c0e processed by default (attempt 1)
+worker  | 🐑 Payment 1d72c0f3-17b4-41fd-a633-27be946e6a55 processed by default (attempt 1)
+worker  | 🐑 Payment c9e72864-e1e0-42eb-b2dc-7bdaaadf97d6 processed by default (attempt 1)
+worker  | 🐑 Payment e0f95b07-ecd1-4518-907c-6ce01b361723 processed by default (attempt 1)
+worker  | 🐑 Payment cddd7b42-18fd-40d8-b1bf-590628238b10 processed by default (attempt 1)
+worker  | 🐑 Payment c46b4bca-e46f-4dd4-90a3-16a33f67c690 processed by default (attempt 1)
+worker  | 🐑 Payment ac0d084b-88c3-4095-a0a7-6e0faf8894df processed by default (attempt 1)
+worker  | 🐑 Payment 6c7b6bfb-24bd-430c-a75f-e83dfbb98a59 processed by default (attempt 1)
+worker  | 🐑 Payment 7f09aa01-313d-4668-88da-c9923737aa7f processed by default (attempt 1)
+worker  | 🐑 Payment b1f6d281-1326-43cb-a5dc-ed9f7424bcad processed by default (attempt 1)
+worker  | 🐑 Payment c2a3ab08-4eb4-4732-885a-fd7d6d2ef810 processed by default (attempt 1)
+worker  | 🐑 Payment 946f63a2-5870-4000-8687-51a12af00592 processed by default (attempt 1)
+worker  | 🐑 Payment 5e8051c0-533d-4fcc-aefd-6eeb117433e0 processed by default (attempt 1)
+worker  | 🐑 Payment efcd07e2-1647-4864-891a-57212a8e4554 processed by default (attempt 1)
+worker  | 🐑 Payment 826079f4-b4c5-48f6-bb23-501264849fe9 processed by default (attempt 1)
+worker  | 🐑 Payment 8b710146-4fba-4e56-970c-c4891f0729b8 processed by default (attempt 1)
+worker  | 🐑 Payment 1f6acaa3-28a2-42be-8ad7-f96052075f3d processed by default (attempt 1)
+worker  | 🐑 Payment 445bd80f-27fa-4180-a550-705868e80877 processed by default (attempt 1)
+worker  | 🐑 Payment fb1366a5-5b08-4c49-8cf2-cefa90ba3c37 processed by default (attempt 1)
+worker  | 🐑 Payment 1c0756d8-33e4-47d5-b521-2190142c9473 processed by default (attempt 1)
+worker  | 🐑 Payment e549474c-43f0-4387-a446-60d400c864f1 processed by default (attempt 1)
+worker  | 🐑 Payment bd148592-484e-4e4c-af0c-3a833d1da3bf processed by default (attempt 1)
+worker  | 🐑 Payment 43c19799-7fb0-4c8f-b522-4ef3b52252ba processed by default (attempt 1)
+worker  | 🐑 Payment 368ba58c-63a2-46e2-ae2d-7da36351a035 processed by default (attempt 1)
+worker  | 🐑 Payment c9969946-f940-418c-b1ac-bf39513dee22 processed by default (attempt 1)
+worker  | 🐑 Payment b1d2697c-3674-4867-83af-13655fb0592d processed by default (attempt 1)
+worker  | 🐑 Payment 81e86e1f-246c-47aa-87d5-9cd4a55339ff processed by default (attempt 1)
+worker  | 🐑 Payment d6d6c8c2-ff74-4d67-a82b-9894eb57c245 processed by default (attempt 1)
+worker  | 🐑 Payment fac18546-f539-43cf-95c5-426e937b9862 processed by default (attempt 1)
+worker  | 🐑 Payment 9ca58386-4e97-4b37-a441-dd45234098b5 processed by default (attempt 1)
+worker  | 🐑 Payment 109bc8b1-1428-46e4-ad76-5cd3317c0805 processed by default (attempt 1)
+worker  | 🐑 Payment 67362135-182f-4a57-b483-67eadcbb67cf processed by default (attempt 1)
+worker  | 🐑 Payment a8070611-e8a5-4d74-ac43-4731e45c8cad processed by default (attempt 1)
+worker  | 🐑 Payment e20290fb-44ae-44da-a1cd-d9ffda0d7792 processed by default (attempt 1)
+worker  | 🐑 Payment 0cc63a91-e8f1-4cb5-9213-d88b2b44598a processed by default (attempt 1)
+worker  | 🐑 Payment 545f3573-b3ec-4b72-854f-0b83dc26fcec processed by default (attempt 1)
+worker  | 🐑 Payment 9cd081dc-c13e-4f89-8a5d-6efb142ea5f8 processed by default (attempt 1)
+worker  | 🐑 Payment d756d41a-ad1a-4e0b-9e29-e34472e50ed1 processed by default (attempt 1)
+worker  | 🐑 Payment 7e8a543c-66e9-431b-8864-ffaa0bfe814c processed by default (attempt 1)
+worker  | 🐑 Payment a4ac44a7-7c35-4d0a-9f69-bd900cd936a0 processed by default (attempt 1)
+worker  | 🐑 Payment 9ccf7add-20f5-47bf-9c4d-48431ac50924 processed by default (attempt 1)
+worker  | 🐑 Payment 0045f2fc-8c4b-4255-a096-439f4f6c0eec processed by default (attempt 1)
+worker  | 🐑 Payment 1f9166c7-a8dd-48fb-8893-bb2d33a902b4 processed by default (attempt 1)
+worker  | 🐑 Payment 7cfbfd3d-2ff1-43af-8dac-0d8d815cc661 processed by default (attempt 1)
+worker  | 🐑 Payment 8e880fd2-a5bf-437c-acc5-ce38f01f5ced processed by default (attempt 1)
+worker  | 🐑 Payment 5121fece-a095-4fcc-b3aa-6039c9a78bf6 processed by default (attempt 1)
+worker  | 🐑 Payment 3f937bb9-c29e-47d9-bcf6-d82dbaee30a8 processed by default (attempt 1)
+worker  | 🐑 Payment 2ecc35f0-2863-40d2-8a1c-6621053e6ffc processed by default (attempt 1)
+worker  | 🐑 Payment 4c8b30ff-f135-46a7-9e3b-bf180c6ad5d5 processed by default (attempt 1)
+worker  | 🐑 Payment df418c30-5fe5-4a70-a3ee-e1fa10fb106f processed by default (attempt 1)
+worker  | 🐑 Payment 7ea7715a-9e9f-4aa2-a998-d19b61638450 processed by default (attempt 1)
+worker  | 🐑 Payment 90945f39-5664-4d41-a10a-dcbb1cf95609 processed by default (attempt 1)
+worker  | 🐑 Payment 0c195f21-40b6-4f3e-9889-8155ce851c03 processed by default (attempt 1)
+worker  | 🐑 Payment d6c4643a-0747-45ea-9f9b-41a1c32d7991 processed by default (attempt 1)
+worker  | 🐑 Payment ee717d7f-4674-4980-97a5-c1973a4b8877 processed by default (attempt 1)
+worker  | 🐑 Payment b04aa0b3-1f12-47bb-8388-b11664debc6a processed by default (attempt 1)
+worker  | 🐑 Payment c733cc4d-dbdd-4a94-a91c-3bf88b374366 processed by default (attempt 1)
+worker  | 🐑 Payment c2098b54-3b0d-42cd-a71b-fc9d84a184d0 processed by default (attempt 1)
+worker  | 🐑 Payment 5134054e-0ec7-40da-9969-abe1641a64cb processed by default (attempt 1)
+worker  | 🐑 Payment 8f011323-a172-436d-82d9-e72997f39895 processed by default (attempt 1)
+worker  | 🐑 Payment f41ad954-ff5b-448b-a59f-ede9421fde78 processed by default (attempt 1)
+worker  | 🐑 Payment ded7ceaa-d28c-4428-8d1a-54e69bf3d24b processed by default (attempt 1)
+worker  | 🐑 Payment ba86b513-0829-47f4-9de5-a15890aef848 processed by default (attempt 1)
+worker  | 🐑 Payment 92003148-c06e-44a2-ad37-5a2639f37d7c processed by default (attempt 1)
+worker  | 🐑 Payment 8a78ffa5-9b3e-40cd-bf7b-f054c8e55b73 processed by default (attempt 1)
+worker  | 🐑 Payment bbd16403-dd4d-46a1-aafc-b9b11cf47c3f processed by default (attempt 1)
+worker  | 🐑 Payment a78403ea-3811-4ec2-ab6e-9078fed0263a processed by default (attempt 1)
+worker  | 🐑 Payment 2b7a0756-eb7e-4f11-b75a-45ac835946a5 processed by default (attempt 1)
+worker  | 🐑 Payment 116b10fc-8180-41bd-b10a-75b9f561351e processed by default (attempt 1)
+worker  | 🐑 Payment 0e7ceffb-6f1a-46a3-ae01-9bd39a6c93af processed by default (attempt 1)
+worker  | 🐑 Payment caa6470f-ecf5-44f1-a696-b702a6f2bfe0 processed by default (attempt 1)
+worker  | 🐑 Payment 623521ed-ff9c-4bfc-b667-a3f3c4bc4bec processed by default (attempt 1)
+worker  | 🐑 Payment 8ddff492-7c73-42d9-b0ac-bf5aa8dc4044 processed by default (attempt 1)
+worker  | 🐑 Payment 794f7b8f-b030-42cb-81eb-c51e79f617e3 processed by default (attempt 1)
+worker  | 🐑 Payment a8cbab5a-38a2-4e0b-9058-d64a52195037 processed by default (attempt 1)
+worker  | 🐑 Payment 75157721-3917-46b9-a204-30144a88743b processed by default (attempt 1)
+worker  | 🐑 Payment 9f5d4801-ad1d-470b-82ab-2e126c306010 processed by default (attempt 1)
+worker  | 🐑 Payment 009b27f8-9a76-4e1f-9510-3f589647f59b processed by default (attempt 1)
+worker  | 🐑 Payment 9b519396-55e5-46eb-b985-cd81938451cd processed by default (attempt 1)
+worker  | 🐑 Payment ae3afcce-49dd-408d-ad37-6e5ed7a2e6d0 processed by default (attempt 1)
+worker  | 🐑 Payment 4e3d6094-99a3-4de7-a9a8-b88ad161fd2b processed by default (attempt 1)
+worker  | 🐑 Payment b1d930a0-e6e3-4293-bf32-7e1379a052e0 processed by default (attempt 1)
+worker  | 🐑 Payment a10a8157-5545-4b25-b90d-9c5e3bf23b68 processed by default (attempt 1)
+worker  | 🐑 Payment ef05c6f3-db7b-4caa-8c9c-cc9d3da37d8d processed by default (attempt 1)
+worker  | 🐑 Payment 0c7db165-ba5c-4c2c-a587-f493511f333c processed by default (attempt 1)
+worker  | 🐑 Payment e5b9dbef-cc0e-40cf-8cbc-b14bd81a7890 processed by default (attempt 1)
+worker  | 🐑 Payment 9bc76420-7ef6-4bdb-a4e7-76389a376912 processed by default (attempt 1)
+worker  | 🐑 Payment 9626f235-fcc2-4444-86b1-3a2223b15587 processed by default (attempt 1)
+worker  | 🐑 Payment 465eb024-dafe-47e9-b1f7-d828077bfbf4 processed by default (attempt 1)
+worker  | 🐑 Payment 7371aa58-f7c0-49e4-902f-fa2ad75cb5da processed by default (attempt 1)
+worker  | 🐑 Payment 0e1f09e5-697e-4bb8-ae3c-b586038973b8 processed by default (attempt 1)
+worker  | 🐑 Payment a7c1d250-ea61-4602-8d59-259a75404e18 processed by default (attempt 1)
+worker  | 🐑 Payment 4f22a21c-4602-443d-96c3-9fe71edcf07a processed by default (attempt 1)
+worker  | 🐑 Payment e9800304-a1ac-4c72-95c3-e95ffd4207ae processed by default (attempt 1)
+worker  | 🐑 Payment 92f9dc57-b0d2-4158-ba2a-49742dd3d280 processed by default (attempt 1)
+worker  | 🐑 Payment b592111f-06e3-4002-802b-8aa1f656a8fb processed by default (attempt 1)
+worker  | 🐑 Payment c175c60c-7983-4009-b874-72cb23bed080 processed by default (attempt 1)
+worker  | 🐑 Payment 7c67fe7f-5b13-4a1e-91d0-cf37212a06c2 processed by default (attempt 1)
+worker  | 🐑 Payment 1e3ffc17-ff4c-409f-8af9-ff2e85ee53db processed by default (attempt 1)
+worker  | 🐑 Payment fe470832-a6e4-45ba-b9c1-21af2988a0af processed by default (attempt 1)
+worker  | 🐑 Payment 1085ba41-d9e7-4160-a042-28ee26b24a7c processed by default (attempt 1)
+worker  | 🐑 Payment 7408fc2b-6eaf-4d6b-bd95-6d0c2987d627 processed by default (attempt 1)
+worker  | 🐑 Payment 2530c354-6dbc-4d6b-9f4e-8b47cced8951 processed by default (attempt 1)
+worker  | 🐑 Payment 6303e4c7-02c2-4ad1-8d5b-767d67365663 processed by default (attempt 1)
+worker  | 🐑 Payment 58771e5d-df1b-4721-9239-b4c284d58675 processed by default (attempt 1)
+worker  | 🐑 Payment 6132b372-43f6-42b0-9f88-7393bdb83337 processed by default (attempt 1)
+worker  | 🐑 Payment 91b04e0d-aaad-44ab-a50e-8468cfc7bbe8 processed by default (attempt 1)
+worker  | 🐑 Payment 9dfe6c16-3927-4bc6-a941-dbeb08a7a86f processed by default (attempt 1)
+worker  | 🐑 Payment 8f7524d1-5f0e-4e37-86f8-673965658b97 processed by default (attempt 1)
+worker  | 🐑 Payment e06a3718-b519-4429-abb0-37d781022738 processed by default (attempt 1)
+worker  | 🐑 Payment 2f936cd2-a099-451f-8a2f-c098a3479eea processed by default (attempt 1)
+worker  | 🐑 Payment 9ffde9e3-9d46-4d79-8d6c-fd072e9cc5f8 processed by default (attempt 1)
+worker  | 🐑 Payment 6d1f287a-f592-483a-9ec6-1bd163e310d5 processed by default (attempt 1)
+worker  | 🐑 Payment 34654e7c-75fe-476e-822a-beb43369db44 processed by default (attempt 1)
+worker  | 🐑 Payment 58377f27-2738-4f0c-b658-afce73e245ae processed by default (attempt 1)
+worker  | 🐑 Payment f45a4d12-3e75-4cd0-ae87-23bb93486119 processed by default (attempt 1)
+worker  | 🐑 Payment bf4f7585-0a58-476f-9218-c8aeffb7ec7d processed by default (attempt 1)
+worker  | 🐑 Payment 69511b62-0d9b-4be5-8cc0-354c69b25990 processed by default (attempt 1)
+worker  | 🐑 Payment 413f58a4-c87c-4fc4-bc7f-92629efeaf7e processed by default (attempt 1)
+worker  | 🐑 Payment 03b05572-d5e1-4a6b-9a90-c865fc91ec06 processed by default (attempt 1)
+worker  | 🐑 Payment 2eb62b56-82ad-4d43-a8d8-5d02200f89ef processed by default (attempt 1)
+worker  | 🐑 Payment 159ad0d6-f67f-4cd0-9856-637c78fd410f processed by default (attempt 1)
+worker  | 🐑 Payment 6bb529ad-4c99-47f6-ba7d-296cdf9f2c99 processed by default (attempt 1)
+worker  | 🐑 Payment 42e75f45-e034-4b5e-a4a4-480708219704 processed by default (attempt 1)
+worker  | 🐑 Payment 280e7d44-9ee2-4347-8771-4ddd0d019073 processed by default (attempt 1)
+worker  | 🐑 Payment fbb18c55-fc0f-459f-89df-469cf1a20db8 processed by default (attempt 1)
+worker  | 🐑 Payment 100d0136-5e96-4213-8e74-8ec9901db7dc processed by default (attempt 1)
+worker  | 🐑 Payment bd965978-5d0b-41f9-983b-1b67b785dca2 processed by default (attempt 1)
+worker  | 🐑 Payment a13b6da0-698a-4f6f-a147-e6b5b992112b processed by default (attempt 1)
+worker  | 🐑 Payment 685950d0-9219-454b-8dbf-d602c08f6292 processed by default (attempt 1)
+worker  | 🐑 Payment 979be78f-cd42-4c85-9038-6ad36ca8bf59 processed by default (attempt 1)
+worker  | 🐑 Payment bdb3ea78-9f9d-41f8-879b-4a33820d42ff processed by default (attempt 1)
+worker  | 🐑 Payment aeaa03f5-0720-4551-9541-8628d5fd4579 processed by default (attempt 1)
+worker  | 🐑 Payment ce981036-a0c5-4cca-a7b8-570d0a34af2c processed by default (attempt 1)
+worker  | 🐑 Payment f6fcfb70-31e3-455f-a944-8682bcb42ee7 processed by default (attempt 1)
+worker  | 🐑 Payment 96c73c3d-58bb-4d14-a55e-7dd81f0e5822 processed by default (attempt 1)
+worker  | 🐑 Payment 178854a7-47df-42f4-b899-cb985ea854f7 processed by default (attempt 1)
+worker  | 🐑 Payment 4a610ce6-edab-4bd7-bf33-3e688a88a04a processed by default (attempt 1)
+worker  | 🐑 Payment b3dbfe97-faa5-47d8-b092-7e0441285931 processed by default (attempt 1)
+worker  | 🐑 Payment 4996fe89-7501-4838-b05e-68f6e78bba58 processed by default (attempt 1)
+worker  | 🐑 Payment 12a96dae-7cfb-42cf-80b0-81d9ca022960 processed by default (attempt 1)
+worker  | 🐑 Payment 0b91cb15-b737-42fd-aa14-0f5c4fa5a142 processed by default (attempt 1)
+worker  | 🐑 Payment d71a152b-2c6d-4d11-9ca9-b8ffe492ebf3 processed by default (attempt 1)
+worker  | 🐑 Payment 61fb3f62-6828-4759-8100-75a529a92066 processed by default (attempt 1)
+worker  | 🐑 Payment 6728574d-db06-432b-9b27-aff83bb6d65b processed by default (attempt 1)
+worker  | 🐑 Payment 53bf890e-ade2-4e2c-9a9f-a38645791885 processed by default (attempt 1)
+worker  | 🐑 Payment 32766370-15fa-415b-be87-f9b6228917d9 processed by default (attempt 1)
+worker  | 🐑 Payment 246e0546-29fb-4cac-99d4-734f557a323b processed by default (attempt 1)
+worker  | 🐑 Payment 528853dd-9434-4495-8acf-55a88eec6029 processed by default (attempt 1)
+worker  | 🐑 Payment eb5ce021-eb9e-4789-b8fa-9d8809eb6b0f processed by default (attempt 1)
+worker  | 🐑 Payment c8e603d3-8445-449c-a4cc-6c561bafeee2 processed by default (attempt 1)
+worker  | 🐑 Payment b0643688-914c-43b5-bdd0-3ea26c8c3281 processed by default (attempt 1)
+worker  | 🐑 Payment 30f7d1fa-b395-4653-b52b-9ca1b1d8559e processed by default (attempt 1)
+worker  | 🐑 Payment 72237874-e44d-4809-a990-1c7bf14296f3 processed by default (attempt 1)
+worker  | 🐑 Payment b173c115-98c3-4e42-879c-a7f0989be26a processed by default (attempt 1)
+worker  | 🐑 Payment 1058d2e7-0bf5-4ca8-b00f-c28db094af32 processed by default (attempt 1)
+worker  | 🐑 Payment 8edbae24-fc78-4d9a-8748-fefe33295c22 processed by default (attempt 1)
+worker  | 🐑 Payment b1ca6f9f-5df0-462d-b9af-fe31b2994075 processed by default (attempt 1)
+worker  | 🐑 Payment 2b7261a5-97bc-4e1e-8ce6-f8b9ea2ae10f processed by default (attempt 1)
+worker  | 🐑 Payment 2a0e2120-22c5-4822-a44d-1fc81a515a1d processed by default (attempt 1)
+worker  | 🐑 Payment 4d1ccb42-1cf0-4309-919a-db9b76826c50 processed by default (attempt 1)
+worker  | 🐑 Payment 62fb2eb7-20df-452d-a6d3-d1b926168fe2 processed by default (attempt 1)
+worker  | 🐑 Payment 9b9d83b7-0060-44c8-a8f0-efad24587597 processed by default (attempt 1)
+worker  | 🐑 Payment 6c1c9e23-885c-4c09-bf1e-2ef677041d5f processed by default (attempt 1)
+worker  | 🐑 Payment e8b3a82c-69cb-43fa-962f-6934f5a1b8b3 processed by default (attempt 1)
+worker  | 🐑 Payment 8a49c90d-a2e2-43b5-9e7b-d1164174f93d processed by default (attempt 1)
+worker  | 🐑 Payment 4bdf3740-0695-477f-80ea-b55f46cfb414 processed by default (attempt 1)
+worker  | 🐑 Payment 125f1bc6-5a5d-44f0-b7bb-f5ce8e920db3 processed by default (attempt 1)
+worker  | 🐑 Payment eaa09f66-e6c5-44fd-8a4f-8ff75a91fe48 processed by default (attempt 1)
+worker  | 🐑 Payment d3a3b72f-4c16-49d2-b23b-1b61476877d7 processed by default (attempt 1)
+worker  | 🐑 Payment 022a835e-9a2e-481d-bee5-31ea1b4bc873 processed by default (attempt 1)
+worker  | 🐑 Payment 1f7c196b-460b-4e5b-9a4b-2019fc173fb9 processed by default (attempt 1)
+worker  | 🐑 Payment 823ad000-76cf-406a-821d-32023347dd2a processed by default (attempt 1)
+worker  | 🐑 Payment a6d74b7a-e0cd-474a-a771-7248e97b708b processed by default (attempt 1)
+worker  | 🐑 Payment 1e528709-7d19-46ca-8fe6-e0b9690e0ec6 processed by default (attempt 1)
+worker  | 🐑 Payment fc86328d-bb31-4360-a160-b165f3eab9e5 processed by default (attempt 1)
+worker  | 🐑 Payment eae43c58-0c75-46e7-a107-a580565f842e processed by default (attempt 1)
+worker  | 🐑 Payment 930f4247-a774-4666-bc8e-a1b05affefe9 processed by default (attempt 1)
+worker  | 🐑 Payment 62bf0d8c-b97b-480f-957e-263338cd4627 processed by default (attempt 1)
+worker  | 🐑 Payment f830ad0a-a57b-43d1-a036-c214d291738b processed by default (attempt 1)
+worker  | 🐑 Payment 59158418-05a3-43c5-a4c5-ea1ddec9eb04 processed by default (attempt 1)
+worker  | 🐑 Payment 3fe30b27-e5ba-425e-a192-86c1b5039910 processed by default (attempt 1)
+worker  | 🐑 Payment 0b1506dc-371c-4fd3-8833-363b72612b0e processed by default (attempt 1)
+worker  | 🐑 Payment 03ed2cb9-e420-4fe7-8524-a1bceec6023f processed by default (attempt 1)
+worker  | 🐑 Payment 2101688b-46e8-4111-81ea-45ecc4031716 processed by default (attempt 1)
+worker  | 🐑 Payment 7df5ddce-5875-4971-a318-82cdd51b0497 processed by default (attempt 1)
+worker  | 🐑 Payment 7d4c0de9-1c5e-49f9-89d7-53ed175e4d61 processed by default (attempt 1)
+worker  | 🐑 Payment 9c20fd69-0437-4646-b6a3-35639a7dd8ca processed by default (attempt 1)
+worker  | 🐑 Payment cd59bd9a-2f05-42eb-b943-45ab7defd857 processed by default (attempt 1)
+worker  | 🐑 Payment e1fd829f-3270-429a-a099-b2db34fda17c processed by default (attempt 1)
+worker  | 🐑 Payment 47ecd99e-7828-46bf-8363-d713ef2fc33f processed by default (attempt 1)
+worker  | 🐑 Payment 6ab1fb4a-641b-4a05-9ecf-9763de29805d processed by default (attempt 1)
+worker  | 🐑 Payment e3739496-1374-4ce4-bd4c-8d5bd5f7dfe0 processed by default (attempt 1)
+worker  | 🐑 Payment 8e76056a-cf68-412b-9e8f-9d1da63070ba processed by default (attempt 1)
+worker  | 🐑 Payment 04869dc5-d675-4765-88bd-a7f04b36d0c1 processed by default (attempt 1)
+worker  | 🐑 Payment 4e8e399d-4a89-4901-a7cc-4647a6e7e298 processed by default (attempt 1)
+worker  | 🐑 Payment f3f6f42c-f5dc-4d1c-a601-611d00e56b0a processed by default (attempt 1)
+worker  | 🐑 Payment 1215b397-c13e-47ca-8173-3acd88b24cf1 processed by default (attempt 1)
+worker  | 🐑 Payment fdba5b26-aa86-4dac-b288-41b5b7eac753 processed by default (attempt 1)
+worker  | 🐑 Payment 373619a5-5fe4-4fd4-908d-59db8af3b9ea processed by default (attempt 1)
+worker  | 🐑 Payment e0b1caca-008e-433f-ad67-a4c2582e87cf processed by default (attempt 1)
+worker  | 🐑 Payment f4b5b3f9-3533-478d-a490-c632c0809c5e processed by default (attempt 1)
+worker  | 🐑 Payment d484db7a-ae02-4749-b430-83b391411d9c processed by default (attempt 1)
+worker  | 🐑 Payment 8c3c6389-d3b8-40a5-bcdc-debbb2b7510a processed by default (attempt 1)
+worker  | 🐑 Payment b441c327-ca24-4352-81d7-d6324d78990d processed by default (attempt 1)
+worker  | 🐑 Payment e602da29-8165-46c8-bf27-1ba84579a1ae processed by default (attempt 1)
+worker  | 🐑 Payment cc2dcf9c-e3b7-4d81-8ca3-bbaa4f2e4168 processed by default (attempt 1)
+worker  | 🐑 Payment 909eac59-3bfe-4b30-b24f-881ea4d87d39 processed by default (attempt 1)
+worker  | 🐑 Payment ff0464a4-f4b3-495e-ab40-a326412e2a55 processed by default (attempt 1)
+worker  | 🐑 Payment 05b1e380-7697-4468-b026-2d15246f8bf1 processed by default (attempt 1)
+worker  | 🐑 Payment ef7456b7-d029-4ee9-91d4-70ee49f27201 processed by default (attempt 1)
+worker  | 🐑 Payment b6668c7c-6edb-4be7-92ee-17a3a3af33c3 processed by default (attempt 1)
+worker  | 🐑 Payment 496188ed-42e7-4dce-b2b0-a2bb86b14f32 processed by default (attempt 1)
+worker  | 🐑 Payment 85810b53-b38f-4ddb-bfff-89ec2936db6b processed by default (attempt 1)
+worker  | 🐑 Payment 0321a321-fd33-4a53-ae6f-af657dd18b37 processed by default (attempt 1)
+worker  | 🐑 Payment 680f65e7-1a0a-4bdf-8f13-b5a3c71a128e processed by default (attempt 1)
+worker  | 🐑 Payment 145cc1e2-5c01-405d-94f1-6f5d982f1c88 processed by default (attempt 1)
+worker  | 🐑 Payment 3ddb5c90-fcdc-4bc6-800e-7d1c146082d5 processed by default (attempt 1)
+worker  | 🐑 Payment 6bb89f87-755c-497c-8be6-b955320339cc processed by default (attempt 1)
+worker  | 🐑 Payment 952be4c5-0310-466c-a3a5-539a676a78c6 processed by default (attempt 1)
+worker  | 🐑 Payment 441fe5db-9a77-408e-8a8e-751041e06edf processed by default (attempt 1)
+worker  | 🐑 Payment 06482b24-36ce-426d-b660-2df2928733c0 processed by default (attempt 1)
+worker  | 🐑 Payment 9311fa97-e06a-4cb3-a5bd-0aba1cd417c1 processed by default (attempt 1)
+worker  | 🐑 Payment 4baec05e-40ca-45ea-b562-a923a4016580 processed by default (attempt 1)
+worker  | 🐑 Payment 90a5ed96-0400-4608-9206-d2b72db23ad1 processed by default (attempt 1)
+worker  | 🐑 Payment 28dc5f6b-e9b0-4eac-8e04-f7a48801a80a processed by default (attempt 1)
+worker  | 🐑 Payment 95358ebd-f95c-4e32-a9c1-f198b6d38331 processed by default (attempt 1)
+worker  | 🐑 Payment 81942978-2ac6-4f6f-bf8a-02c691a5e9b3 processed by default (attempt 1)
+worker  | 🐑 Payment 817f67e1-092f-442c-b4b4-9850a6bd44a4 processed by default (attempt 1)
+worker  | 🐑 Payment 1e83135b-d279-4de3-90b2-28c2f865e7b6 processed by default (attempt 1)
+worker  | 🐑 Payment 35bbe3b8-4545-4a2b-88c7-c3ee4402d012 processed by default (attempt 1)
+worker  | 🐑 Payment 413095ae-ea46-4305-b853-d26dcb831114 processed by default (attempt 1)
+worker  | 🐑 Payment 91eb60d6-41bf-474b-b57f-2ee7d7ad7d85 processed by default (attempt 1)
+worker  | 🐑 Payment de4be29b-70eb-4e1d-a05b-8ad6ac69d62e processed by default (attempt 1)
+worker  | 🐑 Payment 9e532b29-cb6f-4fa4-a04e-16be72da5886 processed by default (attempt 1)
+worker  | 🐑 Payment 87bb98bd-a309-469d-ae64-01d061508bc5 processed by default (attempt 1)
+worker  | 🐑 Payment 7a8f5bf0-d09f-4496-b61a-ca406b61e1a6 processed by default (attempt 1)
+worker  | 🐑 Payment 7a6e40d7-8a29-485d-9b61-49503f1b7edd processed by default (attempt 1)
+worker  | 🐑 Payment 8c08c4fb-3a7a-4c9d-a21e-a365ee5abfb7 processed by default (attempt 1)
+worker  | 🐑 Payment 9b91371f-4607-46aa-8427-a2be016fa8dd processed by default (attempt 1)
+worker  | 🐑 Payment ccf5b743-2910-45bc-9fab-f6852854e9c3 processed by default (attempt 1)
+worker  | 🐑 Payment fd0878db-3f35-4ca4-8160-4599f5af9ce4 processed by default (attempt 1)
+worker  | 🐑 Payment ccc44499-3250-4f3e-bb7e-cfd329a8efbf processed by default (attempt 1)
+worker  | 🐑 Payment a6495d3c-2ee9-4c6e-bd09-eed5d27c3e77 processed by default (attempt 1)
+worker  | 🐑 Payment 197ca80f-b472-4213-b909-addd8c6bda4e processed by default (attempt 1)
+worker  | 🐑 Payment 38a3622c-6d21-4bc0-aa04-418bc2e32c2b processed by default (attempt 1)
+worker  | 🐑 Payment 9cedee13-7aa7-4ef2-bda8-eca568039f6a processed by default (attempt 1)
+worker  | 🐑 Payment 837503fe-49f0-4500-96eb-af6b2b571f58 processed by default (attempt 1)
+worker  | 🐑 Payment ded9ea4a-77df-45e7-90a0-35a6fb4fed74 processed by default (attempt 1)
+worker  | 🐑 Payment d82e05d4-4940-46df-99ac-d70be102ac07 processed by default (attempt 1)
+worker  | 🐑 Payment f12062c3-f668-451b-99f9-f84534fefae7 processed by default (attempt 1)
+worker  | 🐑 Payment c7bfda81-89ff-45f0-b95e-b3eac180106d processed by default (attempt 1)
+worker  | 🐑 Payment 81b0c04b-c98b-4313-b006-1c0573c998e1 processed by default (attempt 1)
+worker  | 🐑 Payment 9df156e6-9561-4440-a8c2-3a883f3b62b5 processed by default (attempt 1)
+worker  | 🐑 Payment d95fc3cc-cc62-44e6-addc-fa0d33acbf59 processed by default (attempt 1)
+worker  | 🐑 Payment dcf7b88a-457e-4ad6-b5c4-17155fdd1305 processed by default (attempt 1)
+worker  | 🐑 Payment 68526b70-f50e-4158-a8bf-f4676cc3f2fa processed by default (attempt 1)
+worker  | 🐑 Payment eeb32ead-abbd-4bad-88a6-df71189d81c0 processed by default (attempt 1)
+worker  | 🐑 Payment 7df99fe8-0acb-4d3e-a3d6-dcb0c43390ae processed by default (attempt 1)
+worker  | 🐑 Payment 9b3713a6-a5a8-47f0-85f4-46a4e3406b18 processed by default (attempt 1)
+worker  | 🐑 Payment c4605349-978a-47d9-996d-9d09b6198747 processed by default (attempt 1)
+worker  | 🐑 Payment 41cb6efa-7243-469b-b656-56dfbd1750c7 processed by default (attempt 1)
+worker  | 🐑 Payment abbfbdf0-077a-4567-ace4-03dd6d447be8 processed by default (attempt 1)
+worker  | 🐑 Payment fc0c7223-4786-41c1-a88c-afcdd3472fe4 processed by default (attempt 1)
+worker  | 🐑 Payment 5d9c4f86-97ea-4ff2-926e-89c89172ba28 processed by default (attempt 1)
+worker  | 🐑 Payment 90d574c2-bdaf-4754-9015-fde72abe3f8f processed by default (attempt 1)
+worker  | 🐑 Payment 25ec0c0a-2cd9-44d1-8f63-4fcbe44fb89d processed by default (attempt 1)
+worker  | 🐑 Payment 66c2c47b-7e8a-4d69-ae79-b9e7527b5dfa processed by default (attempt 1)
+worker  | 🐑 Payment fd6e5670-6ab2-4d59-8bf0-00d0c42b6f0c processed by default (attempt 1)
+worker  | 🐑 Payment 1b0a7c0f-f0a2-4a5f-b533-8cc84f0ac81e processed by default (attempt 1)
+worker  | 🐑 Payment 4931b77f-93fa-45de-8f8b-92564c85d9f3 processed by default (attempt 1)
+worker  | 🐑 Payment 010b05c1-8d2f-4f43-a119-e75e8c2c33ca processed by default (attempt 1)
+worker  | 🐑 Payment c0619c23-3a80-42b6-9e17-edb2f2a11c81 processed by default (attempt 1)
+worker  | 🐑 Payment 27063958-4a11-449a-a5ba-326d65d8dfa2 processed by default (attempt 1)
+worker  | 🐑 Payment 361ca0dc-cbf2-4beb-aef5-d485f6c607ca processed by default (attempt 1)
+worker  | 🐑 Payment 740de1b0-3622-46ce-8fbc-6d1ffeaef8f1 processed by default (attempt 1)
+worker  | 🐑 Payment 7e7fce28-1f72-4ed2-b78c-41c27d87f9e7 processed by default (attempt 1)
+worker  | 🐑 Payment ed5a1ae4-6399-4743-9515-fa1ec7efddb0 processed by default (attempt 1)
+worker  | 🐑 Payment 6afe4ced-43c5-4f29-ba43-7705d3870673 processed by default (attempt 1)
+worker  | 🐑 Payment b6f6eef1-4629-488f-8e3c-4ad7f052f98a processed by default (attempt 1)
+worker  | 🐑 Payment 39b161f3-5349-4853-b164-3f81b186f14a processed by default (attempt 1)
+worker  | 🐑 Payment 3d8adfca-71fc-4f39-a58c-1b0afd33b5d5 processed by default (attempt 1)
+worker  | 🐑 Payment 9802e63f-d0c2-415a-8b79-86ea9855019f processed by default (attempt 1)
+worker  | 🐑 Payment 8de4d703-8522-4f16-b27b-d0058a5682ee processed by default (attempt 1)
+worker  | 🐑 Payment 0e32628b-d5c2-46b8-9690-7a24c5c75caf processed by default (attempt 1)
+worker  | 🐑 Payment 247ed782-58d3-48f9-bdca-ec2e79d9f574 processed by default (attempt 1)
+worker  | 🐑 Payment c8ac7130-7dff-4592-8259-344822a3d343 processed by default (attempt 1)
+worker  | 🐑 Payment 13da3751-762f-4893-9504-68543512cf42 processed by default (attempt 1)
+worker  | 🐑 Payment ae1cce95-e8e9-43f7-8fdc-5aadd8866665 processed by default (attempt 1)
+worker  | 🐑 Payment f16792ca-70eb-4302-bed0-dc7220752fa4 processed by default (attempt 1)
+worker  | 🐑 Payment 43c0e815-b2c2-4465-b0f8-390d5a2f544b processed by default (attempt 1)
+worker  | 🐑 Payment 9d0915e9-ce46-442f-9dfb-3643e46d2f24 processed by default (attempt 1)
+worker  | 🐑 Payment 1f9ce3c5-a210-4b65-b5c5-ef3b676aa8dd processed by default (attempt 1)
+api01   | 🐑 Received query params: from=Some("2025-08-20T22:55:35.579Z"), to=Some("2025-08-20T22:55:48.579Z")
+worker  | 🐑 Payment b72ef246-4f06-45a1-b3ce-1a258a3fe39b processed by default (attempt 1)
+worker  | 🐑 Payment a0e3e93c-8401-4114-af6b-831642a97478 processed by default (attempt 1)
+worker  | 🐑 Payment 96af50cf-9884-4c27-9443-9d0c24b465d1 processed by default (attempt 1)
+worker  | 🐑 Payment b6ed2f33-6cd0-4d9f-9059-8db5e62d373f processed by default (attempt 1)
+worker  | 🐑 Payment cc9385f2-afcb-456b-b803-a052d8a003ed processed by default (attempt 1)
+worker  | 🐑 Payment 5fdb6f0d-a95c-49ef-8523-2a80a4244939 processed by default (attempt 1)
+worker  | 🐑 Payment 28e5cc5b-d152-45b9-90ef-4c2caa5087e4 processed by default (attempt 1)
+worker  | 🐑 Payment 4bd11b73-8596-4471-a83d-7f5b08dcad4e processed by default (attempt 1)
+worker  | 🐑 Payment f546daa7-45e2-44c5-bc79-02d9745ad12f processed by default (attempt 1)
+worker  | 🐑 Payment 73bb4fa8-49f1-4d10-ae7d-65b700ed621a processed by default (attempt 1)
+worker  | 🐑 Payment f32e9aa6-1690-48f4-963e-ebec00bed5b5 processed by default (attempt 1)
+worker  | 🐑 Payment d9852af9-08ec-484c-96d4-e9b1cffdce16 processed by default (attempt 1)
+worker  | 🐑 Payment 59857742-3720-4c85-abad-d7d5d66d8ed7 processed by default (attempt 1)
+worker  | 🐑 Payment 613c1c93-2cca-4875-abfc-857e28dc0f91 processed by default (attempt 1)
+worker  | 🐑 Payment a61f0f5e-d939-4692-8108-669b68106b75 processed by default (attempt 1)
+worker  | 🐑 Payment 0d39a8a8-c610-4894-ac9b-25a6f066beaf processed by default (attempt 1)
+worker  | 🐑 Payment 25fe68f7-ab71-4208-b2f2-cea41d095450 processed by default (attempt 1)
+worker  | 🐑 Payment a1ca1cb9-8efb-4783-bab9-d4eb2d26c253 processed by default (attempt 1)
+worker  | 🐑 Payment f5a13cbb-c961-4958-812a-96f2ff800a8c processed by default (attempt 1)
+worker  | 🐑 Payment a60ab76f-8117-4667-9971-9ee88268e318 processed by default (attempt 1)
+worker  | 🐑 Payment b7f2be33-a4b5-4adc-ab4f-89bb4d387f8b processed by default (attempt 1)
+worker  | 🐑 Payment cb3f098f-5bab-4f91-b888-c273dfcd5472 processed by default (attempt 1)
+worker  | 🐑 Payment b37974d1-a033-4ce8-a1a7-0d8fc1134ee7 processed by default (attempt 1)
+worker  | 🐑 Payment bd27145e-5f27-4b9a-bae9-6895f03efb9a processed by default (attempt 1)
+worker  | 🐑 Payment b1dc987e-a755-4936-ab8d-5eddb7af1917 processed by default (attempt 1)
+worker  | 🐑 Payment 833bc766-2e54-49d1-aab1-b1b49c7fd514 processed by default (attempt 1)
+worker  | 🐑 Payment 72dd55f4-6c7f-40f9-83e9-4cc8df055172 processed by default (attempt 1)
+worker  | 🐑 Payment 1f232505-954e-4ba5-b08a-49c5804bbcd6 processed by default (attempt 1)
+worker  | 🐑 Payment 70d0f8c7-f735-4ce4-b741-4b0df124b3a4 processed by default (attempt 1)
+worker  | 🐑 Payment 05b46194-fc9d-48b3-80e3-b61c6c4cb13b processed by default (attempt 1)
+worker  | 🐑 Payment 173e2cd6-d12d-4e50-ad55-a61b54535f3f processed by default (attempt 1)
+worker  | 🐑 Payment 14388e09-75e2-42f3-bf93-7c9985ff0455 processed by default (attempt 1)
+worker  | 🐑 Payment 59918ddf-5e74-43e4-bf05-cf867ac1dc9a processed by default (attempt 1)
+worker  | 🐑 Payment fccb5129-6d25-40c3-9be1-d04057e97e3d processed by default (attempt 1)
+worker  | 🐑 Payment e490e3c2-cee2-4f40-bf78-6c7c64736e49 processed by default (attempt 1)
+worker  | 🐑 Payment 96746bb2-e505-44a8-b977-a5a840c6b66c processed by default (attempt 1)
+worker  | 🐑 Payment 777e08bc-7c5c-4e6a-b115-8172b2f0419a processed by default (attempt 1)
+worker  | 🐑 Payment 3aa06a33-a9c1-448f-8529-78dc5ccd2bf5 processed by default (attempt 1)
+worker  | 🐑 Payment 86309299-5b32-4d57-bee3-e6e6a324ed17 processed by default (attempt 1)
+worker  | 🐑 Payment a460ba97-b88b-4c82-969b-ce83d083beb6 processed by default (attempt 1)
+worker  | 🐑 Payment 382a34b0-8315-4d84-a0ad-7e816713d3c0 processed by default (attempt 1)
+worker  | 🐑 Payment 5e767349-2838-4a4a-b23b-7dcf4582a670 processed by default (attempt 1)
+worker  | 🐑 Payment c49340ef-0c8c-4bbf-897f-8615bad56540 processed by default (attempt 1)
+worker  | 🐑 Payment 63cbab66-b9ae-4aa6-833c-01e9c4e5f479 processed by default (attempt 1)
+worker  | 🐑 Payment 8da617af-83c6-4781-a6d2-9599c3f11c65 processed by default (attempt 1)
+worker  | 🐑 Payment c7da163d-70b4-4717-bd67-e145998de0d4 processed by default (attempt 1)
+worker  | 🐑 Payment dfa6aad3-11ea-4e31-ab1f-7518999ed582 processed by default (attempt 1)
+worker  | 🐑 Payment 05e088ad-f508-4a31-9e45-5a943d602647 processed by default (attempt 1)
+worker  | 🐑 Payment ff801b3d-2930-460a-8aaa-cc97fb61a323 processed by default (attempt 1)
+worker  | 🐑 Payment c325b5a0-2810-4824-aa82-0f2c0fac7bcf processed by default (attempt 1)
+worker  | 🐑 Payment 38c9bc07-4c21-4c3b-9b7b-cf9d793acc05 processed by default (attempt 1)
+worker  | 🐑 Payment 9e6d13f9-e0f4-4219-bea6-8f868dab9e50 processed by default (attempt 1)
+worker  | 🐑 Payment f5dbd49b-7d68-4aca-8f31-e438d323fb60 processed by default (attempt 1)
+worker  | 🐑 Payment 43ec1941-7f05-4413-be1f-51118a42231e processed by default (attempt 1)
+worker  | 🐑 Payment 4b939e3c-f0a4-4691-abc1-4f24bf778949 processed by default (attempt 1)
+worker  | 🐑 Payment 42957522-99ca-41d5-b830-a5e4fc4c9bc7 processed by default (attempt 1)
+worker  | 🐑 Payment edd21e68-472d-4cc4-a6c8-9e98a071db50 processed by default (attempt 1)
+worker  | 🐑 Payment 43f1943a-821d-4491-bce6-3301a89554a1 processed by default (attempt 1)
+worker  | 🐑 Payment 05e24b38-0a14-48cf-8d50-a948684fb006 processed by default (attempt 1)
+worker  | 🐑 Payment 968a1378-df56-40c6-bf9b-544fcdd3f637 processed by default (attempt 1)
+worker  | 🐑 Payment e23e4928-3f40-4853-ad8e-92062ef6150d processed by default (attempt 1)
+worker  | 🐑 Payment 95181b7a-f88d-47b0-b964-654d49577e10 processed by default (attempt 1)
+worker  | 🐑 Payment c837ff98-b92f-4790-9df2-c56d1c857f42 processed by default (attempt 1)
+worker  | 🐑 Payment f46522e2-a391-4536-bd6b-08dec2e13200 processed by default (attempt 1)
+worker  | 🐑 Payment b98b1c44-9ab8-447f-8bb3-93e5b0aaf705 processed by default (attempt 1)
+worker  | 🐑 Payment 9e046c9a-ff9d-48ea-a60f-c8c853529fb4 processed by default (attempt 1)
+worker  | 🐑 Payment c29593ca-fef3-49b2-bcbe-c7bec4f92f75 processed by default (attempt 1)
+worker  | 🐑 Payment a8807860-1a3d-4cfd-8667-6d38d12dfa72 processed by default (attempt 1)
+worker  | 🐑 Payment 3159932a-9828-4705-8f89-76fac7e91131 processed by default (attempt 1)
+worker  | 🐑 Payment de0123b6-da96-4994-b8ba-e2cb78c26671 processed by default (attempt 1)
+worker  | 🐑 Payment e3968957-6e64-4dbd-89f0-c9b99fecddf1 processed by default (attempt 1)
+worker  | 🐑 Payment 7a59b197-3c7c-4930-a1c3-249ddf5fbbc1 processed by default (attempt 1)
+worker  | 🐑 Payment d8cac61f-ee16-4588-bcd5-49d3fc6d18de processed by default (attempt 1)
+worker  | 🐑 Payment 82847ae7-aabc-4282-94ce-c86948e6e84a processed by default (attempt 1)
+worker  | 🐑 Payment b14d617c-722a-4b2f-8ea2-a163a95578c9 processed by default (attempt 1)
+worker  | 🐑 Payment 41384446-d8bb-4ce8-bb2e-5786ccdc4357 processed by default (attempt 1)
+worker  | 🐑 Payment a16285ed-e33f-47b7-a2c5-f5eaf91add74 processed by default (attempt 1)
+worker  | 🐑 Payment 46b99515-96e5-43f6-a264-da1d04c90fec processed by default (attempt 1)
+worker  | 🐑 Payment 26c4c430-eb47-485e-b7b6-9b96e2734553 processed by default (attempt 1)
+worker  | 🐑 Payment 2a2c92b1-d006-495d-a304-e3adbeff625d processed by default (attempt 1)
+worker  | 🐑 Payment 81be7479-9285-4e0d-8c4f-8bbf231e6823 processed by default (attempt 1)
+worker  | 🐑 Payment 24c93620-edf1-4b14-b7a0-f30ae9c39721 processed by default (attempt 1)
+worker  | 🐑 Payment 1d9aaf71-56a7-428c-a5a6-cac9d2772d37 processed by default (attempt 1)
+worker  | 🐑 Payment 9e135e25-55e1-4c4c-87f6-dd185b06d27c processed by default (attempt 1)
+worker  | 🐑 Payment 6c865be8-f0ae-42f0-9866-846cca7accff processed by default (attempt 1)
+worker  | 🐑 Payment 27467279-ee40-4c8b-8198-5c693ace8d52 processed by default (attempt 1)
+worker  | 🐑 Payment 7bcc8ff3-fcc5-4989-8611-c89fac74fb15 processed by default (attempt 1)
+worker  | 🐑 Payment f8d56c93-02e7-4dd4-8543-61ca368318bf processed by default (attempt 1)
+worker  | 🐑 Payment de275131-c253-4a82-be41-fa4161af3277 processed by default (attempt 1)
+worker  | 🐑 Payment 0deaa9d6-a1a5-44a7-8ecf-f70da417a6b5 processed by default (attempt 1)
+worker  | 🐑 Payment 8b1b8476-4e77-4cef-9187-f651fe852c1a processed by default (attempt 1)
+worker  | 🐑 Payment 0cd146d4-91bd-4bda-a32d-9b3ef9e7ed26 processed by default (attempt 1)
+worker  | 🐑 Payment f94204ac-9e4f-4ac5-b608-361af09489b2 processed by default (attempt 1)
+worker  | 🐑 Payment 4e039698-de7b-4bb4-9990-ca46814c8668 processed by default (attempt 1)
+worker  | 🐑 Payment 30e07f5e-679e-40ab-9d1f-84e16c14b936 processed by default (attempt 1)
+worker  | 🐑 Payment 60a65cb5-8422-41ec-8b7f-22467e7159fe processed by default (attempt 1)
+worker  | 🐑 Payment d9e95a82-4471-452d-870a-a8833cc3b617 processed by default (attempt 1)
+worker  | 🐑 Payment 196084dc-41c3-493d-8566-e6cffa066791 processed by default (attempt 1)
+worker  | 🐑 Payment a18f0f3e-ff5b-42cf-bed5-5511b59a71c2 processed by default (attempt 1)
+worker  | 🐑 Payment a5ff7fac-ac1b-414d-9648-9fde498284ad processed by default (attempt 1)
+worker  | 🐑 Payment da8c61e7-5d3b-41e0-92b8-2d01e33304c2 processed by default (attempt 1)
+worker  | 🐑 Payment bca0d8d6-1f0c-48a2-9f80-e7b16b0c90df processed by default (attempt 1)
+worker  | 🐑 Payment d212bfcd-bbaf-4a9b-b593-6bfa55817af7 processed by default (attempt 1)
+worker  | 🐑 Payment 360ed62b-4b65-4ae3-8dcc-7697af910988 processed by default (attempt 1)
+worker  | 🐑 Payment 77b98e6d-79d8-4e37-be66-708a04bc63a8 processed by default (attempt 1)
+worker  | 🐑 Payment b01b98e1-cf49-477b-9a19-a30088e72c42 processed by default (attempt 1)
+worker  | 🐑 Payment 396099b7-d1e2-4475-b3bb-33d9bf7eadff processed by default (attempt 1)
+worker  | 🐑 Payment d1d38898-1101-42e4-a543-2665ae928023 processed by default (attempt 1)
+worker  | 🐑 Payment 746f0f0c-d6ad-4ce0-9fbb-b6a176de1701 processed by default (attempt 1)
+worker  | 🐑 Payment 52f525df-6096-440d-a412-d17cce8b6ba5 processed by default (attempt 1)
+worker  | 🐑 Payment 9cf75ebb-b23d-460c-90be-ae6c4afc0bc5 processed by default (attempt 1)
+worker  | 🐑 Payment f45ae3a3-5e90-4d9e-aa27-7050404f75ad processed by default (attempt 1)
+worker  | 🐑 Payment 32bd033d-a1aa-47d5-af6f-f6c59c01697d processed by default (attempt 1)
+worker  | 🐑 Payment 45fb4474-1cae-4f91-ab97-518a3791883d processed by default (attempt 1)
+worker  | 🐑 Payment 6811c919-a251-4144-b913-10fd543c2c38 processed by default (attempt 1)
+worker  | 🐑 Payment 953b5de1-b3d2-4eca-bf38-86b6652bc69f processed by default (attempt 1)
+worker  | 🐑 Payment 709b8f60-444e-4ab1-824c-a6891f310346 processed by default (attempt 1)
+worker  | 🐑 Payment 3f7de9c6-2613-43ed-9423-8d7342ae83d4 processed by default (attempt 1)
+worker  | 🐑 Payment 9589f05e-24b9-44e8-afd2-7a72c5263dd5 processed by default (attempt 1)
+worker  | 🐑 Payment 1879a136-0968-41df-b411-57a59300f529 processed by default (attempt 1)
+worker  | 🐑 Payment 3db731fe-9e01-448d-9486-f8920c2e3bdf processed by default (attempt 1)
+worker  | 🐑 Payment ad31b086-6d03-42db-aab4-91a3e8b8799f processed by default (attempt 1)
+worker  | 🐑 Payment aed1c5d6-92f7-45ca-a5b7-2e5abec4d888 processed by default (attempt 1)
+worker  | 🐑 Payment 0d4858a8-3a8a-4bfc-9f6a-f25a3f44ff2f processed by default (attempt 1)
+worker  | 🐑 Payment 94f69cf3-6102-496c-9816-e9aac90e1c8f processed by default (attempt 1)
+worker  | 🐑 Payment 4b770dc2-6c04-4aa2-a8bf-e0cf0413336c processed by default (attempt 1)
+worker  | 🐑 Payment 9c00ff42-c93c-4f72-92b5-16b561b04b39 processed by default (attempt 1)
+worker  | 🐑 Payment 5c27fbcb-dd79-4a44-8ad5-dbd8885764ca processed by default (attempt 1)
+worker  | 🐑 Payment eb7519e7-123f-449b-9770-553e40d9f628 processed by default (attempt 1)
+worker  | 🐑 Payment 7b4b72e9-ff1a-4f49-89f7-f692911ff6ad processed by default (attempt 1)
+worker  | 🐑 Payment 2561328f-817e-43aa-85d4-6bfab0256528 processed by default (attempt 1)
+worker  | 🐑 Payment daa9afc4-57a1-4c66-883b-491d75914154 processed by default (attempt 1)
+worker  | 🐑 Payment b3e440cd-9441-4063-9fc9-17813418d9e6 processed by default (attempt 1)
+worker  | 🐑 Payment 020bf45f-2b45-482f-9e20-e693130e9042 processed by default (attempt 1)
+worker  | 🐑 Payment c7042ea9-078d-4154-8082-91391c0f8840 processed by default (attempt 1)
+worker  | 🐑 Payment 95493eda-0d90-4128-ac8d-e4e42cf7c99a processed by default (attempt 1)
+worker  | 🐑 Payment 46903023-cea7-4f4b-bf49-343d7b892084 processed by default (attempt 1)
+worker  | 🐑 Payment 01ef73e4-2315-45c6-b120-5aa7836cf37d processed by default (attempt 1)
+worker  | 🐑 Payment 150ae919-4711-40fe-8de1-c2e5777d0507 processed by default (attempt 1)
+worker  | 🐑 Payment 40df2420-aecd-48db-988f-39b45fa8be52 processed by default (attempt 1)
+worker  | 🐑 Payment a720d52c-34fb-4ed5-b186-ab3b7f5bfd7c processed by default (attempt 1)
+worker  | 🐑 Payment 3022b42d-a3ec-4dc0-9a91-49fb21691a93 processed by default (attempt 1)
+worker  | 🐑 Payment fb75c190-aed8-4114-b961-745a39b77e33 processed by default (attempt 1)
+worker  | 🐑 Payment d7fb907f-fd66-4d98-a8ca-059add16189b processed by default (attempt 1)
+worker  | 🐑 Payment 5454d210-96f2-4497-be96-51f7bb90e338 processed by default (attempt 1)
+worker  | 🐑 Payment afa0d72a-c5a4-4eef-8052-6fa52ac7f61c processed by default (attempt 1)
+worker  | 🐑 Payment d375c3cd-794e-49a4-af12-ef84122978d6 processed by default (attempt 1)
+worker  | 🐑 Payment b1f71844-996e-44ba-9cfe-551a771f29d3 processed by default (attempt 1)
+worker  | 🐑 Payment 8b31d138-97b0-435f-b96f-8eed04f0f2e1 processed by default (attempt 1)
+worker  | 🐑 Payment e36c0585-8c44-4274-ab4c-7f4ed3729cb4 processed by default (attempt 1)
+worker  | 🐑 Payment a6e2b442-d98b-43f7-a37c-3576e4fc96e8 processed by default (attempt 1)
+worker  | 🐑 Payment ebb65b94-cb01-466c-81de-e5a07937ec78 processed by default (attempt 1)
+worker  | 🐑 Payment 7d892c82-f7d0-4049-a261-1c9a19f29b1d processed by default (attempt 1)
+worker  | 🐑 Payment 3b397952-1f2d-4405-abf7-d940051c5db0 processed by default (attempt 1)
+worker  | 🐑 Payment 7c5939c2-817f-4929-910e-ff3933dda275 processed by default (attempt 1)
+worker  | 🐑 Payment 3f68bd8d-da72-4eb3-b61b-10bda56200cc processed by default (attempt 1)
+worker  | 🐑 Payment ef3a8325-a9ee-40a2-9e15-e409c94ebec4 processed by default (attempt 1)
+worker  | 🐑 Payment 1121b519-d612-408e-a146-dbbd68576155 processed by default (attempt 1)
+worker  | 🐑 Payment 076c876d-f54b-401e-804e-9bdd2460d3cf processed by default (attempt 1)
+worker  | 🐑 Payment 917d42e6-dbf4-4c6f-853a-98232bdbd75a processed by default (attempt 1)
+worker  | 🐑 Payment 8954d285-9f3c-4534-b76a-e22597f417b2 processed by default (attempt 1)
+worker  | 🐑 Payment 74315ff9-32e6-416d-bd89-5f2bcfba82d5 processed by default (attempt 1)
+worker  | 🐑 Payment fbe2d6f4-0617-4ec6-a35e-38fd4e3e8d1a processed by default (attempt 1)
+worker  | 🐑 Payment 9c8028d8-d26f-4502-b984-fbaf413e9ace processed by default (attempt 1)
+worker  | 🐑 Payment 1e3e830b-00dc-4f08-a3b6-7b64e147a058 processed by default (attempt 1)
+worker  | 🐑 Payment 8b89a3ad-050d-4f9d-96a8-80c30aec42a8 processed by default (attempt 1)
+worker  | 🐑 Payment d7efd89a-fcfb-4874-9894-9adc0befc1cf processed by default (attempt 1)
+worker  | 🐑 Payment 40d13553-115b-494f-9409-1dbf0623f483 processed by default (attempt 1)
+worker  | 🐑 Payment f077aa3d-b2b2-4be0-927b-391221e0da45 processed by default (attempt 1)
+worker  | 🐑 Payment 553def4c-a05b-4df7-8016-f974e3331907 processed by default (attempt 1)
+worker  | 🐑 Payment d9d0eaae-c413-47cf-940d-5cecf042de03 processed by default (attempt 1)
+worker  | 🐑 Payment 652a5748-6d24-4ef7-b0f8-1307a4245b43 processed by default (attempt 1)
+worker  | 🐑 Payment 02e3c625-595b-4a8b-b2a6-e3db31464369 processed by default (attempt 1)
+worker  | 🐑 Payment 452fe121-c4ce-4ac0-be61-09fe8c7f18f9 processed by default (attempt 1)
+worker  | 🐑 Payment 04fc66b1-7cf1-4df7-80b8-f0f9cee826e9 processed by default (attempt 1)
+worker  | 🐑 Payment 984d07d3-73da-434a-b6ad-8b92358c5bb8 processed by default (attempt 1)
+worker  | 🐑 Payment 3e0830c9-3586-4928-b1ef-06e2a17eb3e1 processed by default (attempt 1)
+worker  | 🐑 Payment 4d2b7b24-e3cc-41ad-a492-a62269ab4b37 processed by default (attempt 1)
+worker  | 🐑 Payment 5727e8b1-9859-4a4c-887f-16d656771178 processed by default (attempt 1)
+worker  | 🐑 Payment c822f2b0-1300-4312-bdb5-c46ded2e9e15 processed by default (attempt 1)
+worker  | 🐑 Payment faac6485-e45c-49af-bd3a-8d4a2afeb7a5 processed by default (attempt 1)
+worker  | 🐑 Payment 12fc8eef-3fb1-451d-9c55-78049c352273 processed by default (attempt 1)
+worker  | 🐑 Payment 7b49c2d1-2679-4fb4-a7df-74751cd4d102 processed by default (attempt 1)
+worker  | 🐑 Payment 8a60f8c7-424a-4017-88cd-784540b74844 processed by default (attempt 1)
+worker  | 🐑 Payment 2654a307-82a4-4534-9bd7-e37bece25b03 processed by default (attempt 1)
+worker  | 🐑 Payment 438a3688-3109-4e3e-9cce-2d7e942d3bc5 processed by default (attempt 1)
+worker  | 🐑 Payment df016549-c7e3-4978-8fc9-db21ef4761e7 processed by default (attempt 1)
+worker  | 🐑 Payment 00ee8a50-36fd-4538-b17e-17bfcd71d838 processed by default (attempt 1)
+worker  | 🐑 Payment d251ee17-9f38-4ac0-9bc8-d0088ab847be processed by default (attempt 1)
+worker  | 🐑 Payment e7f9cc23-6df6-40ef-a8fa-b3e1a16d70aa processed by default (attempt 1)
+worker  | 🐑 Payment 958af2c7-356b-4ea3-97ed-bd847f745db8 processed by default (attempt 1)
+worker  | 🐑 Payment dd8b7e82-5e3b-4637-ae81-b8354536c70a processed by default (attempt 1)
+worker  | 🐑 Payment 72cd19cf-6e3d-4f2e-9821-506fd68dbbae processed by default (attempt 1)
+worker  | 🐑 Payment 8d045735-454e-404b-9df0-b4ec6b275361 processed by default (attempt 1)
+worker  | 🐑 Payment a212c077-54d6-4187-9e76-89ef0f983005 processed by default (attempt 1)
+worker  | 🐑 Payment b0a20d52-98f8-48d0-9964-822b5214bbf4 processed by default (attempt 1)
+worker  | 🐑 Payment 1b5ada03-6984-42f9-a4d0-bc48ab33b850 processed by default (attempt 1)
+worker  | 🐑 Payment 0c0c0b66-f3f5-4e2e-ace6-5d989994b210 processed by default (attempt 1)
+worker  | 🐑 Payment 6f98b299-dcd0-4951-95a7-322d07276246 processed by default (attempt 1)
+worker  | 🐑 Payment e8619a41-4f75-4561-9c05-b0a0992f9a4f processed by default (attempt 1)
+worker  | 🐑 Payment 539f91db-7aa7-4cdc-b130-0d0caecd6fd3 processed by default (attempt 1)
+worker  | 🐑 Payment df39a064-ae4d-4475-bd3e-d01fae8ec46d processed by default (attempt 1)
+worker  | 🐑 Payment 7a6afa70-e978-4ab7-842c-dda6aeefdf5f processed by default (attempt 1)
+worker  | 🐑 Payment b8514a2e-7509-471b-a203-009573c8e987 processed by default (attempt 1)
+worker  | 🐑 Payment fe3080bc-894f-4e31-9dfe-185f9028a4af processed by default (attempt 1)
+worker  | 🐑 Payment 8f5f757a-200c-4f29-a3a5-46894d0623c1 processed by default (attempt 1)
+worker  | 🐑 Payment 4425c78d-87d7-4d78-982a-225b924803e2 processed by default (attempt 1)
+worker  | 🐑 Payment 2cc3f3fb-234b-45a5-822e-4f68f903d311 processed by default (attempt 1)
+worker  | 🐑 Payment 07fad855-c9cb-4d59-a5d4-4232c7ed6391 processed by default (attempt 1)
+worker  | 🐑 Payment 130e362e-8806-46f5-9933-17757d5e91bc processed by default (attempt 1)
+worker  | 🐑 Payment 19f8bd21-8477-425d-8f47-91d5dc27e12c processed by default (attempt 1)
+worker  | 🐑 Payment dbd8c3b4-4bc1-4d57-b1ad-270b8d91373f processed by default (attempt 1)
+worker  | 🐑 Payment 585760a0-267a-43a8-800a-307473f2ba68 processed by default (attempt 1)
+worker  | 🐑 Payment 858c339a-701f-44c3-8f95-b6c9b5705b8c processed by default (attempt 1)
+worker  | 🐑 Payment be0cff6c-0fdb-4c51-9677-011cc885b204 processed by default (attempt 1)
+worker  | 🐑 Payment 55e65ed7-07b0-4f7e-99de-bcce87295271 processed by default (attempt 1)
+worker  | 🐑 Payment db5f5d43-0c10-48df-94c0-3dbd33431274 processed by default (attempt 1)
+worker  | 🐑 Payment 1ff02ddf-85f0-43af-9aad-0d429dbad428 processed by default (attempt 1)
+worker  | 🐑 Payment 02812821-6426-4062-9e7f-605ab30f3fd2 processed by default (attempt 1)
+worker  | 🐑 Payment c250e356-ff5a-404e-b47a-f8fc5f7d35b5 processed by default (attempt 1)
+worker  | 🐑 Payment 5433fcc8-7729-4f1c-aa9e-c1f89e93044a processed by default (attempt 1)
+worker  | 🐑 Payment a1c40c5c-8084-400b-9c7c-c03a0016bbd0 processed by default (attempt 1)
+worker  | 🐑 Payment de720294-6f6a-47b7-800b-8b5fa1625231 processed by default (attempt 1)
+worker  | 🐑 Payment f85210a8-f2e9-4c01-b75a-2bc094864b87 processed by default (attempt 1)
+worker  | 🐑 Payment efca7a42-38bc-4afd-8687-62aef9dc1104 processed by default (attempt 1)
+worker  | 🐑 Payment 11a22fac-2c8b-4afb-ba88-2219d7a65986 processed by default (attempt 1)
+worker  | 🐑 Payment 3f4d509a-07b1-4dd1-a6cb-964b7a81192d processed by default (attempt 1)
+worker  | 🐑 Payment 9f45e59c-3d42-478a-bd25-f189701bf370 processed by default (attempt 1)
+worker  | 🐑 Payment 04ee45c1-0e0f-4605-9c03-b8ce9679d82a processed by default (attempt 1)
+worker  | 🐑 Payment efe8f9b4-8945-4d85-b0da-c8cad49fb6b3 processed by default (attempt 1)
+worker  | 🐑 Payment 866739e9-5a57-4502-859b-d3a6be441d5a processed by default (attempt 1)
+worker  | 🐑 Payment 23e10259-cbbf-48b4-93ee-f1165108566a processed by default (attempt 1)
+worker  | 🐑 Payment a1db2a3e-c278-4cfd-b52b-d2ff3ff6bed0 processed by default (attempt 1)
+worker  | 🐑 Payment 30eec110-adfb-4cf3-82c6-87527306eade processed by default (attempt 1)
+worker  | 🐑 Payment 288b5508-78fe-4574-b155-2662b2cbfb29 processed by default (attempt 1)
+worker  | 🐑 Payment 6cdf82db-8446-46fd-bf98-686ea618ede5 processed by default (attempt 1)
+worker  | 🐑 Payment 2cde6844-3b2d-4ebe-b4cc-238d9b7bcb83 processed by default (attempt 1)
+worker  | 🐑 Payment 353a2a67-211e-4a9e-857e-25a25fa1935d processed by default (attempt 1)
+worker  | 🐑 Payment 0d60dcaf-29a9-4657-9d64-d341ea24157e processed by default (attempt 1)
+worker  | 🐑 Payment 7a8e71b0-c81a-4632-82e6-0273de50dfd3 processed by default (attempt 1)
+worker  | 🐑 Payment 1455d294-5d44-4300-a08f-1333fb3d8464 processed by default (attempt 1)
+worker  | 🐑 Payment b4ff3dd0-520a-430b-865c-55ff1eb6ce07 processed by default (attempt 1)
+worker  | 🐑 Payment d755d554-50d0-44f5-92b5-c657282bef52 processed by default (attempt 1)
+worker  | 🐑 Payment 775488ca-ca07-42b7-bae9-c31f477cc3a3 processed by default (attempt 1)
+worker  | 🐑 Payment 7f65690f-0a63-4d1d-bfb7-22f52d8eb908 processed by default (attempt 1)
+worker  | 🐑 Payment e7704d31-c59d-498c-8dd6-52ca2735aafb processed by default (attempt 1)
+worker  | 🐑 Payment af20d9ba-f8e5-4206-8e37-f3bcd84486fa processed by default (attempt 1)
+worker  | 🐑 Payment e5770e95-74bc-48f2-981c-149a8eb53486 processed by default (attempt 1)
+worker  | 🐑 Payment d7411f45-0008-40e5-acdd-0cfe7b4a3356 processed by default (attempt 1)
+worker  | 🐑 Payment 67b96a1d-f8d6-4b29-a0a0-be058bd41c71 processed by default (attempt 1)
+worker  | 🐑 Payment 1b20a3d6-d8f7-4050-bd27-ea9b08ae1ed1 processed by default (attempt 1)
+worker  | 🐑 Payment 5dd3e2fe-f25d-4ed0-a171-79e1abad3393 processed by default (attempt 1)
+worker  | 🐑 Payment 29c032cc-dacc-44e4-8204-8b5af9be44cf processed by default (attempt 1)
+worker  | 🐑 Payment 6474ee42-7757-4e30-b770-3dcb8925c8cf processed by default (attempt 1)
+log truncated at line 1000

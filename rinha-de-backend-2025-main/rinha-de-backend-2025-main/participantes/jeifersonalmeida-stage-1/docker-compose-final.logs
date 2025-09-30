@@ -1,0 +1,163 @@
+
+time="2025-08-21T00:46:31Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/jeifersonalmeida-stage-1/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ api-2 Pulling 
+ haproxy Pulling 
+ api-1 Pulling 
+ api-3 Pulling 
+ 9824c27679d3 Already exists 
+ 1d9ce70291c9 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ eeb33e0326d1 Pulling fs layer 
+ 396b1da7636e Already exists 
+ 58c790b8c8b0 Pulling fs layer 
+ 563104a8bb5d Pulling fs layer 
+ 7d7062f5e9d2 Pulling fs layer 
+ 8c07dde4b930 Pulling fs layer 
+ 563104a8bb5d Waiting 
+ 7d7062f5e9d2 Waiting 
+ 8c07dde4b930 Waiting 
+ 58c790b8c8b0 Waiting 
+ 9824c27679d3 Already exists 
+ 1d9ce70291c9 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ eeb33e0326d1 Pulling fs layer 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 9824c27679d3 Already exists 
+ 1d9ce70291c9 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ eeb33e0326d1 Pulling fs layer 
+ 4f4fb700ef54 Download complete 
+ eeb33e0326d1 Downloading [>                                                  ]  63.24kB/6.081MB
+ eeb33e0326d1 Downloading [>                                                  ]  63.24kB/6.081MB
+ eeb33e0326d1 Downloading [>                                                  ]  63.24kB/6.081MB
+ eeb33e0326d1 Downloading [===================================>               ]   4.26MB/6.081MB
+ eeb33e0326d1 Downloading [===================================>               ]   4.26MB/6.081MB
+ eeb33e0326d1 Downloading [===================================>               ]   4.26MB/6.081MB
+ 1d9ce70291c9 Downloading [>                                                  ]  3.745kB/282.4kB
+ 1d9ce70291c9 Downloading [>                                                  ]  3.745kB/282.4kB
+ 1d9ce70291c9 Downloading [>                                                  ]  3.745kB/282.4kB
+ 1d9ce70291c9 Downloading [==================================================>]  282.4kB/282.4kB
+ 1d9ce70291c9 Verifying Checksum 
+ 1d9ce70291c9 Downloading [==================================================>]  282.4kB/282.4kB
+ 1d9ce70291c9 Download complete 
+ 1d9ce70291c9 Downloading [==================================================>]  282.4kB/282.4kB
+ 1d9ce70291c9 Download complete 
+ 1d9ce70291c9 Extracting [=====>                                             ]  32.77kB/282.4kB
+ 1d9ce70291c9 Extracting [=====>                                             ]  32.77kB/282.4kB
+ 1d9ce70291c9 Extracting [=====>                                             ]  32.77kB/282.4kB
+ eeb33e0326d1 Verifying Checksum 
+ eeb33e0326d1 Download complete 
+ eeb33e0326d1 Verifying Checksum 
+ eeb33e0326d1 Download complete 
+ eeb33e0326d1 Verifying Checksum 
+ eeb33e0326d1 Download complete 
+ 1d9ce70291c9 Extracting [==================================================>]  282.4kB/282.4kB
+ 1d9ce70291c9 Extracting [==================================================>]  282.4kB/282.4kB
+ 1d9ce70291c9 Extracting [==================================================>]  282.4kB/282.4kB
+ 1d9ce70291c9 Extracting [==================================================>]  282.4kB/282.4kB
+ 1d9ce70291c9 Extracting [==================================================>]  282.4kB/282.4kB
+ 1d9ce70291c9 Extracting [==================================================>]  282.4kB/282.4kB
+ 58c790b8c8b0 Downloading [>                                                  ]  13.37kB/1.277MB
+ 58c790b8c8b0 Downloading [==================================================>]  1.277MB/1.277MB
+ 58c790b8c8b0 Verifying Checksum 
+ 58c790b8c8b0 Download complete 
+ 58c790b8c8b0 Extracting [=>                                                 ]  32.77kB/1.277MB
+ 1d9ce70291c9 Pull complete 
+ 1d9ce70291c9 Pull complete 
+ 1d9ce70291c9 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ eeb33e0326d1 Extracting [>                                                  ]  65.54kB/6.081MB
+ eeb33e0326d1 Extracting [>                                                  ]  65.54kB/6.081MB
+ eeb33e0326d1 Extracting [>                                                  ]  65.54kB/6.081MB
+ 58c790b8c8b0 Extracting [================================>                  ]  819.2kB/1.277MB
+ 58c790b8c8b0 Extracting [==================================================>]  1.277MB/1.277MB
+ 58c790b8c8b0 Extracting [==================================================>]  1.277MB/1.277MB
+ eeb33e0326d1 Extracting [==================================================>]  6.081MB/6.081MB
+ eeb33e0326d1 Extracting [==================================================>]  6.081MB/6.081MB
+ eeb33e0326d1 Extracting [==================================================>]  6.081MB/6.081MB
+ eeb33e0326d1 Pull complete 
+ eeb33e0326d1 Pull complete 
+ eeb33e0326d1 Pull complete 
+ 58c790b8c8b0 Pull complete 
+ api-1 Pulled 
+ api-3 Pulled 
+ api-2 Pulled 
+ 563104a8bb5d Downloading [=============================================>     ]  1.049kB/1.155kB
+ 563104a8bb5d Downloading [==================================================>]  1.155kB/1.155kB
+ 563104a8bb5d Verifying Checksum 
+ 563104a8bb5d Download complete 
+ 563104a8bb5d Extracting [==================================================>]  1.155kB/1.155kB
+ 563104a8bb5d Extracting [==================================================>]  1.155kB/1.155kB
+ 563104a8bb5d Pull complete 
+ 8c07dde4b930 Downloading [==================================================>]     449B/449B
+ 8c07dde4b930 Verifying Checksum 
+ 8c07dde4b930 Download complete 
+ 7d7062f5e9d2 Downloading [>                                                  ]  80.05kB/7.693MB
+ 7d7062f5e9d2 Downloading [==================>                                ]  2.867MB/7.693MB
+ 7d7062f5e9d2 Downloading [================================>                  ]  4.944MB/7.693MB
+ 7d7062f5e9d2 Verifying Checksum 
+ 7d7062f5e9d2 Download complete 
+ 7d7062f5e9d2 Extracting [>                                                  ]   98.3kB/7.693MB
+ 7d7062f5e9d2 Extracting [===========================================>       ]  6.685MB/7.693MB
+ 7d7062f5e9d2 Extracting [==================================================>]  7.693MB/7.693MB
+ 7d7062f5e9d2 Pull complete 
+ 8c07dde4b930 Extracting [==================================================>]     449B/449B
+ 8c07dde4b930 Extracting [==================================================>]     449B/449B
+ 8c07dde4b930 Pull complete 
+ haproxy Pulled 
+ Network rinha-network  Creating
+ Network rinha-network  Created
+ Container api-3  Creating
+ Container api-1  Creating
+ Container api-2  Creating
+ Container api-3  Created
+ Container api-2  Created
+ Container api-1  Created
+ Container haproxy  Creating
+ Container haproxy  Created
+Attaching to api-1, api-2, api-3, haproxy
+api-2  | 
+api-2  |  ┌───────────────────────────────────────────────────┐ 
+api-2  |  │                   Fiber v2.52.9                   │ 
+api-2  |  │               http://127.0.0.1:8080               │ 
+api-2  |  │       (bound on host 0.0.0.0 and port 8080)       │ 
+api-2  |  │                                                   │ 
+api-2  |  │ Handlers ............. 8  Processes ........... 1 │ 
+api-2  |  │ Prefork ....... Disabled  PID ................. 1 │ 
+api-2  |  └───────────────────────────────────────────────────┘ 
+api-2  | 
+api-3  | 
+api-3  |  ┌───────────────────────────────────────────────────┐ 
+api-3  |  │                   Fiber v2.52.9                   │ 
+api-3  |  │               http://127.0.0.1:8080               │ 
+api-3  |  │       (bound on host 0.0.0.0 and port 8080)       │ 
+api-3  |  │                                                   │ 
+api-3  |  │ Handlers ............. 8  Processes ........... 1 │ 
+api-3  |  │ Prefork ....... Disabled  PID ................. 1 │ 
+api-3  |  └───────────────────────────────────────────────────┘ 
+api-3  | 
+api-1  | Starting circuit controller
+api-1  | 
+api-1  |  ┌───────────────────────────────────────────────────┐ 
+api-1  |  │                   Fiber v2.52.9                   │ 
+api-1  |  │               http://127.0.0.1:8080               │ 
+api-1  |  │       (bound on host 0.0.0.0 and port 8080)       │ 
+api-1  |  │                                                   │ 
+api-1  |  │ Handlers ............. 8  Processes ........... 1 │ 
+api-1  |  │ Prefork ....... Disabled  PID ................. 1 │ 
+api-1  |  └───────────────────────────────────────────────────┘ 
+api-1  | 
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint haproxy (2ec15d98a84300ac80ef5a1955975bea3ee644b809549578239e16be5785f559): Bind for 0.0.0.0:9999 failed: port is already allocated
+log truncated at line 1000

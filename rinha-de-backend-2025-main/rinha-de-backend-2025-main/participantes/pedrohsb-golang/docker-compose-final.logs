@@ -1,0 +1,126 @@
+
+ memdb Pulling 
+ app1 Pulling 
+ app2 Pulling 
+ 9824c27679d3 Already exists 
+ aba465d72fe4 Pulling fs layer 
+ 8a983b513258 Pulling fs layer 
+ 086ee7769090 Pulling fs layer 
+ 9824c27679d3 Already exists 
+ aba465d72fe4 Pulling fs layer 
+ 8a983b513258 Pulling fs layer 
+ 086ee7769090 Pulling fs layer 
+ 9824c27679d3 Already exists 
+ aba465d72fe4 Pulling fs layer 
+ 8a983b513258 Pulling fs layer 
+ 086ee7769090 Pulling fs layer 
+ 8a983b513258 Downloading [==================================================>]      92B/92B
+ 8a983b513258 Verifying Checksum 
+ 8a983b513258 Download complete 
+ 8a983b513258 Downloading [==================================================>]      92B/92B
+ 8a983b513258 Verifying Checksum 
+ 8a983b513258 Download complete 
+ 8a983b513258 Downloading [==================================================>]      92B/92B
+ 8a983b513258 Verifying Checksum 
+ 8a983b513258 Download complete 
+ aba465d72fe4 Downloading [>                                                  ]  4.107kB/282.4kB
+ aba465d72fe4 Downloading [>                                                  ]  4.107kB/282.4kB
+ aba465d72fe4 Downloading [>                                                  ]  4.107kB/282.4kB
+ aba465d72fe4 Downloading [=======================>                           ]  135.3kB/282.4kB
+ aba465d72fe4 Downloading [=======================>                           ]  135.3kB/282.4kB
+ aba465d72fe4 Downloading [=======================>                           ]  135.3kB/282.4kB
+ aba465d72fe4 Downloading [==================================================>]  282.4kB/282.4kB
+ aba465d72fe4 Verifying Checksum 
+ aba465d72fe4 Download complete 
+ aba465d72fe4 Downloading [==================================================>]  282.4kB/282.4kB
+ aba465d72fe4 Verifying Checksum 
+ aba465d72fe4 Verifying Checksum 
+ aba465d72fe4 Download complete 
+ aba465d72fe4 Download complete 
+ aba465d72fe4 Extracting [=====>                                             ]  32.77kB/282.4kB
+ aba465d72fe4 Extracting [=====>                                             ]  32.77kB/282.4kB
+ aba465d72fe4 Extracting [=====>                                             ]  32.77kB/282.4kB
+ 086ee7769090 Downloading [>                                                  ]  115.2kB/11.43MB
+ 086ee7769090 Downloading [>                                                  ]  115.2kB/11.43MB
+ 086ee7769090 Downloading [>                                                  ]  115.2kB/11.43MB
+ aba465d72fe4 Extracting [==================================================>]  282.4kB/282.4kB
+ aba465d72fe4 Extracting [==================================================>]  282.4kB/282.4kB
+ aba465d72fe4 Extracting [==================================================>]  282.4kB/282.4kB
+ aba465d72fe4 Extracting [==================================================>]  282.4kB/282.4kB
+ aba465d72fe4 Extracting [==================================================>]  282.4kB/282.4kB
+ aba465d72fe4 Extracting [==================================================>]  282.4kB/282.4kB
+ aba465d72fe4 Pull complete 
+ aba465d72fe4 Pull complete 
+ aba465d72fe4 Pull complete 
+ 086ee7769090 Downloading [=>                                                 ]  245.8kB/11.43MB
+ 086ee7769090 Downloading [=>                                                 ]  245.8kB/11.43MB
+ 086ee7769090 Downloading [=>                                                 ]  245.8kB/11.43MB
+ 8a983b513258 Extracting [==================================================>]      92B/92B
+ 8a983b513258 Extracting [==================================================>]      92B/92B
+ 8a983b513258 Extracting [==================================================>]      92B/92B
+ 8a983b513258 Extracting [==================================================>]      92B/92B
+ 8a983b513258 Extracting [==================================================>]      92B/92B
+ 8a983b513258 Extracting [==================================================>]      92B/92B
+ 8a983b513258 Pull complete 
+ 8a983b513258 Pull complete 
+ 8a983b513258 Pull complete 
+ 086ee7769090 Downloading [==>                                                ]  589.8kB/11.43MB
+ 086ee7769090 Downloading [==>                                                ]  589.8kB/11.43MB
+ 086ee7769090 Downloading [==>                                                ]  589.8kB/11.43MB
+ 086ee7769090 Downloading [=====>                                             ]  1.163MB/11.43MB
+ 086ee7769090 Downloading [=====>                                             ]  1.163MB/11.43MB
+ 086ee7769090 Downloading [=====>                                             ]  1.163MB/11.43MB
+ 086ee7769090 Downloading [=========>                                         ]  2.195MB/11.43MB
+ 086ee7769090 Downloading [=========>                                         ]  2.195MB/11.43MB
+ 086ee7769090 Downloading [=========>                                         ]  2.195MB/11.43MB
+ 086ee7769090 Downloading [================>                                  ]  3.842MB/11.43MB
+ 086ee7769090 Downloading [================>                                  ]  3.842MB/11.43MB
+ 086ee7769090 Downloading [================>                                  ]  3.842MB/11.43MB
+ 086ee7769090 Downloading [================================>                  ]  7.361MB/11.43MB
+ 086ee7769090 Downloading [================================>                  ]  7.361MB/11.43MB
+ 086ee7769090 Downloading [================================>                  ]  7.361MB/11.43MB
+ 086ee7769090 Downloading [=============================================>     ]  10.49MB/11.43MB
+ 086ee7769090 Downloading [=============================================>     ]  10.49MB/11.43MB
+ 086ee7769090 Downloading [=============================================>     ]  10.49MB/11.43MB
+ 086ee7769090 Downloading [==================================================>]  11.43MB/11.43MB
+ 086ee7769090 Verifying Checksum 
+ 086ee7769090 Download complete 
+ 086ee7769090 Downloading [==================================================>]  11.43MB/11.43MB
+ 086ee7769090 Downloading [==================================================>]  11.43MB/11.43MB
+ 086ee7769090 Verifying Checksum 
+ 086ee7769090 Download complete 
+ 086ee7769090 Verifying Checksum 
+ 086ee7769090 Download complete 
+ 086ee7769090 Extracting [>                                                  ]  131.1kB/11.43MB
+ 086ee7769090 Extracting [>                                                  ]  131.1kB/11.43MB
+ 086ee7769090 Extracting [>                                                  ]  131.1kB/11.43MB
+ 086ee7769090 Extracting [===============================================>   ]  10.88MB/11.43MB
+ 086ee7769090 Extracting [===============================================>   ]  10.88MB/11.43MB
+ 086ee7769090 Extracting [===============================================>   ]  10.88MB/11.43MB
+ 086ee7769090 Extracting [==================================================>]  11.43MB/11.43MB
+ 086ee7769090 Extracting [==================================================>]  11.43MB/11.43MB
+ 086ee7769090 Extracting [==================================================>]  11.43MB/11.43MB
+ 086ee7769090 Pull complete 
+ 086ee7769090 Pull complete 
+ 086ee7769090 Pull complete 
+ app1 Pulled 
+ memdb Pulled 
+ app2 Pulled 
+ Network pedrohsb-golang_backend  Creating
+ Network pedrohsb-golang_backend  Created
+ Volume "pedrohsb-golang_memsock"  Creating
+ Volume "pedrohsb-golang_memsock"  Created
+ Container pedrohsb-golang-memdb-1  Creating
+ Container pedrohsb-golang-memdb-1  Created
+ Container pedrohsb-golang-app1-1  Creating
+ Container pedrohsb-golang-app2-1  Creating
+ Container pedrohsb-golang-app2-1  Created
+ Container pedrohsb-golang-app1-1  Created
+ Container nginx-1  Creating
+ Container nginx-1  Created
+Attaching to nginx-1, app1-1, app2-1, memdb-1
+memdb-1  | 2025/08/21 00:35:09 Server listening on /tmp/kvstore.sock
+memdb-1  | 2025/08/21 00:35:09 Client connected: @
+memdb-1  | 2025/08/21 00:35:09 Client connected: @
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint nginx-1 (62e157e9d1b57581112195aef1d5e5d87d313cb358e1c9b1333f0edf2f7bd706): Bind for 0.0.0.0:9999 failed: port is already allocated
+log truncated at line 1000

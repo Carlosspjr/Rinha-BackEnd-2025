@@ -1,0 +1,34 @@
+
+ Network thiagorigonatti2-c_net  Creating
+ Network thiagorigonatti2-c_net  Created
+ Network thiagorigonatti2-c_default  Creating
+ Network thiagorigonatti2-c_default  Created
+ Container shared-memory  Creating
+ Container shared-memory  Created
+ Container backend01  Creating
+ Container backend02  Creating
+ Container backend01  Created
+ Container backend02  Created
+ Container haproxy  Creating
+ Container haproxy  Created
+Attaching to backend01, backend02, haproxy, shared-memory
+haproxy  | [NOTICE]   (1) : Initializing new worker (8)
+haproxy  | [NOTICE]   (1) : Loading success.
+backend02  | HTTP CLIENT CONSUMER iniciado com sucesso, afinidade em cpu: 3
+backend01  | HTTP CLIENT CONSUMER iniciado com sucesso, afinidade em cpu: 2
+backend02  | HTTP SERVER PRODUCER iniciado com sucesso, afinidade em cpu: 1
+backend01  | HTTP SERVER PRODUCER iniciado com sucesso, afinidade em cpu: 0
+Gracefully Stopping... press Ctrl+C again to force
+ Container haproxy  Stopping
+ Container haproxy  Stopped
+ Container backend02  Stopping
+ Container backend01  Stopping
+[Khaproxy exited with code 0
+[Kshared-memory exited with code 137
+ Container backend02  Stopped
+[Kbackend02 exited with code 137
+ Container backend01  Stopped
+ Container shared-memory  Stopping
+ Container shared-memory  Stopped
+
+log truncated at line 1000

@@ -1,0 +1,55 @@
+
+time="2025-08-20T23:32:07Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:31:51.135Z&to=2025-08-20T23:32:04.135Z\": request timeout"
+time="2025-08-20T23:32:07Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:31:51.135Z&to=2025-08-20T23:32:04.135Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:32:07Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:32:07Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 4172" source=console
+time="2025-08-20T23:32:07Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:32:19Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:32:02.637Z&to=2025-08-20T23:32:15.637Z\": request timeout"
+time="2025-08-20T23:32:19Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:32:02.637Z&to=2025-08-20T23:32:15.637Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:32:19Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:32:19Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 6250" source=console
+time="2025-08-20T23:32:19Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:32:30Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:32:14.139Z&to=2025-08-20T23:32:27.139Z\": request timeout"
+time="2025-08-20T23:32:30Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:32:14.139Z&to=2025-08-20T23:32:27.139Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:32:30Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:32:30Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 5212" source=console
+time="2025-08-20T23:32:30Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:32:42Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:32:25.640Z&to=2025-08-20T23:32:38.640Z\": request timeout"
+time="2025-08-20T23:32:42Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:32:25.640Z&to=2025-08-20T23:32:38.640Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:32:42Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:32:42Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 122" source=console
+time="2025-08-20T23:32:42Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:32:53Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:32:37.142Z&to=2025-08-20T23:32:50.142Z\": request timeout"
+time="2025-08-20T23:32:53Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:32:37.142Z&to=2025-08-20T23:32:50.142Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:32:53Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:32:53Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 122" source=console
+time="2025-08-20T23:32:53Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:33:05Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:32:48.644Z&to=2025-08-20T23:33:01.644Z\": request timeout"
+time="2025-08-20T23:33:05Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:32:48.644Z&to=2025-08-20T23:33:01.644Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:33:05Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:33:05Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 180" source=console
+time="2025-08-20T23:33:05Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:33:07Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-20T23:33:07Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-20T23:33:07Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-20T23:33:16Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:33:00.145Z&to=2025-08-20T23:33:13.145Z\": request timeout"
+time="2025-08-20T23:33:16Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:33:00.145Z&to=2025-08-20T23:33:13.145Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:33:16Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:33:16Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 247" source=console
+time="2025-08-20T23:33:16Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:33:28Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:33:11.647Z&to=2025-08-20T23:33:24.647Z\": request timeout"
+time="2025-08-20T23:33:28Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:33:11.647Z&to=2025-08-20T23:33:24.647Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:33:28Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:33:28Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 246" source=console
+time="2025-08-20T23:33:28Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:33:39Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:33:23.149Z&to=2025-08-20T23:33:36.149Z\": request timeout"
+time="2025-08-20T23:33:39Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:33:23.149Z&to=2025-08-20T23:33:36.149Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:33:39Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:33:39Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 145" source=console
+time="2025-08-20T23:33:39Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:33:51Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-20T23:33:34.650Z&to=2025-08-20T23:33:47.650Z\": request timeout"
+time="2025-08-20T23:33:51Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-20T23:33:34.650Z&to=2025-08-20T23:33:47.650Z' para o backend (HTTP 0)" source=console
+time="2025-08-20T23:33:51Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-20T23:33:51Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 123" source=console
+time="2025-08-20T23:33:51Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-20T23:34:02Z" level=w

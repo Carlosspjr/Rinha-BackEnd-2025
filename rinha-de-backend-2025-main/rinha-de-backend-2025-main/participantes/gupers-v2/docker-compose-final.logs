@@ -1,0 +1,1001 @@
+
+ payment-gateway-1 Pulling 
+ payment-gateway-2 Pulling 
+ envoy Pulling 
+ 9824c27679d3 Already exists 
+ 0ccf9a416788 Pulling fs layer 
+ e21b808c6d14 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ ff5849965ead Pulling fs layer 
+ 5310129b0629 Pulling fs layer 
+ ff5849965ead Waiting 
+ 5310129b0629 Waiting 
+ 9824c27679d3 Already exists 
+ 0ccf9a416788 Pulling fs layer 
+ e21b808c6d14 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ ff5849965ead Pulling fs layer 
+ 5310129b0629 Pulling fs layer 
+ 5310129b0629 Waiting 
+ ff5849965ead Waiting 
+ 602d8ad51b81 Pulling fs layer 
+ 8b6c36d82b91 Pulling fs layer 
+ 916acc674bfe Pulling fs layer 
+ 8db316d89fa3 Pulling fs layer 
+ 51c24cf62127 Pulling fs layer 
+ 2d47612a7702 Pulling fs layer 
+ da1fd92f1f1c Pulling fs layer 
+ e2d3ef392806 Pulling fs layer 
+ 8db316d89fa3 Waiting 
+ 51c24cf62127 Waiting 
+ 4f4fb700ef54 Pulling fs layer 
+ 602d8ad51b81 Waiting 
+ 8b6c36d82b91 Waiting 
+ 916acc674bfe Waiting 
+ 2d47612a7702 Waiting 
+ da1fd92f1f1c Waiting 
+ 4f4fb700ef54 Waiting 
+ e2d3ef392806 Waiting 
+ e21b808c6d14 Downloading [==================================================>]     939B/939B
+ e21b808c6d14 Verifying Checksum 
+ e21b808c6d14 Download complete 
+ e21b808c6d14 Downloading [==================================================>]     939B/939B
+ e21b808c6d14 Verifying Checksum 
+ e21b808c6d14 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 0ccf9a416788 Downloading [>                                                  ]   3.14kB/282.5kB
+ 0ccf9a416788 Downloading [>                                                  ]   3.14kB/282.5kB
+ 0ccf9a416788 Downloading [=====>                                             ]  31.81kB/282.5kB
+ 0ccf9a416788 Downloading [=====>                                             ]  31.81kB/282.5kB
+ 0ccf9a416788 Downloading [===========>                                       ]  64.58kB/282.5kB
+ 0ccf9a416788 Downloading [===========>                                       ]  64.58kB/282.5kB
+ 0ccf9a416788 Downloading [=======================>                           ]  130.1kB/282.5kB
+ 0ccf9a416788 Downloading [=======================>                           ]  130.1kB/282.5kB
+ 0ccf9a416788 Downloading [=====================================>             ]    212kB/282.5kB
+ 0ccf9a416788 Downloading [=====================================>             ]    212kB/282.5kB
+ 0ccf9a416788 Verifying Checksum 
+ 0ccf9a416788 Download complete 
+ 0ccf9a416788 Downloading [==================================================>]  282.5kB/282.5kB
+ 0ccf9a416788 Verifying Checksum 
+ 0ccf9a416788 Download complete 
+ 0ccf9a416788 Extracting [=====>                                             ]  32.77kB/282.5kB
+ 0ccf9a416788 Extracting [=====>                                             ]  32.77kB/282.5kB
+ 0ccf9a416788 Extracting [==================================================>]  282.5kB/282.5kB
+ 0ccf9a416788 Extracting [==================================================>]  282.5kB/282.5kB
+ 0ccf9a416788 Extracting [==================================================>]  282.5kB/282.5kB
+ 0ccf9a416788 Extracting [==================================================>]  282.5kB/282.5kB
+ 0ccf9a416788 Pull complete 
+ 0ccf9a416788 Pull complete 
+ e21b808c6d14 Extracting [==================================================>]     939B/939B
+ e21b808c6d14 Extracting [==================================================>]     939B/939B
+ e21b808c6d14 Extracting [==================================================>]     939B/939B
+ e21b808c6d14 Extracting [==================================================>]     939B/939B
+ e21b808c6d14 Pull complete 
+ e21b808c6d14 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 602d8ad51b81 Downloading [>                                                  ]  286.7kB/27.51MB
+ 602d8ad51b81 Downloading [==================================================>]  27.51MB/27.51MB
+ 602d8ad51b81 Verifying Checksum 
+ 602d8ad51b81 Download complete 
+ 602d8ad51b81 Extracting [>                                                  ]  294.9kB/27.51MB
+ 602d8ad51b81 Extracting [==========>                                        ]  5.603MB/27.51MB
+ ff5849965ead Downloading [>                                                  ]  80.96kB/7.914MB
+ ff5849965ead Downloading [>                                                  ]  80.96kB/7.914MB
+ 5310129b0629 Downloading [>                                                  ]  80.96kB/7.914MB
+ 5310129b0629 Downloading [>                                                  ]  80.96kB/7.914MB
+ 602d8ad51b81 Extracting [================>                                  ]  8.847MB/27.51MB
+ 5310129b0629 Downloading [=>                                                 ]  162.9kB/7.914MB
+ 5310129b0629 Downloading [=>                                                 ]  162.9kB/7.914MB
+ ff5849965ead Downloading [=>                                                 ]  162.9kB/7.914MB
+ ff5849965ead Downloading [=>                                                 ]  162.9kB/7.914MB
+ 602d8ad51b81 Extracting [====================>                              ]  11.21MB/27.51MB
+ 8b6c36d82b91 Downloading [=================================>                 ]     935B/1.397kB
+ 8b6c36d82b91 Downloading [==================================================>]  1.397kB/1.397kB
+ 8b6c36d82b91 Verifying Checksum 
+ 8b6c36d82b91 Download complete 
+ 5310129b0629 Downloading [=>                                                 ]  244.8kB/7.914MB
+ 5310129b0629 Downloading [=>                                                 ]  244.8kB/7.914MB
+ 602d8ad51b81 Extracting [==================================>                ]  18.87MB/27.51MB
+ ff5849965ead Downloading [=>                                                 ]  244.8kB/7.914MB
+ ff5849965ead Downloading [=>                                                 ]  244.8kB/7.914MB
+ 5310129b0629 Downloading [==>                                                ]  326.7kB/7.914MB
+ 5310129b0629 Downloading [==>                                                ]  326.7kB/7.914MB
+ ff5849965ead Downloading [==>                                                ]  326.7kB/7.914MB
+ ff5849965ead Downloading [==>                                                ]  326.7kB/7.914MB
+ 5310129b0629 Downloading [===>                                               ]  490.6kB/7.914MB
+ 5310129b0629 Downloading [===>                                               ]  490.6kB/7.914MB
+ 602d8ad51b81 Extracting [==========================================>        ]   23.3MB/27.51MB
+ ff5849965ead Downloading [===>                                               ]  490.6kB/7.914MB
+ ff5849965ead Downloading [===>                                               ]  490.6kB/7.914MB
+ 916acc674bfe Downloading [==================================================>]     175B/175B
+ 916acc674bfe Verifying Checksum 
+ 916acc674bfe Download complete 
+ 5310129b0629 Downloading [====>                                              ]  736.3kB/7.914MB
+ 5310129b0629 Downloading [====>                                              ]  736.3kB/7.914MB
+ ff5849965ead Downloading [====>                                              ]  736.3kB/7.914MB
+ ff5849965ead Downloading [====>                                              ]  736.3kB/7.914MB
+ 602d8ad51b81 Extracting [===============================================>   ]  26.25MB/27.51MB
+ 5310129b0629 Downloading [======>                                            ]  1.064MB/7.914MB
+ 5310129b0629 Downloading [======>                                            ]  1.064MB/7.914MB
+ ff5849965ead Downloading [======>                                            ]  1.064MB/7.914MB
+ ff5849965ead Downloading [======>                                            ]  1.064MB/7.914MB
+ 602d8ad51b81 Extracting [=================================================> ]  27.13MB/27.51MB
+ 5310129b0629 Downloading [=========>                                         ]  1.474MB/7.914MB
+ 5310129b0629 Downloading [=========>                                         ]  1.474MB/7.914MB
+ ff5849965ead Downloading [=========>                                         ]  1.556MB/7.914MB
+ ff5849965ead Downloading [=========>                                         ]  1.556MB/7.914MB
+ 602d8ad51b81 Extracting [==================================================>]  27.51MB/27.51MB
+ 602d8ad51b81 Pull complete 
+ 5310129b0629 Downloading [============>                                      ]  1.965MB/7.914MB
+ 5310129b0629 Downloading [============>                                      ]  1.965MB/7.914MB
+ 8b6c36d82b91 Extracting [==================================================>]  1.397kB/1.397kB
+ 8b6c36d82b91 Extracting [==================================================>]  1.397kB/1.397kB
+ 8db316d89fa3 Downloading [>                                                  ]  31.42kB/3.064MB
+ ff5849965ead Downloading [=============>                                     ]  2.129MB/7.914MB
+ ff5849965ead Downloading [=============>                                     ]  2.129MB/7.914MB
+ 8db316d89fa3 Verifying Checksum 
+ 8db316d89fa3 Download complete 
+ 8b6c36d82b91 Pull complete 
+ 916acc674bfe Extracting [==================================================>]     175B/175B
+ 916acc674bfe Extracting [==================================================>]     175B/175B
+ 916acc674bfe Pull complete 
+ 8db316d89fa3 Extracting [>                                                  ]  32.77kB/3.064MB
+ 5310129b0629 Downloading [================>                                  ]  2.539MB/7.914MB
+ 5310129b0629 Downloading [================>                                  ]  2.539MB/7.914MB
+ ff5849965ead Downloading [==================>                                ]  2.948MB/7.914MB
+ ff5849965ead Downloading [==================>                                ]  2.948MB/7.914MB
+ 8db316d89fa3 Extracting [============================================>      ]  2.753MB/3.064MB
+ 8db316d89fa3 Extracting [==================================================>]  3.064MB/3.064MB
+ 5310129b0629 Downloading [===================>                               ]  3.112MB/7.914MB
+ 5310129b0629 Downloading [===================>                               ]  3.112MB/7.914MB
+ ff5849965ead Downloading [=========================>                         ]  4.013MB/7.914MB
+ ff5849965ead Downloading [=========================>                         ]  4.013MB/7.914MB
+ 8db316d89fa3 Pull complete 
+ 5310129b0629 Downloading [========================>                          ]  3.849MB/7.914MB
+ 5310129b0629 Downloading [========================>                          ]  3.849MB/7.914MB
+ ff5849965ead Downloading [==========================>                        ]   4.26MB/7.914MB
+ ff5849965ead Downloading [==========================>                        ]   4.26MB/7.914MB
+ 51c24cf62127 Downloading [==================================================>]     790B/790B
+ 51c24cf62127 Verifying Checksum 
+ 51c24cf62127 Download complete 
+ 51c24cf62127 Extracting [==================================================>]     790B/790B
+ 51c24cf62127 Extracting [==================================================>]     790B/790B
+ 51c24cf62127 Pull complete 
+ 5310129b0629 Downloading [==========================>                        ]   4.26MB/7.914MB
+ 5310129b0629 Downloading [==========================>                        ]   4.26MB/7.914MB
+ ff5849965ead Downloading [===================================>               ]  5.652MB/7.914MB
+ ff5849965ead Downloading [===================================>               ]  5.652MB/7.914MB
+ 5310129b0629 Downloading [=================================>                 ]  5.243MB/7.914MB
+ 5310129b0629 Downloading [=================================>                 ]  5.243MB/7.914MB
+ ff5849965ead Downloading [============================================>      ]  7.045MB/7.914MB
+ ff5849965ead Downloading [============================================>      ]  7.045MB/7.914MB
+ ff5849965ead Verifying Checksum 
+ ff5849965ead Download complete 
+ ff5849965ead Extracting [>                                                  ]   98.3kB/7.914MB
+ ff5849965ead Extracting [>                                                  ]   98.3kB/7.914MB
+ ff5849965ead Extracting [==================================================>]  7.914MB/7.914MB
+ ff5849965ead Extracting [==================================================>]  7.914MB/7.914MB
+ ff5849965ead Pull complete 
+ ff5849965ead Pull complete 
+ 5310129b0629 Downloading [========================================>          ]   6.39MB/7.914MB
+ 5310129b0629 Downloading [========================================>          ]   6.39MB/7.914MB
+ 2d47612a7702 Downloading [==================================================>]     484B/484B
+ 2d47612a7702 Verifying Checksum 
+ 2d47612a7702 Download complete 
+ 2d47612a7702 Extracting [==================================================>]     484B/484B
+ 2d47612a7702 Extracting [==================================================>]     484B/484B
+ 5310129b0629 Downloading [=================================================> ]  7.782MB/7.914MB
+ 5310129b0629 Downloading [=================================================> ]  7.782MB/7.914MB
+ 5310129b0629 Verifying Checksum 
+ 5310129b0629 Download complete 
+ 5310129b0629 Verifying Checksum 
+ 5310129b0629 Download complete 
+ 5310129b0629 Extracting [>                                                  ]   98.3kB/7.914MB
+ 5310129b0629 Extracting [>                                                  ]   98.3kB/7.914MB
+ 2d47612a7702 Pull complete 
+ 5310129b0629 Extracting [==================================================>]  7.914MB/7.914MB
+ 5310129b0629 Extracting [==================================================>]  7.914MB/7.914MB
+ 5310129b0629 Pull complete 
+ 5310129b0629 Pull complete 
+ payment-gateway-1 Pulled 
+ payment-gateway-2 Pulled 
+ da1fd92f1f1c Downloading [==========>                                        ]     935B/4.495kB
+ da1fd92f1f1c Downloading [==================================================>]  4.495kB/4.495kB
+ da1fd92f1f1c Verifying Checksum 
+ da1fd92f1f1c Download complete 
+ da1fd92f1f1c Extracting [==================================================>]  4.495kB/4.495kB
+ da1fd92f1f1c Extracting [==================================================>]  4.495kB/4.495kB
+ da1fd92f1f1c Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ e2d3ef392806 Downloading [>                                                  ]  257.5kB/24.92MB
+ e2d3ef392806 Verifying Checksum 
+ e2d3ef392806 Download complete 
+ e2d3ef392806 Extracting [>                                                  ]  262.1kB/24.92MB
+ e2d3ef392806 Extracting [==============>                                    ]   7.34MB/24.92MB
+ e2d3ef392806 Extracting [===============================>                   ]  15.73MB/24.92MB
+ e2d3ef392806 Extracting [===============================================>   ]  23.86MB/24.92MB
+ e2d3ef392806 Extracting [==================================================>]  24.92MB/24.92MB
+ e2d3ef392806 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ envoy Pulled 
+ Network gupers-v2_backend  Creating
+ Network gupers-v2_backend  Created
+ Container payment-gateway-db  Creating
+ Container payment-gateway-envoy  Creating
+ Container payment-gateway-envoy  Created
+ Container payment-gateway-db  Created
+ Container payment-gateway-1  Creating
+ Container payment-gateway-2  Creating
+ Container payment-gateway-2  Created
+ Container payment-gateway-1  Created
+Attaching to payment-gateway-1, payment-gateway-2, payment-gateway-db, payment-gateway-envoy
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:413] initializing epoch 0 (base id=0, hot restart version=11.104)
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:415] statically linked extensions:
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.resource_monitors: envoy.resource_monitors.fixed_heap, envoy.resource_monitors.injected_resource
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.http.stateful_session: envoy.http.stateful_session.cookie, envoy.http.stateful_session.header
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.grpc_credentials: envoy.grpc_credentials.aws_iam, envoy.grpc_credentials.default, envoy.grpc_credentials.file_based_metadata
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.guarddog_actions: envoy.watchdog.abort_action, envoy.watchdog.profile_action
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.matching.http.input: envoy.matching.inputs.cel_data_input, envoy.matching.inputs.destination_ip, envoy.matching.inputs.destination_port, envoy.matching.inputs.direct_source_ip, envoy.matching.inputs.dns_san, envoy.matching.inputs.request_headers, envoy.matching.inputs.request_trailers, envoy.matching.inputs.response_headers, envoy.matching.inputs.response_trailers, envoy.matching.inputs.server_name, envoy.matching.inputs.source_ip, envoy.matching.inputs.source_port, envoy.matching.inputs.source_type, envoy.matching.inputs.status_code_class_input, envoy.matching.inputs.status_code_input, envoy.matching.inputs.subject, envoy.matching.inputs.uri_san, query_params
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.tracers: envoy.dynamic.ot, envoy.tracers.datadog, envoy.tracers.dynamic_ot, envoy.tracers.opencensus, envoy.tracers.opentelemetry, envoy.tracers.skywalking, envoy.tracers.xray, envoy.tracers.zipkin, envoy.zipkin
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.resolvers: envoy.ip
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.filters.http: envoy.bandwidth_limit, envoy.buffer, envoy.cors, envoy.csrf, envoy.ext_authz, envoy.ext_proc, envoy.fault, envoy.filters.http.adaptive_concurrency, envoy.filters.http.admission_control, envoy.filters.http.alternate_protocols_cache, envoy.filters.http.aws_lambda, envoy.filters.http.aws_request_signing, envoy.filters.http.bandwidth_limit, envoy.filters.http.buffer, envoy.filters.http.cache, envoy.filters.http.cdn_loop, envoy.filters.http.composite, envoy.filters.http.compressor, envoy.filters.http.connect_grpc_bridge, envoy.filters.http.cors, envoy.filters.http.csrf, envoy.filters.http.custom_response, envoy.filters.http.decompressor, envoy.filters.http.dynamic_forward_proxy, envoy.filters.http.ext_authz, envoy.filters.http.ext_proc, envoy.filters.http.fault, envoy.filters.http.file_system_buffer, envoy.filters.http.gcp_authn, envoy.filters.http.geoip, envoy.filters.http.grpc_field_extraction, envoy.filters.http.grpc_http1_bridge, envoy.filters.http.grpc_http1_reverse_bridge, envoy.filters.http.grpc_json_transcoder, envoy.filters.http.grpc_stats, envoy.filters.http.grpc_web, envoy.filters.http.header_mutation, envoy.filters.http.header_to_metadata, envoy.filters.http.health_check, envoy.filters.http.ip_tagging, envoy.filters.http.json_to_metadata, envoy.filters.http.jwt_authn, envoy.filters.http.local_ratelimit, envoy.filters.http.lua, envoy.filters.http.match_delegate, envoy.filters.http.oauth2, envoy.filters.http.on_demand, envoy.filters.http.original_src, envoy.filters.http.rate_limit_quota, envoy.filters.http.ratelimit, envoy.filters.http.rbac, envoy.filters.http.router, envoy.filters.http.set_filter_state, envoy.filters.http.set_metadata, envoy.filters.http.stateful_session, envoy.filters.http.tap, envoy.filters.http.wasm, envoy.geoip, envoy.grpc_http1_bridge, envoy.grpc_json_transcoder, envoy.grpc_web, envoy.health_check, envoy.ip_tagging, envoy.local_rate_limit, envoy.lua, envoy.rate_limit, envoy.router
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.http.cache: envoy.extensions.http.cache.file_system_http_cache, envoy.extensions.http.cache.simple
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.dubbo_proxy.protocols: dubbo
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.thrift_proxy.protocols: auto, binary, binary/non-strict, compact, twitter
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   filter_state.object: envoy.filters.listener.original_dst.local_ip, envoy.filters.listener.original_dst.remote_ip, envoy.network.application_protocols, envoy.network.transport_socket.original_dst_address, envoy.network.upstream_server_name, envoy.network.upstream_subject_alt_names, envoy.tcp_proxy.cluster, envoy.tcp_proxy.disable_tunneling, envoy.upstream.dynamic_host, envoy.upstream.dynamic_port
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.network.dns_resolver: envoy.network.dns_resolver.cares, envoy.network.dns_resolver.getaddrinfo
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.bootstrap: envoy.bootstrap.internal_listener, envoy.bootstrap.wasm, envoy.extensions.network.socket_interface.default_socket_interface
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.stats_sinks: envoy.dog_statsd, envoy.graphite_statsd, envoy.metrics_service, envoy.open_telemetry_stat_sink, envoy.stat_sinks.dog_statsd, envoy.stat_sinks.graphite_statsd, envoy.stat_sinks.hystrix, envoy.stat_sinks.metrics_service, envoy.stat_sinks.open_telemetry, envoy.stat_sinks.statsd, envoy.stat_sinks.wasm, envoy.statsd
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.thrift_proxy.filters: envoy.filters.thrift.header_to_metadata, envoy.filters.thrift.payload_to_metadata, envoy.filters.thrift.rate_limit, envoy.filters.thrift.router
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.path.rewrite: envoy.path.rewrite.uri_template.uri_template_rewriter
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.http.early_header_mutation: envoy.http.early_header_mutation.header_mutation
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.upstream_options: envoy.extensions.upstreams.http.v3.HttpProtocolOptions, envoy.extensions.upstreams.tcp.v3.TcpProtocolOptions, envoy.upstreams.http.http_protocol_options, envoy.upstreams.tcp.tcp_protocol_options
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.http.header_validators: envoy.http.header_validators.envoy_default
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.quic.connection_id_generator: envoy.quic.deterministic_connection_id_generator
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.filters.http.upstream: envoy.buffer, envoy.filters.http.admission_control, envoy.filters.http.buffer, envoy.filters.http.header_mutation, envoy.filters.http.upstream_codec
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.health_check.event_sinks: envoy.health_check.event_sink.file
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.transport_sockets.upstream: envoy.transport_sockets.alts, envoy.transport_sockets.http_11_proxy, envoy.transport_sockets.internal_upstream, envoy.transport_sockets.quic, envoy.transport_sockets.raw_buffer, envoy.transport_sockets.starttls, envoy.transport_sockets.tap, envoy.transport_sockets.tcp_stats, envoy.transport_sockets.tls, envoy.transport_sockets.upstream_proxy_protocol, raw_buffer, starttls, tls
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.retry_priorities: envoy.retry_priorities.previous_priorities
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.formatter: envoy.formatter.cel, envoy.formatter.metadata, envoy.formatter.req_without_query
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.route.early_data_policy: envoy.route.early_data_policy.default
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.upstream.local_address_selector: envoy.upstream.local_address_selector.default_local_address_selector
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.http.custom_response: envoy.extensions.http.custom_response.local_response_policy, envoy.extensions.http.custom_response.redirect_policy
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.matching.network.custom_matchers: envoy.matching.custom_matchers.trie_matcher
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.retry_host_predicates: envoy.retry_host_predicates.omit_canary_hosts, envoy.retry_host_predicates.omit_host_metadata, envoy.retry_host_predicates.previous_hosts
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.matching.action: envoy.matching.actions.format_string, filter-chain-name
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.rate_limit_descriptors: envoy.rate_limit_descriptors.expr
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.transport_sockets.downstream: envoy.transport_sockets.alts, envoy.transport_sockets.quic, envoy.transport_sockets.raw_buffer, envoy.transport_sockets.starttls, envoy.transport_sockets.tap, envoy.transport_sockets.tcp_stats, envoy.transport_sockets.tls, raw_buffer, starttls, tls
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.http.original_ip_detection: envoy.http.original_ip_detection.custom_header, envoy.http.original_ip_detection.xff
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.path.match: envoy.path.match.uri_template.uri_template_matcher
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.matching.input_matchers: envoy.matching.matchers.cel_matcher, envoy.matching.matchers.consistent_hashing, envoy.matching.matchers.ip, envoy.matching.matchers.runtime_fraction
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.listener_manager_impl: envoy.listener_manager_impl.default, envoy.listener_manager_impl.validation
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.dubbo_proxy.filters: envoy.filters.dubbo.router
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.access_loggers: envoy.access_loggers.file, envoy.access_loggers.http_grpc, envoy.access_loggers.open_telemetry, envoy.access_loggers.stderr, envoy.access_loggers.stdout, envoy.access_loggers.tcp_grpc, envoy.access_loggers.wasm, envoy.file_access_log, envoy.http_grpc_access_log, envoy.open_telemetry_access_log, envoy.stderr_access_log, envoy.stdout_access_log, envoy.tcp_grpc_access_log, envoy.wasm_access_log
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.filters.udp.session: envoy.filters.udp.session.dynamic_forward_proxy, envoy.filters.udp.session.http_capsule
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.request_id: envoy.request_id.uuid
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.regex_engines: envoy.regex_engines.google_re2
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.upstreams: envoy.filters.connection_pools.tcp.generic
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.filters.network: envoy.echo, envoy.ext_authz, envoy.filters.network.connection_limit, envoy.filters.network.direct_response, envoy.filters.network.dubbo_proxy, envoy.filters.network.echo, envoy.filters.network.ext_authz, envoy.filters.network.http_connection_manager, envoy.filters.network.local_ratelimit, envoy.filters.network.mongo_proxy, envoy.filters.network.ratelimit, envoy.filters.network.rbac, envoy.filters.network.redis_proxy, envoy.filters.network.set_filter_state, envoy.filters.network.sni_cluster, envoy.filters.network.sni_dynamic_forward_proxy, envoy.filters.network.tcp_proxy, envoy.filters.network.thrift_proxy, envoy.filters.network.wasm, envoy.filters.network.zookeeper_proxy, envoy.http_connection_manager, envoy.mongo_proxy, envoy.ratelimit, envoy.redis_proxy, envoy.tcp_proxy
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.http.stateful_header_formatters: envoy.http.stateful_header_formatters.preserve_case, preserve_case
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.geoip_providers: envoy.geoip_providers.maxmind
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.internal_redirect_predicates: envoy.internal_redirect_predicates.allow_listed_routes, envoy.internal_redirect_predicates.previous_routes, envoy.internal_redirect_predicates.safe_cross_scheme
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.quic.server.crypto_stream: envoy.quic.crypto_stream.server.quiche
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.matching.http.custom_matchers: envoy.matching.custom_matchers.trie_matcher
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.quic.proof_source: envoy.quic.proof_source.filter_chain
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.health_checkers: envoy.health_checkers.grpc, envoy.health_checkers.http, envoy.health_checkers.redis, envoy.health_checkers.tcp, envoy.health_checkers.thrift
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   network.connection.client: default, envoy_internal
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.connection_handler: envoy.connection_handler.default
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.rbac.matchers: envoy.rbac.matchers.upstream_ip_port
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.filters.listener: envoy.filters.listener.http_inspector, envoy.filters.listener.local_ratelimit, envoy.filters.listener.original_dst, envoy.filters.listener.original_src, envoy.filters.listener.proxy_protocol, envoy.filters.listener.tls_inspector, envoy.listener.http_inspector, envoy.listener.original_dst, envoy.listener.original_src, envoy.listener.proxy_protocol, envoy.listener.tls_inspector
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.config_mux: envoy.config_mux.delta_grpc_mux_factory, envoy.config_mux.grpc_mux_factory, envoy.config_mux.new_grpc_mux_factory, envoy.config_mux.sotw_grpc_mux_factory
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.load_balancing_policies: envoy.load_balancing_policies.cluster_provided, envoy.load_balancing_policies.least_request, envoy.load_balancing_policies.maglev, envoy.load_balancing_policies.random, envoy.load_balancing_policies.ring_hash, envoy.load_balancing_policies.round_robin, envoy.load_balancing_policies.subset
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.config_subscription: envoy.config_subscription.ads, envoy.config_subscription.ads_collection, envoy.config_subscription.aggregated_grpc_collection, envoy.config_subscription.delta_grpc, envoy.config_subscription.delta_grpc_collection, envoy.config_subscription.filesystem, envoy.config_subscription.filesystem_collection, envoy.config_subscription.grpc, envoy.config_subscription.rest
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.clusters: envoy.cluster.eds, envoy.cluster.logical_dns, envoy.cluster.original_dst, envoy.cluster.static, envoy.cluster.strict_dns, envoy.clusters.aggregate, envoy.clusters.dynamic_forward_proxy, envoy.clusters.redis
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.dubbo_proxy.serializers: dubbo.hessian2
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.thrift_proxy.transports: auto, framed, header, unframed
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.udp_packet_writer: envoy.udp_packet_writer.default, envoy.udp_packet_writer.gso
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   quic.http_server_connection: quic.http_server_connection.default
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.filters.udp_listener: envoy.filters.udp.dns_filter, envoy.filters.udp_listener.udp_proxy
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.tls.cert_validator: envoy.tls.cert_validator.default, envoy.tls.cert_validator.spiffe
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.common.key_value: envoy.key_value.file_based
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.matching.network.input: envoy.matching.inputs.application_protocol, envoy.matching.inputs.destination_ip, envoy.matching.inputs.destination_port, envoy.matching.inputs.direct_source_ip, envoy.matching.inputs.dns_san, envoy.matching.inputs.filter_state, envoy.matching.inputs.server_name, envoy.matching.inputs.source_ip, envoy.matching.inputs.source_port, envoy.matching.inputs.source_type, envoy.matching.inputs.subject, envoy.matching.inputs.transport_protocol, envoy.matching.inputs.uri_san
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.matching.common_inputs: envoy.matching.common_inputs.environment_variable
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.compression.decompressor: envoy.compression.brotli.decompressor, envoy.compression.gzip.decompressor, envoy.compression.zstd.decompressor
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.wasm.runtime: envoy.wasm.runtime.null, envoy.wasm.runtime.v8
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.compression.compressor: envoy.compression.brotli.compressor, envoy.compression.gzip.compressor, envoy.compression.zstd.compressor
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.config.validators: envoy.config.validators.minimum_clusters, envoy.config.validators.minimum_clusters_validator
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.quic.server_preferred_address: quic.server_preferred_address.fixed
+payment-gateway-envoy  | [2025-08-21 07:56:26.772][1][info][main] [source/server/server.cc:417]   envoy.access_loggers.extension_filters: envoy.access_loggers.extension_filters.cel
+payment-gateway-envoy  | [2025-08-21 07:56:26.776][1][info][main] [source/server/server.cc:471] HTTP header map info:
+payment-gateway-envoy  | [2025-08-21 07:56:26.777][1][info][main] [source/server/server.cc:474]   request header map: 680 bytes: :authority,:method,:path,:protocol,:scheme,accept,accept-encoding,access-control-request-headers,access-control-request-method,access-control-request-private-network,authentication,authorization,cache-control,cdn-loop,connection,content-encoding,content-length,content-type,expect,grpc-accept-encoding,grpc-timeout,if-match,if-modified-since,if-none-match,if-range,if-unmodified-since,keep-alive,origin,pragma,proxy-connection,proxy-status,referer,te,transfer-encoding,upgrade,user-agent,via,x-client-trace-id,x-envoy-attempt-count,x-envoy-decorator-operation,x-envoy-downstream-service-cluster,x-envoy-downstream-service-node,x-envoy-expected-rq-timeout-ms,x-envoy-external-address,x-envoy-force-trace,x-envoy-hedge-on-per-try-timeout,x-envoy-internal,x-envoy-ip-tags,x-envoy-is-timeout-retry,x-envoy-max-retries,x-envoy-original-path,x-envoy-original-url,x-envoy-retriable-header-names,x-envoy-retriable-status-codes,x-envoy-retry-grpc-on,x-envoy-retry-on,x-envoy-upstream-alt-stat-name,x-envoy-upstream-rq-per-try-timeout-ms,x-envoy-upstream-rq-timeout-alt-response,x-envoy-upstream-rq-timeout-ms,x-envoy-upstream-stream-duration-ms,x-forwarded-client-cert,x-forwarded-for,x-forwarded-host,x-forwarded-port,x-forwarded-proto,x-ot-span-context,x-request-id
+payment-gateway-envoy  | [2025-08-21 07:56:26.777][1][info][main] [source/server/server.cc:474]   request trailer map: 128 bytes: 
+payment-gateway-envoy  | [2025-08-21 07:56:26.777][1][info][main] [source/server/server.cc:474]   response header map: 440 bytes: :status,access-control-allow-credentials,access-control-allow-headers,access-control-allow-methods,access-control-allow-origin,access-control-allow-private-network,access-control-expose-headers,access-control-max-age,age,cache-control,connection,content-encoding,content-length,content-type,date,etag,expires,grpc-message,grpc-status,keep-alive,last-modified,location,proxy-connection,proxy-status,server,transfer-encoding,upgrade,vary,via,x-envoy-attempt-count,x-envoy-decorator-operation,x-envoy-degraded,x-envoy-immediate-health-check-fail,x-envoy-ratelimited,x-envoy-upstream-canary,x-envoy-upstream-healthchecked-cluster,x-envoy-upstream-service-time,x-request-id
+payment-gateway-envoy  | [2025-08-21 07:56:26.777][1][info][main] [source/server/server.cc:474]   response trailer map: 152 bytes: grpc-message,grpc-status
+payment-gateway-envoy  | [2025-08-21 07:56:26.783][1][info][main] [source/server/server.cc:828] runtime: {}
+payment-gateway-envoy  | [2025-08-21 07:56:26.783][1][info][admin] [source/server/admin/admin.cc:68] admin address: 0.0.0.0:9901
+payment-gateway-envoy  | [2025-08-21 07:56:26.783][1][info][config] [source/server/configuration_impl.cc:159] loading tracing configuration
+payment-gateway-envoy  | [2025-08-21 07:56:26.783][1][info][config] [source/server/configuration_impl.cc:118] loading 0 static secret(s)
+payment-gateway-envoy  | [2025-08-21 07:56:26.783][1][info][config] [source/server/configuration_impl.cc:124] loading 1 cluster(s)
+payment-gateway-envoy  | [2025-08-21 07:56:26.784][1][info][config] [source/server/configuration_impl.cc:128] loading 1 listener(s)
+payment-gateway-envoy  | [2025-08-21 07:56:26.786][1][warning][misc] [source/extensions/filters/network/http_connection_manager/config.cc:82] internal_address_config is not configured. The existing default behaviour will trust RFC1918 IP addresses, but this will be changed in next release. Please explictily config internal address config as the migration step.
+payment-gateway-envoy  | [2025-08-21 07:56:26.787][1][info][config] [source/server/configuration_impl.cc:145] loading stats configuration
+payment-gateway-envoy  | [2025-08-21 07:56:26.787][1][warning][main] [source/server/server.cc:893] There is no configured limit to the number of allowed active downstream connections. Configure a limit in `envoy.resource_monitors.downstream_connections` resource monitor.
+payment-gateway-envoy  | [2025-08-21 07:56:26.787][1][info][main] [source/server/server.cc:934] starting main dispatch loop
+payment-gateway-envoy  | [2025-08-21 07:56:26.795][1][info][runtime] [source/common/runtime/runtime_impl.cc:579] RTDS has finished initialization
+payment-gateway-envoy  | [2025-08-21 07:56:26.795][1][info][upstream] [source/common/upstream/cluster_manager_impl.cc:226] cm init: all clusters initialized
+payment-gateway-envoy  | [2025-08-21 07:56:26.795][1][info][main] [source/server/server.cc:915] all clusters initialized. initializing init manager
+payment-gateway-envoy  | [2025-08-21 07:56:26.795][1][info][config] [source/extensions/listener_managers/listener_manager/listener_manager_impl.cc:923] all dependencies initialized. starting workers
+payment-gateway-db     | The files belonging to this database system will be owned by user "postgres".
+payment-gateway-db     | This user must also own the server process.
+payment-gateway-db     | 
+payment-gateway-db     | The database cluster will be initialized with locale "en_US.utf8".
+payment-gateway-db     | The default database encoding has accordingly been set to "UTF8".
+payment-gateway-db     | The default text search configuration will be set to "english".
+payment-gateway-db     | 
+payment-gateway-db     | Data page checksums are disabled.
+payment-gateway-db     | 
+payment-gateway-db     | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+payment-gateway-db     | creating subdirectories ... ok
+payment-gateway-db     | selecting dynamic shared memory implementation ... posix
+payment-gateway-db     | selecting default "max_connections" ... 100
+payment-gateway-db     | selecting default "shared_buffers" ... 128MB
+payment-gateway-db     | selecting default time zone ... UTC
+payment-gateway-db     | creating configuration files ... ok
+payment-gateway-db     | running bootstrap script ... ok
+payment-gateway-db     | sh: locale: not found
+payment-gateway-db     | 2025-08-21 07:56:28.374 UTC [36] WARNING:  no usable system locales were found
+payment-gateway-envoy  | [2025-08-21T07:56:29.143Z] "GET /payments-summary HTTP/1.1" 503 UH 0 19 0 - "-" "curl/8.14.1" "661ff208-3d7d-40b7-b828-16833a1a5ff1" "localhost:9999" "-"
+payment-gateway-db     | performing post-bootstrap initialization ... ok
+payment-gateway-db     | syncing data to disk ... ok
+payment-gateway-db     | 
+payment-gateway-db     | 
+payment-gateway-db     | Success. You can now start the database server using:
+payment-gateway-db     | 
+payment-gateway-db     |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+payment-gateway-db     | 
+payment-gateway-db     | initdb: warning: enabling "trust" authentication for local connections
+payment-gateway-db     | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+payment-gateway-db     | waiting for server to start....2025-08-21 07:56:31.872 UTC [42] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+payment-gateway-db     | 2025-08-21 07:56:31.876 UTC [42] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+payment-gateway-db     | 2025-08-21 07:56:31.886 UTC [45] LOG:  database system was shut down at 2025-08-21 07:56:31 UTC
+payment-gateway-db     | 2025-08-21 07:56:31.893 UTC [42] LOG:  database system is ready to accept connections
+payment-gateway-db     |  done
+payment-gateway-db     | server started
+payment-gateway-db     | CREATE DATABASE
+payment-gateway-db     | 
+payment-gateway-db     | 
+payment-gateway-db     | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/init.sql
+payment-gateway-db     | CREATE TABLE
+payment-gateway-db     | CREATE INDEX
+payment-gateway-db     | 
+payment-gateway-db     | 
+payment-gateway-db     | waiting for server to shut down....2025-08-21 07:56:32.260 UTC [42] LOG:  received fast shutdown request
+payment-gateway-db     | 2025-08-21 07:56:32.263 UTC [42] LOG:  aborting any active transactions
+payment-gateway-db     | 2025-08-21 07:56:32.266 UTC [42] LOG:  background worker "logical replication launcher" (PID 48) exited with exit code 1
+payment-gateway-db     | 2025-08-21 07:56:32.266 UTC [43] LOG:  shutting down
+payment-gateway-db     | 2025-08-21 07:56:32.267 UTC [43] LOG:  checkpoint starting: shutdown immediate
+payment-gateway-db     | 2025-08-21 07:56:32.396 UTC [43] LOG:  checkpoint complete: wrote 930 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.098 s, sync=0.025 s, total=0.131 s; sync files=311, longest=0.004 s, average=0.001 s; distance=4279 kB, estimate=4279 kB; lsn=0/191AEA8, redo lsn=0/191AEA8
+payment-gateway-db     | 2025-08-21 07:56:32.405 UTC [42] LOG:  database system is shut down
+payment-gateway-db     |  done
+payment-gateway-db     | server stopped
+payment-gateway-db     | 
+payment-gateway-db     | PostgreSQL init process complete; ready for start up.
+payment-gateway-db     | 
+payment-gateway-db     | 2025-08-21 07:56:32.487 UTC [1] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+payment-gateway-db     | 2025-08-21 07:56:32.487 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+payment-gateway-db     | 2025-08-21 07:56:32.487 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+payment-gateway-db     | 2025-08-21 07:56:32.493 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+payment-gateway-db     | 2025-08-21 07:56:32.501 UTC [60] LOG:  database system was shut down at 2025-08-21 07:56:32 UTC
+payment-gateway-db     | 2025-08-21 07:56:32.509 UTC [1] LOG:  database system is ready to accept connections
+payment-gateway-envoy  | [2025-08-21T07:56:34.154Z] "GET /payments-summary HTTP/1.1" 200 - 0 98 18 18 "-" "curl/8.14.1" "d7758550-7003-4cf7-83a3-33c1fc1aa5b4" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:39.702Z] "POST /purge-payments HTTP/1.1" 404 - 0 9 0 - "-" "Grafana k6/1.2.2" "ce9490ab-1b2a-4be0-aea4-a5a06499a185" "localhost:9999" "-"
+payment-gateway-envoy  | [2025-08-21T07:56:39.704Z] "GET /payments-summary?from=2025-08-21T07:56:24.702Z&to=2025-08-21T07:56:37.702Z HTTP/1.1" 200 - 0 98 2 1 "-" "Grafana k6/1.2.2" "17b30975-707c-412d-8c84-94d8aca7f773" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:39.705Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7ac8e1f4-49ce-4824-8776-47d761b855fd" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:40.201Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ffc8181c-f656-4a14-af19-5760c31e87e9" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:40.700Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a51e8404-58b4-4a2f-a788-319b2a0c877d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:40.707Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ab54e6a5-d2e8-4ebf-b585-669d936bea50" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:41.199Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "75af944b-5fbb-4568-ab64-374d49912093" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:41.203Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0829c77d-1450-46ef-9a7a-a62ecf8e4b46" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:41.697Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5cd6e40a-861b-451e-96c8-45c2f965fdc7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:41.702Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "66458cfa-2c59-4115-b7cf-e32d315763ed" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:41.709Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "79a918d8-a036-459a-951c-f401ab788bba" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:42.195Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1aa6f1de-7f1c-4e27-8517-f3029ea5a872" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:42.200Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4639803d-3f86-4287-99d7-fbcb34c3bd7f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:42.204Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6ae366bc-dc91-4a2d-830e-a7295e6804a6" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:42.694Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8a59e0f6-3a84-4fe7-8368-0dd71dfec523" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:42.698Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "06ba0bcb-adb2-4219-b192-539c33722408" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:42.703Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "da22810d-607f-4130-901b-39e4691edd9e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:42.710Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c24be4e4-ddc6-4112-9dc9-db1a9720afbe" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.192Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a1fc3cb0-bc4b-40d8-9be2-c7fb07123a0f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.197Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b09e12cc-c8d2-4ed3-8a59-0044496b77a1" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.202Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5b60db8f-1901-4100-8f02-434d8e1709d4" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.206Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "69f9bc63-31f6-405b-be55-8bb127880ec4" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.690Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f10e0b61-a80d-44ae-8aa4-2152ed30aa1b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.695Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f17bc6bd-bc16-4726-ad99-2933eaff3f14" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.700Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a72d3fbd-38ce-4dfa-bbda-73c97267f33b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.704Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fd5efe2c-c33c-4429-b56a-eea8299891c8" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:43.711Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4f8adbf7-5bdc-4164-b7d7-2a198c0c27ed" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.194Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d2b0afc5-eb68-4d75-ade5-63f891ef2c16" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.199Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "066ff572-54cf-4461-be25-6d445b5618b7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.203Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e038a4c5-a62a-4bb9-bff6-e253361047d3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.205Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "009f9bd1-65e6-4892-92fc-1a4915bb27a1" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.207Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "aa023ed5-eaf4-4d12-8a39-af2f538fab85" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.687Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f544050a-81a8-4dd4-ba21-a4f6892fbed9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.692Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "24375974-2af7-42a5-af07-11dfd1809ff6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.697Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "bf1739c0-ae92-46d0-92a1-8f556e131df0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.701Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4c39733b-f66c-4e6b-b703-760cfd4c1df2" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.706Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ae3479ca-03db-44b1-a08f-4bbd75a94f84" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:44.713Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b6023765-2062-4984-bb81-e470098fb548" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.185Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4ce0287f-fa81-46af-af03-848c29097a2a" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.196Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d4fa9ee7-09f1-4c78-9eb0-32688acbbf45" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.201Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d20bdd88-bb2e-4eb7-b05b-eccec0c943d9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.204Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "32726a30-37d3-4299-b748-a1d864e90f59" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.206Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8cc44041-6d65-42c4-940e-31820156c471" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.208Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c0de7476-0fe7-469a-9251-c5c4fcfb0625" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.684Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "524d4436-bcf1-4d9e-bc19-be3373dee8ae" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.688Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "84b46b27-36d2-4c80-90b3-c8a7bc00664e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.693Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "63921ab5-dab2-4075-80af-e09e8c8cd875" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.698Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "783b3047-1716-4092-a474-be101276bd46" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.703Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e37f43b7-4cb6-4e0a-9756-02b27c576948" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.708Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0e6685db-1723-437c-8c90-78bfc3009b56" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:45.715Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f7602882-14d8-4f0a-99a8-d2a81c396396" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.182Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6cf25fbd-b694-4285-98e9-f90e704260ec" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.186Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e9399198-8169-4b39-979d-0b48d09e376c" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.197Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "742e75e6-91b1-480f-ad5c-a71c4ec18d0f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.202Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "eb737178-34ca-4424-b9fa-987f1a65d687" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.206Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4edd36c9-ba90-448f-a304-35ec5ad4d6ab" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.208Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "bc3f309e-3fbb-4a2e-b055-881df795cc25" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.209Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e0cc3445-dece-4639-8725-fb129192ef8c" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.681Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "62c38c8d-ab9f-4ced-b6a2-efab5bccd3a0" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.686Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9e676daa-1cf7-43d6-ace1-d22fd62c33d3" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.690Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "18d72a6c-8c58-4e36-aa5e-aa7efd55109e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.694Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5d78077e-43f8-432a-ba85-ae8234347776" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.699Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "60150719-3a6c-4030-82f5-174083be9e4d" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.704Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "697670ab-e558-45e6-b92f-d845da80ed0a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.709Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dc521bd5-d5e2-4d39-a9bf-b797f63a173c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:46.716Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "00ae3c46-e53c-4798-af64-af17f2cc552d" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.178Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "eb1e68f2-2b1a-4f07-abbf-c3077f42aae8" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.183Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "166d3fb5-b533-4be1-ae10-113dd1cbf205" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.187Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "080a14ca-4bb7-4597-abe1-390e9c261893" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.198Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7451741e-0723-4341-93b0-5c7d5c913b74" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.203Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b5fbb1e6-e90f-410d-9cf1-052f2f5d01de" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.207Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "239d2120-bf44-42c1-b94a-6465807faf46" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.208Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7d37c2ca-e1ed-4a1e-8507-b639034b5eeb" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.210Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "05c4aefc-0996-4763-84f5-cc75ff78f7a0" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.677Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ee6e9737-d666-4f7f-af25-7046720bc755" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.682Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a60385c8-1757-4f6a-b3c8-512b67d66c1a" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.687Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b66e2d2a-5d6c-4c56-9e7e-e84e72d0460f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.691Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "05e5fcc5-1d50-417d-8c7f-423fe679cfb7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.696Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d7c25a5f-5443-4bbb-b616-07eb25311184" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.701Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "900df763-3067-4020-b029-78df8a28d09a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.706Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6b4244f1-f16c-47ac-83ba-ccfff1d7340c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.710Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c93d6970-6005-42ca-b263-d04ba025fc0f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:47.717Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1e7cb922-38d8-4de6-8300-28bd0185a472" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.176Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e511ee4f-5ad9-4395-9f84-59883317e809" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.180Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "214d383a-d118-4e52-9b45-af0791f45dd2" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.185Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0d59ddc9-6570-4542-9ef1-7dbb4d6dfcae" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.188Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "21250789-14a9-4dd9-b262-4bb5fdeb18e2" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.199Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "59216b9c-7d12-4e42-91ce-0fa8b9dfc069" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.204Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "09f51b52-4959-4e85-aca2-16eafcc62ece" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.208Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6999278d-0588-42c4-bbd8-f617420a293e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.210Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f1106963-7d1f-49d8-8d1b-43797b4f3221" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.212Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "52058a58-8303-42d2-a820-b056667c77f4" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.678Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "33b9c77e-2171-4dc7-a6aa-736d0d864833" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.683Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2cf99ced-caa6-491c-bba9-8c6f37fc2439" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.688Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2cfe7b6e-556b-4272-8ee6-7139adb15ee7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.692Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "90afb9b7-a284-4aac-b770-61fac2cd115e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.697Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b6b7cacb-ebcf-4561-9c9a-85a079814cd5" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.697Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d8bfa997-e594-4b71-b392-f9f97a5ba345" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.702Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4d1e6d77-20fd-4a61-b40d-8927a3a3d4a1" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.707Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "29b8250d-335e-4372-a0f9-3c6d8ef898b5" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.712Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "44552b02-b11b-48ef-a876-ccbc64cf4292" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:48.719Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "31d6327d-e397-467a-a0de-7e4d7c405f0d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.172Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3a940fd8-0eb0-4d22-bff5-b14606426279" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.177Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2b11a54c-98c7-43c7-8be5-dec1324d36ce" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.181Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f04c4be1-78e1-4a97-b8cb-a3a821fdf86a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.186Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4418b070-fdbf-4c52-98dc-a276e2016599" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.190Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f419a0ba-dbb8-48ef-982a-691ccb05f2f4" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.201Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2d8c501a-e358-4d62-9833-0dc4a9e33b53" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.206Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ab831259-0e67-49eb-9061-ab097308fd08" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.210Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b1517f30-21fd-4c9b-8fc6-4cd881c9d2e5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.212Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "65ef4a34-1d62-4251-9af9-d3775e736251" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.213Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "be696f28-6a9c-4a46-88bf-46199bc086d3" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.671Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a5bfecd1-544e-42f4-9b79-f7615b6b377b" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.680Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a7293062-cfb6-4878-8186-2bfa2d933239" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.685Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b668d843-48f3-40bd-a604-92b0cbec2eb3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.690Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3a5569ba-8514-4959-bc0e-63e0ef7526ae" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.694Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "61a88b9e-6b5d-41fe-bc37-1e284054bffd" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.698Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e478b862-aea5-4dff-8f21-d4fc0010fb05" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.698Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3aaa54fd-f876-4e9f-aa8b-b313872ea422" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.703Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6b8ab7e3-56b1-4e36-affc-01e6dc4e1430" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.708Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "041db78f-d248-45d4-95a2-3ef411b8c533" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.708Z] "GET /payments-summary?from=2025-08-21T07:56:34.708Z&to=2025-08-21T07:56:47.708Z HTTP/1.1" 200 - 0 105 1 0 "-" "Grafana k6/1.2.2" "22c6d787-9584-4034-ac36-b0312369fce4" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.713Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2a461e39-a699-4283-a664-0fc79e0efe79" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:49.720Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d3fe49a5-43f5-4bc1-94d9-6b2c3902c350" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.168Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "200a8ac8-0cd5-43af-82ea-50f3435cc64d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.173Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5cafe1b4-fb29-4307-ad50-55965c60ce96" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.178Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ccb17ce7-2097-4b85-9761-aa6f75e8b52e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.182Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e91d4355-f4e9-4684-8e73-d02a866e976c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.187Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a0a91e4a-7445-4255-9160-aa2966639c2e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.191Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dbe6f169-7732-45de-9e3b-4f6de389847d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.202Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "73008da7-1cfa-460a-9768-59d2ff097dcc" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.207Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b8607b53-3faa-4e81-93a5-df0233b5a2d6" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.211Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b1952dcf-e480-4228-996d-4090ef120743" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.213Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "29ff5603-19fb-4141-9db4-9f7ee248e3cf" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.215Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "44ce589e-42f4-424f-b9eb-3d0ee7e8d060" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.667Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "217ed4ba-60f8-40a5-9f1b-766b053a476e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.672Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "966729c4-cddc-4358-b527-b28ccf261d2f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.681Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b1ebcba9-fd1c-48f4-81f3-fd64889600f1" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.686Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "82d024f3-6f30-435e-b901-6524d92eea7d" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.691Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e1dfd9f9-5777-4496-92c8-78ef5330666c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.695Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "38b34625-c627-487e-91b8-6fb424342eb2" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.700Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7eacf809-398b-4a21-868d-ff2ecc35bcc9" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.700Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "18605f2c-c5c3-48ad-8f67-c973bfce917d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.705Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6237c6a2-27f5-446d-a7bf-ac972464372c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.710Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0fb6a26a-4913-40f1-b9c9-1b334dcc9f89" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.715Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "cf220f08-703e-47ed-9854-5463bc5e1200" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:50.721Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dd568020-d756-456b-988b-c5e86d6045bb" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.165Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0862d81e-52c5-4744-9009-c6b3a19c6e90" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.170Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4bea7542-6c11-4068-ba09-b8ae9359fe38" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.175Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5ad15073-484c-4ed5-a71f-534f53db89e8" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.180Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a023a717-33c6-4f63-83cc-f45477c4e20c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.184Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0f040e7c-3202-4756-99f6-4c6b3bcb32ec" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.189Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e02c55cb-66ca-4e9c-9092-3bfb0bf6b871" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.193Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "331ce99e-ee12-499b-a24d-4069cdba19b6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.204Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "de5880ff-4190-45eb-acf9-0239162fcb2d" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.208Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d59dec25-6498-47c7-97eb-07ae58ea5820" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.212Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dfdd2879-b125-4a8b-923c-3fd18401392b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.214Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5ded3925-fcb6-4df3-a5f3-a23f999ce116" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.216Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "135d07ca-c568-4def-a6d8-110187dcb2e9" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.664Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "69d2ce11-89a9-4a72-ac6f-7c84ef15d143" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.669Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9cb6bd59-bf07-4efa-9288-b446aa9ab954" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.674Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "294f333f-6536-471c-b474-31480112dbe8" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.683Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c6e9cba9-166a-4a7e-8ee0-1aa3448acfb3" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.688Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d0bae020-8905-411d-bfa5-4c8d129736c8" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.693Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "acf60f0a-5e0a-4aaf-abb0-20c3eb7c0c0b" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.697Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d24bc492-30f3-46ef-a28d-35d239f64b0a" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.702Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "022e3206-497f-484c-a0ce-6704bd9908ac" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.702Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1eb4bc5e-b0ba-4840-9375-c91b9f4e3133" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.706Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a9ffa165-981a-404b-814b-e44896daba1c" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.711Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f71820a5-152f-435b-8a2e-2106eacb99d8" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.716Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "820dbf29-5a87-405e-9b14-3e653a76d4a8" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:51.723Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "19d58f95-ce98-41fb-952a-6116cc6bfff5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.162Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "682e41d2-199a-423f-a71b-c5ac670b8061" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.166Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "df2cd21a-1110-4880-b40f-569792559b40" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.171Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "756409e1-3c19-4122-8f31-a5710fe25a4a" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.176Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "30d64631-b79d-4eaa-b588-75d3b1fdbbe5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.181Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6241ad0a-7a2e-4004-8659-e00a20d50e3e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.185Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c06f3619-7fde-4922-859d-5fdb1d89cb21" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.190Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fb0c9c9d-07b5-4025-9cac-fbf2e78c0827" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.194Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1d8ba4e3-a8dc-465f-afec-6af4aaea1705" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.205Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "123c2233-52c3-400e-aced-c9399575eddb" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.210Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "47d5effe-500e-40dc-9418-5b20c3db999d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.214Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "84222f66-9848-4f50-a325-b44ec05bc32d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.215Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c58a887d-8c3f-4803-8246-891598ec64c3" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.217Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "47ce7323-1ff1-443c-8139-3f533416f480" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.660Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e9cc083b-bbf6-4047-9ad5-846b3ce16ede" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.666Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "96fa596d-a9f4-4a67-9320-db16bafaf084" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.670Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "837d6fa6-c529-45e3-a910-55a8f34143e6" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.675Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4d656f99-b290-433f-bcc6-b5a3120c8775" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.684Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8e3bc5b3-4503-4545-ad71-cfbf02f3660a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.689Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4a83088d-c5d4-4175-8a77-3745e6eb0b52" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.694Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9e3f4c54-3ea9-40e4-855e-d98105392255" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.698Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a838ba16-28ef-4ea3-a916-610cfa705560" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.703Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "82d9bce7-3b0a-40d0-aec1-5a24834aef88" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.703Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6ba3ecae-04f4-4d49-8590-2d81fbb61c83" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.708Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "50013262-5714-467b-8889-64fdb5353a9b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.713Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d13bcbe1-22c6-4bea-8587-5a2df3e4574f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.718Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9c068238-485b-462e-be78-badd4a643416" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:52.725Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c810159b-ae90-48ae-98a9-fc84c80ba896" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.158Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e84b15b5-9708-49cd-ab69-40780805dbc3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.163Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d8cff29b-bc9c-48d1-9d0b-2cc1ec031318" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.168Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "721fec9b-9c30-486a-917f-7d336fa013e5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.173Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c3a27e88-050b-4c59-b790-efb8bc2943ec" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.177Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "178ba223-8523-4c08-830e-8a9680dbe9ad" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.182Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5b6c0009-3a81-48e2-9a41-557703530fc1" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.186Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7fb3d4f5-a309-43b1-b519-d64b91e7981a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.191Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8e77994f-ce9b-480d-96a5-582248794f99" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.195Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6d923c93-ab91-436d-8fd6-7e21739f8a7e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.206Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b86e528a-0c3e-4474-920c-344918ca4d3d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.211Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f4cf0ae6-3c04-4459-a3bf-e89f222f81e3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.215Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c1a1be7d-e51f-4d74-853f-d49750d607f8" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.217Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6f197539-2580-49bc-935e-44f6a12eed40" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.218Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5575a9d7-5c42-4b5a-bf27-4658a0530bc9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.657Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d0253a61-009e-42ad-8906-4d0524e5bd78" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.662Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b946b77c-6888-4953-9b18-aab4e2d76c29" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.667Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ef16a840-7e08-46ca-b54f-76b193c62fc8" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.672Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a33da02b-4e7c-497f-a7fe-f4cbef7b928e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.677Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "17a58000-c561-491f-9b82-4fce6d77f84b" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.686Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "81404638-e42a-4bda-a317-fc75bcae07d4" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.691Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "92560e8d-6b2d-4909-9a20-74053a14850a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.696Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8d20b441-ed1c-4e99-b5ef-dc3c27bc51f4" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.699Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "43297769-76c8-49f0-8eba-72c127d4ba5f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.704Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e3936384-2625-4644-abb1-f8d72d2e524c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.704Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "72e166b4-5b9a-4696-8e62-c789d158e6e9" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.709Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dc879a43-a141-44c2-84a0-6e001eeeed0d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.714Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ed71984a-1449-4c5b-8305-e74684504ce4" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.719Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e71087c2-7bc3-4561-befb-5a6a1c01f464" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:53.726Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "635f574e-077b-4bf8-9367-f184d77c77d6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.155Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "52fe2280-041c-423d-b45f-eb3c16fa8107" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.160Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "234ac0b1-9ff5-4a60-9034-335a320bccd5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.165Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "14ac9602-e9bf-49db-ae29-8d4e2c930b13" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.170Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0125f3f8-bac4-42e9-9f36-2a5118eac10d" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.174Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6adaee62-7a02-4d7a-a45e-6f09b38fc434" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.179Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d7ccc9ab-4b05-4c7d-8c8f-431b4115e3b1" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.184Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3c58c53c-c6ce-45d3-8079-2f3962be4bef" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.188Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f1cb7281-a747-4a69-ae98-f58908cc684e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.192Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "bedcdf95-d520-48ba-9b10-7b7a5e03d0f8" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.196Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e789e398-3144-42d9-9b74-9767cb42cc4c" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.207Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "956081a6-1298-44a7-a60b-65c1a0f65ff1" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.212Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3f591d00-50fc-42c0-82a9-1da8fc7c3999" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.216Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d0a79bc9-ab7c-44e8-8c7a-e59f541308f1" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.218Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "09be8600-1596-4582-8f46-955b27ae5fd6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.219Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "475918d8-f2d2-488e-8a24-fd837cb75c9c" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.654Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6eb25c3c-8f9d-4550-ac54-a5d42f9e5d6a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.658Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d5e3ac63-9250-4054-af25-e9a7fcdec4d0" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.664Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fdcf2e38-c296-45fb-92a1-5204e04301e3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.669Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d9d47345-6581-418c-ab59-d7cfe6c6d35f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.673Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3b0e6f44-e129-4d78-b176-f1b40bd969be" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.678Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dcb9a0df-71d2-4d02-b43b-c4119e13a1da" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.687Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7506f809-fbc9-4895-aa39-f579f6d8d73c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.692Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "549eb415-cf87-467f-8ceb-842e07369235" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.697Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "aea42c83-3b64-4e88-9581-d362f12b2636" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.701Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "15bd386a-fc91-4c76-ab99-864c5cb85b7b" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.706Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "951ebffc-d03c-4e84-ac3a-926137802e2e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.706Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9b9fc359-e012-4f8c-96ab-0ac0277db901" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.711Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5f06e24a-f789-4250-9b19-cef65f79f060" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.716Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a6d9c892-67c2-43a4-8846-cbbf521be1a7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.720Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e8acedcc-a446-42e7-8eeb-382c734adb17" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:54.727Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ce32483f-9952-47dd-81e8-0fc6d0689812" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.152Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4d24cd58-7d05-4a23-9019-f1574d25fc60" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.157Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "714b8b27-a39b-4937-a9b2-0676830b59e4" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.161Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a79c5807-1e27-4fb1-81fd-b7a9598bb461" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.166Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2afd9b49-4be3-49a5-9d30-c89eecf8ecb6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.171Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "875ceef4-4c71-44a7-8c1f-97a85be31b22" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.175Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b9f5a083-3dc0-4691-99f3-8b07ea6dcc99" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.180Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a7b337a7-beb5-4843-af88-67dc880b2574" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.185Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c63c2ad1-b003-4184-953b-f4c1b775473d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.189Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "53392687-d572-4927-ade6-8d22cb930ee1" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.193Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5499dd2a-48b5-45b0-95df-07c7f6ef6494" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.197Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a2b5c815-6b5f-49f1-9da8-6359dc6251c3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.208Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "194b21ec-1213-4554-903d-db7d2dce61b8" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.213Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "61d252a8-d3a1-4404-aec0-2013fdf5e621" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.217Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4dd3ee55-2e1d-4703-9bbe-613e35b8284d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.219Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9cdc7646-41a4-4336-b9a2-309e99d5d556" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.220Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4139603e-c179-4919-8e40-c66b2c4abc80" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.651Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "33617944-7d2d-4c96-9279-a4c7979f7d2a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.656Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f968b6e2-57e6-49a0-b6a3-40729e961ce6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.660Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f12ea820-2fd0-490d-b091-732608abbee9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.665Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "834a537a-0161-41d5-87bf-3124b01c072f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.670Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6ad82f2f-42de-44fe-a703-0a064cd7a0e5" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.675Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "31f44714-23eb-426b-92e5-5a703120ca18" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.680Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c9e44ba6-08df-4646-872c-b602f239de5b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.689Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8bb9785c-9d84-4959-bbf8-af7bc7493ee9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.694Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "96c7eb66-38e5-4bf3-a757-e051c5950d97" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.698Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e601c378-4e0b-4796-ab36-6244ca6b5226" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.702Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d6e7fa48-6e62-4a3b-994a-c910050db3fa" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.707Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0efbc239-cda7-45b4-9490-6d31392a9827" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.707Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "cab91370-8a95-44c1-b8e5-4fadb8f66c6f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.712Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e029d51b-9544-4b82-8f1a-951535ce8e1b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.717Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8e451423-2fb8-40fb-9be8-c54895c10cb7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.722Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6c33a592-a3a3-490d-9c60-de64f8baa518" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:55.729Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f5d94368-e93c-4569-86c9-da61df38c010" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.149Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ec395585-e182-4697-a8e5-89e2342fa7ff" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.153Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "15231b09-0c36-47ce-a78c-8d5a19e558b7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.158Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1d5e1cab-8d47-4536-8ae0-9548508850f5" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.163Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dafcd556-9d89-4632-9641-cc830691be5a" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.168Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dfa8056a-1f66-412a-9d7c-630609cef76b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.172Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c4c15ec7-45c9-43cb-9435-8a738ebb4f64" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.176Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c8f42e67-1a1f-4d15-bb38-ad6a3256c1da" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.181Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "766c05b4-7efb-427d-81ad-103b09506b51" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.186Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "20222696-2b74-4650-9172-04ec3c5b9f53" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.190Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "06ac3898-8d00-4cce-bb39-1b3e8c71a7d6" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.195Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c9e71ed9-c1c2-4c27-83dd-a124d18a4685" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.199Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4c5dcdcf-9f2b-41d2-99cb-6285fe34c12f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.210Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a1390145-15f6-4f0a-b2b8-730d86bc43ac" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.215Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3ed80ce9-82e0-4d78-8fe7-456992e14745" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.219Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7113c78c-8b1e-4ec5-be79-7cdebb8ada84" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.219Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d836b5e7-b43d-4f7b-a823-7502b8d9fab1" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.221Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a6146688-06aa-45cb-bf80-9d40fbb652de" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.647Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "af8f2cd6-2b29-4d82-b4a4-13bcd2e42fe9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.653Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b9c85aac-25ed-41ba-8515-611bdb9e33d9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.657Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3fa07ecf-60fb-4aa4-b78f-e839e1ccd050" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.660Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4629751d-8c58-4f9a-85ab-a3ea9b3692b9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.667Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "acd06959-4cd8-441a-ae97-1c596e246873" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.672Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9d7c5425-0afc-4527-a258-c52e2743f6e5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.677Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "606df3bb-eb26-4856-9d41-44d6ee1086fd" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.681Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "513a86af-7537-4d2a-a95c-a4b20806ad2f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.690Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "77ab444f-f9f2-40b6-9b23-2a80abc2edbc" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.695Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "467e3e3f-5c34-4eb9-895d-58cbae140152" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.700Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "448344b2-d180-449d-b856-2eaa55470394" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.703Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "03eea176-9948-4fe9-bc91-5f46b24aa88d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.708Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f2b8ad97-31b0-4726-a973-9d8cf6abffe3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.708Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e0434789-8326-423d-89ef-e0048c491d2a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.713Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a0b7664f-41fe-4623-873b-4dfa38044607" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.718Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2a644b5a-dd58-4b53-a05a-51fa5326137e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.723Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2352ba38-4a88-4216-8aa9-3bd7503d315d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:56.730Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1ebc78d1-a2cc-43fb-bdbd-cc7b26287cb6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.145Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d93562b4-242c-4576-8278-c0a5d8001c4e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.150Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f5a3a9cb-594f-4905-93e6-9eb550e2aa7f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.154Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b6183a5a-44a2-4bab-89e3-a4c29b6057bc" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.159Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6f3ddc73-0cc6-419e-9eba-b4b7c830c089" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.165Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1d4f2580-b2d9-48dd-8753-c2cb94e0782a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.168Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4c7e9c80-7da2-4c53-9b51-6263b2fb5ee0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.174Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "09934e74-210d-4efc-93b1-fe9d1b78db12" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.178Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "242670c5-4e49-4451-8e48-725b7f8001d5" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.183Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b9e2a8bd-83f3-4a0a-9d28-5b2b45d45505" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.188Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "01c17ba8-7d0c-4432-b485-71f930c52d11" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.192Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "21f490a2-bcc8-40d5-91b7-2604780d5415" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.197Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "034db6f7-9009-492e-95f9-6dcc4a4656c7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.201Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "95389788-9e60-4f2e-bfad-0ed6e379c3a2" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.211Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7f10f47f-c171-4253-a1d8-62ae6512e2b4" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.216Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e62e1215-e75b-4bf7-8716-b549991c6e4b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.220Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "62b73c60-d564-4d38-8689-d292a61c945e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.220Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "34a95ab4-566c-4249-afc4-28ade933fd12" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.222Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "46455b0c-9f65-46d0-83b5-851f20e7ce44" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.644Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fd31e43d-bc3b-443f-ad3f-d9b2b828cea6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.649Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ec8731cf-d30d-4af8-9808-e7495bb71835" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.654Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6a608d56-d294-42af-b372-f55d5c0fb34f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.659Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b1247647-b449-4629-b052-d162a14d4726" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.662Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a4f122e6-38cb-4ecb-947e-490425eed5e7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.668Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e2eb727e-0274-4e8b-bf0c-bceec0743e45" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.673Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "786eaa0c-11c8-4bd7-a0a1-70ceb167dfcb" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.678Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9ecddc78-8666-4b69-b215-580a7e497748" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.682Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e72f1c5a-090d-4c8d-a4a7-23d967a33a4a" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.691Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "cc7d6ff9-557e-4beb-a136-f803f42d1e0a" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.696Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5f00045f-3f1c-44de-abeb-22e07f38d4ed" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.701Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "13b71dc9-ef89-40ae-b837-6fc1cf4d5be0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.704Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "442bcf18-f01e-44f9-803e-f6f24fd2989a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.709Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3a47cfea-706d-4abc-aa4d-e01f0bb7982c" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.709Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6d920daa-c115-423a-a148-5e85361213b0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.715Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "bfa7779f-3361-4757-9134-3efdf52364d7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.720Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0f2b7ee9-f8ec-40a5-9db5-88f2dcdb3094" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.725Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a122f7e4-e9ae-4bc1-9968-9965b1491385" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:57.730Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "50dcd2dd-67cb-4e69-a447-563b671d011f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.141Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2b0ad93c-9b59-4c6a-a7d7-a5fe1733ba14" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.146Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "86e6fe69-460d-4870-8901-9efb98392983" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.151Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "96f17ad0-ccab-450d-bee8-37d075052ffb" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.155Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "73787c03-7b68-446f-8a2a-486223079343" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.160Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "258a16d7-670a-4354-aa2e-a9dcb4559e09" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.166Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c8ebb90d-4b71-41a9-ab2a-075a40e4f6b8" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.170Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fe548243-f549-4da6-823c-64b7a1de47d3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.176Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d373d84b-ffd1-406c-91ca-5a5fd066e3d7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.180Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "516a76c1-83b8-481d-9aca-a89167364d32" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.185Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c51d339d-8186-4006-9426-4ae7757ae432" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.190Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "85d7cfec-15f8-43ac-ba6d-5bcbceb2889f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.193Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2e112ee2-c421-4e61-a063-16dd84e96776" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.198Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "289779e4-82f8-4fc6-b3a6-67a3451fe692" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.202Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1a7da402-a50e-426d-b869-d5261f9ad7f7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.213Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6d9bfdf8-83dc-4d94-b7cb-dfe1fa413909" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.218Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "eb319c7b-50d6-4ba5-b382-fb34618b71b5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.222Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9fc9b4ec-98b7-44f7-bc21-433e07b01cc1" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.222Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "34cb01f3-c011-4977-bd5d-6b3d9db4a8e3" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.224Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "20c42d2a-31dd-4657-ac7a-3e270a5c15fa" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.640Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ad90ddd2-7ed5-454b-85d7-7a915fbe16fc" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.645Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "90dac009-ff3d-461d-9eb3-de41ebaca9fa" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.650Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "32593754-7a06-44b1-aaf6-e02015abd9dd" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.655Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a1a3c48b-f918-40a0-abde-e05fb9f81de0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.660Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dd2bc44e-9ea5-424d-a795-ccc7aaa371e4" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.664Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1a527dcf-495d-4ab4-ab20-cdfb4c1dbd12" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.669Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1096a3bd-b5b2-473f-85d3-d080d61630f9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.675Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f2baf4b9-53d8-45fd-b005-ea81596f6669" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.679Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "29a3e5b8-e821-43da-9127-912cab8c5f08" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.684Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6bea3054-13a2-4806-a434-87d8ccfafbd0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.693Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "cd99fd3c-23f0-45c6-b291-5b0ff56f1a5e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.697Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7bc62f32-00ec-47de-bb1b-7a54f5fea726" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.702Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "272624da-b263-4d17-81a4-9dbebf608f3b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.705Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1faa4421-45a4-43c5-a83f-cc1ddc36fc33" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.710Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f3181d75-a61d-4f62-ab60-f952849b590e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.710Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "254e2285-cf51-4af4-b8c8-6ba807b1ccd3" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.716Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ef6f49da-e208-476d-a07a-1f5a6707b342" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.721Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0cfdeabb-566b-4a98-bc60-3d638d53be19" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.726Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "48e2ee4b-ac14-44e9-8173-c488841b692f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:58.732Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "624dc8fa-75da-4a85-93dc-18b95a552341" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.143Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c40aad68-cad6-46a9-aa61-7b3458cdc2a2" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.148Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "03532f3e-17ae-4cf1-8334-52160c26f1b3" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.153Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "00cf24dc-e946-42d2-a1d6-2101a4992879" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.153Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c37932bb-9b31-493d-9119-ecb0799665eb" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.157Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e1ce23e4-ae59-49df-82d7-ddab5853c575" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.162Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b880d6eb-565c-4124-863b-e4c7724cb972" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.168Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3c086e07-97db-4c4c-9b92-66ff129de316" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.172Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2956e382-9019-4ffe-b828-07371a53167c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.178Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ef167dfa-72f4-48f1-ac6c-841515a85fcb" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.181Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ea47f984-04a5-4979-a09c-2b9d8576ae15" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.187Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2c534127-1a25-4142-97b2-d4fce714940f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.192Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9596d96e-3348-4e63-98dc-493645bae168" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.194Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2f23e4c8-5e54-4abd-9616-f669c8c8dd0b" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.199Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "73d6bcf5-e583-42a4-8bf4-70b569ad8b40" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.203Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "58aacd4c-ccb3-4cf3-9ded-033da552f10b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.215Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2e17c478-8c22-446d-876b-bba7028a9bb5" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.219Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4fe8768a-c64d-4103-b912-94ead16bafa3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.224Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "662a22e3-74be-46d6-a1d3-fd9199318d10" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.224Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ea06e240-c8d4-4973-852f-3a827cff8c9a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.225Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "165922b8-645c-4a17-8e9a-ac41299f9a40" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.637Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "15b5e992-08ae-4d3c-9df4-83edcf028c99" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.642Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "96789760-6a9e-417a-bd3d-58a0ba636d44" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.647Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2c8c6ddc-14ef-4c9a-b7e3-4131c34bea71" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.651Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "11d4eb63-1d7f-432a-afd0-17c3e4e92b38" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.657Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fff2270a-bd71-4c98-ae31-cb7a082ef3db" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.662Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4eb73306-3c33-404b-9394-2258faaa3178" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.665Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "22777706-f151-411d-a278-7fbaac69ff34" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.670Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d6fcd57d-0808-4ac1-882c-94d33f4f05ac" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.676Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2de325c6-f298-40e2-961b-0b4e9e263df3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.680Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "512842e5-3f00-4de6-84ad-c307b730a474" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.685Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c4cc0cb6-9281-4ec4-b808-7f741a2e4ad6" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.694Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9c77b5e0-be86-4b7d-8de3-fe9afeeabd2c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.699Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "30b53243-8cb8-49c3-995f-b9510b1a555c" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.704Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0fcae159-e0dd-4052-b62b-de02c48258bc" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.707Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0d73cf93-b89d-4ce2-bc01-f243f719c056" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.711Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ded9cc3c-c838-43bd-bd95-5060e926b3a2" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.711Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "83c3de0f-713d-4024-b1fe-c1e5686920fe" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.710Z] "GET /payments-summary?from=2025-08-21T07:56:44.710Z&to=2025-08-21T07:56:57.710Z HTTP/1.1" 200 - 0 105 3 3 "-" "Grafana k6/1.2.2" "1ff3d794-67f8-4f58-86d1-fb29f77e33da" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.718Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c0e1b331-4cf0-4f4d-a5ad-15d948797075" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.722Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "bb6181bf-3b84-451e-857c-ec5f2723a387" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.727Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "22f6d5f7-c78b-4600-ab41-1cdde564ca18" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:56:59.734Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4c06b57b-5589-4a57-afcd-993b226c0e28" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.135Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c5725055-c7e8-40a7-839d-6c81aa0c7437" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.145Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "62cfdd41-71af-4424-8c25-de26c4644053" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.150Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "46fdbb66-2efb-403f-a7af-3bedc1e444c5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.155Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "35c1bf0d-0902-44b2-87ef-71b2a85ec232" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.155Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1cee962e-3f5a-4ab9-9662-01dff82e778f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.159Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "29f5a026-525a-49cb-900d-f69579ff0177" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.164Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "44abf302-5aac-4760-8c81-106a8b9810ab" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.170Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b0436cb2-d745-48e5-a43a-c67a1e2c74ce" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.173Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "957034f9-3fce-48f1-9233-903beb4d20e0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.179Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "43bc4dea-cb4d-4570-8540-2638461ee03a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.182Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "80819177-053b-464e-9adc-e1813b095b34" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.188Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fb8db266-5e5c-41c3-8d10-f1990e687926" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.193Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "76a11bd2-ef39-4181-8993-153c0ef5f034" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.196Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fd5e0369-4f16-442a-9c2f-0e22f7040c1a" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.201Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5b8fe085-8425-4b97-80ba-eab0c14e6925" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.205Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1ef2a4bb-00dd-429c-b184-813b5e5bde89" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.216Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "450b5a98-a766-4512-8dc9-b5a3cf687e90" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.220Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "fd6bb7c4-e578-4569-9dd5-5ac8a5d2e37d" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.225Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "55f9a457-b746-4277-97f2-5d93e56cfb80" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.225Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "40698a89-e00e-4f96-8fca-be1f546a27ea" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.226Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c7fa5412-87e7-458b-b73b-546dd25fc217" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.633Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5bf977ee-f685-4fee-b9f4-5e770644d2e9" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.638Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9e4c0618-8423-4478-beb7-1b5e8294c186" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.643Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1b94006b-6ad1-45ff-a4ac-a6c5a8386f2b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.648Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2075cd64-95ad-4429-9d22-1c3faa3d9b27" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.652Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6ce8706c-cf0b-4903-886d-b882e2e164c4" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.658Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "04ffe901-3871-4089-b91f-e39c0d25beb1" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.663Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "35bc4ed7-0b18-410b-99a9-35d2abcbac4b" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.667Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "534be8bc-a3db-40c8-9c49-0983980c2df7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.672Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "83ed81b8-1d99-4d5e-bb6c-8d592521bbf2" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.678Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f054829a-1a6f-411e-a9e0-ec165771dcb4" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.682Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7c7158e5-e27f-4007-ae0d-bdc8e6901ea6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.687Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2563c6d1-ecb5-47fa-8d4c-d6fb77ad9485" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.695Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "645b5e3c-fdce-4655-8d4b-0b65fa744683" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.700Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "868380cd-61b5-4f89-8fed-c3c35a5d888b" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.705Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d285304a-89cb-4aa3-96f1-0f977a915166" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.708Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "053cebf0-b83f-45ef-80f1-e7e92990b0e9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.712Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "29c44d66-86cd-4a1e-b3b2-f5b46daa7b39" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.712Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8d229f24-5d04-4f38-a32e-bc421d67cbaf" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.719Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "66f5fa9b-2940-4e8e-a88a-2b8558db64aa" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.724Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "961d6fea-9976-470f-ae27-ca646a10c23b" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.729Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "63eab421-a867-4162-8dc9-84c281443eaf" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:00.735Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3b8b8a7b-a294-4000-89de-ad3de91b8af6" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.132Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0d527622-251c-4a35-abd4-fad7593ee3ef" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.136Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a5ba9666-d211-4e07-a26c-933eafa78c72" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.146Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "84907fc1-6668-4218-ba93-0cbbe54f9ca5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.151Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "eb182c3a-ae83-4655-8459-b79d34b53b61" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.156Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d9f41870-3630-4ee1-ae65-00041468e1ca" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.156Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6fd78c98-e8a0-4afa-882b-5df905492b22" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.160Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "668cdb16-8cf5-4541-a02f-1d39486803b7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.165Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "95c06149-9340-4611-8d20-ac426b023e1c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.171Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f2d4ba99-aa0d-4f91-a10c-91469078cff0" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.175Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a091cce1-5133-4f8b-bffe-7c824d7d2a8e" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.180Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "cbe02884-c20f-44c1-9504-fa28c7a84a73" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.184Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8392147a-050c-4881-92ac-52f3bb3310a5" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.189Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4cb8ee1c-234a-4502-9d9e-bf1c7f901ac7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.194Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "a38f41bb-af08-40dc-95a4-9f46dced7c61" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.197Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7794e3dd-7eda-425b-86be-dced26106b22" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.202Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b574dd34-216b-44a7-9ff1-9f446c491410" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.206Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "bc79c694-5a88-421e-8220-6b661de95ec7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.218Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0fb76238-1cc4-4409-8391-957ed2dcf5bc" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.222Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d71ca32f-d200-4e0f-b3c2-c66f4fc415b5" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.226Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "420d5356-6af4-4c67-8828-8643ce9c7700" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.227Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "bd2fc1b3-e8c5-448d-b3b8-6f86b459e50c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.227Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "3bd38e75-e47e-4bbe-a032-65c5e1b70371" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.631Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "00dd5725-6298-4286-967b-f17718b7a7f8" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.635Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "83121e4b-b203-4985-9fc3-4ffe4d0de256" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.640Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b1ebd517-4e95-4585-91cc-17945ef3f357" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.645Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5f505aa7-3947-42cc-895c-57ce3aac2713" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.650Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9df821a4-35e4-4d32-9ff6-993303819a54" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.654Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "342c0479-9cef-409a-af26-7aac4fa1dabe" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.660Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "94fd78c6-0dbc-4a99-8313-1e8155cbb119" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.665Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6cd70779-0d67-4602-bed7-495836ac757e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.669Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "998c76b2-de77-42ae-bcbe-d49eb0b1563a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.673Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8142a274-c4b7-436e-9fac-d89772f65d56" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.680Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "717e9540-d4ef-43f0-8cb5-e1f77fc666b2" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.689Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2894a809-7f7c-44a1-b929-9ea0b07635ce" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.691Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "545460fa-fddf-40e2-b1db-52d90681da88" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.704Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "45343b9e-a6cc-4f4d-804f-e2da884bfdfd" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.704Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "637c4d2c-5f37-4ad5-bc44-153df7e044fe" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.713Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "432bd8c2-5ecd-44e0-aa6e-4463a5f23447" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.713Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4029d802-7517-4307-af62-9f33087da3e4" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.715Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0b51560a-457c-43a9-b464-65d6eb059eed" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.714Z] "POST /payments HTTP/1.1" 200 - 71 0 3 3 "-" "Grafana k6/1.2.2" "da079a59-199b-4dde-b700-44cc0f93e828" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.733Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "136a3e98-2dca-416f-af3c-44aa174f4b4d" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.733Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "123af258-749c-4fc2-9feb-0ffb91f3520f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.733Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4e2774ce-751a-4de5-b46f-958c31cfd882" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:01.753Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "dd19daa6-8fdc-4095-9439-b07fc0dcda84" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.129Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8102c014-df45-48b9-9752-533d93cf6630" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.134Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c343528c-bac8-4726-b7b7-88ed4fa6b628" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.138Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7df441d1-8f3d-4a5e-bf9a-931239e5a169" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.148Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "db4c6c81-0404-431d-b281-df405123a02f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.153Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "50265c19-b33b-4e9d-91c6-4699ac974a05" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.157Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "bbea2eaa-2eba-49e9-b01e-fec0f84f03b3" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.158Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "908ce50c-8681-49c9-8979-3fea9d4022b7" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.162Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "96346da1-b841-4b0a-bd2c-72ec89e2768f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.167Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "222cf470-95b6-4bbb-a225-acbf76f449e3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.173Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "32d7e1aa-06f9-4c81-8c60-7237c1faf533" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.177Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "704914fd-d238-4233-be6b-490268269b1a" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.182Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "00f694b7-0620-44d8-b86a-600d37ffc5fd" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.185Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "654ace6c-b87d-437c-9043-30a174a40ce2" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.190Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "17c6538b-e27f-4d63-b351-0d82de3b89db" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.195Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5080a701-b667-4ec9-8876-815bd9d9f8c7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.198Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4da72ef7-b8a4-4b4f-ae5f-050ffe8f9e7e" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.203Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "7ff620d6-6d91-4ce1-bea7-5d19d36f6622" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.207Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "08994f50-4861-4ba2-a54f-3c78348a82b4" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.219Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8627dc20-3b8c-4c8a-bb61-486db6e66aba" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.223Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "8dd2101c-f119-4d8b-92c3-cf2fd08e9f54" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.228Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "447e2aba-943e-4011-9a78-84f39b77d52f" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.228Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0e272867-8ed1-4346-809e-a68fd4a570a0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.228Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d7aacfeb-2bf8-47af-986a-1e3b7cc50b97" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.627Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "be1d57b7-0148-44df-8b0b-8e3f8cb0d752" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.632Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1b20ced3-276f-4289-b290-52d5b32746d2" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.636Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "12fbf30e-1272-4635-997c-aa173cf32269" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.641Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "efb3e9b6-d79d-449d-bd5e-037cad8dc6d0" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.646Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2fa17234-f449-4bb7-9424-ffaa8dc4ba12" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.651Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "89df6647-6f18-4c5c-a5d9-d2d1add0cff9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.655Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1f7c8dee-9d2f-45da-9ba9-9ac303cef5a9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.661Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "91271599-f480-47f1-a1f1-868073cc1c14" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.666Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "6f705324-f16b-4788-8a8c-74944578621c" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.670Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0d060141-34a1-425d-9bfd-1b10232a9744" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.675Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "923aacf5-baaf-4522-8b0f-9225d637e371" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.681Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b9218388-b467-4fa6-b7c4-baf84d1ac4ca" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.691Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d10b01c6-5b6c-4fdd-ba3d-4445780f3dd0" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.692Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "f834a8a3-4832-4c27-abdd-036c68159738" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.706Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d425ee11-3a58-47ef-b4cd-3df922ca4f5f" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.706Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "2b6ca80b-6cb6-4722-a0b0-4a84ca24dce7" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.715Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "51eace3f-ccc6-4209-b6c4-78ce1ad7febb" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.715Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c300bde6-ef14-469b-b0df-aeb35ffcb680" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.718Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0875c8f7-7004-4571-9739-71ca90ffc908" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.719Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b24d6a89-e17a-49d4-95c3-f574ad7db527" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.735Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "b9bee473-2b5d-425d-b0e8-559a836a6acf" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.735Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "e9bcf11c-1633-4abb-bd4a-e3b79cdc9765" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.735Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ee4e982f-fab4-414e-bc14-cbecfb4ca4f2" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:02.755Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "4b2d9f68-4f8a-48d3-a2b6-a00e43db91bd" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.130Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1a73c04f-4455-4615-90f3-b8fceb5ed1a8" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.135Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "38286302-3800-4717-a805-bf0317f12633" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.139Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "5acb5a4e-ddbb-4d15-bd5c-9d87bcb36769" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.145Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "0422a45d-4823-47f4-adeb-80087852c029" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.149Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c36f6996-1ee8-4cae-9a43-4c4575d267a9" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.154Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "66d6647d-c129-4540-b2b9-111c027e9e47" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.159Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "abb788a3-5959-448a-8ec2-40825f6dd0f3" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.159Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "c3e6cc20-e2c0-46d2-b28d-82bfd8dc2809" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.163Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "1e5ae78f-ec19-4d2c-a48e-4826f5b84ffb" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.168Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "494bbf0d-c90f-4c60-b4c0-c3aaa1cfaf68" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.174Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "85760afe-0a3b-42d4-bedb-a86f9caa2291" "localhost:9999" "172.20.0.5:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.178Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "ed848abe-493e-4069-92ab-79415394d476" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.183Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "20299b9a-bb77-47bd-8700-8cbaedaaf73d" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.187Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "457cca35-9acb-46be-8c40-025f95cbbaba" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.192Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "d4f17218-e096-4293-b03e-8e77755df019" "localhost:9999" "172.20.0.4:8080"
+payment-gateway-envoy  | [2025-08-21T07:57:03.196Z] "POST /payments HTTP/1.1" 200 - 71 0 0 0 "-" "Grafana k6/1.2.2" "9ea4bee9-caf3-4d17-af09-fe1f57ae906c" "localhost:9999" "172.20.0.5:8080"
+log truncated at line 1000

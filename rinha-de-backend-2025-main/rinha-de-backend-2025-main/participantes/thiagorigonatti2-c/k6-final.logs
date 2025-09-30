@@ -1,0 +1,4 @@
+
+time="2025-08-21T03:16:41Z" level=info msg="summaries from 2025-08-21T03:10:41.029Z to 2025-08-21T03:16:41.029Z" source=console
+time="2025-08-21T03:16:41Z" level=error msg="test run was aborted because k6 received a 'interrupt' signal"
+log truncated at line 1000

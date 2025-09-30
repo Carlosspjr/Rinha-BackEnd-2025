@@ -1,0 +1,133 @@
+
+ worker Pulling 
+ api-1 Pulling 
+ api-2 Pulling 
+ 9824c27679d3 Already exists 
+ 1a283093615e Already exists 
+ 9824c27679d3 Already exists 
+ c0055458ac5d Already exists 
+ 1a283093615e Already exists 
+ e0b734aef486 Pulling fs layer 
+ 23bfe385bc41 Pulling fs layer 
+ c0055458ac5d Already exists 
+ e0b734aef486 Pulling fs layer 
+ 23bfe385bc41 Pulling fs layer 
+ 9824c27679d3 Already exists 
+ 1a283093615e Already exists 
+ c0055458ac5d Already exists 
+ e0b734aef486 Pulling fs layer 
+ e331e5e576e7 Pulling fs layer 
+ e0b734aef486 Download complete 
+ e0b734aef486 Downloading [==================================================>]      93B/93B
+ e0b734aef486 Verifying Checksum 
+ e0b734aef486 Download complete 
+ e0b734aef486 Extracting [==================================================>]      93B/93B
+ e0b734aef486 Download complete 
+ e0b734aef486 Extracting [==================================================>]      93B/93B
+ e0b734aef486 Extracting [==================================================>]      93B/93B
+ e0b734aef486 Extracting [==================================================>]      93B/93B
+ e0b734aef486 Extracting [==================================================>]      93B/93B
+ e0b734aef486 Extracting [==================================================>]      93B/93B
+ e0b734aef486 Pull complete 
+ e0b734aef486 Pull complete 
+ e0b734aef486 Pull complete 
+ 23bfe385bc41 Downloading [>                                                  ]  245.8kB/23.78MB
+ 23bfe385bc41 Downloading [>                                                  ]  245.8kB/23.78MB
+ 23bfe385bc41 Downloading [=========>                                         ]  4.424MB/23.78MB
+ 23bfe385bc41 Downloading [=========>                                         ]  4.424MB/23.78MB
+ e331e5e576e7 Downloading [>                                                  ]  244.6kB/23.64MB
+ 23bfe385bc41 Downloading [==================>                                ]  8.585MB/23.78MB
+ 23bfe385bc41 Downloading [==================>                                ]  8.585MB/23.78MB
+ e331e5e576e7 Downloading [========>                                          ]  4.177MB/23.64MB
+ 23bfe385bc41 Downloading [==========================>                        ]  12.75MB/23.78MB
+ 23bfe385bc41 Downloading [==========================>                        ]  12.75MB/23.78MB
+ e331e5e576e7 Downloading [=================>                                 ]   8.11MB/23.64MB
+ 23bfe385bc41 Downloading [===================================>               ]  16.89MB/23.78MB
+ 23bfe385bc41 Downloading [===================================>               ]  16.89MB/23.78MB
+ e331e5e576e7 Downloading [=========================>                         ]  12.03MB/23.64MB
+ 23bfe385bc41 Downloading [============================================>      ]  21.05MB/23.78MB
+ 23bfe385bc41 Downloading [============================================>      ]  21.05MB/23.78MB
+ e331e5e576e7 Downloading [=================================>                 ]  15.95MB/23.64MB
+ 23bfe385bc41 Verifying Checksum 
+ 23bfe385bc41 Download complete 
+ 23bfe385bc41 Download complete 
+ 23bfe385bc41 Extracting [>                                                  ]  262.1kB/23.78MB
+ 23bfe385bc41 Extracting [>                                                  ]  262.1kB/23.78MB
+ e331e5e576e7 Downloading [=========================================>         ]  19.85MB/23.64MB
+ 23bfe385bc41 Extracting [===================>                               ]  9.437MB/23.78MB
+ 23bfe385bc41 Extracting [===================>                               ]  9.437MB/23.78MB
+ e331e5e576e7 Verifying Checksum 
+ e331e5e576e7 Download complete 
+ e331e5e576e7 Extracting [>                                                  ]  262.1kB/23.64MB
+ 23bfe385bc41 Extracting [==========================================>        ]  20.45MB/23.78MB
+ 23bfe385bc41 Extracting [==========================================>        ]  20.45MB/23.78MB
+ e331e5e576e7 Extracting [================>                                  ]  7.602MB/23.64MB
+ 23bfe385bc41 Extracting [==================================================>]  23.78MB/23.78MB
+ 23bfe385bc41 Extracting [==================================================>]  23.78MB/23.78MB
+ 23bfe385bc41 Pull complete 
+ 23bfe385bc41 Pull complete 
+ e331e5e576e7 Extracting [=========================================>         ]  19.66MB/23.64MB
+ api-2 Pulled 
+ api-1 Pulled 
+ e331e5e576e7 Extracting [================================================>  ]  23.07MB/23.64MB
+ e331e5e576e7 Extracting [==================================================>]  23.64MB/23.64MB
+ e331e5e576e7 Pull complete 
+ worker Pulled 
+ Network igor-lucas-csharp2_backend  Creating
+ Network igor-lucas-csharp2_backend  Created
+ Volume "igor-lucas-csharp2_socket_data"  Creating
+ Volume "igor-lucas-csharp2_socket_data"  Created
+ Container igor-lucas-csharp2-rinha-db-1  Creating
+ Container redis  Creating
+ Container redis  Created
+ Container igor-lucas-csharp2-rinha-db-1  Created
+ Container worker  Creating
+ Container backend-1  Creating
+ Container backend-2  Creating
+ Container backend-1  Created
+ Container worker  Created
+ Container backend-2  Created
+ Container igor-lucas-csharp2-nginx-1  Creating
+ Container igor-lucas-csharp2-nginx-1  Created
+Attaching to backend-1, backend-2, nginx-1, rinha-db-1, redis, worker
+rinha-db-1  | The files belonging to this database system will be owned by user "postgres".
+rinha-db-1  | This user must also own the server process.
+rinha-db-1  | 
+rinha-db-1  | The database cluster will be initialized with locale "en_US.utf8".
+rinha-db-1  | The default database encoding has accordingly been set to "UTF8".
+rinha-db-1  | The default text search configuration will be set to "english".
+rinha-db-1  | 
+rinha-db-1  | Data page checksums are disabled.
+rinha-db-1  | 
+rinha-db-1  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+rinha-db-1  | creating subdirectories ... ok
+rinha-db-1  | selecting dynamic shared memory implementation ... posix
+rinha-db-1  | selecting default "max_connections" ... 100
+redis       | Starting Redis Server
+rinha-db-1  | selecting default "shared_buffers" ... 128MB
+redis       | 1:C 20 Aug 2025 23:17:38.310 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+backend-1   | warn: Microsoft.AspNetCore.Server.Kestrel[0]
+backend-1   |       Overriding address(es) 'http://*:8080'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+backend-1   | info: Microsoft.Hosting.Lifetime[14]
+backend-1   |       Now listening on: http://unix:/tmp/backend_1.sock
+backend-1   | info: Microsoft.Hosting.Lifetime[0]
+backend-1   |       Application started. Press Ctrl+C to shut down.
+backend-1   | info: Microsoft.Hosting.Lifetime[0]
+backend-1   |       Hosting environment: Production
+backend-1   | info: Microsoft.Hosting.Lifetime[0]
+backend-1   |       Content root path: /app
+backend-2   | warn: Microsoft.AspNetCore.Server.Kestrel[0]
+backend-2   |       Overriding address(es) 'http://*:8080'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+backend-2   | info: Microsoft.Hosting.Lifetime[14]
+backend-2   |       Now listening on: http://unix:/tmp/backend_2.sock
+backend-2   | info: Microsoft.Hosting.Lifetime[0]
+backend-2   |       Application started. Press Ctrl+C to shut down.
+backend-2   | info: Microsoft.Hosting.Lifetime[0]
+backend-2   |       Hosting environment: Production
+backend-2   | info: Microsoft.Hosting.Lifetime[0]
+backend-2   |       Content root path: /app
+worker      | Async Retry 1: NpgsqlException - Failed to connect to 172.18.0.5:5432
+rinha-db-1  | selecting default time zone ... UTC
+rinha-db-1  | creating configuration files ... ok
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint igor-lucas-csharp2-nginx-1 (bcc7d50f8884c7cff063c291cfc0c8cfede2665b97bfae40d4bd1c09dc178a1e): Bind for 0.0.0.0:9999 failed: port is already allocated
+log truncated at line 1000

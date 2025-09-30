@@ -1,0 +1,1001 @@
+
+ worker1 Pulling 
+ nginx Pulling 
+ worker3 Pulling 
+ app1 Pulling 
+ redis Pulling 
+ app2 Pulling 
+ worker2 Pulling 
+ app3 Pulling 
+ 9824c27679d3 Already exists 
+ ebfede01775a Pulling fs layer 
+ 8af2798e6c62 Pulling fs layer 
+ 8af2798e6c62 Downloading [>                                                  ]  53.36kB/5.305MB
+ 8af2798e6c62 Verifying Checksum 
+ 8af2798e6c62 Download complete 
+ 9824c27679d3 Already exists 
+ ebfede01775a Pulling fs layer 
+ 55c257f325fc Pulling fs layer 
+ ebfede01775a Downloading [==================================================>]      92B/92B
+ ebfede01775a Verifying Checksum 
+ ebfede01775a Download complete 
+ ebfede01775a Downloading [==================================================>]      92B/92B
+ ebfede01775a Verifying Checksum 
+ ebfede01775a Download complete 
+ ebfede01775a Extracting [==================================================>]      92B/92B
+ ebfede01775a Extracting [==================================================>]      92B/92B
+ ebfede01775a Extracting [==================================================>]      92B/92B
+ ebfede01775a Extracting [==================================================>]      92B/92B
+ ebfede01775a Pull complete 
+ ebfede01775a Pull complete 
+ 8af2798e6c62 Extracting [>                                                  ]  65.54kB/5.305MB
+ 8af2798e6c62 Extracting [==================================================>]  5.305MB/5.305MB
+ 8af2798e6c62 Extracting [==================================================>]  5.305MB/5.305MB
+ 8af2798e6c62 Pull complete 
+ 9824c27679d3 Already exists 
+ ebfede01775a Already exists 
+ 55c257f325fc Pulling fs layer 
+ 55c257f325fc Downloading [>                                                  ]  53.28kB/5.252MB
+ 55c257f325fc Downloading [>                                                  ]  53.28kB/5.252MB
+ 55c257f325fc Downloading [============>                                      ]  1.327MB/5.252MB
+ 55c257f325fc Downloading [============>                                      ]  1.327MB/5.252MB
+ 9824c27679d3 Already exists 
+ ebfede01775a Already exists 
+ 55c257f325fc Downloading [==========================>                        ]  2.773MB/5.252MB
+ 55c257f325fc Downloading [==========================>                        ]  2.773MB/5.252MB
+ 55c257f325fc Pulling fs layer 
+ 55c257f325fc Downloading [==========================>                        ]  2.773MB/5.252MB
+ worker3 Pulled 
+ worker1 Pulled 
+ 55c257f325fc Download complete 
+ 55c257f325fc Download complete 
+ 55c257f325fc Verifying Checksum 
+ 55c257f325fc Extracting [>                                                  ]  65.54kB/5.252MB
+ 55c257f325fc Extracting [>                                                  ]  65.54kB/5.252MB
+ 55c257f325fc Extracting [>                                                  ]  65.54kB/5.252MB
+ 55c257f325fc Extracting [==================================================>]  5.252MB/5.252MB
+ 55c257f325fc Extracting [==================================================>]  5.252MB/5.252MB
+ 55c257f325fc Extracting [==================================================>]  5.252MB/5.252MB
+ 55c257f325fc Pull complete 
+ 55c257f325fc Pull complete 
+ 55c257f325fc Pull complete 
+ app3 Pulled 
+ worker2 Pulled 
+ app2 Pulled 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 7a8a46741e18 Waiting 
+ 0368fd46e3c6 Already exists 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ e6fe6f07e192 Waiting 
+ 4c55286bbede Waiting 
+ a2cadbfeca72 Waiting 
+ 5e28347af205 Waiting 
+ 4f4fb700ef54 Waiting 
+ 311eca34042e Waiting 
+ a976ed7e7808 Waiting 
+ app1 Pulled 
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 6bc572a340ec Downloading [>                                                  ]  18.84kB/1.806MB
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
+ 6bc572a340ec Downloading [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Pull complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Download complete 
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Download complete 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ cb1ff4086f82 Downloading [>                                                  ]  168.5kB/16.84MB
+ 4c55286bbede Pull complete 
+ cb1ff4086f82 Downloading [======>                                            ]  2.327MB/16.84MB
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Download complete 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ cb1ff4086f82 Downloading [===========>                                       ]  3.768MB/16.84MB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ cb1ff4086f82 Downloading [===================>                               ]  6.631MB/16.84MB
+ 5e28347af205 Pull complete 
+ cb1ff4086f82 Downloading [=============================>                     ]  9.847MB/16.84MB
+ cb1ff4086f82 Downloading [===================================>               ]  11.83MB/16.84MB
+ 311eca34042e Downloading [>                                                  ]  10.93kB/1.003MB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ cb1ff4086f82 Downloading [========================================>          ]  13.81MB/16.84MB
+ cb1ff4086f82 Download complete 
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ e6fe6f07e192 Downloading [>                                                  ]    127kB/12.41MB
+ cb1ff4086f82 Extracting [==========>                                        ]  3.539MB/16.84MB
+ e6fe6f07e192 Downloading [===========>                                       ]  2.765MB/12.41MB
+ cb1ff4086f82 Extracting [==================================>                ]   11.6MB/16.84MB
+ e6fe6f07e192 Downloading [==========================>                        ]  6.459MB/12.41MB
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ e6fe6f07e192 Downloading [============================================>      ]  11.08MB/12.41MB
+ cb1ff4086f82 Pull complete 
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ nginx Pulled 
+ e6fe6f07e192 Extracting [======================>                            ]  5.636MB/12.41MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Download complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ redis Pulled 
+ Network gabriel-golang_backend  Creating
+ Network gabriel-golang_backend  Created
+ Container redis  Creating
+ Container redis  Created
+ Container app2  Creating
+ Container worker3  Creating
+ Container app1  Creating
+ Container worker2  Creating
+ Container worker1  Creating
+ Container app3  Creating
+ Container app2  Created
+ Container worker2  Created
+ Container worker3  Created
+ Container app3  Created
+ Container worker1  Created
+ Container app1  Created
+ Container nginx  Creating
+ Container nginx  Created
+Attaching to app1, app2, app3, nginx, redis, worker1, worker2, worker3
+redis  | 1:C 21 Aug 2025 01:17:19.424 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis  | 1:C 21 Aug 2025 01:17:19.424 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis  | 1:C 21 Aug 2025 01:17:19.424 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+redis  | 1:C 21 Aug 2025 01:17:19.425 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+redis  | 1:M 21 Aug 2025 01:17:19.425 * monotonic clock: POSIX clock_gettime
+redis  | 1:M 21 Aug 2025 01:17:19.425 * Running mode=standalone, port=6379.
+redis  | 1:M 21 Aug 2025 01:17:19.426 * Server initialized
+redis  | 1:M 21 Aug 2025 01:17:19.426 * Ready to accept connections tcp
+worker1  | Conectado ao Redis com sucesso!
+worker2  | Conectado ao Redis com sucesso!
+worker3  | Conectado ao Redis com sucesso!
+app2     | Conectado ao Redis com sucesso!
+app1     | Conectado ao Redis com sucesso!
+app3     | Conectado ao Redis com sucesso!
+nginx    | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx    | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx    | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx    | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx    | 10-listen-on-ipv6-by-default.sh: info: /etc/nginx/conf.d/default.conf differs from the packaged version
+nginx    | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx    | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx    | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx    | /docker-entrypoint.sh: Configuration complete; ready for start up
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: using the "epoll" event method
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: nginx/1.29.1
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: OS: Linux 6.12.41+deb13-cloud-amd64
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1073741816:1073741816
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: start worker processes
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: start worker process 29
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: start worker process 30
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: start worker process 31
+nginx    | 2025/08/21 01:17:20 [notice] 1#1: start worker process 32
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:20 +0000] "GET /payments-summary HTTP/1.1" 200 95 "-" "curl/8.14.1" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:26 +0000] "POST /purge-payments HTTP/1.1" 200 13 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:26 +0000] "GET /payments-summary?from=2025-08-21T01:17:11.620Z&to=2025-08-21T01:17:24.620Z HTTP/1.1" 200 95 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:26 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 1.782969ms
+app2     | time to complete the handle: 294.887µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:27 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 269.595µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:27 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 206.814µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:27 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 222.914µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:28 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 178.874µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:28 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 254.796µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:28 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 189.584µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:28 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 160.143µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:28 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 229.705µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:29 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 185.134µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:29 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 195.984µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:29 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 245.425µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:29 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 202.024µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:29 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 190.865µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:29 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 199.855µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:29 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 224.375µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 193.954µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 183.534µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 181.974µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 258.266µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 202.874µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 197.684µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 191.304µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 171.583µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:30 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 253.765µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 169.114µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 171.084µs
+app1     | time to complete the handle: 173.093µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 157.513µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 216.735µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 182.484µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 178.934µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 205.074µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 171.914µs
+app3     | time to complete the handle: 173.364µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:31 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 239.045µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 194.404µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 209.255µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 212.844µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 198.424µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 191.524µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 242.205µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 169.754µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 167.844µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 190.265µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 185.564µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 184.364µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 178.274µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:32 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 315.537µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 175.384µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 198.614µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 215.355µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 188.764µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 176.263µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 170.684µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 234.155µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 447.869µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 181.854µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 179.344µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 162.013µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 185.664µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 177.604µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 198.064µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:33 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 244.335µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 175.634µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 188.284µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 213.774µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 166.423µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 179.604µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 169.924µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 179.574µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 224.205µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 219.575µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 187.274µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 187.444µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 177.064µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 192.675µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 166.943µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 178.833µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 187.655µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:34 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 235.155µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 171.584µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 176.453µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 183.074µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 180.144µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 166.484µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 190.945µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 172.763µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 176.734µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 243.866µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 235.905µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 195.874µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 173.894µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 179.594µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 188.725µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 185.034µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 183.184µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 182.384µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 151.073µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:35 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 240.795µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 185.904µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 216.985µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 209.434µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 183.754µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 184.294µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 179.604µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 199.144µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 211.374µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 159.364µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 249.116µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 178.003µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 186.374µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 164.953µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 160.403µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 174.644µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 163.134µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 157.193µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "GET /payments-summary?from=2025-08-21T01:17:21.626Z&to=2025-08-21T01:17:34.626Z HTTP/1.1" 200 102 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 239.175µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 145.683µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 171.574µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:36 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 232.905µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 188.444µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 159.504µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 165.573µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 170.333µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 151.373µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 175.834µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 176.324µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 180.694µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 177.504µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 155.284µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 227.234µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 197.304µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 232.905µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 157.674µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 170.274µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 151.683µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 190.954µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 176.004µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 175.594µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 181.754µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 157.273µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 175.973µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:37 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 230.575µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 200.494µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 180.584µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 171.033µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 210.164µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 158.564µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 172.154µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 168.933µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 220.795µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 178.554µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 179.164µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 165.904µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 227.784µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 171.194µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 198.435µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 179.024µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 175.404µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 176.954µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 165.784µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 176.374µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 170.014µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 172.583µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 152.493µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 185.374µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 159.974µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:38 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 226.625µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 179.144µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 184.984µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 181.324µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 205.534µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 168.704µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 172.724µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 179.624µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 164.363µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 177.814µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 171.474µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 174.624µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 167.434µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 208.184µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 185.764µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 185.854µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 171.684µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 154.484µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 216.865µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 173.074µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 151.263µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 194.234µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 182.444µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 182.234µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 179.804µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 193.264µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 170.354µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:39 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 231.725µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 213.084µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 168.433µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 195.084µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 179.714µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 196.675µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 166.844µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 147.943µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 166.974µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 190.194µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 175.713µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 166.833µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 179.794µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 178.754µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 241.516µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 189.294µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 179.254µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 184.144µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 179.184µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 189.744µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 177.804µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 178.354µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 184.084µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 188.984µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 187.534µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 179.324µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 161.104µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 180.534µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 286.996µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:40 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 234.885µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 173.454µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 168.134µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 176.213µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 156.204µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 165.443µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 175.544µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 167.484µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 161.064µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 177.864µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 155.884µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 168.994µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 191.864µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 191.804µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 185.324µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 224.185µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 167.013µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 192.844µs
+app3     | time to complete the handle: 191.714µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 181.433µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 205.925µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 176.864µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 155.833µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 157.273µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 175.963µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 172.594µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 167.514µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 181.064µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 177.863µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 148.683µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 193.194µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:41 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 209.905µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 189.264µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 189.004µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 182.634µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 143.433µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 153.563µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 187.544µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 191.634µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 170.434µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 187.104µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 172.944µs
+app3     | time to complete the handle: 149.893µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 158.803µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 180.084µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 189.734µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 194.044µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 251.195µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 191.594µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 173.893µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 173.664µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 176.983µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 172.284µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 173.453µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 181.644µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 149.284µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 166.693µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 158.174µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 184.744µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 169.283µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 192.424µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 172.524µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 183.154µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 179.624µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:42 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 220.514µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 189.904µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 152.633µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 178.143µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 156.033µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 206.924µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 200.665µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 179.894µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 169.814µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 188.304µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 194.894µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 187.224µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 187.704µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 194.614µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 192.334µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 175.594µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 168.024µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 226.995µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 169.274µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 174.053µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 226.055µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 199.525µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 174.314µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 175.144µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 201.264µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 171.954µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 146.913µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 169.764µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 176.203µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 190.834µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 142.413µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 153.773µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 170.214µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 169.394µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 176.883µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:43 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 232.835µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 173.723µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 163.223µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 173.364µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 213.204µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 194.054µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 160.293µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 191.605µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 175.014µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 175.134µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 186.244µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 184.234µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 148.583µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 158.743µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 172.703µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 178.753µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 177.664µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 164.534µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 232.315µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 194.934µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 205.875µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 195.534µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 179.154µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 190.194µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 173.284µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 178.614µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 187.154µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 246.846µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 198.035µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 180.794µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 171.244µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 190.454µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 183.384µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 221.665µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 180.274µs
+app2     | time to complete the handle: 171.523µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 171.984µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:44 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 227.944µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 186.784µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 184.644µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 162.553µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 197.264µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 172.634µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 193.745µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 182.484µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 186.784µs
+app1     | time to complete the handle: 151.734µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 171.324µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 181.184µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 167.344µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app2     | time to complete the handle: 171.014µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app3     | time to complete the handle: 172.543µs
+nginx    | 172.20.0.1 - - [21/Aug/2025:01:17:45 +0000] "POST /payments HTTP/1.1" 202 0 "-" "Grafana k6/1.2.2" "-"
+app1     | time to complete the handle: 204.894µs
+log truncated at line 1000

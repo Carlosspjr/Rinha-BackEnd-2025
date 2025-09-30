@@ -1,0 +1,52 @@
+
+time="2025-08-21T00:20:03Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/jairoandre-go-v2/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ backend2 Pulling 
+ service-health Pulling 
+ backend1 Pulling 
+ service-health Pulled 
+ 36f8d863b322 Pulling fs layer 
+ 36f8d863b322 Pulling fs layer 
+ 36f8d863b322 Downloading [>                                                  ]  28.72kB/2.861MB
+ 36f8d863b322 Downloading [>                                                  ]  28.72kB/2.861MB
+ 36f8d863b322 Downloading [==>                                                ]    148kB/2.861MB
+ 36f8d863b322 Downloading [==>                                                ]    148kB/2.861MB
+ 36f8d863b322 Downloading [=======>                                           ]  409.6kB/2.861MB
+ 36f8d863b322 Downloading [=======>                                           ]  409.6kB/2.861MB
+ 36f8d863b322 Downloading [===============>                                   ]  884.7kB/2.861MB
+ 36f8d863b322 Downloading [===============>                                   ]  884.7kB/2.861MB
+ 36f8d863b322 Downloading [==============================>                    ]  1.737MB/2.861MB
+ 36f8d863b322 Downloading [==============================>                    ]  1.737MB/2.861MB
+ 36f8d863b322 Verifying Checksum 
+ 36f8d863b322 Download complete 
+ 36f8d863b322 Download complete 
+ 36f8d863b322 Extracting [>                                                  ]  32.77kB/2.861MB
+ 36f8d863b322 Extracting [>                                                  ]  32.77kB/2.861MB
+ 36f8d863b322 Extracting [==================================================>]  2.861MB/2.861MB
+ 36f8d863b322 Extracting [==================================================>]  2.861MB/2.861MB
+ 36f8d863b322 Pull complete 
+ 36f8d863b322 Pull complete 
+ backend1 Pulled 
+ backend2 Pulled 
+ Network jairoandre-go-v2_backend  Creating
+ Network jairoandre-go-v2_backend  Created
+ Container service-health  Creating
+ Container service-health  Created
+ Container backend2  Creating
+ Container backend1  Creating
+ Container backend2  Created
+ Container backend1  Created
+ Container nginx  Creating
+ Container nginx  Created
+Attaching to backend1, backend2, nginx, service-health
+service-health  | 2025/08/21 00:20:07 Listening on port 9001
+service-health  | 2025/08/21 00:20:07 Updating service status
+backend2        | 2025/08/21 00:20:07 Preparing workers
+backend2        | 2025/08/21 00:20:07 Listening on port 9999
+backend2        | 2025/08/21 00:20:07 Starting service health monitor
+backend2        | 2025/08/21 00:20:07 Suspend job
+backend1        | 2025/08/21 00:20:07 Preparing workers
+backend1        | 2025/08/21 00:20:07 Listening on port 9999
+backend1        | 2025/08/21 00:20:07 Starting service health monitor
+backend1        | 2025/08/21 00:20:07 Suspend job
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint nginx (b198a6204034af57d7413266ea407db9c763a12d6616901b381b489bd60485df): Bind for :::9999 failed: port is already allocated
+log truncated at line 1000

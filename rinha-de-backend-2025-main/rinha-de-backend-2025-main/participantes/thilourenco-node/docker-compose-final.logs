@@ -1,0 +1,1001 @@
+
+ api1 Pulling 
+ worker1 Pulling 
+ api2 Pulling 
+ nginx Pulling 
+ redis Pulling 
+ af7c915c8849 Pulling fs layer 
+ a8dcb64f0403 Pulling fs layer 
+ 5c5dc97e456d Pulling fs layer 
+ 6585861cd741 Pulling fs layer 
+ 9c96f92b936f Pulling fs layer 
+ 268ecba719fa Pulling fs layer 
+ a30cec5bd24d Pulling fs layer 
+ 112f1b9e9b95 Pulling fs layer 
+ f6db956232c2 Pulling fs layer 
+ 9975cb45bb52 Pulling fs layer 
+ 268ecba719fa Waiting 
+ a30cec5bd24d Waiting 
+ 112f1b9e9b95 Waiting 
+ f6db956232c2 Waiting 
+ 9975cb45bb52 Waiting 
+ 6585861cd741 Waiting 
+ 9c96f92b936f Waiting 
+ af7c915c8849 Pulling fs layer 
+ a8dcb64f0403 Pulling fs layer 
+ 5c5dc97e456d Pulling fs layer 
+ 6585861cd741 Pulling fs layer 
+ 9c96f92b936f Pulling fs layer 
+ 268ecba719fa Pulling fs layer 
+ a30cec5bd24d Pulling fs layer 
+ 112f1b9e9b95 Pulling fs layer 
+ f6db956232c2 Pulling fs layer 
+ 9975cb45bb52 Pulling fs layer 
+ 9975cb45bb52 Waiting 
+ 6585861cd741 Waiting 
+ 9c96f92b936f Waiting 
+ 268ecba719fa Waiting 
+ a30cec5bd24d Waiting 
+ 112f1b9e9b95 Waiting 
+ f6db956232c2 Waiting 
+ 5c5dc97e456d Downloading [>                                                  ]  425.5kB/41.2MB
+ a8dcb64f0403 Downloading [==============>                                    ]     934B/3.311kB
+ 5c5dc97e456d Downloading [>                                                  ]  425.5kB/41.2MB
+ a8dcb64f0403 Downloading [==============>                                    ]     934B/3.311kB
+ a8dcb64f0403 Verifying Checksum 
+ a8dcb64f0403 Downloading [==================================================>]  3.311kB/3.311kB
+ a8dcb64f0403 Verifying Checksum 
+ a8dcb64f0403 Download complete 
+ a8dcb64f0403 Download complete 
+ af7c915c8849 Downloading [>                                                  ]  306.6kB/29.15MB
+ af7c915c8849 Downloading [>                                                  ]  306.6kB/29.15MB
+ af7c915c8849 Pulling fs layer 
+ a8dcb64f0403 Pulling fs layer 
+ 5c5dc97e456d Pulling fs layer 
+ 6585861cd741 Pulling fs layer 
+ 9c96f92b936f Pulling fs layer 
+ 268ecba719fa Pulling fs layer 
+ a30cec5bd24d Pulling fs layer 
+ 112f1b9e9b95 Pulling fs layer 
+ f6db956232c2 Pulling fs layer 
+ 9975cb45bb52 Pulling fs layer 
+ 9975cb45bb52 Waiting 
+ af7c915c8849 Downloading [>                                                  ]  306.6kB/29.15MB
+ a8dcb64f0403 Download complete 
+ 5c5dc97e456d Downloading [>                                                  ]  425.5kB/41.2MB
+ 6585861cd741 Waiting 
+ 9c96f92b936f Waiting 
+ 268ecba719fa Waiting 
+ a30cec5bd24d Waiting 
+ 112f1b9e9b95 Waiting 
+ f6db956232c2 Waiting 
+ 5c5dc97e456d Downloading [===============>                                   ]  12.59MB/41.2MB
+ 5c5dc97e456d Downloading [===============>                                   ]  12.59MB/41.2MB
+ 5c5dc97e456d Downloading [===============>                                   ]  12.59MB/41.2MB
+ 619be1103602 Pulling fs layer 
+ 6c866301bd2c Pulling fs layer 
+ 9e03973bc803 Pulling fs layer 
+ a3a550dcd386 Pulling fs layer 
+ d18780149b81 Pulling fs layer 
+ 4ea31a8fb875 Pulling fs layer 
+ e57ebb3e2067 Pulling fs layer 
+ efb7d60b16cf Pulling fs layer 
+ 619be1103602 Waiting 
+ 6c866301bd2c Waiting 
+ a3a550dcd386 Waiting 
+ 9e03973bc803 Waiting 
+ d18780149b81 Waiting 
+ 4ea31a8fb875 Waiting 
+ efb7d60b16cf Waiting 
+ e57ebb3e2067 Waiting 
+ af7c915c8849 Downloading [=======>                                           ]  4.496MB/29.15MB
+ af7c915c8849 Downloading [=======>                                           ]  4.496MB/29.15MB
+ af7c915c8849 Downloading [=======>                                           ]  4.496MB/29.15MB
+ 0368fd46e3c6 Already exists 
+ 4e225d7a935a Already exists 
+ 74ab898fdb32 Already exists 
+ 311eca34042e Already exists 
+ bb1131de5e60 Already exists 
+ 407621d26c3b Already exists 
+ 4f4fb700ef54 Already exists 
+ 87acabadf81b Already exists 
+ 5c5dc97e456d Downloading [==========================>                        ]  21.46MB/41.2MB
+ 5c5dc97e456d Downloading [==========================>                        ]  21.46MB/41.2MB
+ 5c5dc97e456d Downloading [==========================>                        ]  21.46MB/41.2MB
+ af7c915c8849 Downloading [=========>                                         ]  5.401MB/29.15MB
+ af7c915c8849 Downloading [=========>                                         ]  5.401MB/29.15MB
+ af7c915c8849 Downloading [=========>                                         ]  5.401MB/29.15MB
+ 5c5dc97e456d Downloading [===============================================>   ]  39.08MB/41.2MB
+ 5c5dc97e456d Downloading [===============================================>   ]  39.08MB/41.2MB
+ 5c5dc97e456d Downloading [===============================================>   ]  39.08MB/41.2MB
+ 5c5dc97e456d Verifying Checksum 
+ 5c5dc97e456d Download complete 
+ 5c5dc97e456d Verifying Checksum 
+ 5c5dc97e456d Download complete 
+ 5c5dc97e456d Download complete 
+ af7c915c8849 Downloading [========================>                          ]   14.4MB/29.15MB
+ af7c915c8849 Downloading [========================>                          ]   14.4MB/29.15MB
+ af7c915c8849 Downloading [========================>                          ]   14.4MB/29.15MB
+ 6585861cd741 Downloading [>                                                  ]  17.36kB/1.713MB
+ 6585861cd741 Downloading [>                                                  ]  17.36kB/1.713MB
+ 6585861cd741 Downloading [>                                                  ]  17.36kB/1.713MB
+ 6585861cd741 Download complete 
+ 6585861cd741 Download complete 
+ 6585861cd741 Download complete 
+ af7c915c8849 Downloading [=====================================>             ]  21.91MB/29.15MB
+ af7c915c8849 Downloading [=====================================>             ]  21.91MB/29.15MB
+ af7c915c8849 Downloading [=====================================>             ]  21.91MB/29.15MB
+ af7c915c8849 Download complete 
+ af7c915c8849 Download complete 
+ af7c915c8849 Verifying Checksum 
+ af7c915c8849 Download complete 
+ af7c915c8849 Extracting [>                                                  ]  294.9kB/29.15MB
+ af7c915c8849 Extracting [>                                                  ]  294.9kB/29.15MB
+ af7c915c8849 Extracting [>                                                  ]  294.9kB/29.15MB
+ af7c915c8849 Extracting [=========>                                         ]  5.603MB/29.15MB
+ af7c915c8849 Extracting [=========>                                         ]  5.603MB/29.15MB
+ af7c915c8849 Extracting [=========>                                         ]  5.603MB/29.15MB
+ redis Pulled 
+ 9c96f92b936f Downloading [==================================================>]     446B/446B
+ 9c96f92b936f Verifying Checksum 
+ 9c96f92b936f Downloading [==================================================>]     446B/446B
+ 9c96f92b936f Verifying Checksum 
+ 9c96f92b936f Download complete 
+ 9c96f92b936f Downloading [==================================================>]     446B/446B
+ 9c96f92b936f Verifying Checksum 
+ 9c96f92b936f Download complete 
+ 9c96f92b936f Download complete 
+ af7c915c8849 Extracting [================>                                  ]  9.732MB/29.15MB
+ af7c915c8849 Extracting [================>                                  ]  9.732MB/29.15MB
+ af7c915c8849 Extracting [================>                                  ]  9.732MB/29.15MB
+ af7c915c8849 Extracting [=====================>                             ]  12.68MB/29.15MB
+ af7c915c8849 Extracting [=====================>                             ]  12.68MB/29.15MB
+ af7c915c8849 Extracting [=====================>                             ]  12.68MB/29.15MB
+ a30cec5bd24d Downloading [>                                                  ]  40.41kB/3.952MB
+ a30cec5bd24d Downloading [>                                                  ]  40.41kB/3.952MB
+ a30cec5bd24d Downloading [>                                                  ]  40.41kB/3.952MB
+ af7c915c8849 Extracting [===================================>               ]  20.64MB/29.15MB
+ af7c915c8849 Extracting [===================================>               ]  20.64MB/29.15MB
+ af7c915c8849 Extracting [===================================>               ]  20.64MB/29.15MB
+ a30cec5bd24d Verifying Checksum 
+ a30cec5bd24d Verifying Checksum 
+ a30cec5bd24d Download complete 
+ a30cec5bd24d Download complete 
+ a30cec5bd24d Download complete 
+ 268ecba719fa Verifying Checksum 
+ 268ecba719fa Downloading [==================================================>]     132B/132B
+ 268ecba719fa Download complete 
+ 268ecba719fa Verifying Checksum 
+ 268ecba719fa Download complete 
+ 268ecba719fa Verifying Checksum 
+ 268ecba719fa Download complete 
+ 112f1b9e9b95 Downloading [>                                                  ]  535.7kB/56.15MB
+ 112f1b9e9b95 Downloading [>                                                  ]  535.7kB/56.15MB
+ 112f1b9e9b95 Downloading [>                                                  ]  535.7kB/56.15MB
+ af7c915c8849 Extracting [==========================================>        ]  24.77MB/29.15MB
+ af7c915c8849 Extracting [==========================================>        ]  24.77MB/29.15MB
+ af7c915c8849 Extracting [==========================================>        ]  24.77MB/29.15MB
+ 112f1b9e9b95 Downloading [==========>                                        ]  11.75MB/56.15MB
+ 112f1b9e9b95 Downloading [==========>                                        ]  11.75MB/56.15MB
+ 112f1b9e9b95 Downloading [==========>                                        ]  11.75MB/56.15MB
+ 112f1b9e9b95 Downloading [======================>                            ]  25.08MB/56.15MB
+ 112f1b9e9b95 Downloading [======================>                            ]  25.08MB/56.15MB
+ 112f1b9e9b95 Downloading [======================>                            ]  25.08MB/56.15MB
+ af7c915c8849 Extracting [===============================================>   ]  27.72MB/29.15MB
+ af7c915c8849 Extracting [===============================================>   ]  27.72MB/29.15MB
+ af7c915c8849 Extracting [===============================================>   ]  27.72MB/29.15MB
+ f6db956232c2 Downloading [============>                                      ]     936B/3.864kB
+ f6db956232c2 Downloading [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Verifying Checksum 
+ f6db956232c2 Downloading [============>                                      ]     936B/3.864kB
+ f6db956232c2 Downloading [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Verifying Checksum 
+ f6db956232c2 Download complete 
+ f6db956232c2 Downloading [============>                                      ]     936B/3.864kB
+ f6db956232c2 Download complete 
+ f6db956232c2 Downloading [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Verifying Checksum 
+ f6db956232c2 Download complete 
+ 112f1b9e9b95 Downloading [================================>                  ]  36.36MB/56.15MB
+ 112f1b9e9b95 Downloading [================================>                  ]  36.36MB/56.15MB
+ 112f1b9e9b95 Downloading [================================>                  ]  36.36MB/56.15MB
+ 112f1b9e9b95 Downloading [==============================================>    ]  52.41MB/56.15MB
+ 112f1b9e9b95 Downloading [==============================================>    ]  52.41MB/56.15MB
+ 112f1b9e9b95 Downloading [==============================================>    ]  52.41MB/56.15MB
+ 112f1b9e9b95 Verifying Checksum 
+ 112f1b9e9b95 Download complete 
+ 112f1b9e9b95 Verifying Checksum 
+ 112f1b9e9b95 Download complete 
+ 112f1b9e9b95 Verifying Checksum 
+ 112f1b9e9b95 Download complete 
+ af7c915c8849 Extracting [================================================>  ]  28.31MB/29.15MB
+ af7c915c8849 Extracting [================================================>  ]  28.31MB/29.15MB
+ af7c915c8849 Extracting [================================================>  ]  28.31MB/29.15MB
+ 9975cb45bb52 Downloading [==================================================>]     497B/497B
+ 9975cb45bb52 Verifying Checksum 
+ 9975cb45bb52 Download complete 
+ 9975cb45bb52 Downloading [==================================================>]     497B/497B
+ 9975cb45bb52 Verifying Checksum 
+ 9975cb45bb52 Download complete 
+ 9975cb45bb52 Downloading [==================================================>]     497B/497B
+ 9975cb45bb52 Verifying Checksum 
+ 9975cb45bb52 Download complete 
+ af7c915c8849 Extracting [==================================================>]  29.15MB/29.15MB
+ af7c915c8849 Extracting [==================================================>]  29.15MB/29.15MB
+ af7c915c8849 Extracting [==================================================>]  29.15MB/29.15MB
+ 619be1103602 Downloading [>                                                  ]   34.2kB/3.403MB
+ 619be1103602 Verifying Checksum 
+ 619be1103602 Download complete 
+ 619be1103602 Extracting [>                                                  ]  65.54kB/3.403MB
+ af7c915c8849 Pull complete 
+ af7c915c8849 Pull complete 
+ af7c915c8849 Pull complete 
+ a8dcb64f0403 Extracting [==================================================>]  3.311kB/3.311kB
+ a8dcb64f0403 Extracting [==================================================>]  3.311kB/3.311kB
+ a8dcb64f0403 Extracting [==================================================>]  3.311kB/3.311kB
+ a8dcb64f0403 Extracting [==================================================>]  3.311kB/3.311kB
+ a8dcb64f0403 Extracting [==================================================>]  3.311kB/3.311kB
+ a8dcb64f0403 Extracting [==================================================>]  3.311kB/3.311kB
+ 619be1103602 Extracting [==================================================>]  3.403MB/3.403MB
+ 619be1103602 Extracting [==================================================>]  3.403MB/3.403MB
+ a8dcb64f0403 Pull complete 
+ a8dcb64f0403 Pull complete 
+ a8dcb64f0403 Pull complete 
+ 5c5dc97e456d Extracting [>                                                  ]    426kB/41.2MB
+ 6c866301bd2c Downloading [>                                                  ]  20.21kB/1.902MB
+ 5c5dc97e456d Extracting [>                                                  ]    426kB/41.2MB
+ 5c5dc97e456d Extracting [>                                                  ]    426kB/41.2MB
+ 6c866301bd2c Verifying Checksum 
+ 6c866301bd2c Download complete 
+ 619be1103602 Pull complete 
+ 6c866301bd2c Extracting [>                                                  ]  32.77kB/1.902MB
+ 5c5dc97e456d Extracting [========>                                          ]  7.242MB/41.2MB
+ 5c5dc97e456d Extracting [========>                                          ]  7.242MB/41.2MB
+ 5c5dc97e456d Extracting [========>                                          ]  7.242MB/41.2MB
+ 6c866301bd2c Extracting [=================================================> ]  1.868MB/1.902MB
+ 5c5dc97e456d Extracting [=================>                                 ]  14.48MB/41.2MB
+ 5c5dc97e456d Extracting [=================>                                 ]  14.48MB/41.2MB
+ 5c5dc97e456d Extracting [=================>                                 ]  14.48MB/41.2MB
+ 9e03973bc803 Downloading [==================================================>]     626B/626B
+ 9e03973bc803 Verifying Checksum 
+ 9e03973bc803 Download complete 
+ 6c866301bd2c Extracting [==================================================>]  1.902MB/1.902MB
+ 5c5dc97e456d Extracting [=========================>                         ]  20.87MB/41.2MB
+ 5c5dc97e456d Extracting [=========================>                         ]  20.87MB/41.2MB
+ 5c5dc97e456d Extracting [=========================>                         ]  20.87MB/41.2MB
+ a3a550dcd386 Downloading [==================================================>]     955B/955B
+ a3a550dcd386 Download complete 
+ 6c866301bd2c Pull complete 
+ 5c5dc97e456d Extracting [===================================>               ]  28.97MB/41.2MB
+ 5c5dc97e456d Extracting [===================================>               ]  28.97MB/41.2MB
+ 5c5dc97e456d Extracting [===================================>               ]  28.97MB/41.2MB
+ 9e03973bc803 Extracting [==================================================>]     626B/626B
+ 9e03973bc803 Extracting [==================================================>]     626B/626B
+ 9e03973bc803 Pull complete 
+ a3a550dcd386 Extracting [==================================================>]     955B/955B
+ a3a550dcd386 Extracting [==================================================>]     955B/955B
+ a3a550dcd386 Pull complete 
+ 5c5dc97e456d Extracting [===========================================>       ]  36.21MB/41.2MB
+ 5c5dc97e456d Extracting [===========================================>       ]  36.21MB/41.2MB
+ 5c5dc97e456d Extracting [===========================================>       ]  36.21MB/41.2MB
+ d18780149b81 Downloading [==================================================>]     366B/366B
+ d18780149b81 Verifying Checksum 
+ d18780149b81 Download complete 
+ d18780149b81 Extracting [==================================================>]     366B/366B
+ d18780149b81 Extracting [==================================================>]     366B/366B
+ d18780149b81 Pull complete 
+ 5c5dc97e456d Extracting [==============================================>    ]  37.91MB/41.2MB
+ 5c5dc97e456d Extracting [==============================================>    ]  37.91MB/41.2MB
+ 5c5dc97e456d Extracting [==============================================>    ]  37.91MB/41.2MB
+ 4ea31a8fb875 Downloading [===========================================>       ]  1.049kB/1.208kB
+ 4ea31a8fb875 Downloading [==================================================>]  1.208kB/1.208kB
+ 4ea31a8fb875 Verifying Checksum 
+ 4ea31a8fb875 Download complete 
+ 4ea31a8fb875 Extracting [==================================================>]  1.208kB/1.208kB
+ 4ea31a8fb875 Extracting [==================================================>]  1.208kB/1.208kB
+ 4ea31a8fb875 Pull complete 
+ 5c5dc97e456d Extracting [===============================================>   ]  38.76MB/41.2MB
+ 5c5dc97e456d Extracting [===============================================>   ]  38.76MB/41.2MB
+ 5c5dc97e456d Extracting [===============================================>   ]  38.76MB/41.2MB
+ e57ebb3e2067 Downloading [=====================================>             ]  1.049kB/1.396kB
+ e57ebb3e2067 Downloading [==================================================>]  1.396kB/1.396kB
+ e57ebb3e2067 Verifying Checksum 
+ e57ebb3e2067 Download complete 
+ e57ebb3e2067 Extracting [==================================================>]  1.396kB/1.396kB
+ e57ebb3e2067 Extracting [==================================================>]  1.396kB/1.396kB
+ e57ebb3e2067 Pull complete 
+ 5c5dc97e456d Extracting [================================================>  ]  39.62MB/41.2MB
+ 5c5dc97e456d Extracting [================================================>  ]  39.62MB/41.2MB
+ 5c5dc97e456d Extracting [================================================>  ]  39.62MB/41.2MB
+ efb7d60b16cf Downloading [>                                                  ]  127.8kB/12.65MB
+ efb7d60b16cf Downloading [=========================>                         ]  6.353MB/12.65MB
+ 5c5dc97e456d Extracting [=================================================> ]  40.47MB/41.2MB
+ 5c5dc97e456d Extracting [=================================================> ]  40.47MB/41.2MB
+ 5c5dc97e456d Extracting [=================================================> ]  40.47MB/41.2MB
+ efb7d60b16cf Verifying Checksum 
+ efb7d60b16cf Download complete 
+ efb7d60b16cf Extracting [>                                                  ]  131.1kB/12.65MB
+ 5c5dc97e456d Extracting [=================================================> ]  40.89MB/41.2MB
+ 5c5dc97e456d Extracting [=================================================> ]  40.89MB/41.2MB
+ 5c5dc97e456d Extracting [=================================================> ]  40.89MB/41.2MB
+ efb7d60b16cf Extracting [=======>                                           ]  1.966MB/12.65MB
+ 5c5dc97e456d Extracting [==================================================>]   41.2MB/41.2MB
+ 5c5dc97e456d Extracting [==================================================>]   41.2MB/41.2MB
+ 5c5dc97e456d Extracting [==================================================>]   41.2MB/41.2MB
+ 5c5dc97e456d Pull complete 
+ 5c5dc97e456d Pull complete 
+ 5c5dc97e456d Pull complete 
+ 6585861cd741 Extracting [>                                                  ]  32.77kB/1.713MB
+ 6585861cd741 Extracting [>                                                  ]  32.77kB/1.713MB
+ 6585861cd741 Extracting [>                                                  ]  32.77kB/1.713MB
+ efb7d60b16cf Extracting [=================================>                 ]  8.389MB/12.65MB
+ 6585861cd741 Extracting [==================================================>]  1.713MB/1.713MB
+ 6585861cd741 Extracting [==================================================>]  1.713MB/1.713MB
+ 6585861cd741 Extracting [==================================================>]  1.713MB/1.713MB
+ 6585861cd741 Pull complete 
+ 6585861cd741 Pull complete 
+ 6585861cd741 Pull complete 
+ 9c96f92b936f Extracting [==================================================>]     446B/446B
+ 9c96f92b936f Extracting [==================================================>]     446B/446B
+ 9c96f92b936f Extracting [==================================================>]     446B/446B
+ 9c96f92b936f Extracting [==================================================>]     446B/446B
+ 9c96f92b936f Extracting [==================================================>]     446B/446B
+ 9c96f92b936f Extracting [==================================================>]     446B/446B
+ 9c96f92b936f Pull complete 
+ 9c96f92b936f Pull complete 
+ 9c96f92b936f Pull complete 
+ 268ecba719fa Extracting [==================================================>]     132B/132B
+ 268ecba719fa Extracting [==================================================>]     132B/132B
+ 268ecba719fa Extracting [==================================================>]     132B/132B
+ 268ecba719fa Extracting [==================================================>]     132B/132B
+ 268ecba719fa Extracting [==================================================>]     132B/132B
+ 268ecba719fa Extracting [==================================================>]     132B/132B
+ 268ecba719fa Pull complete 
+ 268ecba719fa Pull complete 
+ 268ecba719fa Pull complete 
+ a30cec5bd24d Extracting [>                                                  ]  65.54kB/3.952MB
+ a30cec5bd24d Extracting [>                                                  ]  65.54kB/3.952MB
+ a30cec5bd24d Extracting [>                                                  ]  65.54kB/3.952MB
+ efb7d60b16cf Extracting [==================================================>]  12.65MB/12.65MB
+ a30cec5bd24d Extracting [======================================>            ]  3.015MB/3.952MB
+ a30cec5bd24d Extracting [======================================>            ]  3.015MB/3.952MB
+ a30cec5bd24d Extracting [======================================>            ]  3.015MB/3.952MB
+ efb7d60b16cf Pull complete 
+ nginx Pulled 
+ a30cec5bd24d Extracting [==================================================>]  3.952MB/3.952MB
+ a30cec5bd24d Extracting [==================================================>]  3.952MB/3.952MB
+ a30cec5bd24d Extracting [==================================================>]  3.952MB/3.952MB
+ a30cec5bd24d Pull complete 
+ a30cec5bd24d Pull complete 
+ a30cec5bd24d Pull complete 
+ 112f1b9e9b95 Extracting [>                                                  ]  557.1kB/56.15MB
+ 112f1b9e9b95 Extracting [>                                                  ]  557.1kB/56.15MB
+ 112f1b9e9b95 Extracting [>                                                  ]  557.1kB/56.15MB
+ 112f1b9e9b95 Extracting [=======>                                           ]  8.356MB/56.15MB
+ 112f1b9e9b95 Extracting [=======>                                           ]  8.356MB/56.15MB
+ 112f1b9e9b95 Extracting [=======>                                           ]  8.356MB/56.15MB
+ 112f1b9e9b95 Extracting [=============>                                     ]   15.6MB/56.15MB
+ 112f1b9e9b95 Extracting [=============>                                     ]   15.6MB/56.15MB
+ 112f1b9e9b95 Extracting [=============>                                     ]   15.6MB/56.15MB
+ 112f1b9e9b95 Extracting [=====================>                             ]  24.51MB/56.15MB
+ 112f1b9e9b95 Extracting [=====================>                             ]  24.51MB/56.15MB
+ 112f1b9e9b95 Extracting [=====================>                             ]  24.51MB/56.15MB
+ 112f1b9e9b95 Extracting [========================>                          ]   27.3MB/56.15MB
+ 112f1b9e9b95 Extracting [========================>                          ]   27.3MB/56.15MB
+ 112f1b9e9b95 Extracting [========================>                          ]   27.3MB/56.15MB
+ 112f1b9e9b95 Extracting [========================>                          ]  27.85MB/56.15MB
+ 112f1b9e9b95 Extracting [========================>                          ]  27.85MB/56.15MB
+ 112f1b9e9b95 Extracting [========================>                          ]  27.85MB/56.15MB
+ 112f1b9e9b95 Extracting [=========================>                         ]  28.97MB/56.15MB
+ 112f1b9e9b95 Extracting [=========================>                         ]  28.97MB/56.15MB
+ 112f1b9e9b95 Extracting [=========================>                         ]  28.97MB/56.15MB
+ 112f1b9e9b95 Extracting [==========================>                        ]  29.52MB/56.15MB
+ 112f1b9e9b95 Extracting [==========================>                        ]  29.52MB/56.15MB
+ 112f1b9e9b95 Extracting [==========================>                        ]  29.52MB/56.15MB
+ 112f1b9e9b95 Extracting [==========================>                        ]  30.08MB/56.15MB
+ 112f1b9e9b95 Extracting [==========================>                        ]  30.08MB/56.15MB
+ 112f1b9e9b95 Extracting [==========================>                        ]  30.08MB/56.15MB
+ 112f1b9e9b95 Extracting [===========================>                       ]  30.64MB/56.15MB
+ 112f1b9e9b95 Extracting [===========================>                       ]  30.64MB/56.15MB
+ 112f1b9e9b95 Extracting [===========================>                       ]  30.64MB/56.15MB
+ 112f1b9e9b95 Extracting [============================>                      ]  32.31MB/56.15MB
+ 112f1b9e9b95 Extracting [============================>                      ]  32.31MB/56.15MB
+ 112f1b9e9b95 Extracting [============================>                      ]  32.31MB/56.15MB
+ 112f1b9e9b95 Extracting [=============================>                     ]  33.42MB/56.15MB
+ 112f1b9e9b95 Extracting [=============================>                     ]  33.42MB/56.15MB
+ 112f1b9e9b95 Extracting [=============================>                     ]  33.42MB/56.15MB
+ 112f1b9e9b95 Extracting [=================================>                 ]  37.32MB/56.15MB
+ 112f1b9e9b95 Extracting [=================================>                 ]  37.32MB/56.15MB
+ 112f1b9e9b95 Extracting [=================================>                 ]  37.32MB/56.15MB
+ 112f1b9e9b95 Extracting [===================================>               ]  39.55MB/56.15MB
+ 112f1b9e9b95 Extracting [===================================>               ]  39.55MB/56.15MB
+ 112f1b9e9b95 Extracting [===================================>               ]  39.55MB/56.15MB
+ 112f1b9e9b95 Extracting [=========================================>         ]  46.79MB/56.15MB
+ 112f1b9e9b95 Extracting [=========================================>         ]  46.79MB/56.15MB
+ 112f1b9e9b95 Extracting [=========================================>         ]  46.79MB/56.15MB
+ 112f1b9e9b95 Extracting [=============================================>     ]  51.25MB/56.15MB
+ 112f1b9e9b95 Extracting [=============================================>     ]  51.25MB/56.15MB
+ 112f1b9e9b95 Extracting [=============================================>     ]  51.25MB/56.15MB
+ 112f1b9e9b95 Extracting [==============================================>    ]  52.36MB/56.15MB
+ 112f1b9e9b95 Extracting [==============================================>    ]  52.36MB/56.15MB
+ 112f1b9e9b95 Extracting [==============================================>    ]  52.36MB/56.15MB
+ 112f1b9e9b95 Extracting [=================================================> ]  55.71MB/56.15MB
+ 112f1b9e9b95 Extracting [=================================================> ]  55.71MB/56.15MB
+ 112f1b9e9b95 Extracting [=================================================> ]  55.71MB/56.15MB
+ 112f1b9e9b95 Extracting [==================================================>]  56.15MB/56.15MB
+ 112f1b9e9b95 Extracting [==================================================>]  56.15MB/56.15MB
+ 112f1b9e9b95 Extracting [==================================================>]  56.15MB/56.15MB
+ 112f1b9e9b95 Pull complete 
+ 112f1b9e9b95 Pull complete 
+ 112f1b9e9b95 Pull complete 
+ f6db956232c2 Extracting [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Extracting [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Extracting [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Extracting [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Extracting [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Extracting [==================================================>]  3.864kB/3.864kB
+ f6db956232c2 Pull complete 
+ f6db956232c2 Pull complete 
+ f6db956232c2 Pull complete 
+ 9975cb45bb52 Extracting [==================================================>]     497B/497B
+ 9975cb45bb52 Extracting [==================================================>]     497B/497B
+ 9975cb45bb52 Extracting [==================================================>]     497B/497B
+ 9975cb45bb52 Extracting [==================================================>]     497B/497B
+ 9975cb45bb52 Extracting [==================================================>]     497B/497B
+ 9975cb45bb52 Extracting [==================================================>]     497B/497B
+ 9975cb45bb52 Pull complete 
+ 9975cb45bb52 Pull complete 
+ 9975cb45bb52 Pull complete 
+ api1 Pulled 
+ api2 Pulled 
+ worker1 Pulled 
+ Network thilourenco-node_backend  Creating
+ Network thilourenco-node_backend  Created
+ Container thilourenco-node-redis-1  Creating
+ Container thilourenco-node-redis-1  Created
+ Container thilourenco-node-api1-1  Creating
+ Container thilourenco-node-api2-1  Creating
+ Container thilourenco-node-worker1-1  Creating
+ Container thilourenco-node-api2-1  Created
+ Container thilourenco-node-worker1-1  Created
+ Container thilourenco-node-api1-1  Created
+ Container thilourenco-node-nginx-1  Creating
+ Container thilourenco-node-nginx-1  Created
+Attaching to api1-1, api2-1, nginx-1, redis-1, worker1-1
+redis-1  | 1:C 21 Aug 2025 03:17:59.558 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis-1  | 1:C 21 Aug 2025 03:17:59.558 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis-1  | 1:C 21 Aug 2025 03:17:59.558 * Redis version=7.2.10, bits=64, commit=00000000, modified=0, pid=1, just started
+redis-1  | 1:C 21 Aug 2025 03:17:59.558 * Configuration loaded
+redis-1  | 1:M 21 Aug 2025 03:17:59.558 * monotonic clock: POSIX clock_gettime
+redis-1  | 1:M 21 Aug 2025 03:17:59.559 * Running mode=standalone, port=6379.
+redis-1  | 1:M 21 Aug 2025 03:17:59.559 * Server initialized
+redis-1  | 1:M 21 Aug 2025 03:17:59.559 * Ready to accept connections tcp
+api1-1   | Successfully connected to Redis.
+api1-1   | 🚀 Server is running on port 8080
+api2-1   | Successfully connected to Redis.
+api2-1   | 🚀 Server is running on port 8080
+worker1-1  | ✅ Worker process successfully connected to Redis.
+worker1-1  | [***] Starting health checks...[***]
+worker1-1  | ✅ Worker initiated.
+worker1-1  | Health status updated {
+worker1-1  |   default: { failing: false, minResponseTime: 0 },
+worker1-1  |   fallback: { failing: false, minResponseTime: 0 }
+worker1-1  | }
+nginx-1    | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx-1    | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx-1    | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx-1    | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx-1    | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx-1    | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx-1    | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx-1    | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx-1    | /docker-entrypoint.sh: Configuration complete; ready for start up
+worker1-1  | Health status updated {
+worker1-1  |   default: { failing: false, minResponseTime: 0 },
+worker1-1  |   fallback: { failing: false, minResponseTime: 0 }
+worker1-1  | }
+worker1-1  | Health status updated {
+worker1-1  |   default: { failing: false, minResponseTime: 0 },
+worker1-1  |   fallback: { failing: false, minResponseTime: 0 }
+worker1-1  | }
+api2-1     | All Redis data (hashes, summary, sorted sets) have been purged.
+worker1-1  | [7adf3354-40e6-49b8-b0e1-71ce76f1f582] ✅ Payment finalized and indexed.
+worker1-1  | [fe65be48-1802-4603-b6d5-8e548a7ce32a] ✅ Payment finalized and indexed.
+worker1-1  | Health status updated {
+worker1-1  |   default: { failing: false, minResponseTime: 0 },
+worker1-1  |   fallback: { failing: false, minResponseTime: 0 }
+worker1-1  | }
+worker1-1  | [801fd4be-5097-447d-bf6d-b3deafe54588] ✅ Payment finalized and indexed.
+worker1-1  | [ea96df21-0337-45d8-baa0-b644fabae082] ✅ Payment finalized and indexed.
+worker1-1  | [2b5b1baf-0c84-427a-aca7-c134f1a3cfe3] ✅ Payment finalized and indexed.
+worker1-1  | [6e015cb4-88a2-4891-9159-7728d9d2ab1a] ✅ Payment finalized and indexed.
+worker1-1  | [f763c3dc-3ad0-4c3c-881c-b076bd465ca9] ✅ Payment finalized and indexed.
+worker1-1  | [55f37372-a712-4364-877c-8bd6494724d9] ✅ Payment finalized and indexed.
+worker1-1  | [39efb1f3-66b1-4cbc-b18c-5bfc6366e645] ✅ Payment finalized and indexed.
+worker1-1  | [2a9e815a-e81e-4443-a153-4dfdd4ba604b] ✅ Payment finalized and indexed.
+worker1-1  | [05e4e922-ee51-421f-8a42-1f62bb00bab9] ✅ Payment finalized and indexed.
+worker1-1  | [5cdc280a-0799-4e06-b49b-3506a803333a] ✅ Payment finalized and indexed.
+worker1-1  | [abfa1fa9-47c7-485a-8040-af7ccc168953] ✅ Payment finalized and indexed.
+worker1-1  | [59e81468-9f14-4c6e-b425-04dc434d2114] ✅ Payment finalized and indexed.
+worker1-1  | [0b658f35-7aee-47c8-adf7-ad73e7e44b89] ✅ Payment finalized and indexed.
+worker1-1  | [1850d054-dcd2-4005-96b9-3ab8ec39f038] ✅ Payment finalized and indexed.
+worker1-1  | [7178e0c2-3565-4b84-be9f-0f5980b13b57] ✅ Payment finalized and indexed.
+worker1-1  | [895dcf1d-687c-45bb-a6c9-008a2335f4cc] ✅ Payment finalized and indexed.
+worker1-1  | [a2a62b88-3af4-446c-bb1d-59a1e400751f] ✅ Payment finalized and indexed.
+worker1-1  | [896f3cc0-84e7-4898-9b04-638f73cd4941] ✅ Payment finalized and indexed.
+worker1-1  | [3857d0fe-5aff-4b7f-bdc9-9c63e14cf7e9] ✅ Payment finalized and indexed.
+worker1-1  | [e0800cd3-722b-47c5-9c65-a3e7f257295e] ✅ Payment finalized and indexed.
+worker1-1  | [9d6a8216-f5bc-4801-9438-6846bdc781de] ✅ Payment finalized and indexed.
+worker1-1  | [234b1960-87bc-4ff3-8723-347c13f1d391] ✅ Payment finalized and indexed.
+worker1-1  | [7211d051-e4d7-43cc-9b0c-201a180711d8] ✅ Payment finalized and indexed.
+worker1-1  | [d244941a-4fd4-499d-b6fa-653cbf7f739e] ✅ Payment finalized and indexed.
+worker1-1  | [4c224cbf-013d-45b5-9875-2634c3b810e1] ✅ Payment finalized and indexed.
+worker1-1  | [6b0aec34-2b7b-47ed-8794-268ba8e7ca4d] ✅ Payment finalized and indexed.
+worker1-1  | [40e9a0f9-c7d4-4a22-b445-b9608d8a3dc8] ✅ Payment finalized and indexed.
+worker1-1  | [c13690ff-e002-4691-9568-ca67b55090fc] ✅ Payment finalized and indexed.
+worker1-1  | [cee39155-74e4-405e-80a6-f3b63629c98e] ✅ Payment finalized and indexed.
+worker1-1  | [53c621d2-64d8-46f5-8371-bd9ea0ca9963] ✅ Payment finalized and indexed.
+worker1-1  | [56eaa8a3-8a72-4682-9fa1-452080fd1429] ✅ Payment finalized and indexed.
+worker1-1  | [6b8a102b-aa28-419e-b69a-4f455680cbc7] ✅ Payment finalized and indexed.
+worker1-1  | [3cad0296-c6b5-48e0-ab47-37f72ed41a60] ✅ Payment finalized and indexed.
+worker1-1  | [b48bbacf-8884-48c8-b2da-183c12f12fa5] ✅ Payment finalized and indexed.
+worker1-1  | [0809c2f8-dabe-4e4f-a14b-4c550d6e15dd] ✅ Payment finalized and indexed.
+worker1-1  | [1a717924-9749-41b1-8854-f5224a861862] ✅ Payment finalized and indexed.
+worker1-1  | [6476615d-f1a9-4b6b-8654-8bdf5dade52a] ✅ Payment finalized and indexed.
+worker1-1  | [155da00d-94ec-41cc-af4e-526290eb9718] ✅ Payment finalized and indexed.
+worker1-1  | [8ad07372-1003-4a66-97d5-65a22b26503d] ✅ Payment finalized and indexed.
+worker1-1  | [4a1115f9-5a08-4de0-ae38-a516f9193192] ✅ Payment finalized and indexed.
+worker1-1  | [45743e32-fc13-4117-818b-327781e31ddd] ✅ Payment finalized and indexed.
+worker1-1  | [472d49d7-e9dc-4e07-9152-fbc0dec840f3] ✅ Payment finalized and indexed.
+worker1-1  | [f6ab0b65-1e52-47e2-b4a8-dbe30afae213] ✅ Payment finalized and indexed.
+worker1-1  | [6a1a72e3-4923-485f-b60d-36e8c230bfe1] ✅ Payment finalized and indexed.
+worker1-1  | [f2ef5305-4355-4634-acc9-9403bb934c21] ✅ Payment finalized and indexed.
+worker1-1  | [580952fd-3425-4930-93cb-c3e4ff51f00f] ✅ Payment finalized and indexed.
+worker1-1  | [b4c9d4a5-f93d-43c8-a2c7-b84c74f5e823] ✅ Payment finalized and indexed.
+worker1-1  | [cd72d377-4156-4904-8f90-5b325b0ef513] ✅ Payment finalized and indexed.
+worker1-1  | [618d7e7b-4730-4265-88fb-d084298eb830] ✅ Payment finalized and indexed.
+worker1-1  | [bfa32a40-49be-495d-82d0-e40a151afafc] ✅ Payment finalized and indexed.
+worker1-1  | [2ca7543b-53cd-4d55-bdc6-b89aba8fcb48] ✅ Payment finalized and indexed.
+worker1-1  | [01bb01f6-eae4-44b5-bacd-34680394c2cc] ✅ Payment finalized and indexed.
+worker1-1  | [d0b0e18c-eff4-473c-b0c7-2e43065077b0] ✅ Payment finalized and indexed.
+worker1-1  | [c4b05d0b-aa41-4f7b-bd59-0bb39992f734] ✅ Payment finalized and indexed.
+worker1-1  | [117b2661-319c-4b6a-ae8f-3b6146c0417e] ✅ Payment finalized and indexed.
+worker1-1  | [8c87c8a6-25f4-43a8-bab5-0faa23734e5e] ✅ Payment finalized and indexed.
+worker1-1  | [1b589964-522e-47df-aec0-74d0cb6650c6] ✅ Payment finalized and indexed.
+worker1-1  | [34d7ac4a-39fa-468a-b225-4f3c4bcc8a37] ✅ Payment finalized and indexed.
+worker1-1  | [10aceecc-5b6e-4d80-aacb-46805bd340d5] ✅ Payment finalized and indexed.
+worker1-1  | [f7d6523e-5d06-405b-8f3e-a1cf8124d4bd] ✅ Payment finalized and indexed.
+worker1-1  | [f117613c-795a-453c-84f3-7ad792ed7564] ✅ Payment finalized and indexed.
+worker1-1  | [8d902cab-dd85-4a82-8517-516c97ca4706] ✅ Payment finalized and indexed.
+worker1-1  | [48a133c6-fe79-4491-9bf8-6b100a2057b0] ✅ Payment finalized and indexed.
+worker1-1  | [a359c27b-a1ba-4d2b-80fa-d0dec363b5cc] ✅ Payment finalized and indexed.
+worker1-1  | [fea666d3-3d0a-4562-940e-8f2ba27fd790] ✅ Payment finalized and indexed.
+worker1-1  | [1fc64e27-1ca3-4734-a89f-76ef2ef7fe01] ✅ Payment finalized and indexed.
+worker1-1  | [d4c11a6b-0945-4768-b725-6065f37f037a] ✅ Payment finalized and indexed.
+worker1-1  | [4c69efed-d893-4549-a5da-650904bbbfee] ✅ Payment finalized and indexed.
+worker1-1  | [10307f32-5f3c-4fcd-947f-13dd4a636a3d] ✅ Payment finalized and indexed.
+worker1-1  | [bfa1dc57-ed87-469d-8c6b-9528301b9dcb] ✅ Payment finalized and indexed.
+worker1-1  | [7237d88e-c2fb-4b28-aadd-a3c27381fb85] ✅ Payment finalized and indexed.
+worker1-1  | [f44392bc-09a0-4df6-875d-3566efef668e] ✅ Payment finalized and indexed.
+worker1-1  | [4665b560-7c0b-42af-8ea0-76d388f20eb0] ✅ Payment finalized and indexed.
+worker1-1  | [7f8467e4-4410-42c3-9c3c-b07d31250584] ✅ Payment finalized and indexed.
+worker1-1  | [1020fd6c-415f-4cae-93d2-84c9a67cc194] ✅ Payment finalized and indexed.
+worker1-1  | [c187a1f8-a080-44b3-976a-67ae27e40fcf] ✅ Payment finalized and indexed.
+worker1-1  | [24776b9c-d469-4ca1-8201-6ebb009c08d9] ✅ Payment finalized and indexed.
+worker1-1  | [5c3ecd5a-1afc-4a48-958f-42ae42193eb5] ✅ Payment finalized and indexed.
+worker1-1  | [47398057-2e0b-495e-872d-99252e9159db] ✅ Payment finalized and indexed.
+worker1-1  | [a04560b9-2da9-4f45-9972-a899d543d2c1] ✅ Payment finalized and indexed.
+worker1-1  | [3b4548a7-9825-482a-9733-89a3f45e8423] ✅ Payment finalized and indexed.
+worker1-1  | [3e569166-07f2-4b87-ac10-183dedc69c6a] ✅ Payment finalized and indexed.
+worker1-1  | [4f2d6b09-11ec-4faa-9b15-4a9c8d10b9fc] ✅ Payment finalized and indexed.
+worker1-1  | [665b888c-b8ae-453a-9d83-a24158cf807b] ✅ Payment finalized and indexed.
+worker1-1  | [70f24a16-5756-4ab3-967d-c106d1a852b5] ✅ Payment finalized and indexed.
+worker1-1  | [6e794f8c-b5df-42c9-b52b-72f8508b51d3] ✅ Payment finalized and indexed.
+worker1-1  | [8c5096a6-471e-4152-8364-c7bafa441175] ✅ Payment finalized and indexed.
+worker1-1  | [dd94271c-3610-4ec3-a8f0-34625570552b] ✅ Payment finalized and indexed.
+worker1-1  | [34a0b548-2a68-4276-834a-47ff6588d1af] ✅ Payment finalized and indexed.
+worker1-1  | [7b43f4ae-6516-407e-ae98-a617965bb108] ✅ Payment finalized and indexed.
+worker1-1  | [5e5453c1-c9e9-4807-b211-04d96422efc8] ✅ Payment finalized and indexed.
+worker1-1  | [92c31cb8-3019-42d8-bd83-57f934c8806f] ✅ Payment finalized and indexed.
+worker1-1  | [f675b4ba-1b61-4654-b35e-f69ac8b40713] ✅ Payment finalized and indexed.
+worker1-1  | [33382c7c-2518-4176-905c-1ba16ee3bba6] ✅ Payment finalized and indexed.
+worker1-1  | [bc99b4ac-e637-404a-a9e9-0b1853dd7cae] ✅ Payment finalized and indexed.
+worker1-1  | [f672ea50-966d-4b36-9403-7d563d14a6f6] ✅ Payment finalized and indexed.
+worker1-1  | [6333d3eb-a9ec-4bc2-9b02-338f16e087ae] ✅ Payment finalized and indexed.
+worker1-1  | [dffd7174-1ff2-4650-af4e-993a0da8f0f9] ✅ Payment finalized and indexed.
+worker1-1  | [e5a4dbac-3e7b-40a1-9073-a3a4b1d8a577] ✅ Payment finalized and indexed.
+worker1-1  | [a14ebb76-0a67-4d8d-b617-955063c3e4f1] ✅ Payment finalized and indexed.
+worker1-1  | [c1cf2a0c-868a-444c-b019-f5638304c738] ✅ Payment finalized and indexed.
+worker1-1  | [b1f69136-c7d7-4135-be95-51464f310cd6] ✅ Payment finalized and indexed.
+worker1-1  | [cbc0c732-1572-4797-9c43-ffad66268d56] ✅ Payment finalized and indexed.
+worker1-1  | [06a8f1aa-5e58-4e64-b563-37f7bbc83cbc] ✅ Payment finalized and indexed.
+worker1-1  | [aa7f40e7-0145-45aa-838a-5df226b51ad9] ✅ Payment finalized and indexed.
+worker1-1  | [cee46d72-8ee8-4aeb-8c74-557cb5e79fee] ✅ Payment finalized and indexed.
+worker1-1  | [27afeccc-d9ee-452a-b4d0-4ef9a2923bf6] ✅ Payment finalized and indexed.
+worker1-1  | [06b447f0-5321-4a61-907a-dcff69082f54] ✅ Payment finalized and indexed.
+worker1-1  | [5ccffd63-e135-4f83-9e4c-ef322e5afac3] ✅ Payment finalized and indexed.
+worker1-1  | [006a228e-a420-4736-a549-05ebc1d40ad2] ✅ Payment finalized and indexed.
+worker1-1  | [97775e23-bd2b-493b-a110-8e32df10c418] ✅ Payment finalized and indexed.
+worker1-1  | [f7c4603f-6ef4-4ec4-9eec-0292315e20e2] ✅ Payment finalized and indexed.
+worker1-1  | [6a51ceb4-a64d-4062-bfb4-417cbf831209] ✅ Payment finalized and indexed.
+worker1-1  | [28be9ed4-4e89-418b-8e23-92332ad85d9b] ✅ Payment finalized and indexed.
+worker1-1  | [d76d7af4-2f40-45e8-8bf2-5b663414611f] ✅ Payment finalized and indexed.
+worker1-1  | [ad331b96-3554-4411-b111-6c703b05d9f9] ✅ Payment finalized and indexed.
+worker1-1  | [37d75965-ce18-41f8-a55c-09a902ad3205] ✅ Payment finalized and indexed.
+worker1-1  | [9ae1e26e-e340-4445-bcae-f4d98342886c] ✅ Payment finalized and indexed.
+worker1-1  | [bc591ff4-5f99-42b2-96db-26e628abca3f] ✅ Payment finalized and indexed.
+worker1-1  | [54d539fa-0819-4339-8a73-e2730a7fa79c] ✅ Payment finalized and indexed.
+worker1-1  | [25b62015-00b2-4da8-bc8e-0b46fbb764a1] ✅ Payment finalized and indexed.
+worker1-1  | [69b7c998-5e61-4f85-824c-c90f0a0a0581] ✅ Payment finalized and indexed.
+worker1-1  | [b494781b-b642-4269-bba7-fff38a2cb3ca] ✅ Payment finalized and indexed.
+worker1-1  | [f2504929-a1a0-4f08-9fd3-953e4fa070bc] ✅ Payment finalized and indexed.
+worker1-1  | [4bad8242-36df-42b4-9e71-23650b955361] ✅ Payment finalized and indexed.
+worker1-1  | [7d1a7c3a-4617-4433-b450-f28cda21966e] ✅ Payment finalized and indexed.
+worker1-1  | [f8e389a5-a914-4f2e-ae34-01645d3b0104] ✅ Payment finalized and indexed.
+worker1-1  | [11c5bb0b-fb49-47ef-9a4d-41dddbe6b280] ✅ Payment finalized and indexed.
+worker1-1  | [f7e711eb-b88f-4a42-94a3-d82ea6faf396] ✅ Payment finalized and indexed.
+worker1-1  | [39a124f1-b2f8-4d0e-9a80-537704e36045] ✅ Payment finalized and indexed.
+worker1-1  | Health status updated { default: null, fallback: null }
+worker1-1  | [1f67d980-d257-4d18-b1ec-26dec487e97c] ✅ Payment finalized and indexed.
+worker1-1  | [16131036-8b66-4ea1-8d99-735b576ea446] ✅ Payment finalized and indexed.
+worker1-1  | [ed3f4cec-250b-4163-9c02-30f422502eea] ✅ Payment finalized and indexed.
+worker1-1  | [3bb0c294-ff62-4954-b8ba-b42b50e68e97] ✅ Payment finalized and indexed.
+worker1-1  | [65ed7701-264d-4248-b358-c460d6ba2fa2] ✅ Payment finalized and indexed.
+worker1-1  | [b4c59e10-d940-489c-8d5f-7ad3c0d66393] ✅ Payment finalized and indexed.
+worker1-1  | [0a9a4429-c096-4fe1-9ec1-a874dd45de34] ✅ Payment finalized and indexed.
+worker1-1  | [2095abcd-8282-4b80-b14c-bc9a71823bc3] ✅ Payment finalized and indexed.
+worker1-1  | [722c3411-5125-4057-a496-64cf800f782e] ✅ Payment finalized and indexed.
+worker1-1  | [cc325a09-e9cd-4ccf-ada6-575fa297297e] ✅ Payment finalized and indexed.
+worker1-1  | [07a1ef1c-2cd6-4b06-b88c-d27ea2578163] ✅ Payment finalized and indexed.
+worker1-1  | [7a1152ce-9b5a-4363-af45-a5259691eaa8] ✅ Payment finalized and indexed.
+worker1-1  | [b9d17ba9-d41b-4b1f-a320-0f4c507fef17] ✅ Payment finalized and indexed.
+worker1-1  | [aea8895c-7baf-4774-beea-5056ebd6b0a9] ✅ Payment finalized and indexed.
+worker1-1  | [26ae7749-bb51-4b9f-89f9-f3b3436d2839] ✅ Payment finalized and indexed.
+worker1-1  | [47902776-7b59-483f-9640-b9df82caaab4] ✅ Payment finalized and indexed.
+worker1-1  | [3073e671-e080-47aa-a02f-d38648b27887] ✅ Payment finalized and indexed.
+worker1-1  | [00671b26-4e5f-4805-9615-6a8419aba34a] ✅ Payment finalized and indexed.
+worker1-1  | [b73e2d36-6fa6-468c-b143-60803f3014b1] ✅ Payment finalized and indexed.
+worker1-1  | [47fcf113-51be-4c5e-906c-29643ffa72ec] ✅ Payment finalized and indexed.
+worker1-1  | [de9961ca-30e6-4d20-bc7d-926b7ae8a60e] ✅ Payment finalized and indexed.
+worker1-1  | [59b19ed3-0fde-4eb5-b80c-1264be0fd971] ✅ Payment finalized and indexed.
+worker1-1  | [258adda9-194d-4558-adf6-58b3d1a980eb] ✅ Payment finalized and indexed.
+worker1-1  | [eb663835-a829-4fd1-be0b-75475a213878] ✅ Payment finalized and indexed.
+worker1-1  | [1cefb2e0-f4a4-4044-8a4e-e2d254355aa3] ✅ Payment finalized and indexed.
+worker1-1  | [7beb8230-d0e9-41a4-92e6-209e6b210ee1] ✅ Payment finalized and indexed.
+worker1-1  | [a4e10146-3e0c-4d24-8b32-04e46b8b037e] ✅ Payment finalized and indexed.
+worker1-1  | [b6cf6271-35ae-4427-bf93-85855eb9736b] ✅ Payment finalized and indexed.
+worker1-1  | [c8506c13-3296-4fff-a0ad-44d78da5796d] ✅ Payment finalized and indexed.
+worker1-1  | [97cfcd94-bdda-48c7-a882-ea798b71edf6] ✅ Payment finalized and indexed.
+worker1-1  | [e14ce621-e1c2-41d9-81be-c060160aab74] ✅ Payment finalized and indexed.
+worker1-1  | [0edfddc3-2cdc-4dbf-b50f-6225c8f1cd91] ✅ Payment finalized and indexed.
+worker1-1  | [2765f63c-bfc5-4e15-a4f5-62ecd42961fd] ✅ Payment finalized and indexed.
+worker1-1  | [28f6f0c4-13ef-41fc-ae8c-d7b2381b327f] ✅ Payment finalized and indexed.
+worker1-1  | [60027f78-96cf-44b3-9e88-45ac964d6250] ✅ Payment finalized and indexed.
+worker1-1  | [cc3b5c39-e74e-4fc7-b948-d2b181bdc53a] ✅ Payment finalized and indexed.
+worker1-1  | [5ea715ae-33a4-47e0-ad87-1cf24a9c3022] ✅ Payment finalized and indexed.
+worker1-1  | [be050740-599d-4cef-ad3b-5346ac6f61d1] ✅ Payment finalized and indexed.
+worker1-1  | [ce969a35-d4c3-4ecb-87c4-17af355280f7] ✅ Payment finalized and indexed.
+worker1-1  | [33de9be7-066a-4172-be93-cba5f4f91d3f] ✅ Payment finalized and indexed.
+worker1-1  | [de1b468c-230d-47f1-993a-5041acc237b3] ✅ Payment finalized and indexed.
+worker1-1  | [7a280abb-2ef5-4cf5-831e-b9cbec388e07] ✅ Payment finalized and indexed.
+worker1-1  | [f205a14b-efdd-4b01-950b-580621b7a7f0] ✅ Payment finalized and indexed.
+worker1-1  | [71b32f9f-6672-46ae-a888-1e3758591443] ✅ Payment finalized and indexed.
+worker1-1  | [c593484f-c832-40de-83a9-716d358e0d2e] ✅ Payment finalized and indexed.
+worker1-1  | [22c939fa-3368-4bdd-9b14-b8a7b934165d] ✅ Payment finalized and indexed.
+worker1-1  | [ebfe7e2e-29e2-42f1-9b34-02d3544eabb2] ✅ Payment finalized and indexed.
+worker1-1  | [467d1f4e-8523-4ed6-b782-338939989fec] ✅ Payment finalized and indexed.
+worker1-1  | [57d39fdf-0181-4d1a-bfa8-68b033eb3c71] ✅ Payment finalized and indexed.
+worker1-1  | [3b875dbc-cb5b-4097-bc74-da76fd402b24] ✅ Payment finalized and indexed.
+worker1-1  | [d52cdcba-46ef-4f8d-a43a-469538cec1c5] ✅ Payment finalized and indexed.
+worker1-1  | [f3cf77ce-ae20-4fd1-9c71-78fe185a32b5] ✅ Payment finalized and indexed.
+worker1-1  | [89b717e2-5fc2-46aa-ac8a-c5e3a165d705] ✅ Payment finalized and indexed.
+worker1-1  | [cb5333da-6cf1-4126-b93e-0ad515b55335] ✅ Payment finalized and indexed.
+worker1-1  | [29884434-d38a-4f6c-a040-5b9f3b1b6ea6] ✅ Payment finalized and indexed.
+worker1-1  | [e79d8b58-8c72-43a5-9215-e21ff5588c8d] ✅ Payment finalized and indexed.
+worker1-1  | [9d028761-fe22-4a5e-8a00-0dc0fc7b2993] ✅ Payment finalized and indexed.
+worker1-1  | [e0bcc91e-04c1-469e-b7f1-a742a4b9a741] ✅ Payment finalized and indexed.
+worker1-1  | [dcabf3c2-437e-4d68-bb50-252bd417157f] ✅ Payment finalized and indexed.
+worker1-1  | [27d8441d-a642-43c4-bd12-c03d6762575b] ✅ Payment finalized and indexed.
+worker1-1  | [a93824a1-6f83-417e-9d3b-9679b91499ad] ✅ Payment finalized and indexed.
+worker1-1  | [01946ed0-4ba8-4a7b-8af7-8e45b6a67648] ✅ Payment finalized and indexed.
+worker1-1  | [59cd1009-bd92-48da-b269-3f45ca2690dc] ✅ Payment finalized and indexed.
+worker1-1  | [a09b90e5-bcd3-4539-aab9-cf6e092c442a] ✅ Payment finalized and indexed.
+worker1-1  | [a20e18ad-fea2-45da-a30f-3c97e94b9ad8] ✅ Payment finalized and indexed.
+worker1-1  | [761a8d74-10fe-4e2a-9313-334aa7480575] ✅ Payment finalized and indexed.
+worker1-1  | [16aa6200-8307-46f2-bd35-c08a67e4ee7b] ✅ Payment finalized and indexed.
+worker1-1  | [8bdc6c72-28b2-4cd2-9f59-ac9bb0ed0e63] ✅ Payment finalized and indexed.
+worker1-1  | [af7ca57b-07da-4c7a-af80-3c2c0b5989ae] ✅ Payment finalized and indexed.
+worker1-1  | [bbf3b326-54a6-4755-aca5-3b12568354d3] ✅ Payment finalized and indexed.
+worker1-1  | [7a5b592c-828c-4de8-98ab-0818351c7e8f] ✅ Payment finalized and indexed.
+worker1-1  | [8bd48c12-b5a3-4dac-a2a4-3dfde5101e94] ✅ Payment finalized and indexed.
+worker1-1  | [50596bb4-013e-45cd-a860-a5946355b9d8] ✅ Payment finalized and indexed.
+worker1-1  | [3a6c15b6-0432-4b7b-9a1c-b448db2d3d45] ✅ Payment finalized and indexed.
+worker1-1  | [f9f0ef0e-92ce-45eb-8f8c-0df807df588c] ✅ Payment finalized and indexed.
+worker1-1  | [3274d07b-e30e-4a37-ba16-18a436950cd5] ✅ Payment finalized and indexed.
+worker1-1  | [e86ede0f-e7ec-4551-8749-aebdab81302a] ✅ Payment finalized and indexed.
+worker1-1  | [16deffb9-cdf4-4fd4-889f-79de2a5b0be0] ✅ Payment finalized and indexed.
+worker1-1  | [993f8388-eb3a-41fb-bfe4-c40cc29b59f3] ✅ Payment finalized and indexed.
+worker1-1  | [b873fb30-607e-4b2d-8ca5-fac864a750a5] ✅ Payment finalized and indexed.
+worker1-1  | [37c42bb4-dd9c-4fe2-8d86-4439cc4153fc] ✅ Payment finalized and indexed.
+worker1-1  | [10e9c72a-bb8b-4d12-8d63-4210c9321a22] ✅ Payment finalized and indexed.
+worker1-1  | [1aa6f619-9d00-49bd-926d-12147c035111] ✅ Payment finalized and indexed.
+worker1-1  | [304c1515-9fe1-463f-b0ea-4447ac2431c2] ✅ Payment finalized and indexed.
+worker1-1  | [824d4d98-3ca8-4080-b111-9b59bf38bd81] ✅ Payment finalized and indexed.
+worker1-1  | [02bc81d8-b2a9-4ee0-a7f6-6393ac49c60e] ✅ Payment finalized and indexed.
+worker1-1  | [43874f5b-6562-4cda-bcfd-f567c96c20b5] ✅ Payment finalized and indexed.
+worker1-1  | [a7be0154-dbd9-46d2-a0fe-1d4267d86791] ✅ Payment finalized and indexed.
+worker1-1  | [ba690c80-5e99-48c8-984f-695c72811dc3] ✅ Payment finalized and indexed.
+worker1-1  | [ba7c797b-1046-44d4-9eba-7120b26d775d] ✅ Payment finalized and indexed.
+worker1-1  | [16844f84-f2eb-4b09-a637-cb8082b3fefd] ✅ Payment finalized and indexed.
+worker1-1  | [d952223d-1ebf-413f-989b-2b38f3c83362] ✅ Payment finalized and indexed.
+worker1-1  | [99071edf-9d36-46aa-b860-3c339a186d1f] ✅ Payment finalized and indexed.
+worker1-1  | Health status updated {
+worker1-1  |   default: { failing: false, minResponseTime: 0 },
+worker1-1  |   fallback: { failing: false, minResponseTime: 0 }
+worker1-1  | }
+worker1-1  | [b0bcd5fd-1c35-463d-a3e6-06c66030997d] ✅ Payment finalized and indexed.
+worker1-1  | [674c3d0f-1c47-48a2-aea3-3815994bddf2] ✅ Payment finalized and indexed.
+worker1-1  | [1413160c-5511-41be-bb0d-3895f94ef1f4] ✅ Payment finalized and indexed.
+worker1-1  | [ef9ea4ce-03c7-48e6-92d1-240ea51b4c1b] ✅ Payment finalized and indexed.
+worker1-1  | [a8fc231c-0f38-4f21-9375-2c136be0e956] ✅ Payment finalized and indexed.
+worker1-1  | [3619a97c-f19b-4f5f-a711-1d35e9844bad] ✅ Payment finalized and indexed.
+worker1-1  | [2da7552f-4dba-4393-80ed-2bdb3fbfd56d] ✅ Payment finalized and indexed.
+worker1-1  | [ed658e41-890d-4a7b-bc0b-2cc6bd123e14] ✅ Payment finalized and indexed.
+worker1-1  | [c61de812-3826-459f-818b-166a707b15f7] ✅ Payment finalized and indexed.
+worker1-1  | [50621155-d466-48a9-9494-2c4340f0c029] ✅ Payment finalized and indexed.
+worker1-1  | [40bef847-5492-4bf0-b316-3d05d96d2d2e] ✅ Payment finalized and indexed.
+worker1-1  | [6d8b667e-97a8-43a1-bf13-4fe196536f36] ✅ Payment finalized and indexed.
+worker1-1  | [c50ab678-8306-462e-aff1-6abe5b2cb209] ✅ Payment finalized and indexed.
+worker1-1  | [f2fb88a8-0643-4aaa-a1ff-1c8f3d1110bf] ✅ Payment finalized and indexed.
+worker1-1  | [134a2cb9-5278-4a6e-80cb-c31fc544890d] ✅ Payment finalized and indexed.
+worker1-1  | [9c93f1c3-f10c-4d2a-bca0-577481393999] ✅ Payment finalized and indexed.
+worker1-1  | [fb532802-5c01-471d-96f7-22889eeb24a1] ✅ Payment finalized and indexed.
+worker1-1  | [478a10d4-e41a-4ab2-93ea-d7cef80fc8eb] ✅ Payment finalized and indexed.
+worker1-1  | [561b6b35-eaa7-4698-ae73-239d00e5952b] ✅ Payment finalized and indexed.
+worker1-1  | [ba7faa37-dc40-4819-90e8-b576cd7c4cec] ✅ Payment finalized and indexed.
+worker1-1  | [bc2c6041-5e47-472c-b9b2-f6fde115ee01] ✅ Payment finalized and indexed.
+worker1-1  | [d086f080-e6c9-42ff-b756-da533426d2c5] ✅ Payment finalized and indexed.
+worker1-1  | [814d3751-7130-4353-9d9d-7710c3275acf] ✅ Payment finalized and indexed.
+worker1-1  | [369717a9-ee78-4187-bcd5-16ed891cd72d] ✅ Payment finalized and indexed.
+worker1-1  | [4dea1c4c-52b1-4717-8d55-de4b873f1aff] ✅ Payment finalized and indexed.
+worker1-1  | [078cd1f9-a08b-45c0-8084-0c7b74599f34] ✅ Payment finalized and indexed.
+worker1-1  | [577f9c7a-730d-4a4b-aa6d-e0266fab6636] ✅ Payment finalized and indexed.
+worker1-1  | [27565faf-ec21-4e57-9d02-44c23f880819] ✅ Payment finalized and indexed.
+worker1-1  | [58a5e96a-e38b-4a18-bab6-636319c62bb3] ✅ Payment finalized and indexed.
+worker1-1  | [0fb193d3-6143-42ce-92cb-6995596ff280] ✅ Payment finalized and indexed.
+worker1-1  | [1b7c395a-5e7b-45ed-b306-da916065b0ce] ✅ Payment finalized and indexed.
+worker1-1  | [3682cd36-46a6-4e04-b9e2-3388581929e8] ✅ Payment finalized and indexed.
+worker1-1  | [58be505a-6afd-4af8-8789-1d933addd497] ✅ Payment finalized and indexed.
+worker1-1  | [68fba1c6-1d1e-406e-b4d6-5688c082c95e] ✅ Payment finalized and indexed.
+worker1-1  | [eed269c6-6342-4234-a401-dadca779f87e] ✅ Payment finalized and indexed.
+worker1-1  | [f3df7973-954d-416b-9e40-57e8930e5119] ✅ Payment finalized and indexed.
+worker1-1  | [da11e6d3-1b0b-4a64-9cd2-c9012ad7901b] ✅ Payment finalized and indexed.
+worker1-1  | [ca8699b4-cff4-431a-99f1-d50acac354a4] ✅ Payment finalized and indexed.
+worker1-1  | [c2e2a2c8-a632-4b68-b299-5b28d6941c55] ✅ Payment finalized and indexed.
+worker1-1  | [74524611-a755-4db8-b4e4-d09f3a7a802a] ✅ Payment finalized and indexed.
+worker1-1  | [0a9db3fd-bf30-4728-bf0a-a7beb8ee7592] ✅ Payment finalized and indexed.
+worker1-1  | [c1e0c3fb-6411-4285-bc8f-771adf208682] ✅ Payment finalized and indexed.
+worker1-1  | [bd9c031c-d372-4ad3-a506-129fbb7d6094] ✅ Payment finalized and indexed.
+worker1-1  | [8c79f780-2caa-4d22-afb4-931fc2cc3312] ✅ Payment finalized and indexed.
+worker1-1  | [5a1418f4-cdee-4194-840c-0d819dc97197] ✅ Payment finalized and indexed.
+worker1-1  | [3b8337e1-7b01-4dbe-a3e1-40b871d72f71] ✅ Payment finalized and indexed.
+worker1-1  | [0952c171-5f32-4362-91d2-531b7cb959d1] ✅ Payment finalized and indexed.
+worker1-1  | [5bdde263-1b4b-4c64-a75a-81161ffe534c] ✅ Payment finalized and indexed.
+worker1-1  | [e3553c1f-3e76-45d5-a111-3ed34dc4245e] ✅ Payment finalized and indexed.
+worker1-1  | [2ca08897-8fb3-478f-8ff2-b5e69a813404] ✅ Payment finalized and indexed.
+worker1-1  | [3b9a5bff-8d8f-49e3-9d4f-317c88d75189] ✅ Payment finalized and indexed.
+worker1-1  | [8c7765e7-a760-4b7c-888d-d1f877796b9c] ✅ Payment finalized and indexed.
+worker1-1  | [d7d4a171-2f33-467b-8bbf-8bf81bf27412] ✅ Payment finalized and indexed.
+worker1-1  | [58584b24-f0f1-477c-a8be-41a606d231a0] ✅ Payment finalized and indexed.
+worker1-1  | [deaa86e6-081a-4fe1-8ff3-d1f33ce28748] ✅ Payment finalized and indexed.
+worker1-1  | [459047f0-4c0f-4ae6-ac47-b44636b110b9] ✅ Payment finalized and indexed.
+worker1-1  | [9fd3aaa0-5eb1-4831-b339-fca90e848016] ✅ Payment finalized and indexed.
+worker1-1  | [eb181282-6616-44a4-a7b1-204663aca50f] ✅ Payment finalized and indexed.
+worker1-1  | [2cf2ac56-f834-49dd-98dc-217c85080c83] ✅ Payment finalized and indexed.
+worker1-1  | [357a4f47-ee63-4f1e-930d-68163c39cf82] ✅ Payment finalized and indexed.
+worker1-1  | [9a8c0dd8-ff14-4724-97f8-061e6cb12572] ✅ Payment finalized and indexed.
+worker1-1  | [46340d6a-9bb2-4636-8866-10299a102270] ✅ Payment finalized and indexed.
+worker1-1  | [f9c27534-0629-4915-a127-f6ec33bd6a93] ✅ Payment finalized and indexed.
+worker1-1  | [c9454b0e-6702-4aa9-a294-8c569e02c320] ✅ Payment finalized and indexed.
+worker1-1  | [9b60a5ac-6379-45fb-9c62-bbac944dd12a] ✅ Payment finalized and indexed.
+worker1-1  | [8ee0260e-5a0c-4be7-aa51-467dad43967e] ✅ Payment finalized and indexed.
+worker1-1  | [b0369254-3a61-4fb9-a5cd-e76823fb12b1] ✅ Payment finalized and indexed.
+worker1-1  | [2c894851-6d1d-441b-a027-d9d150331b2f] ✅ Payment finalized and indexed.
+worker1-1  | [8db3424f-cad7-48f6-b82b-760e4cb5ecd2] ✅ Payment finalized and indexed.
+worker1-1  | [3e58aa05-ca46-4e27-984a-c0306b3e2e26] ✅ Payment finalized and indexed.
+worker1-1  | [71f3e98d-853e-4e2e-981c-8c6e38ed8a93] ✅ Payment finalized and indexed.
+worker1-1  | [4f027d74-e106-47ba-bada-ac8497d193fa] ✅ Payment finalized and indexed.
+worker1-1  | [cb1e55f2-3314-4a8e-8fe2-094e40e9e5aa] ✅ Payment finalized and indexed.
+worker1-1  | [20a35469-9be4-41a4-8012-2fea10a8d310] ✅ Payment finalized and indexed.
+worker1-1  | [e38b05e7-e485-443d-8856-d2d7d0c21d5a] ✅ Payment finalized and indexed.
+worker1-1  | [242de2b5-1838-4da8-ad04-61d2e1cffde1] ✅ Payment finalized and indexed.
+worker1-1  | [f798fae7-f723-49fa-94f6-371115084b8e] ✅ Payment finalized and indexed.
+worker1-1  | [fedcce2a-4fb7-42e6-b68f-2fba62494cc1] ✅ Payment finalized and indexed.
+worker1-1  | [3b4b2719-e072-4a1c-ad55-5500b35f6a22] ✅ Payment finalized and indexed.
+worker1-1  | [6ecfe012-fc03-45d8-b171-a187ce014c63] ✅ Payment finalized and indexed.
+worker1-1  | [7f94e80b-9513-462e-98f5-04def15309f7] ✅ Payment finalized and indexed.
+worker1-1  | [51f67b61-0f27-4f78-b642-c54fb03c7b7a] ✅ Payment finalized and indexed.
+worker1-1  | [a1c61e45-78f3-4222-ac4f-a4959e12a454] ✅ Payment finalized and indexed.
+worker1-1  | [bcfbb157-352c-486d-889a-fd06bced3e5c] ✅ Payment finalized and indexed.
+worker1-1  | [80a8c072-b13f-42df-991c-f6fcdca03a9c] ✅ Payment finalized and indexed.
+worker1-1  | [ab8b4780-3019-4b61-9695-eec92c8e0498] ✅ Payment finalized and indexed.
+worker1-1  | [19e341e2-e1ff-49fa-b567-fba93c5622c0] ✅ Payment finalized and indexed.
+worker1-1  | [3864b949-807e-4b1f-b80e-1071bd3cd2cc] ✅ Payment finalized and indexed.
+worker1-1  | [aa0ae827-8c3b-46ee-a27b-8a7095c88596] ✅ Payment finalized and indexed.
+worker1-1  | [70eb87d3-c932-4027-b238-d6e4d8865c0e] ✅ Payment finalized and indexed.
+worker1-1  | [690b493d-165b-4c0a-80f9-a3742e17d6a9] ✅ Payment finalized and indexed.
+worker1-1  | [32b3a247-4815-441e-b4ef-016908450d7b] ✅ Payment finalized and indexed.
+worker1-1  | [663c4251-8e92-4b09-bfde-b2c369ed0934] ✅ Payment finalized and indexed.
+worker1-1  | [2e17d135-4744-4c50-82db-9541bf84b771] ✅ Payment finalized and indexed.
+worker1-1  | [b5e4e459-6d45-4a65-b666-18efa2737f98] ✅ Payment finalized and indexed.
+worker1-1  | [8114eada-fa9c-4ed7-8291-09c2592ebfb6] ✅ Payment finalized and indexed.
+worker1-1  | [34454d0d-2235-41ca-bd05-6113739fa703] ✅ Payment finalized and indexed.
+worker1-1  | [936061c7-cd9b-4c6b-991e-fdab99577320] ✅ Payment finalized and indexed.
+worker1-1  | [a4c8d4ac-74f6-41cb-912a-a22b1a2ed755] ✅ Payment finalized and indexed.
+worker1-1  | [ad4b3e37-f78f-4c72-a64f-72b9bc3b234f] ✅ Payment finalized and indexed.
+worker1-1  | [eb873284-5c54-4e79-8ad5-e6aacce52bf8] ✅ Payment finalized and indexed.
+worker1-1  | [0ac7f7e9-abf6-4f82-9a2c-c35db24f2e53] ✅ Payment finalized and indexed.
+worker1-1  | [af7adedd-ecf9-406b-9589-871c2c9e83e6] ✅ Payment finalized and indexed.
+worker1-1  | [316cec32-2ffc-41d9-8209-5da5cac832cd] ✅ Payment finalized and indexed.
+worker1-1  | [281324ef-7075-4469-8c8f-0026870ae765] ✅ Payment finalized and indexed.
+worker1-1  | [c3cc6a5e-8fe6-46f2-9ee5-933216406c06] ✅ Payment finalized and indexed.
+worker1-1  | [10dee7db-3c50-4faa-8dc1-8fb20918c01b] ✅ Payment finalized and indexed.
+worker1-1  | [301a3d7f-eec6-4337-9947-fe5f67d3071d] ✅ Payment finalized and indexed.
+worker1-1  | [05dc6a85-cbe0-44d9-836a-df68a54ec3b1] ✅ Payment finalized and indexed.
+worker1-1  | [662b4c5c-6b90-4120-bb70-963f55ec8714] ✅ Payment finalized and indexed.
+worker1-1  | [2d7633ef-d11b-44d5-ad47-d3848986d3b7] ✅ Payment finalized and indexed.
+worker1-1  | [13321773-4018-43b5-8d85-46c733c723fc] ✅ Payment finalized and indexed.
+worker1-1  | [343c9c19-3f3b-4ec4-9e26-39d82a458c2c] ✅ Payment finalized and indexed.
+worker1-1  | [9772a01c-1c3f-42e3-9b11-e7f827243311] ✅ Payment finalized and indexed.
+worker1-1  | [ed02f38c-6f24-4ef8-b72d-fa5a442efa16] ✅ Payment finalized and indexed.
+worker1-1  | [a3094be3-e351-4fd6-af98-dbb914dd20fc] ✅ Payment finalized and indexed.
+worker1-1  | [ecebc6ce-9e11-4f9c-bfdf-27ae75398241] ✅ Payment finalized and indexed.
+worker1-1  | [f56bb926-2a1b-4fd2-a196-fe498fa6afc7] ✅ Payment finalized and indexed.
+worker1-1  | [427393e6-07dc-467d-a79b-a62c2ebd527a] ✅ Payment finalized and indexed.
+worker1-1  | [26d8264d-0275-4c96-bc70-2a290f80eae8] ✅ Payment finalized and indexed.
+worker1-1  | [35c24139-862e-4653-8898-64e079406783] ✅ Payment finalized and indexed.
+worker1-1  | [165a460e-6411-4e67-9300-e42ceb586bbf] ✅ Payment finalized and indexed.
+worker1-1  | [77d8c091-b852-42e1-a78e-101ddb005ed6] ✅ Payment finalized and indexed.
+worker1-1  | [574b7b6d-6b54-409e-8877-b43416b5ec5d] ✅ Payment finalized and indexed.
+worker1-1  | [d5df605b-78f4-44b8-a938-eb3df20da97a] ✅ Payment finalized and indexed.
+worker1-1  | [7802ac51-7f32-4521-8d87-1d6d01d0ab9a] ✅ Payment finalized and indexed.
+worker1-1  | [740a3acb-4961-4049-a2f7-23e913b9bc44] ✅ Payment finalized and indexed.
+worker1-1  | [1ede3536-6aff-4549-aee4-7ef787004680] ✅ Payment finalized and indexed.
+worker1-1  | [eed355e7-434f-4e6d-9487-06c27b2d2087] ✅ Payment finalized and indexed.
+worker1-1  | [428fd89a-44e5-4547-955b-7b44f2a574c4] ✅ Payment finalized and indexed.
+worker1-1  | [8fda7002-e457-415d-8abb-9a1df6be9d8a] ✅ Payment finalized and indexed.
+worker1-1  | [f76fd919-bd6b-4582-aa9e-ed198e2b3b44] ✅ Payment finalized and indexed.
+worker1-1  | [ba2c5117-dccb-43e5-a040-2c868bc9d33d] ✅ Payment finalized and indexed.
+worker1-1  | [4e9a65ca-1baf-45ae-aeca-3ff6fd3d8b94] ✅ Payment finalized and indexed.
+worker1-1  | [65cf85f1-0646-4a94-9f02-e5c574ae3b76] ✅ Payment finalized and indexed.
+worker1-1  | [bc4a1682-bb52-436b-99a3-fecbb5c09495] ✅ Payment finalized and indexed.
+worker1-1  | [4083b621-36c6-4abf-bebf-134d61a2b4ec] ✅ Payment finalized and indexed.
+worker1-1  | [4bc1173c-6bae-4d4f-85c4-8c5f8d75735b] ✅ Payment finalized and indexed.
+worker1-1  | [7b817fa5-8cca-41fc-8029-975d466ef54c] ✅ Payment finalized and indexed.
+worker1-1  | [cf1f2d74-9bd6-4dbe-9c2d-f9f14149c3a6] ✅ Payment finalized and indexed.
+worker1-1  | [054af24b-07fd-44aa-9453-13fcd89f016f] ✅ Payment finalized and indexed.
+worker1-1  | [ee8af95e-9edd-4ee4-bf3b-52cef0c2cc83] ✅ Payment finalized and indexed.
+worker1-1  | [d1fc8d1f-c5c7-488d-95e8-71c40e8263b8] ✅ Payment finalized and indexed.
+worker1-1  | [be429810-9dc6-4755-8985-eae5545836d5] ✅ Payment finalized and indexed.
+worker1-1  | [9501725e-3faa-467a-aa61-090322189587] ✅ Payment finalized and indexed.
+worker1-1  | [6caccb44-b8b1-46da-a393-724bff8abee8] ✅ Payment finalized and indexed.
+worker1-1  | [d6a32ac4-efd6-42b7-a33d-00d8be2822db] ✅ Payment finalized and indexed.
+worker1-1  | [83f47c3e-8fca-4f39-a501-64d683a4cc69] ✅ Payment finalized and indexed.
+worker1-1  | [7ab9788a-660c-4cd2-a233-2ba262ae8d73] ✅ Payment finalized and indexed.
+worker1-1  | [3ecf0063-cad9-4f91-bd71-956777738851] ✅ Payment finalized and indexed.
+worker1-1  | [df256239-8aef-457a-97b8-8d0cf24b7211] ✅ Payment finalized and indexed.
+worker1-1  | [cfa066cc-bace-48a8-aac6-01feb3ae0ec1] ✅ Payment finalized and indexed.
+worker1-1  | [1538797a-daea-4776-b9a0-44c587c6240c] ✅ Payment finalized and indexed.
+worker1-1  | [9434a4ef-efb6-4f6b-b6f5-c82369ad0855] ✅ Payment finalized and indexed.
+worker1-1  | [be1f0cf3-b59c-4e9f-828f-667082266e3e] ✅ Payment finalized and indexed.
+worker1-1  | [7bb3e030-f9aa-4ab3-bd68-65b97e4e9f9f] ✅ Payment finalized and indexed.
+worker1-1  | [76a7a442-f680-4bb7-b33c-94de4cbef710] ✅ Payment finalized and indexed.
+worker1-1  | [9b2ffac9-95f5-40b0-9c79-4e2eecfe5f9f] ✅ Payment finalized and indexed.
+worker1-1  | [7ff24638-4798-46dc-bfd9-523be083f00c] ✅ Payment finalized and indexed.
+worker1-1  | [d7ceaccc-ba36-4e39-83bf-94674c8d09fb] ✅ Payment finalized and indexed.
+worker1-1  | [3e2c2d24-e636-4d44-af53-4c68a7a22bec] ✅ Payment finalized and indexed.
+worker1-1  | [5f4284b7-565b-4c36-9aab-fc488c90e8fe] ✅ Payment finalized and indexed.
+worker1-1  | [d43d3c82-7cd9-436b-955f-84cd4578aa19] ✅ Payment finalized and indexed.
+worker1-1  | [5f14afb3-5ce6-467c-bcc0-cc75b6308c65] ✅ Payment finalized and indexed.
+worker1-1  | [75257538-b700-4be4-9a7b-411a8734db9b] ✅ Payment finalized and indexed.
+worker1-1  | [514e6df9-13e5-45d9-a728-2bde06695750] ✅ Payment finalized and indexed.
+worker1-1  | [c978f52f-941b-46f2-a901-98a00e94d047] ✅ Payment finalized and indexed.
+worker1-1  | [060293ac-02bc-4247-b017-8b2bcd72cc1a] ✅ Payment finalized and indexed.
+worker1-1  | [958f6f2c-f9d2-4351-8e68-4f7a44bef953] ✅ Payment finalized and indexed.
+worker1-1  | [99cfded6-14c7-46b8-a166-1b4ee0cdc374] ✅ Payment finalized and indexed.
+worker1-1  | [d856d5d0-8430-4c56-910f-58ce65ce2fcc] ✅ Payment finalized and indexed.
+worker1-1  | [e0646563-a1ab-47b9-b2da-7b1162359fea] ✅ Payment finalized and indexed.
+worker1-1  | [ab431b76-d49a-40af-9f59-dff930689ee2] ✅ Payment finalized and indexed.
+worker1-1  | [25d74e1c-886b-4557-9ab2-c6cf4eb4700d] ✅ Payment finalized and indexed.
+worker1-1  | [f37941a2-ed7e-4f82-9d89-8b355542819d] ✅ Payment finalized and indexed.
+worker1-1  | [a5967579-40bf-47fb-bc6a-56dafb04d427] ✅ Payment finalized and indexed.
+worker1-1  | [8295d82a-9929-4a57-a6f3-05a44d885cd3] ✅ Payment finalized and indexed.
+worker1-1  | [da522d6b-04a8-4432-91ca-61e370096105] ✅ Payment finalized and indexed.
+worker1-1  | [4749abb5-b176-4ef6-aa3d-a72bff5839f6] ✅ Payment finalized and indexed.
+worker1-1  | [01600cae-1d49-4ffa-bf3b-a3eb58bd7d69] ✅ Payment finalized and indexed.
+worker1-1  | [657555fe-b1b5-45ee-a054-5cf4a3a28e92] ✅ Payment finalized and indexed.
+worker1-1  | [776e6fd4-5eea-40ec-b97b-cd00d6cbc294] ✅ Payment finalized and indexed.
+worker1-1  | [a0bdbe2e-c9da-482e-9e96-a1e847e0d5c5] ✅ Payment finalized and indexed.
+worker1-1  | [111d76f2-9d42-4cf8-80ea-663d5da57961] ✅ Payment finalized and indexed.
+worker1-1  | [bd0ab20f-e8bd-48b7-b2a3-30d8e897cfef] ✅ Payment finalized and indexed.
+worker1-1  | [e5692efa-3303-44ac-83c5-7be53948fb04] ✅ Payment finalized and indexed.
+worker1-1  | [77949264-8180-4027-9ab4-056fb1638e4b] ✅ Payment finalized and indexed.
+worker1-1  | [b3f49224-6c19-4f78-864a-1e6a54b543de] ✅ Payment finalized and indexed.
+worker1-1  | [de63bafa-c0e5-44dd-bbcd-b98942e8bc80] ✅ Payment finalized and indexed.
+worker1-1  | [c55ae328-db72-433b-a17a-1fed037a2d8b] ✅ Payment finalized and indexed.
+worker1-1  | [10679249-b93f-475d-b7ff-6cab5d7f0d92] ✅ Payment finalized and indexed.
+worker1-1  | [7ae5d0bd-e885-425f-82b5-1bada80a746e] ✅ Payment finalized and indexed.
+worker1-1  | [5ccedca0-0720-43d9-af52-cea59e8c8801] ✅ Payment finalized and indexed.
+worker1-1  | [d853a73a-fc22-499f-8391-19a4072b4460] ✅ Payment finalized and indexed.
+worker1-1  | [9b0e8c07-0f62-48c2-9164-cacb397de75e] ✅ Payment finalized and indexed.
+worker1-1  | [7ddc2053-0e33-47d5-a1ce-bb315e1a974b] ✅ Payment finalized and indexed.
+worker1-1  | [7f6b3eed-8f8f-487a-b687-f20659cd2fdb] ✅ Payment finalized and indexed.
+worker1-1  | [3c006b18-754b-4df0-96fb-b74095818149] ✅ Payment finalized and indexed.
+worker1-1  | [de3b5717-7250-40f2-8fa0-f0107399174c] ✅ Payment finalized and indexed.
+worker1-1  | [0a2dde97-0917-487b-8865-d9939b7d01f6] ✅ Payment finalized and indexed.
+worker1-1  | [cbe5e894-075e-4c09-9443-a83549561656] ✅ Payment finalized and indexed.
+worker1-1  | [e2f0edbd-5fbb-43aa-ada9-591b407b100f] ✅ Payment finalized and indexed.
+worker1-1  | [1746ba9c-d717-41dc-99c3-ed3ae4c9e262] ✅ Payment finalized and indexed.
+worker1-1  | [8229348c-7999-4b54-81ca-3420388af2ac] ✅ Payment finalized and indexed.
+worker1-1  | [4cc6b3c0-66ec-4f13-a6ea-e7e2259b338e] ✅ Payment finalized and indexed.
+worker1-1  | [b504b6a4-82d5-4e1e-a71d-f91ba4bfd8ef] ✅ Payment finalized and indexed.
+worker1-1  | [39155478-7661-4cb3-b170-e092ea54ce27] ✅ Payment finalized and indexed.
+worker1-1  | [3778f7b0-96fd-45e0-acd5-6ea199bea94d] ✅ Payment finalized and indexed.
+worker1-1  | [631032f5-b3f8-4bdf-ae8a-90b341b50813] ✅ Payment finalized and indexed.
+worker1-1  | [dfaa0410-34c4-4104-9126-a7c5b6ac806d] ✅ Payment finalized and indexed.
+worker1-1  | [f7c54fc7-39dd-4709-8f79-a790a9e8e45e] ✅ Payment finalized and indexed.
+worker1-1  | [3ef838d0-40cb-4a7d-b73e-7e82f8965b52] ✅ Payment finalized and indexed.
+worker1-1  | [c77a999a-a565-499f-99eb-698ebe43a18a] ✅ Payment finalized and indexed.
+worker1-1  | [771b3cb7-f16a-44c4-8eb5-4a479b7035f5] ✅ Payment finalized and indexed.
+worker1-1  | [65ce1ddf-1b4f-4f15-8a66-0e13b338df42] ✅ Payment finalized and indexed.
+worker1-1  | [b3d6e612-dedf-4731-afe7-ba688d08f24f] ✅ Payment finalized and indexed.
+worker1-1  | [fd7d315e-3bf5-4ef7-92cc-3c77e2906654] ✅ Payment finalized and indexed.
+worker1-1  | [18b469d5-207d-459e-a870-257aae79d8c3] ✅ Payment finalized and indexed.
+worker1-1  | [9d4c6886-2038-40a2-9619-cfb9ce4b7168] ✅ Payment finalized and indexed.
+worker1-1  | [e157b28d-4063-48ea-8834-4f884a4e3937] ✅ Payment finalized and indexed.
+worker1-1  | [83219eb3-35bd-46b4-909d-8711e52a0de4] ✅ Payment finalized and indexed.
+worker1-1  | [3c6a757d-4fb8-4aa2-9e7e-d9a1a77bc881] ✅ Payment finalized and indexed.
+worker1-1  | [db48c947-f55e-46f8-ad9b-76083c7ee4d9] ✅ Payment finalized and indexed.
+worker1-1  | [6f3ec63e-c6f1-4401-972a-012b87fc65ab] ✅ Payment finalized and indexed.
+worker1-1  | [819f793d-0cc2-426b-96d7-b989178df330] ✅ Payment finalized and indexed.
+worker1-1  | [5208e003-e1f4-4c84-a4a0-4935aa3ab2f1] ✅ Payment finalized and indexed.
+worker1-1  | [7a7596eb-c1ca-4852-9813-cb455dad7214] ✅ Payment finalized and indexed.
+worker1-1  | [a0f6cf91-d24b-458a-8630-d9c491e810a5] ✅ Payment finalized and indexed.
+worker1-1  | [c51f0a8c-f39a-4724-97ac-91befaa4f03e] ✅ Payment finalized and indexed.
+worker1-1  | [c19adf44-7bcb-45c7-af17-2529e732391f] ✅ Payment finalized and indexed.
+worker1-1  | [f9afc4fe-1d04-4615-ade9-cdc47cd3fae7] ✅ Payment finalized and indexed.
+worker1-1  | [4805305c-d7c5-4bdc-a7d9-657e38aca81d] ✅ Payment finalized and indexed.
+worker1-1  | [6c0f5e0c-1fe3-4512-aaee-a6456a430616] ✅ Payment finalized and indexed.
+worker1-1  | [94f78063-3941-48cb-8045-e14a0fde3dd2] ✅ Payment finalized and indexed.
+worker1-1  | [5bb5c5b8-9173-4ed2-b02d-2399fc9a1001] ✅ Payment finalized and indexed.
+worker1-1  | [5153e0a0-59e3-41fc-86a4-5e31a557abd2] ✅ Payment finalized and indexed.
+worker1-1  | [492e0f7b-776a-4243-8af0-015d34831185] ✅ Payment finalized and indexed.
+worker1-1  | [0d35ba46-60a9-4812-a30c-c1580a475ce0] ✅ Payment finalized and indexed.
+worker1-1  | [6fc837d4-a719-40c8-81f3-def6c931611a] ✅ Payment finalized and indexed.
+worker1-1  | [276102d1-642e-4b27-a349-f5ffd8b06ec0] ✅ Payment finalized and indexed.
+worker1-1  | [d2b44edf-8dff-45f6-a381-3f7a3c1186bd] ✅ Payment finalized and indexed.
+worker1-1  | [177878d5-2de4-44ab-9395-8af4a7086591] ✅ Payment finalized and indexed.
+worker1-1  | Health status updated { default: null, fallback: null }
+worker1-1  | [5b12538a-4105-488b-88b0-58d037c8a5c6] ✅ Payment finalized and indexed.
+worker1-1  | [a029d851-66c5-4093-8798-64a45246aeb2] ✅ Payment finalized and indexed.
+worker1-1  | [314738dc-e822-4f55-ab87-486704990db5] ✅ Payment finalized and indexed.
+worker1-1  | [77a866d3-9cf2-4c68-8db5-002ef3c9228d] ✅ Payment finalized and indexed.
+worker1-1  | [f6f4f177-cafd-4460-9c9d-a80f830d245a] ✅ Payment finalized and indexed.
+worker1-1  | [dba9a21c-146b-4e53-a21b-6eba3861cd14] ✅ Payment finalized and indexed.
+worker1-1  | [1d448ded-7439-4396-824f-8c33c2330e44] ✅ Payment finalized and indexed.
+worker1-1  | [d92f1fbe-f2c3-47ac-9eb5-b39b54269570] ✅ Payment finalized and indexed.
+worker1-1  | [bc94aed5-452a-40e7-9197-7e330acb99fa] ✅ Payment finalized and indexed.
+worker1-1  | [5e99c344-73ef-4921-9c0d-2e2aa70b74e3] ✅ Payment finalized and indexed.
+worker1-1  | [367d7bde-96a2-47ad-8aff-1c183fbc6a51] ✅ Payment finalized and indexed.
+worker1-1  | [5dba0634-2781-4710-966c-f406f6930f9d] ✅ Payment finalized and indexed.
+worker1-1  | [2306b3cf-68ba-466d-b8ba-83c4c09b639a] ✅ Payment finalized and indexed.
+worker1-1  | [c51036b9-d5a1-457b-a6ad-4f5d9dbdc06a] ✅ Payment finalized and indexed.
+worker1-1  | [1b231221-e587-4660-8bcf-fc675a834e44] ✅ Payment finalized and indexed.
+worker1-1  | [70232382-8154-4b3b-9798-917eacc5326b] ✅ Payment finalized and indexed.
+worker1-1  | [414070f2-82e3-43e4-a5c9-db5d60df9340] ✅ Payment finalized and indexed.
+worker1-1  | [24b6f0b6-b0a3-4e69-928e-8fa05d9b2fe5] ✅ Payment finalized and indexed.
+worker1-1  | [6ea60780-cfea-4ab5-be1a-c45b80c02a0c] ✅ Payment finalized and indexed.
+worker1-1  | [8c9501d7-9a4e-477c-8fd3-af9f966fb24e] ✅ Payment finalized and indexed.
+worker1-1  | [3b003f04-7943-45b1-b19f-2a6348caa892] ✅ Payment finalized and indexed.
+worker1-1  | [7904c898-9c7b-45a1-9c2a-80e0a123034c] ✅ Payment finalized and indexed.
+log truncated at line 1000

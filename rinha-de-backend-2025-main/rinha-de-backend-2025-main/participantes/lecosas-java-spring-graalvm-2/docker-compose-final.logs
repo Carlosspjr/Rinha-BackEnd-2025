@@ -1,0 +1,1001 @@
+
+ backend-02 Pulling 
+ redis Pulling 
+ openresty Pulling 
+ backend-01 Pulling 
+ 0368fd46e3c6 Already exists 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ e6fe6f07e192 Waiting 
+ a2cadbfeca72 Waiting 
+ 4f4fb700ef54 Waiting 
+ a976ed7e7808 Waiting 
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Download complete 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 311eca34042e Downloading [>                                                  ]  10.63kB/1.003MB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 4c55286bbede Pull complete 
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Download complete 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 5e28347af205 Pull complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ e6fe6f07e192 Downloading [>                                                  ]  127.1kB/12.41MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ e6fe6f07e192 Downloading [==============================>                    ]  7.467MB/12.41MB
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ e6fe6f07e192 Extracting [=========================>                         ]  6.423MB/12.41MB
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Download complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ f18232174bc9 Already exists 
+ c87da5d065de Pulling fs layer 
+ b2e9bbdf3b85 Pulling fs layer 
+ d9366579ccc9 Pulling fs layer 
+ 59e22667830b Pulling fs layer 
+ 425508b88664 Pulling fs layer 
+ 1f19ea626206 Pulling fs layer 
+ faf528e2e2f6 Pulling fs layer 
+ 425508b88664 Waiting 
+ 1f19ea626206 Waiting 
+ faf528e2e2f6 Waiting 
+ 59e22667830b Waiting 
+ redis Pulled 
+ 59e22667830b Pulling fs layer 
+ 425508b88664 Pulling fs layer 
+ 1f19ea626206 Pulling fs layer 
+ faf528e2e2f6 Pulling fs layer 
+ faf528e2e2f6 Waiting 
+ 59e22667830b Waiting 
+ 425508b88664 Waiting 
+ 1f19ea626206 Waiting 
+ b2e9bbdf3b85 Downloading [==================================>                ]     933B/1.371kB
+ b2e9bbdf3b85 Downloading [==================================================>]  1.371kB/1.371kB
+ b2e9bbdf3b85 Download complete 
+ d9366579ccc9 Downloading [==================================================>]     833B/833B
+ d9366579ccc9 Download complete 
+ c87da5d065de Downloading [>                                                  ]  531.6kB/54.79MB
+ c87da5d065de Downloading [=================>                                 ]  18.71MB/54.79MB
+ c87da5d065de Downloading [==============================>                    ]  33.68MB/54.79MB
+ c87da5d065de Downloading [=====================================>             ]  40.63MB/54.79MB
+ 425508b88664 Downloading [==================================================>]     928B/928B
+ 425508b88664 Downloading [==================================================>]     928B/928B
+ 425508b88664 Verifying Checksum 
+ 425508b88664 Download complete 
+ 425508b88664 Verifying Checksum 
+ 425508b88664 Download complete 
+ 59e22667830b Downloading [>                                                  ]  293.3kB/28.23MB
+ 59e22667830b Downloading [>                                                  ]  293.3kB/28.23MB
+ c87da5d065de Downloading [=============================================>     ]  50.25MB/54.79MB
+ 59e22667830b Downloading [=========================>                         ]  14.43MB/28.23MB
+ 59e22667830b Downloading [=========================>                         ]  14.43MB/28.23MB
+ c87da5d065de Verifying Checksum 
+ c87da5d065de Download complete 
+ 59e22667830b Downloading [====================================>              ]  20.79MB/28.23MB
+ 59e22667830b Downloading [====================================>              ]  20.79MB/28.23MB
+ c87da5d065de Extracting [>                                                  ]  557.1kB/54.79MB
+ 59e22667830b Downloading [===============================================>   ]  26.85MB/28.23MB
+ 59e22667830b Downloading [===============================================>   ]  26.85MB/28.23MB
+ c87da5d065de Extracting [=======>                                           ]  8.356MB/54.79MB
+ 59e22667830b Verifying Checksum 
+ 59e22667830b Download complete 
+ 59e22667830b Verifying Checksum 
+ 59e22667830b Download complete 
+ 59e22667830b Extracting [>                                                  ]  294.9kB/28.23MB
+ 59e22667830b Extracting [>                                                  ]  294.9kB/28.23MB
+ 1f19ea626206 Verifying Checksum 
+ 1f19ea626206 Download complete 
+ 1f19ea626206 Downloading [==================================================>]      93B/93B
+ 1f19ea626206 Verifying Checksum 
+ 1f19ea626206 Download complete 
+ c87da5d065de Extracting [=============>                                     ]  15.04MB/54.79MB
+ 59e22667830b Extracting [========>                                          ]  5.014MB/28.23MB
+ 59e22667830b Extracting [========>                                          ]  5.014MB/28.23MB
+ c87da5d065de Extracting [===================>                               ]  21.73MB/54.79MB
+ faf528e2e2f6 Downloading [>                                                  ]  359.9kB/35.57MB
+ faf528e2e2f6 Downloading [>                                                  ]  359.9kB/35.57MB
+ 59e22667830b Extracting [================>                                  ]  9.142MB/28.23MB
+ 59e22667830b Extracting [================>                                  ]  9.142MB/28.23MB
+ c87da5d065de Extracting [=======================>                           ]  25.62MB/54.79MB
+ faf528e2e2f6 Downloading [=============>                                     ]  9.771MB/35.57MB
+ faf528e2e2f6 Downloading [=============>                                     ]  9.771MB/35.57MB
+ 59e22667830b Extracting [===================>                               ]  11.21MB/28.23MB
+ 59e22667830b Extracting [===================>                               ]  11.21MB/28.23MB
+ c87da5d065de Extracting [===============================>                   ]  33.98MB/54.79MB
+ faf528e2e2f6 Downloading [================>                                  ]  11.95MB/35.57MB
+ faf528e2e2f6 Downloading [================>                                  ]  11.95MB/35.57MB
+ 59e22667830b Extracting [=============================>                     ]  16.52MB/28.23MB
+ 59e22667830b Extracting [=============================>                     ]  16.52MB/28.23MB
+ c87da5d065de Extracting [=====================================>             ]  40.67MB/54.79MB
+ faf528e2e2f6 Downloading [================================>                  ]  23.19MB/35.57MB
+ faf528e2e2f6 Downloading [================================>                  ]  23.19MB/35.57MB
+ 59e22667830b Extracting [======================================>            ]  21.82MB/28.23MB
+ 59e22667830b Extracting [======================================>            ]  21.82MB/28.23MB
+ c87da5d065de Extracting [===========================================>       ]  47.35MB/54.79MB
+ faf528e2e2f6 Downloading [===============================================>   ]  33.71MB/35.57MB
+ faf528e2e2f6 Downloading [===============================================>   ]  33.71MB/35.57MB
+ c87da5d065de Extracting [================================================>  ]  53.48MB/54.79MB
+ faf528e2e2f6 Verifying Checksum 
+ faf528e2e2f6 Download complete 
+ faf528e2e2f6 Verifying Checksum 
+ faf528e2e2f6 Download complete 
+ 59e22667830b Extracting [==========================================>        ]  23.89MB/28.23MB
+ 59e22667830b Extracting [==========================================>        ]  23.89MB/28.23MB
+ c87da5d065de Extracting [=================================================> ]  54.59MB/54.79MB
+ 59e22667830b Extracting [===============================================>   ]  26.84MB/28.23MB
+ 59e22667830b Extracting [===============================================>   ]  26.84MB/28.23MB
+ c87da5d065de Extracting [==================================================>]  54.79MB/54.79MB
+ c87da5d065de Pull complete 
+ b2e9bbdf3b85 Extracting [==================================================>]  1.371kB/1.371kB
+ b2e9bbdf3b85 Extracting [==================================================>]  1.371kB/1.371kB
+ b2e9bbdf3b85 Pull complete 
+ d9366579ccc9 Extracting [==================================================>]     833B/833B
+ d9366579ccc9 Extracting [==================================================>]     833B/833B
+ d9366579ccc9 Pull complete 
+ openresty Pulled 
+ 59e22667830b Extracting [================================================>  ]  27.43MB/28.23MB
+ 59e22667830b Extracting [================================================>  ]  27.43MB/28.23MB
+ 59e22667830b Extracting [==================================================>]  28.23MB/28.23MB
+ 59e22667830b Extracting [==================================================>]  28.23MB/28.23MB
+ 59e22667830b Pull complete 
+ 59e22667830b Pull complete 
+ 425508b88664 Extracting [==================================================>]     928B/928B
+ 425508b88664 Extracting [==================================================>]     928B/928B
+ 425508b88664 Extracting [==================================================>]     928B/928B
+ 425508b88664 Extracting [==================================================>]     928B/928B
+ 425508b88664 Pull complete 
+ 425508b88664 Pull complete 
+ 1f19ea626206 Extracting [==================================================>]      93B/93B
+ 1f19ea626206 Extracting [==================================================>]      93B/93B
+ 1f19ea626206 Extracting [==================================================>]      93B/93B
+ 1f19ea626206 Extracting [==================================================>]      93B/93B
+ 1f19ea626206 Pull complete 
+ 1f19ea626206 Pull complete 
+ faf528e2e2f6 Extracting [>                                                  ]  360.4kB/35.57MB
+ faf528e2e2f6 Extracting [>                                                  ]  360.4kB/35.57MB
+ faf528e2e2f6 Extracting [==========>                                        ]  7.209MB/35.57MB
+ faf528e2e2f6 Extracting [==========>                                        ]  7.209MB/35.57MB
+ faf528e2e2f6 Extracting [==================>                                ]  13.34MB/35.57MB
+ faf528e2e2f6 Extracting [==================>                                ]  13.34MB/35.57MB
+ faf528e2e2f6 Extracting [=============================>                     ]  20.91MB/35.57MB
+ faf528e2e2f6 Extracting [=============================>                     ]  20.91MB/35.57MB
+ faf528e2e2f6 Extracting [=======================================>           ]  28.11MB/35.57MB
+ faf528e2e2f6 Extracting [=======================================>           ]  28.11MB/35.57MB
+ faf528e2e2f6 Extracting [==================================================>]  35.57MB/35.57MB
+ faf528e2e2f6 Extracting [==================================================>]  35.57MB/35.57MB
+ faf528e2e2f6 Pull complete 
+ faf528e2e2f6 Pull complete 
+ backend-01 Pulled 
+ backend-02 Pulled 
+ Network lecosas-java-spring-graalvm-2_backend  Creating
+ Network lecosas-java-spring-graalvm-2_backend  Created
+ Container graalvm-2-redis  Creating
+ Container graalvm-2-redis  Created
+ Container graalvm-2-backend-02  Creating
+ Container graalvm-2-backend-01  Creating
+ Container graalvm-2-backend-01  Created
+ Container graalvm-2-backend-02  Created
+ Container graalvm-2-openresty  Creating
+ Container graalvm-2-openresty  Created
+Attaching to graalvm-2-backend-01, graalvm-2-backend-02, graalvm-2-openresty, graalvm-2-redis
+graalvm-2-redis  | 1:C 21 Aug 2025 16:14:50.807 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+graalvm-2-redis  | 1:C 21 Aug 2025 16:14:50.807 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+graalvm-2-redis  | 1:C 21 Aug 2025 16:14:50.807 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+graalvm-2-redis  | 1:C 21 Aug 2025 16:14:50.807 * Configuration loaded
+graalvm-2-redis  | 1:M 21 Aug 2025 16:14:50.807 * monotonic clock: POSIX clock_gettime
+graalvm-2-redis  | 1:M 21 Aug 2025 16:14:50.808 * Running mode=standalone, port=6379.
+graalvm-2-redis  | 1:M 21 Aug 2025 16:14:50.808 * Server initialized
+graalvm-2-redis  | 1:M 21 Aug 2025 16:14:50.808 * Ready to accept connections tcp
+graalvm-2-backend-02  | WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+graalvm-2-backend-02  | WARNING: sun.misc.Unsafe::allocateMemory has been called by io.netty.util.internal.PlatformDependent0$2 (file:/app/app)
+graalvm-2-backend-02  | WARNING: Please consider reporting this to the maintainers of class io.netty.util.internal.PlatformDependent0$2
+graalvm-2-backend-02  | WARNING: sun.misc.Unsafe::allocateMemory will be removed in a future release
+graalvm-2-backend-02  | WARNING: A restricted method in java.lang.System has been called
+graalvm-2-backend-02  | WARNING: java.lang.System::loadLibrary has been called by io.netty.util.internal.NativeLibraryUtil in an unnamed module (file:/app/app)
+graalvm-2-backend-02  | WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+graalvm-2-backend-02  | WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+graalvm-2-backend-02  | 
+graalvm-2-backend-01  | WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+graalvm-2-backend-01  | WARNING: sun.misc.Unsafe::allocateMemory has been called by io.netty.util.internal.PlatformDependent0$2 (file:/app/app)
+graalvm-2-backend-01  | WARNING: Please consider reporting this to the maintainers of class io.netty.util.internal.PlatformDependent0$2
+graalvm-2-backend-01  | WARNING: sun.misc.Unsafe::allocateMemory will be removed in a future release
+graalvm-2-backend-01  | WARNING: A restricted method in java.lang.System has been called
+graalvm-2-backend-01  | WARNING: java.lang.System::loadLibrary has been called by io.netty.util.internal.NativeLibraryUtil in an unnamed module (file:/app/app)
+graalvm-2-backend-01  | WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+graalvm-2-backend-01  | WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+graalvm-2-backend-01  | 
+graalvm-2-backend-01  | 2025-08-21T16:14:56.811Z ERROR 1 --- [rinha-backend-2025-lecosas] [           main] i.b.r.application.service.WarmupService  : START: Warmup
+graalvm-2-backend-02  | 2025-08-21T16:14:56.840Z ERROR 1 --- [rinha-backend-2025-lecosas] [           main] i.b.r.application.service.WarmupService  : START: Warmup
+graalvm-2-backend-02  | 2025-08-21T16:14:57.945Z ERROR 1 --- [rinha-backend-2025-lecosas] [           main] i.b.r.application.service.WarmupService  : END: Warmup in 1104.529ms
+graalvm-2-backend-01  | 2025-08-21T16:14:57.965Z ERROR 1 --- [rinha-backend-2025-lecosas] [           main] i.b.r.application.service.WarmupService  : END: Warmup in 1153.773ms
+graalvm-2-openresty   | 2025/08/21 16:16:34 [error] 7#7: *8615 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:16:34 [error] 7#7: *8616 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74274 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74278 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74279 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74275 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74276 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74277 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74280 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74281 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74282 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74283 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74284 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74285 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74286 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74287 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74289 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74292 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74293 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74294 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74288 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74290 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74291 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74296 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74297 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74295 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74299 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74298 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74301 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74300 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74303 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74302 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74304 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74305 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74307 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74306 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74309 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74310 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74308 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74311 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74312 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74313 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74314 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74319 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74320 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74323 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74315 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74316 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74321 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74317 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74322 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74326 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74327 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74324 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74325 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74328 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74329 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74331 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74330 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74332 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74335 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74334 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74333 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74338 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74337 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74340 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74342 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74343 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74336 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74339 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74341 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74345 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74344 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74347 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74349 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74346 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74350 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74348 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74351 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74352 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74353 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74354 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74355 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74356 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74357 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74358 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74359 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74360 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74362 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74361 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74364 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74363 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74365 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74366 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74369 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74368 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74367 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74370 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74373 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74372 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74374 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74371 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74375 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74376 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74377 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74378 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74379 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74380 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74381 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74382 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74383 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74385 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74386 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74387 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74388 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74384 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74390 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74391 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74392 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74394 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74393 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74396 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74395 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74398 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74397 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74400 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74401 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74403 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74404 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74402 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74405 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74406 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74407 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74408 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74413 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74414 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74412 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74409 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74415 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74410 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74411 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74417 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74416 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74418 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74423 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74421 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74422 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74419 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74429 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74424 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74425 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74426 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74428 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74430 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74431 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74433 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74434 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74435 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74437 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74438 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74439 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74441 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74443 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74444 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74445 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74448 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74451 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74453 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74447 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74454 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74456 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74458 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74460 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74463 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74455 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74464 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74467 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74461 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74479 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74473 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74470 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74475 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74477 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74480 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74482 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74484 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74469 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74488 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74486 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74490 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74494 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74491 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74493 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74497 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74499 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74501 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74503 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74505 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74507 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74509 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74510 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74512 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74514 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74515 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74517 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74519 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74522 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74521 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74532 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74538 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74525 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74526 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74529 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74534 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74535 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74530 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74542 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74540 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74543 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74539 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74545 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74550 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74554 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74552 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74547 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74556 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74558 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74559 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74565 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74561 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74563 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74569 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74567 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74572 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74579 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74574 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74576 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74571 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74580 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74583 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74587 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74585 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74588 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74590 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74594 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74592 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74597 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74596 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74600 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74605 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74602 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74603 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74607 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74609 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74611 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74621 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74613 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74614 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74617 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74619 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74622 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74624 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74628 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74626 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74630 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74632 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74634 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74636 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74644 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74639 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74638 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74642 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74647 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74646 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74650 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74651 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74653 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74655 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74657 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74661 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74664 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74660 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74666 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74668 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74671 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74674 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74670 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74680 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74677 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74682 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74676 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74685 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74684 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74688 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74690 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74692 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74694 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74696 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74698 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74702 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74710 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74712 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74700 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74704 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74706 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74708 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74714 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74717 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74722 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74716 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74718 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74724 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74726 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74733 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74728 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74730 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74732 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74736 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74738 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74740 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74744 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74746 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74748 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74742 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74750 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74753 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74755 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74757 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74759 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74761 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74763 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74765 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74767 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74769 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74771 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74773 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74774 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74777 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74781 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74778 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74783 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74787 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74788 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74785 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74795 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74797 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74791 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74793 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74799 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74802 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74801 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74805 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74810 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74815 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74808 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74819 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74807 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74813 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74817 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74821 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74823 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74825 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74827 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74829 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74831 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74835 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74839 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74841 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74843 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74832 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74836 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74845 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74847 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74849 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74851 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74852 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74854 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74857 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74859 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74862 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74867 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74865 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74869 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74873 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74861 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74870 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74875 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74881 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74879 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74877 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74883 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74885 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74887 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74889 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74893 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74890 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74895 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74897 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74902 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74898 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74901 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74903 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74913 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74907 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74909 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74911 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74915 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74917 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74919 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74921 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74925 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74928 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74922 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74926 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74931 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74933 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74936 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74937 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74943 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74941 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74945 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74947 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74935 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74949 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74951 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74954 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74957 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74953 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74959 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74961 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74963 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74965 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74967 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74969 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74973 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74970 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74974 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74976 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74979 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74980 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74983 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74985 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74987 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74989 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *74991 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *74993 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *75003 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *74997 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74995 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *74998 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *75001 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *75005 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *75007 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *75010 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 7#7: *75013 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *75015 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *75017 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 6#6: *75009 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 8#8: *75019 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:34 [error] 9#9: *75020 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75023 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75026 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75031 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75033 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75025 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75029 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75035 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75041 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75037 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75039 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75043 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75049 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75045 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75047 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75051 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75053 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75054 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75061 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75059 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75057 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75063 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75065 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75066 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75069 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75071 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75073 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75074 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75077 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75079 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75081 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75082 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75085 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75086 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75089 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75091 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75093 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75099 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75095 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75097 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75103 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75102 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75101 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75107 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75109 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75110 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75113 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75115 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75118 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75117 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75121 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75124 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75127 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75137 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75125 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75130 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75132 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75134 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75123 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75139 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75146 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75142 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75140 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75145 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75149 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75151 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75153 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75159 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75155 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75160 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75162 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75157 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75165 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75167 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75173 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75169 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75171 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75177 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75175 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75179 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75181 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75185 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75183 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75187 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75189 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75193 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75191 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75201 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75195 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75203 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75197 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75198 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75205 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75209 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75208 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75207 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75215 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75213 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75217 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75219 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75220 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75223 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75225 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75233 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75235 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75227 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75229 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75230 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75241 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75245 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75242 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75237 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75238 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75249 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75250 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75252 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75257 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75255 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75247 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75260 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75259 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75263 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75265 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75264 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75269 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75271 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75273 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75276 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75282 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75278 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75289 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75293 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75284 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75287 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75291 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75295 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75298 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75280 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75286 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75300 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75302 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75304 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75306 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75308 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75309 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75313 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75316 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75312 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75317 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75322 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75325 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75324 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75327 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75330 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75332 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75320 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75336 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75334 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75337 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75341 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75340 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75346 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75348 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75344 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75349 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75352 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75354 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75356 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75358 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75360 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75362 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75364 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75366 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75368 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75370 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75375 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75377 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75371 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75380 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75374 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75382 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75386 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75383 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75392 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75388 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75390 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75396 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75400 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75394 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75397 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75402 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75404 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75406 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75408 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75410 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75412 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75419 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75424 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75414 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75417 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75415 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75422 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75426 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75428 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75430 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75432 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75433 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75438 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75436 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75441 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75440 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75444 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75446 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75448 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75450 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75454 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75456 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75458 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75452 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75460 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75462 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75463 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75465 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75468 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75470 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75472 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75474 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75476 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75477 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75480 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75482 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75484 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75486 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75488 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75491 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75489 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75494 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75496 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75500 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75498 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75502 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75504 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75505 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75508 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75510 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75512 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75514 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75516 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75518 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75520 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75521 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75525 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75528 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75530 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75524 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75532 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75533 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75536 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75538 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75544 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75548 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75541 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75537 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75546 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75551 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75550 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75554 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75556 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75558 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75560 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75562 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75564 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75566 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75568 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75569 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75572 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75573 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75577 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75580 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75576 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75582 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75584 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75586 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75588 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75590 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75592 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75594 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75596 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 7#7: *75598 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75600 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75601 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75604 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75606 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75607 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 6#6: *75611 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75613 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 9#9: *75615 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+graalvm-2-openresty   | 2025/08/21 16:19:35 [error] 8#8: *75610 lua tcp socket read timed out, context: ngx.timer, client: 172.21.0.1, server: 0.0.0.0:9999
+log truncated at line 1000

@@ -1,0 +1,114 @@
+
+ Network phaalonso-java-2_backend  Creating
+ Network phaalonso-java-2_backend  Created
+ Container db  Creating
+ Container db  Created
+ Container api02  Creating
+ Container api01  Creating
+ Container api01  Created
+ Container api02  Created
+ Container rinha-router-nginx  Creating
+ Container rinha-router-nginx  Created
+Attaching to api01, api02, db, rinha-router-nginx
+db  | The files belonging to this database system will be owned by user "postgres".
+db  | This user must also own the server process.
+db  | 
+db  | The database cluster will be initialized with locale "en_US.utf8".
+db  | The default database encoding has accordingly been set to "UTF8".
+db  | The default text search configuration will be set to "english".
+db  | 
+db  | Data page checksums are disabled.
+db  | 
+db  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+db  | creating subdirectories ... ok
+db  | selecting dynamic shared memory implementation ... posix
+db  | selecting default "max_connections" ... 100
+db  | selecting default "shared_buffers" ... 128MB
+db  | selecting default time zone ... UTC
+db  | creating configuration files ... ok
+db  | running bootstrap script ... ok
+db  | sh: locale: not found
+db  | 2025-08-21 01:01:34.235 UTC [33] WARNING:  no usable system locales were found
+db  | performing post-bootstrap initialization ... ok
+db  | syncing data to disk ... ok
+db  | 
+db  | initdb: warning: enabling "trust" authentication for local connections
+db  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+db  | 
+db  | Success. You can now start the database server using:
+db  | 
+db  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+db  | 
+db  | waiting for server to start....2025-08-21 01:01:38.455 UTC [45] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+db  | 2025-08-21 01:01:38.458 UTC [45] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+db  | 2025-08-21 01:01:38.470 UTC [48] LOG:  database system was shut down at 2025-08-21 01:01:38 UTC
+db  | 2025-08-21 01:01:38.482 UTC [45] LOG:  database system is ready to accept connections
+db  |  done
+db  | server started
+db  | 2025-08-21 01:01:38.738 UTC [63] FATAL:  role "root" does not exist
+db  | CREATE DATABASE
+db  | 
+db  | 
+db  | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/script.sql
+db  | CREATE TABLE
+db  | CREATE INDEX
+db  | 
+db  | 
+db  | waiting for server to shut down...2025-08-21 01:01:39.043 UTC [45] LOG:  received fast shutdown request
+db  | .2025-08-21 01:01:39.047 UTC [45] LOG:  aborting any active transactions
+db  | 2025-08-21 01:01:39.052 UTC [45] LOG:  background worker "logical replication launcher" (PID 51) exited with exit code 1
+db  | 2025-08-21 01:01:39.055 UTC [46] LOG:  shutting down
+db  | 2025-08-21 01:01:39.058 UTC [46] LOG:  checkpoint starting: shutdown immediate
+db  | 2025-08-21 01:01:39.192 UTC [46] LOG:  checkpoint complete: wrote 927 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.101 s, sync=0.022 s, total=0.137 s; sync files=305, longest=0.008 s, average=0.001 s; distance=4267 kB, estimate=4267 kB; lsn=0/1918040, redo lsn=0/1918040
+db  | 2025-08-21 01:01:39.217 UTC [45] LOG:  database system is shut down
+db  |  done
+db  | server stopped
+db  | 
+db  | PostgreSQL init process complete; ready for start up.
+db  | 
+db  | 2025-08-21 01:01:39.304 UTC [1] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+db  | 2025-08-21 01:01:39.305 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+db  | 2025-08-21 01:01:39.305 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+db  | 2025-08-21 01:01:39.311 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+db  | 2025-08-21 01:01:39.334 UTC [70] LOG:  database system was shut down at 2025-08-21 01:01:39 UTC
+db  | 2025-08-21 01:01:39.347 UTC [1] LOG:  database system is ready to accept connections
+api01  | 
+api01  |   .   ____          _            __ _ _
+api01  |  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+api01  | ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+api01  |  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+api01  |   '  |____| .__|_| |_|_| |_\__, | / / / /
+api01  |  =========|_|==============|___/=/_/_/_/
+api01  | 
+api01  |  :: Spring Boot ::                (v3.5.4)
+api01  | 
+api01  | 2025-08-21T01:01:39.540Z  INFO 1 --- [payment-gateway] [           main] c.a.p.p.PaymentGatewayApplication        : Starting AOT-processed PaymentGatewayApplication using Java 21.0.8 with PID 1 (/workspace/com.alonso.pedro.paymentgateway.PaymentGatewayApplication started by cnb in /workspace)
+api01  | 2025-08-21T01:01:39.541Z  INFO 1 --- [payment-gateway] [           main] c.a.p.p.PaymentGatewayApplication        : No active profile set, falling back to 1 default profile: "default"
+api02  | 
+api02  |   .   ____          _            __ _ _
+api02  |  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+api02  | ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+api02  |  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+api02  |   '  |____| .__|_| |_|_| |_\__, | / / / /
+api02  |  =========|_|==============|___/=/_/_/_/
+api02  | 
+api02  |  :: Spring Boot ::                (v3.5.4)
+api02  | 
+api02  | 2025-08-21T01:01:39.564Z  INFO 1 --- [payment-gateway] [           main] c.a.p.p.PaymentGatewayApplication        : Starting AOT-processed PaymentGatewayApplication using Java 21.0.8 with PID 1 (/workspace/com.alonso.pedro.paymentgateway.PaymentGatewayApplication started by cnb in /workspace)
+api02  | 2025-08-21T01:01:39.564Z  INFO 1 --- [payment-gateway] [           main] c.a.p.p.PaymentGatewayApplication        : No active profile set, falling back to 1 default profile: "default"
+api01  | 2025-08-21T01:01:39.586Z  INFO 1 --- [payment-gateway] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+api01  | 2025-08-21T01:01:39.588Z  INFO 1 --- [payment-gateway] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+api01  | 2025-08-21T01:01:39.588Z  INFO 1 --- [payment-gateway] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+api02  | 2025-08-21T01:01:39.611Z  INFO 1 --- [payment-gateway] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+api02  | 2025-08-21T01:01:39.614Z  INFO 1 --- [payment-gateway] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+api02  | 2025-08-21T01:01:39.614Z  INFO 1 --- [payment-gateway] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+api01  | 2025-08-21T01:01:39.645Z  INFO 1 --- [payment-gateway] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+api01  | 2025-08-21T01:01:39.645Z  INFO 1 --- [payment-gateway] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 104 ms
+api02  | 2025-08-21T01:01:39.674Z  INFO 1 --- [payment-gateway] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+api02  | 2025-08-21T01:01:39.674Z  INFO 1 --- [payment-gateway] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 109 ms
+api02  | 2025-08-21T01:01:39.831Z  INFO 1 --- [payment-gateway] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+api02  | 2025-08-21T01:01:39.834Z  INFO 1 --- [payment-gateway] [           main] c.a.p.p.PaymentGatewayApplication        : Started PaymentGatewayApplication in 0.295 seconds (process running for 0.303)
+api01  | 2025-08-21T01:01:39.842Z  INFO 1 --- [payment-gateway] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+api01  | 2025-08-21T01:01:39.843Z  INFO 1 --- [payment-gateway] [           main] c.a.p.p.PaymentGatewayApplication        : Started PaymentGatewayApplication in 0.334 seconds (process running for 0.343)
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint rinha-router-nginx (0ac67bd350b862a2fd779917e07358822188368c15553ca447a32804ab64be97): Bind for 0.0.0.0:9999 failed: port is already allocated
+log truncated at line 1000

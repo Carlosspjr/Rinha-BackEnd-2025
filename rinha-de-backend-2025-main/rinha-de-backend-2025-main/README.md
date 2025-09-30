@@ -1,0 +1,36 @@
+# Rinha de Backend - 2025
+
+A Rinha de Backend é um desafio em que é necessário desenvolver uma solução backend em qualquer tecnologia e tem como principal objetivo o aprendizado e compartilhamento de conhecimento! Esta é a terceira edição do desafio.
+
+Os resultados dessa edição estão disponíveis [aqui](./RESULTADOS_FINAIS.md)!!!
+
+## Sites Memoráveis Feitos pela Comunidade
+
+- [https://rinhers.kauefraga.dev/](https://rinhers.kauefraga.dev/) mostra um overview do participantes, por [Kauê Fraga](https://kauefraga.dev/).
+
+- [https://rinha2025.andersongomes.dev.br/](https://rinha2025.andersongomes.dev.br/) virou praticamente o ranking oficial dessa edição, por [Anderson Gomes](https://andersongomes.dev.br/).
+
+- [https://rinha2025.cadumagalhaes.dev/](https://rinha2025.cadumagalhaes.dev/) um site com insights muito legais, por [Carlos Magalhães](https://github.com/1cadumagalhaes).
+
+
+![galinha correndo](./misc/imgs/header.jpg)
+
+Se quiser saber mais sobre o espírito da Rinha de Backend, confira os repositórios da [primeira](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) e [segunda](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) edições, [assista a alguns vídeos](https://www.youtube.com/results?search_query=rinha+de+backend), ou [procure na internet](https://www.google.com/search?q=rinha+de+backend) sobre ela – você vai encontrar bastante coisa!
+
+#### Rinha nas redes sociais
+
+[Server](https://discord.gg/Eca6gJba8R) no Discord
+[@rinhadebackend](https://x.com/rinhadebackend) no X
+[@rinhadebackend.bsky.social](https://bsky.app/profile/rinhadebackend.bsky.social) no Bluesky
+[zan](https://www.linkedin.com/in/francisco-zanfranceschi/) no LinkedIn (criador da rinha)
+
+## O Desafio
+Nessa terceira edição da Rinha de Backend o desafio é intermediar solicitações de pagamentos para dois serviços de processamento de pagamentos com a menor taxa. O plot twist é que esses serviços irão sofrer instabilidades e você precisa desenvolver a melhor estratégia para que o máximo de pagamentos sejam processados!
+
+**[Instruções detalhadas sobre o desafio](INSTRUCOES.md)**
+
+Você também pode assistir a [esse vídeo](https://www.youtube.com/watch?v=ldPkTtkJ86k) no YouTube sobre as instruções para participar da Rinha.
+
+[![youtube](./misc/imgs/youtube-thumb.png)](https://www.youtube.com/watch?v=ldPkTtkJ86k)
+
+*Por favor, contribua com esse evento revisando textos, reportando problemas, bugs e inconsistências, dando sugestões e divulgando. Faça parte dessa comunidade!*

@@ -1,0 +1,1001 @@
+
+ api2 Pulling 
+ nginx Pulling 
+ pg Pulling 
+ api1 Pulling 
+ 396b1da7636e Pulling fs layer 
+ 967d248389a0 Pulling fs layer 
+ 4307dc052739 Pulling fs layer 
+ 396b1da7636e Pulling fs layer 
+ 967d248389a0 Pulling fs layer 
+ 4307dc052739 Pulling fs layer 
+ 396b1da7636e Downloading [>                                                  ]  311.3kB/29.77MB
+ 396b1da7636e Downloading [>                                                  ]  311.3kB/29.77MB
+ 396b1da7636e Download complete 
+ 396b1da7636e Verifying Checksum 
+ 396b1da7636e Download complete 
+ 396b1da7636e Extracting [>                                                  ]  327.7kB/29.77MB
+ 396b1da7636e Extracting [>                                                  ]  327.7kB/29.77MB
+ 967d248389a0 Verifying Checksum 
+ 967d248389a0 Download complete 
+ 967d248389a0 Downloading [==================================================>]      93B/93B
+ 967d248389a0 Verifying Checksum 
+ 967d248389a0 Download complete 
+ 4307dc052739 Downloading [>                                                  ]  20.52kB/1.959MB
+ 4307dc052739 Downloading [>                                                  ]  20.52kB/1.959MB
+ 396b1da7636e Extracting [======>                                            ]  3.604MB/29.77MB
+ 396b1da7636e Extracting [======>                                            ]  3.604MB/29.77MB
+ 4307dc052739 Downloading [===================================>               ]  1.408MB/1.959MB
+ 4307dc052739 Downloading [===================================>               ]  1.408MB/1.959MB
+ 4307dc052739 Verifying Checksum 
+ 4307dc052739 Download complete 
+ 4307dc052739 Verifying Checksum 
+ 4307dc052739 Download complete 
+ 396b1da7636e Extracting [==============>                                    ]  8.847MB/29.77MB
+ 396b1da7636e Extracting [==============>                                    ]  8.847MB/29.77MB
+ 396b1da7636e Extracting [==================>                                ]  11.14MB/29.77MB
+ 396b1da7636e Extracting [==================>                                ]  11.14MB/29.77MB
+ 396b1da7636e Extracting [==========================>                        ]  15.73MB/29.77MB
+ 396b1da7636e Extracting [==========================>                        ]  15.73MB/29.77MB
+ 396b1da7636e Extracting [=====================================>             ]  22.28MB/29.77MB
+ 396b1da7636e Extracting [=====================================>             ]  22.28MB/29.77MB
+ 396b1da7636e Extracting [============================================>      ]  26.21MB/29.77MB
+ 396b1da7636e Extracting [============================================>      ]  26.21MB/29.77MB
+ 396b1da7636e Extracting [===============================================>   ]  28.51MB/29.77MB
+ 396b1da7636e Extracting [===============================================>   ]  28.51MB/29.77MB
+ 396b1da7636e Extracting [================================================>  ]  29.16MB/29.77MB
+ 396b1da7636e Extracting [================================================>  ]  29.16MB/29.77MB
+ 396b1da7636e Extracting [==================================================>]  29.77MB/29.77MB
+ 396b1da7636e Extracting [==================================================>]  29.77MB/29.77MB
+ 396b1da7636e Pull complete 
+ 396b1da7636e Pull complete 
+ 967d248389a0 Extracting [==================================================>]      93B/93B
+ 967d248389a0 Extracting [==================================================>]      93B/93B
+ 967d248389a0 Extracting [==================================================>]      93B/93B
+ 967d248389a0 Extracting [==================================================>]      93B/93B
+ 396b1da7636e Already exists 
+ f5465e2fc020 Pulling fs layer 
+ c166c949e1c3 Pulling fs layer 
+ 7fa725c973af Pulling fs layer 
+ 1f6dfcaad4e9 Pulling fs layer 
+ b7a79609094c Pulling fs layer 
+ 901a9540064a Pulling fs layer 
+ 085f0a899c07 Pulling fs layer 
+ 5d91a345d79a Pulling fs layer 
+ f7f2afaa1b41 Pulling fs layer 
+ 36b4e7f51364 Pulling fs layer 
+ 85558a023eea Pulling fs layer 
+ be9fdbdba096 Pulling fs layer 
+ ae28e2b99a62 Pulling fs layer 
+ 5d91a345d79a Waiting 
+ f7f2afaa1b41 Waiting 
+ 36b4e7f51364 Waiting 
+ 1f6dfcaad4e9 Waiting 
+ b7a79609094c Waiting 
+ 901a9540064a Waiting 
+ 085f0a899c07 Waiting 
+ 85558a023eea Waiting 
+ be9fdbdba096 Waiting 
+ ae28e2b99a62 Waiting 
+ 967d248389a0 Pull complete 
+ 967d248389a0 Pull complete 
+ 4307dc052739 Extracting [>                                                  ]  32.77kB/1.959MB
+ 4307dc052739 Extracting [>                                                  ]  32.77kB/1.959MB
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ e5d9bb0b85cc Waiting 
+ 14a859b5ba24 Waiting 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ b1badc6e5066 Waiting 
+ a2da0c0f2353 Waiting 
+ 4307dc052739 Extracting [==================================================>]  1.959MB/1.959MB
+ 4307dc052739 Extracting [==================================================>]  1.959MB/1.959MB
+ 4307dc052739 Extracting [==================================================>]  1.959MB/1.959MB
+ 4307dc052739 Extracting [==================================================>]  1.959MB/1.959MB
+ 4307dc052739 Pull complete 
+ 4307dc052739 Pull complete 
+ api1 Pulled 
+ api2 Pulled 
+ 7fa725c973af Downloading [>                                                  ]  14.74kB/1.454MB
+ c166c949e1c3 Downloading [>                                                  ]  67.34kB/6.437MB
+ f5465e2fc020 Downloading [============================================>      ]  1.049kB/1.166kB
+ f5465e2fc020 Downloading [==================================================>]  1.166kB/1.166kB
+ f5465e2fc020 Verifying Checksum 
+ f5465e2fc020 Download complete 
+ f5465e2fc020 Extracting [==================================================>]  1.166kB/1.166kB
+ f5465e2fc020 Extracting [==================================================>]  1.166kB/1.166kB
+ 7fa725c973af Verifying Checksum 
+ 7fa725c973af Download complete 
+ f5465e2fc020 Pull complete 
+ c166c949e1c3 Verifying Checksum 
+ c166c949e1c3 Download complete 
+ c166c949e1c3 Extracting [>                                                  ]  65.54kB/6.437MB
+ c166c949e1c3 Extracting [=================================================> ]  6.357MB/6.437MB
+ c166c949e1c3 Extracting [==================================================>]  6.437MB/6.437MB
+ c166c949e1c3 Pull complete 
+ 7fa725c973af Extracting [=>                                                 ]  32.77kB/1.454MB
+ 7fa725c973af Extracting [==================================================>]  1.454MB/1.454MB
+ 7fa725c973af Pull complete 
+ 1f6dfcaad4e9 Downloading [>                                                  ]  82.45kB/8.203MB
+ b7a79609094c Downloading [>                                                  ]  13.37kB/1.311MB
+ 901a9540064a Downloading [==================================================>]     116B/116B
+ 901a9540064a Verifying Checksum 
+ 901a9540064a Download complete 
+ b7a79609094c Verifying Checksum 
+ b7a79609094c Download complete 
+ 1f6dfcaad4e9 Downloading [===================================>               ]  5.771MB/8.203MB
+ 1f6dfcaad4e9 Download complete 
+ 1f6dfcaad4e9 Extracting [>                                                  ]   98.3kB/8.203MB
+ 1f6dfcaad4e9 Extracting [=======================>                           ]  3.932MB/8.203MB
+ 1f6dfcaad4e9 Extracting [===================================>               ]  5.898MB/8.203MB
+ 1f6dfcaad4e9 Extracting [==================================================>]  8.203MB/8.203MB
+ 1f6dfcaad4e9 Pull complete 
+ b7a79609094c Extracting [=>                                                 ]  32.77kB/1.311MB
+ b7a79609094c Extracting [==================================================>]  1.311MB/1.311MB
+ 085f0a899c07 Downloading [================>                                  ]  1.049kB/3.141kB
+ 085f0a899c07 Downloading [==================================================>]  3.141kB/3.141kB
+ 085f0a899c07 Verifying Checksum 
+ 085f0a899c07 Download complete 
+ b7a79609094c Pull complete 
+ 901a9540064a Extracting [==================================================>]     116B/116B
+ 901a9540064a Extracting [==================================================>]     116B/116B
+ 5d91a345d79a Downloading [>                                                  ]  528.4kB/114.2MB
+ 901a9540064a Pull complete 
+ 085f0a899c07 Extracting [==================================================>]  3.141kB/3.141kB
+ 085f0a899c07 Extracting [==================================================>]  3.141kB/3.141kB
+ 085f0a899c07 Pull complete 
+ f7f2afaa1b41 Downloading [=====>                                             ]  1.048kB/10.34kB
+ f7f2afaa1b41 Download complete 
+ 5d91a345d79a Downloading [=====>                                             ]  11.75MB/114.2MB
+ 5d91a345d79a Downloading [==========>                                        ]  24.54MB/114.2MB
+ 5d91a345d79a Downloading [===============>                                   ]  36.29MB/114.2MB
+ 5d91a345d79a Downloading [====================>                              ]  47.47MB/114.2MB
+ 36b4e7f51364 Downloading [==================================================>]     127B/127B
+ 36b4e7f51364 Verifying Checksum 
+ 36b4e7f51364 Download complete 
+ 5d91a345d79a Downloading [========================>                          ]  57.09MB/114.2MB
+ 85558a023eea Downloading [==================================================>]     167B/167B
+ 85558a023eea Verifying Checksum 
+ 85558a023eea Download complete 
+ 5d91a345d79a Downloading [==============================>                    ]  69.33MB/114.2MB
+ 5d91a345d79a Downloading [==================================>                ]   79.5MB/114.2MB
+ 5d91a345d79a Downloading [========================================>          ]  92.32MB/114.2MB
+ 5d91a345d79a Downloading [============================================>      ]  102.5MB/114.2MB
+ be9fdbdba096 Downloading [========>                                          ]  1.049kB/5.928kB
+ be9fdbdba096 Download complete 
+ 5d91a345d79a Downloading [==================================================>]  114.2MB/114.2MB
+ 5d91a345d79a Verifying Checksum 
+ 5d91a345d79a Download complete 
+ 5d91a345d79a Extracting [>                                                  ]  557.1kB/114.2MB
+ ae28e2b99a62 Downloading [==================================================>]     186B/186B
+ ae28e2b99a62 Verifying Checksum 
+ ae28e2b99a62 Download complete 
+ 5d91a345d79a Extracting [===>                                               ]  7.242MB/114.2MB
+ 5d91a345d79a Extracting [====>                                              ]  10.03MB/114.2MB
+ 5d91a345d79a Extracting [======>                                            ]  13.93MB/114.2MB
+ 5d91a345d79a Extracting [=======>                                           ]  17.83MB/114.2MB
+ b1badc6e5066 Downloading [>                                                  ]  282.6kB/28.23MB
+ a2da0c0f2353 Downloading [>                                                  ]  450.6kB/44.07MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ 5d91a345d79a Extracting [=========>                                         ]  22.28MB/114.2MB
+ b1badc6e5066 Downloading [==================>                                ]  10.37MB/28.23MB
+ a2da0c0f2353 Downloading [===========>                                       ]  9.826MB/44.07MB
+ 5d91a345d79a Extracting [============>                                      ]  27.85MB/114.2MB
+ b1badc6e5066 Downloading [=================================>                 ]  19.01MB/28.23MB
+ a2da0c0f2353 Downloading [===================>                               ]   17.4MB/44.07MB
+ 5d91a345d79a Extracting [===============>                                   ]  35.09MB/114.2MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ a2da0c0f2353 Downloading [==============================>                    ]  27.28MB/44.07MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ 5d91a345d79a Extracting [==================>                                ]  41.78MB/114.2MB
+ a2da0c0f2353 Downloading [=======================================>           ]  34.91MB/44.07MB
+ b1badc6e5066 Extracting [=======>                                           ]  4.129MB/28.23MB
+ 5d91a345d79a Extracting [=====================>                             ]  48.46MB/114.2MB
+ a2da0c0f2353 Downloading [=================================================> ]  43.86MB/44.07MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ b1badc6e5066 Extracting [===============>                                   ]  8.552MB/28.23MB
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ 5d91a345d79a Extracting [=======================>                           ]  54.59MB/114.2MB
+ b1badc6e5066 Extracting [==================>                                ]  10.62MB/28.23MB
+ 5d91a345d79a Extracting [=========================>                         ]  58.49MB/114.2MB
+ b1badc6e5066 Extracting [==========================>                        ]  15.04MB/28.23MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ 5d91a345d79a Extracting [===========================>                       ]   63.5MB/114.2MB
+ b1badc6e5066 Extracting [======================================>            ]  21.53MB/28.23MB
+ 5d91a345d79a Extracting [===============================>                   ]   71.3MB/114.2MB
+ 5d91a345d79a Extracting [==================================>                ]   79.1MB/114.2MB
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ 5d91a345d79a Extracting [=====================================>             ]  86.34MB/114.2MB
+ 5d91a345d79a Extracting [=========================================>         ]  94.14MB/114.2MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ 5d91a345d79a Extracting [==========================================>        ]  97.48MB/114.2MB
+ 5d91a345d79a Extracting [============================================>      ]  101.4MB/114.2MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ 5d91a345d79a Extracting [==============================================>    ]  105.3MB/114.2MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ 5d91a345d79a Extracting [===============================================>   ]  108.1MB/114.2MB
+ b1badc6e5066 Pull complete 
+ 5d91a345d79a Extracting [================================================>  ]  109.7MB/114.2MB
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ a2da0c0f2353 Extracting [========>                                          ]   7.34MB/44.07MB
+ 5d91a345d79a Extracting [================================================>  ]  110.9MB/114.2MB
+ a2da0c0f2353 Extracting [==============>                                    ]  12.85MB/44.07MB
+ a2da0c0f2353 Extracting [=======================>                           ]  20.64MB/44.07MB
+ 5d91a345d79a Extracting [=================================================> ]  112.5MB/114.2MB
+ a2da0c0f2353 Extracting [===============================>                   ]  27.53MB/44.07MB
+ a2da0c0f2353 Extracting [=======================================>           ]  34.87MB/44.07MB
+ 5d91a345d79a Extracting [=================================================> ]  113.6MB/114.2MB
+ 5d91a345d79a Extracting [==================================================>]  114.2MB/114.2MB
+ a2da0c0f2353 Extracting [============================================>      ]  38.99MB/44.07MB
+ 5d91a345d79a Pull complete 
+ f7f2afaa1b41 Extracting [==================================================>]  10.34kB/10.34kB
+ f7f2afaa1b41 Extracting [==================================================>]  10.34kB/10.34kB
+ f7f2afaa1b41 Pull complete 
+ 36b4e7f51364 Extracting [==================================================>]     127B/127B
+ 36b4e7f51364 Extracting [==================================================>]     127B/127B
+ 36b4e7f51364 Pull complete 
+ 85558a023eea Extracting [==================================================>]     167B/167B
+ 85558a023eea Extracting [==================================================>]     167B/167B
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ 85558a023eea Pull complete 
+ be9fdbdba096 Extracting [==================================================>]  5.928kB/5.928kB
+ be9fdbdba096 Extracting [==================================================>]  5.928kB/5.928kB
+ be9fdbdba096 Pull complete 
+ ae28e2b99a62 Extracting [==================================================>]     186B/186B
+ ae28e2b99a62 Extracting [==================================================>]     186B/186B
+ ae28e2b99a62 Pull complete 
+ a2da0c0f2353 Extracting [===============================================>   ]  42.21MB/44.07MB
+ pg Pulled 
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ nginx Pulled 
+ Network vimsos-rust_internal-network  Creating
+ Network vimsos-rust_internal-network  Created
+ Container vimsos-rust-pg-1  Creating
+ Container vimsos-rust-pg-1  Created
+ Container vimsos-rust-api2-1  Creating
+ Container vimsos-rust-api1-1  Creating
+ Container vimsos-rust-api1-1  Created
+ Container vimsos-rust-api2-1  Created
+ Container vimsos-rust-nginx-1  Creating
+ Container vimsos-rust-nginx-1  Created
+Attaching to api1-1, api2-1, nginx-1, pg-1
+pg-1  | The files belonging to this database system will be owned by user "postgres".
+pg-1  | This user must also own the server process.
+pg-1  | 
+pg-1  | The database cluster will be initialized with locale "en_US.utf8".
+pg-1  | The default database encoding has accordingly been set to "UTF8".
+pg-1  | The default text search configuration will be set to "english".
+pg-1  | 
+pg-1  | Data page checksums are disabled.
+pg-1  | 
+pg-1  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+pg-1  | creating subdirectories ... ok
+pg-1  | selecting dynamic shared memory implementation ... posix
+pg-1  | selecting default "max_connections" ... 100
+pg-1  | selecting default "shared_buffers" ... 128MB
+pg-1  | selecting default time zone ... Etc/UTC
+pg-1  | creating configuration files ... ok
+pg-1  | running bootstrap script ... ok
+nginx-1  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx-1  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx-1  | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx-1  | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx-1  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx-1  | /docker-entrypoint.sh: Configuration complete; ready for start up
+pg-1     | performing post-bootstrap initialization ... ok
+pg-1     | syncing data to disk ... ok
+pg-1     | 
+pg-1     | 
+pg-1     | Success. You can now start the database server using:
+pg-1     | 
+pg-1     |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+pg-1     | 
+pg-1     | initdb: warning: enabling "trust" authentication for local connections
+pg-1     | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+pg-1     | waiting for server to start.... done
+pg-1     | server started
+pg-1     | CREATE DATABASE
+pg-1     | 
+pg-1     | 
+pg-1     | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/01_create_log_table.sql
+pg-1     | CREATE SCHEMA
+pg-1     | CREATE TABLE
+pg-1     | 
+pg-1     | 
+pg-1     | waiting for server to shut down.... done
+pg-1     | server stopped
+pg-1     | 
+pg-1     | PostgreSQL init process complete; ready for start up.
+pg-1     | 
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m7e4c646a-f2af-4b4c-9a01-947ba48a97ab failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mc1a15a8f-ebfd-45e6-a294-32c48835e502 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m9c5b8f25-2a09-4840-8019-74db3f4da6cb failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m03b9cd21-1770-4b2b-890b-e5684480541e failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m31128eca-7089-4947-8ca2-9dff4fd41dbe failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mefb740c6-c67b-45e9-8247-a09c663b5b22 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mc0b8fbd6-ca6d-4efe-915c-d97126849856 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m7dbfc607-3392-454f-a54e-71bc0dbdbec1 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0md9c1ba73-1ff9-40ef-98c4-d880e181246f failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mf05376b1-be1f-44c6-be5b-945330ca701f failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m44ba0e62-91a8-411a-b74e-10ca7d7c97e3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m69104927-6d20-4640-91b5-b3c24252c36b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0ma5318518-44f1-44e9-a3d4-fc4a5bbc7a81 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m5b0279c5-40ad-4b1c-a9f0-fafeb35f8805 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m362f5834-9d4f-4949-a48f-735ef4a20782 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m8072acf0-9ae6-405c-90fc-b6b57bfd626b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m242881c7-457c-485c-8bc5-2ffcfd391c5b failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m9f02b374-6b47-4d37-81f7-4443f48cd6d4 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mc5283899-260a-469c-8452-1e363f9ba69d failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m31f99587-12e3-447d-923e-f9dd6c98063a failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m15eb483b-733b-4b11-8f08-298b7c7c414b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mc8ecb7a9-7078-4e27-a264-b5a2e5103ec8 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mb24e0565-c685-4af8-aa38-434a9b850931 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m65030ddb-4260-44b8-afe1-3bc43f5efae1 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0me20c4269-6aa1-4146-a9c2-15c1bc571a0c failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mec3ca2a0-f4ce-470c-8712-68f385c75757 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mec6839ec-9582-403d-a883-c8699d2fe103 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m9097f015-98c1-4869-84fc-120bbacbce66 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mfbcc1b86-d32c-495f-b15b-91e6b6af7d80 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m33fc3ef6-9205-4ae0-b8f5-2a0f58f7b346 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mf71e021e-b3e5-4cd9-bc59-5596d91b48c4 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m9e629758-8604-4630-9d45-adb9fb0c4106 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m8bc19e9d-380b-4c1b-be8d-527dbf1eecd2 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0ma4a6b197-f000-4d78-8fa9-a19a87c9a4a6 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mdf2429bd-470f-4eab-a676-87318c4aa0ba failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0ma5afcd21-9c22-414f-874f-cb1ea17881f0 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m69e913d2-51d9-49dd-a0f0-88002840100b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mc8c104bc-e66a-4f85-a89b-3a3efc4cde83 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m70617821-6dc1-4a91-b831-3667f96b7060 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0me38e6e4c-5b05-40cb-ae28-fe1d5ac01f5f failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m0b1f037f-d7c7-4f71-a96e-725803c45cac failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0maff34166-579a-4c20-a56b-b07c4f942bca failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mea140cf3-6db2-43b8-9f70-8fa260dd179b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mba2b17ed-a254-4fbb-b829-4d6d7e19d759 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m1c8fd1c1-7c22-4bcc-9b17-bdce300d881f failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m71c41a97-c6e6-4c04-89c0-a24e84187593 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m14a489cd-29fd-4ef6-819a-a4c22620078e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0med58ada3-e7ff-4994-8161-f6ba39f9608a failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m1a6f4d09-556a-47d5-ab47-8ce7607de44a failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m6f623ce4-0d96-4ffc-bc79-656efd096bed failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0maeb8bef7-8116-4083-a3cc-a4d68f7df128 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m73add5c9-555b-4bc0-a274-b3187c339f96 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m373e7b1b-10a2-497d-8ed8-a7890c8c39c1 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mb6bc3e08-3294-48e4-9cef-244e9141df73 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m73353666-192f-4b96-bf4e-77c4e18dbdb3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m08723a2c-a1aa-4395-8ab7-92de073e997c failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mf44d8c27-c9da-4146-b882-75fa65a74eae failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mc460bad3-1e74-4515-a76b-058068b7694b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m43737375-3b34-45b7-8f24-9024c1e10b3c failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m172fae0b-8af7-4717-9034-4818b2c9d9b3 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mab28786a-1321-4dd9-86b6-c81f0939f8c0 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0me4273e12-9865-49b8-8cb7-173b04733333 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m833dbbef-87f8-47e9-9b53-43f448afc8dd failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mff028a7a-2e2a-4623-8baa-fdb1a27c05ac failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m7c628f76-93bd-498d-9045-e4c084e38d7b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mc3458ecd-dfde-4a05-a319-24c0fd106ecb failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0me5cb1adc-2c93-4155-875e-2534ac293ee0 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mc4211704-7f31-431a-a78b-532e2a267d8b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m2e4d2c4c-a24f-444a-8d75-5b8e9ce43634 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m5e243b1c-8d2c-46c8-8852-507a88a753e7 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m349f5b06-10ac-42b7-9a7d-810d13464fb5 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m82f6615e-4709-4878-a190-593550566bd3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m382c4d31-d4e2-4846-8653-0750bdda51a7 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0md6d4d598-0756-4f7e-8abc-f683ea17f74e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mbd0795d5-393d-4e5a-9f3a-b94b5547a208 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mada43b8d-aafe-4655-97a4-6b7fce026d92 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mb9f07f06-3fc7-401e-9c7a-3ddfed7e9e8c failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m099641d6-87ed-48d3-8702-3ec9daa80b79 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m8382933e-b8c5-487e-ab5e-68beb7d93bf0 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m18fd53d7-65fa-4326-8f55-5c9787159900 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mcf05752b-5c87-4324-a337-23f981c16569 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0mb39ba82e-211b-4b6b-bcb0-5fdc093c7593 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m225a304b-c5fe-4322-936f-3f52e2fb9cdd failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:19 [0m[31m[ERROR] [0m66c9a46f-7dc6-40a7-8775-0c0568cc51f5 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0md7e66f29-1692-4e5e-8d44-d5e6da3dc789 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0mc49d79d5-7ea8-4041-ad0f-596c8fc6a08a failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m21244efb-32ce-4625-890a-4427ebfe0857 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:19 [0m[31m[ERROR] [0m105305cf-4c6f-4835-9792-bd1abbe252e3 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m74d2e5d8-5d81-4d8b-bac4-88c7d4a47b4c failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m416861cb-42c1-4672-8603-4f28d7bc9ee6 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mfa1b7838-698a-4bd0-848d-8b468cae78a8 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m8e8b5021-8efb-4932-b68a-ab7cababe0e2 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0me46b4c03-fac0-43e0-ae94-6dd4528fcd01 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0me698efa1-de9f-4efb-b205-19f3ce24bf24 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m280c285c-54c8-4f6a-9925-c6d8722c24b4 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mba5f80ba-1423-4c37-afff-2bf580a55ed3 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mb9f8f44e-5afa-40be-92b5-f1be8cfe2813 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m70dc3eb3-79ce-480b-9320-77c9bd9c2dd2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m50d95ec0-27ea-49e9-ad02-99a1d6b978a9 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mfc46c3e8-283e-4d39-80d1-1ac59f2eedb5 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m708403a4-b661-4660-a58c-4372d71fdc84 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m9b12776d-4dab-4cb3-a179-9dd019ad16e4 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m14710d0e-fb97-4211-b6b8-7f24ec98ad77 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m80a49723-cb2c-4dcd-a7ed-07535e1de42b failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0md5372b23-d90a-4ed8-ac7b-0f0fa25198f8 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m7d0c1c29-b8c8-4eba-acdf-516dfb036b95 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mc4271e84-8c3e-4844-b609-1d1c1a43399a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m4a72027f-e3c2-4b24-84b5-0831264afa12 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m05189922-96a5-41f3-9f29-91f053177e7d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m6b145d55-3b66-43f9-b270-9985e17ed277 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m9f963739-db45-408d-8656-af331568185d failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m2d369b3d-4cab-4b4c-a4ae-8e3a80e82f4c failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mcfca87b1-cad7-4e02-9e3c-11cadb887b5f failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mf859ffc2-e73a-4218-95d5-46166678da93 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m9fef1194-efdf-4bce-90fc-9b2b29eb7657 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mbc345552-c78a-446b-b146-70c367f77433 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mb5cd8967-101d-47e1-829c-2b90c9cf3d21 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m19869bcb-f051-456d-b2df-4d652f9f5de9 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mee859ccb-4345-4678-b30e-efb594830f14 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m317d62fd-d5a9-4785-8f31-f1547309638e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m15c578bf-8b1d-4136-a420-6b16808bc098 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m379032dd-a06a-41aa-9259-6d56a36a1f6e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m423294b9-f271-4265-811c-e6d8515d230d failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m10ae90a2-215d-4ec4-b604-58f3a48ddd3a failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mbcc75510-70e6-4cc6-ba56-2e13248f350c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mdcc7c8c1-6959-4ba2-a8ba-76b9cb83efbb failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0md864b47b-0baa-43b8-9828-85c855b2f3a4 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mfc9746bc-ab84-4c44-88f5-517afc812eca failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mf0eb3683-95bd-46ee-ab35-76e42c483853 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m5ca31942-ff75-4873-a9f5-2fcea5b7fdf6 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m5ab94f6f-38aa-446c-8bcd-13831e13e81e failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0me28c337d-193e-4fd5-8c2f-221115d04c9f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m457a2670-eba5-46f6-a8bd-6646bd5412b9 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m548f2691-4846-40a3-911c-e62086c2c696 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mae65b8dd-9b26-458f-bc40-e5212c125936 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m458db6de-ec1c-4fac-b52b-5b7682e01bca failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0ma45dd456-e34e-45df-a43a-d427e2c19a6c failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mc48a8092-3c91-4450-b068-e48acd87584a failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m80b702ac-3227-4142-ab31-ac44a86e5074 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m0019c70f-32da-4c6d-9444-ac6a890dfbe6 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mb079e899-8097-4777-9c78-92c651cc3299 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m164b871f-0d06-44c9-bde5-6dae38005d1c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mefa464fb-feaa-4fe8-8f5a-6259e65e3f1d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mbde08d50-12c4-4943-8f14-9d5df7dc7cd3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m6aa95cb0-8690-4696-b774-5ac56fc9eb73 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m6136ea00-6b95-4828-b3c1-3c04156845c7 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mfb490d3e-c842-47bf-83e8-3afa054f2053 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m11461984-d815-433f-8dd8-73f8c3f2bba7 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0me716bc7e-fe4d-4717-a8cb-b09659bcbc2b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m26812071-94d5-4639-b60c-7a1709e043b1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m9be9e7bc-8716-4536-bbca-65b2ebed92aa failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mb240a24a-4310-40b4-9dfb-ab94dad4da03 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m5e1467d5-bc6f-46af-b326-216c4ee0ed2f failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mf5ccb536-3f79-449c-9c89-b1f5e9098e70 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m2a630c79-1b43-4831-bb00-20d71fe85c9f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m38187265-1eb2-4465-a5a8-af232719c5b2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m2b306eab-2b3f-4acd-b694-769898e22bbc failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m78856999-674d-47f8-9c93-6ed6deaadc85 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m62aef1ca-dfa2-4cd0-bc06-9e273f2ede6b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0md29ad45f-215a-4992-8108-15d3e9e2d5d1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0md233c316-045d-431a-b3a7-6f3a9482c08a failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m8f1cb143-b703-41b0-904a-4d0996333d51 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mc039be97-edf3-4551-9f18-8126887dbdde failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mf3c13d49-5447-4119-8a3b-f260c3ed57e2 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m01cfe82b-b325-47dd-9ff2-87433b4d791f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mfb149db8-95f1-4979-b568-e9bc5d9e0fb8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0ma12b3ad7-e6f2-4366-979c-cea8d280d05f failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mf62b6426-7a04-4290-8602-5f148b39f8ec failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0md4bd5d8e-52bd-424e-9bbc-2d49cc77a876 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0ma83df7b1-d8af-4141-ac75-695943d86a5d failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m3c12a4c8-af1d-4e5b-87de-29ca1f9b42ca failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mf9d0f9b8-c564-480c-bae4-23e1e4a75240 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m3447d4d6-b568-461f-8ed5-308f83027775 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m0b7d7737-4d12-429f-956d-adcac048996d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mf2782847-6fb9-42bf-ba4a-b880e6ee7a34 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0maf568663-004c-4bf4-a638-50885b64b36a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0ma7432049-21a0-42ef-bd90-2738f74f65a1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m7d25186d-ff65-45a5-a8e3-75a79b1333b2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mf01c2b10-9aaa-4a7f-a1b1-3e9aee3525d0 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0me1287f2f-5ae0-4bf7-86e2-76d4caccbaba failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m6bb268ca-7869-4be2-83a2-7301b7fc5290 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m21c04b62-fee1-4f0a-a73a-3bdd86c3b886 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mc23a7df9-021d-4da6-af29-90f9692fe9e8 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0mf362acaf-a78a-4b94-bc3e-e03d6de3a885 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0med46cbae-b3bb-4f3e-81e4-b12f4881d4d3 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m4ada0231-c9f3-464c-bf87-595ee0dca3a8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m909556c1-283d-4952-a16b-f6df9c633c89 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m43e93371-4358-409b-9507-736a01757197 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0md6ce72df-e1d4-44e6-ab58-ea498875cd65 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0me92e80ac-4160-4487-9cf0-fa877f99ec49 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m0cb3749b-054a-4635-a512-5223cb614288 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m01a17d6f-d3e7-4a13-9837-4e5fdf95de4f failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0me08d88dd-1336-4fa7-b435-c3e4f4b4166e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0ma6ada8d9-f0be-476e-aac5-fbdaa2f1d6b5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m12ee4f96-aada-441e-bdc4-16493ef5a516 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mf5aa5a97-4091-4401-a6a5-366d795445cb failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m751121d4-a8b9-4fb8-98ed-2a3e94b9d782 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m22048baf-b4e9-4c76-9bd3-9f7d5a2eb016 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0me6f03f8c-418d-4740-a242-3147c481891e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m00c9a555-de08-4fcc-8741-4f29efbb45da failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0ma005bc72-b736-40ad-a9c9-d73fb0b22735 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0mf4ff2d30-0562-41f5-920b-19fb43c2d1c8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m7994bffb-3152-47d1-83cd-52a4a42542f2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m9ae8ff64-fd84-49d4-b201-0ff8096b77e6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m357ccdbe-a3fd-4e2d-89a8-29f946847483 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0m8e3d718b-7f7c-44ad-9ad6-26d2812f189a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m7c594134-8d5b-4af8-8974-0e234306dcc4 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:21 [0m[31m[ERROR] [0m7f48fa60-07e8-4c70-aa2d-83b77682bd6c failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:21 [0m[31m[ERROR] [0md34cc370-d9e2-4404-b5f2-38ba3f36eaba failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m9a7e67ee-67fe-4c0d-8038-187242f4601e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mce07abb7-fe94-43c2-8607-ed140434de93 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mbc1b6c1e-3c1c-402b-b197-d9629227e00b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mdbb8d235-9183-459a-aff9-83a304a2c33e failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mc71e40aa-0330-4e8a-b494-7b38c9c51412 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m42d47a58-03dc-4c42-bc30-0319a822ab06 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0ma0072a1a-89a3-4c5d-8599-b07433330b53 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m769b94aa-adea-4981-98d2-16f846e33d37 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mcfa49a14-2409-4b7e-97ee-5ccbbfbc7e3e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m7b3fbbfc-ebfb-400d-96a0-934efbfedfb7 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m841eccb1-4b13-42ed-aebf-edc0083023a7 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m646aff42-b23c-41ba-841d-bd137dcb0b4d failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m00f86eb3-8963-4680-8d36-7ad4d898e7ec failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m3840dff3-2e3b-4134-847e-e7146292a9c9 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0ma4a682e9-3a44-495d-b2d8-69dcbd6943a8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m602ce865-b801-457e-81ce-d7af384ccca2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m3153d933-30cf-4929-80a2-dcbf11863cdf failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m526f8e9b-e39f-40c8-a045-056a5dee2fbf failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m19f34e6c-5a33-4f2c-a90e-ca9788c342bd failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m069f9d53-3b78-4cdd-a640-7023949e6f22 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m56d83db9-4a53-4ec0-8e89-242608039e79 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m17e503b7-dc4a-48a0-9966-cf2fa8e0ed0d failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m3d012654-42d6-45e6-b5b6-8eb91a6e3c76 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m294f1fcf-22bd-4c83-9d43-eedb156dc8f4 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mf80861d7-a4b5-4197-9365-f14cfa8b9e87 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mb1ad11a0-d581-4cd2-8760-bc7c33ea851c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m248ea01a-cd9b-438d-b0b8-9a0a06acddc8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mc9d5d1a7-2fe8-4e69-8906-e797cb9caacd failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m10a5c222-3720-4c74-b422-9ae0fd222a10 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m2a7c2945-59bc-427a-b77e-c331d8e978b3 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mdc4612d1-2970-4dc5-8341-254722d52a5e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m4351a9bf-31be-47b4-b250-ca8a90c34dc3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mda4d390b-31db-4784-85a9-5105abe10836 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m0f12fa59-15f3-48d2-b846-3dfa68002e78 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0ma6358ec9-f4c9-4240-8612-4dfa03930716 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m6236e95c-321f-434b-a050-5c092302b34b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m24eeb3e4-76de-4c0b-9ee8-b765ec793086 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m7eb2b902-7360-40a9-8d03-04d7ae4e311f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0ma03acbb0-db92-4fc5-ae4b-06ca2e59ad80 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mb5e21cb6-1804-446c-97b0-1b82f0265172 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mc69a4aa2-3324-4368-a09b-e40830e60ec3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m8c3e1054-d77b-4950-8b50-b91543c63dc3 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0me1b7bd6b-c660-4be1-8c63-1e9a16deca52 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m1b783932-d250-41fc-9db3-0588ccaa478a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m34c433a9-4a5c-4942-aac2-210a55a888c2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m7352e7a9-3f8a-4ba3-adfe-822242d4587c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m21286253-fbc4-4023-88ae-b511ce57b230 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mbbd73106-c47b-4bea-9c50-25185ace5635 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m192193d9-2973-4c36-a50e-ba967510c3b9 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m09af5945-3ce8-4229-844d-6b15241227fe failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mc6125a57-a025-4e13-bcb7-1122a7cf49e8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m3ce153de-899b-49fd-a7ff-2723789034a8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m0918a9a9-fe4a-4078-a022-f0206141266e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0maeb75847-d76b-4e00-bf74-5f133eaa74e8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m6c224213-b685-495c-b23a-8d334f07da83 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m12555c8a-e04a-4ee2-83c0-2021b03eead2 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m1186caca-709b-4b97-bf59-c45ba34a5abf failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m048169f8-e50a-4462-a251-65d74fd2b859 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m891333af-a4dc-4788-a0fe-f69d726237ae failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m28fe76b3-49e7-46f5-8ae9-205460dd39dd failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m110475af-f909-491b-bd13-622462c94003 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m77f64be5-698b-4f42-860f-4a4b26917210 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m3fef5964-b16c-4b3b-9114-c55d03290bec failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m9843adeb-6db3-490e-bd23-2922281b7713 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m7a91fbab-49ed-400f-bbec-d721fae8e322 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0maea71d55-dd7c-4bee-8acd-6f5615e62490 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mc143429d-2b65-4a7b-93ff-f72bab1e8396 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mb15112ac-d33b-43cd-b756-e98782948738 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mb87f6523-b241-4819-938b-8cd75dfade53 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mbc7a420a-f88d-429a-b421-4dfe8c33f137 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m87eb0500-debc-4ae2-be1c-08d82c3343a2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m8cbd91fb-f4a7-4394-9f6d-91a6a799ee61 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0me691bf2c-e3e2-4fb5-b410-e6a562ecb0b3 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m167cf0ef-c4f4-4948-b392-c8ca48166a7b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mc147e5e9-1f49-4d00-973c-d6bece0d6363 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m60fac6d8-23b4-4853-bf54-e2c2968ba5c2 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m7b340ee6-e741-4e70-9772-fadd8a9adda7 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0md707a472-1007-4f3a-8d39-52b9ee363947 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m8816ea55-e3d8-466d-b8b2-bba37a20e0dd failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m781ee870-0ce7-4d8a-ae55-3673ee67d0c6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0ma64867a4-6147-4e02-ab21-7e084aedaa10 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m7cf89390-cde9-452f-937e-2a70b87e0e4a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mf1e635c5-64fa-4ab5-b441-7f85334b0eb1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mba30acd4-021f-4462-9f4f-7b7a5152e902 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m2db50a63-64e1-42c0-9926-531d363a0b8b failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0me43e9dc4-1206-4566-88dc-39a9d80df2c3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m02d38723-3a6a-41f3-a0ea-c855a1753f00 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0me5c41274-1a05-4702-8dfa-4f2c93206eb0 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m6d688cb3-d542-4501-aa90-96eaf795d926 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m44cdcc06-d869-499c-a759-9f69bd93a497 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mb6e0e402-c354-4f57-bfeb-54af3f699dfc failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m9e298cf7-4e3f-449c-b088-969524a9454a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m67a40487-d328-42df-8dea-f60c515cfea4 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m39eae842-a0a4-4369-bbed-a4c17ebef160 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m09b2370b-d916-4c85-98da-0114f11dbfd3 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mba4bddde-0832-4802-8930-225d0b078907 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m24de5396-3de4-4ad1-a544-9292b6d8cdf3 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m0b6c7c78-1304-4239-83ac-f1bd23bc8c54 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mca0770ad-f451-42b5-917f-ca1a8bf7db66 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mceebc03f-3fb0-4160-9d33-34398b0300dc failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m1f3202d6-5346-491b-a2ba-75eba921abb2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m7ee4f3e4-e63b-4751-9307-ec9c05acf16e failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m7c3e364a-a836-4b20-8335-33686fd28c6d failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m59435801-a1d6-4b4f-b891-4c3fb92ab7de failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m6c9a43bf-4d91-4658-96f0-7b4e5251e874 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0me01f8c7d-8523-4b9b-bafd-c9f4c8c52728 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m762cc7a7-789e-433b-8072-e42fb6e987dd failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m9e44ff64-a7e7-446b-b56d-2e3901914cd5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m236d03d0-e671-455e-ba51-28e563e80dbd failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mb33842e9-c49d-46f4-96c8-6edae364879b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m35a12743-c70b-49ac-b395-dd42ca6c0f95 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m068a6b03-06f3-4662-91a1-81c900d76918 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mb66895ce-b83d-4052-a06c-51604771eecb failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m6c1d431d-e230-4963-8147-e752406d02b1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m19d87fa2-b857-49c6-a966-8c267067ec16 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mfde12300-7bc1-4183-9c69-12d56a9c01c1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mb8eedc81-0ca1-4346-8938-13a41efa6578 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0me20da849-0964-4c7b-bcb5-db3c4bf0f1f9 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m05b120f7-c691-40f0-9174-403956c8f62d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0me918a542-f944-495a-addc-77e2a208971a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m07b8f930-83e6-4a4a-a5a1-6949bbc44295 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0ma25a636f-c951-41ce-894c-bd49ebe4e901 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m37008454-95c5-45e0-a3ca-8e4a72690946 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m5180114e-b618-46bd-9dad-88410c8d734e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m00a7b3a5-0e69-4b68-8962-c93a2d2a68e1 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0mab8db9d4-4c58-436c-94de-f63dcb2cf954 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0me0ee9ae3-ceda-42d5-b568-1ea53e871c28 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0m61b75c5d-78ca-4d91-b5af-bdcf22e4ed8e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0mec9bd862-dd86-416a-a0c1-e1fc297b3756 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m0b0a07f6-ef83-4663-aa9b-36b9aa870497 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:22 [0m[31m[ERROR] [0md0106416-77df-4d0c-8876-9ff617ef2a37 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m757f2d25-cb6e-477c-8d60-e8782b5dd9bd failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m18ddd61c-13c9-4de1-8a4f-4357b13bd57c failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m0932a398-7836-4fe5-bf7d-b843897b37ec failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:22 [0m[31m[ERROR] [0m742b9546-b7ce-4e6f-aa03-e802737eb3d0 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m750ddbdf-1b0c-4feb-8817-5ff342797a55 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m2e637ed4-afd0-464d-a808-ad17b8cc68bd failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mea03ea78-8fb0-432d-a9f8-7f3478c59d06 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mbd7f8be7-a2db-4ee2-b4e0-de55685d9ef5 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mb7e11656-fb35-4735-96c9-173370e1a2f9 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m6fc04425-7d78-4ef9-8f88-cedafb5ff991 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m247f28f2-7c0d-49ef-a55a-d1bdff57a9d6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0md7d4813c-3c3d-4558-a424-83bf106f7b1f failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m359cb625-a1de-4c63-9625-cb7d2de61824 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m8875f651-f107-4c21-9a15-335f5005c181 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m61e5021a-aca6-4db4-a189-76212d413bfd failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0me4cc6ada-ea85-4333-8f48-968c93a1a750 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0ma00eec55-b915-403c-97bb-50bd7908f653 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mef9cdddc-0fa7-4bd4-80aa-fe5234d44735 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m4b8223e5-67ae-4006-aceb-1a4edd84f0ed failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m573cbb6a-65c3-4744-84a8-46d51cd30817 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mfb19f176-e2a7-46ce-a681-b768cb6a9989 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m68dbd327-ea4e-4e12-9913-34ad863b9951 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m6fe38b07-c014-406a-9e19-32abc8c1d7aa failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m78336ecf-bb2b-4844-9add-f22eb1a02917 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m6aa9a888-22c6-45bf-af4f-db9fe30689f3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m338172e4-6a36-4f61-ad70-5bfddffdea00 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m0c6bc1e3-2f20-46bb-8535-25ab04f6747f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m1d06b477-acde-40a5-a9a5-8bbd3168fbf7 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m550b28b1-ba60-4c1f-bbcc-0653ce42ec6d failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0me548cac7-3de1-40bf-9eae-4d2e6fcfe716 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m429ff9f9-94fd-403c-b65d-44b46032c13e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m2f33fc82-7506-463a-9ac4-fabb288f1ed2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mc23dbef7-f3ce-4767-aec8-d12479e1a932 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0ma74a1bea-86d4-4adb-a68a-2d30fba63340 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m397ab8f3-173b-4558-b602-121e23b1b5aa failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m2ede59dd-432d-427f-960b-e373de39f25e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m17b38807-7d26-43f5-8793-1c1dff998790 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m09987579-94a2-4de2-9109-3db4bc8ee989 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mdb60f0c4-6b56-4e3c-ad6d-749307c85881 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m362d9b4e-af61-4fd2-95ae-aa797be0630d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m294d3e1a-1529-4ae1-8968-9e7be1baa2a6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m378382d7-ed91-462d-ba2a-2f64ad0501fa failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mc96de600-d7e7-493a-a624-5d8cc34d4018 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0me80b6893-d194-4694-a0e9-f9ed4e472109 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mf26e8c12-4edd-454b-8224-d696dc4dcc53 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m5270b26a-0e3f-4cc4-8185-49d284527c7f failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m9230a826-08ed-4b50-86dd-c9baece378cf failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mf7e113d8-e600-4557-b3ac-9c23b87066e2 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mbf66111d-a6c1-4c4e-a641-eae14f2a8dc4 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m9a106d99-fca9-4384-a07e-9b72be9ae14d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m3cfc91e2-d78d-4af4-b3ec-5346aa3d6386 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m7e938abc-659f-46c0-98c7-20f35a705c68 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m50513087-27c1-447b-bc6d-14733bc41a4d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mcbd082db-1489-46fe-95a6-842f657b44c0 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m66caa596-4e8e-4534-abfa-b447dceb7281 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m759bfff6-776f-42a8-bba4-e55fec3e061b failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mf38444bd-5208-4c3e-8b6a-485089950d04 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m8797953c-dcf7-4ff1-a38e-9688e5ca488c failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m87e718e6-3ad4-461e-b360-1631c1fc9349 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m22d8761c-767d-4d29-baef-f9a3259ef430 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m98207115-fc8c-49ec-bcb5-c370202a4f67 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m09b60732-893b-42b5-8db4-dfed163074d5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m5acbab6d-5863-4eaa-8a72-ae54988304ab failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m9379c3a4-c42d-4457-bd8e-c376184427b8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m2cebd5ce-7624-484d-a869-c53e2705671e failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0md5d70488-44e5-47eb-9e95-339e5df71595 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m0e7941c3-f656-4dc2-9b09-c3a01009b660 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0me89310f0-9b46-4e4e-95c4-e651efd27579 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m2019fd5e-5a15-4cc9-a5e7-242e54764d2b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m46b622a5-74af-4965-87a7-6f07943a2db9 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mb6225f25-d9d1-4870-8c4f-e37d365ae70b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m629ceb37-a533-4ac8-b929-7f6e7d9d5fd1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mf9d22458-906c-4d4e-a511-0e53c16b8255 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mcc2d6615-126b-41d1-b38c-3deaee727985 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m4cdf6359-96a3-433f-bf2f-9527d8ce05ec failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mec452499-dfce-4f90-ab76-abb4b4d92f76 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m360fe79a-f76c-48c5-8920-b1b6b10602ec failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mc668987d-220e-4399-aafe-4655e4b8576b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m55bd70cd-9689-4817-aa28-3f4ad9b23f0a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m676affde-4a30-42ff-ac2f-1dbd65557800 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0md5d14750-bf24-4273-a51a-905b76d4dee8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m8a96d6ed-8ea3-4527-b6dc-0d76d52a5327 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m1f2f10c0-f420-461c-96fd-daa5627db0d9 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mbc76de29-3897-495b-a5f6-fec1fd14c87d failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m6e994176-4b3b-42ce-9635-ec6668ce830d failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m6e44bc3a-a832-4df3-8e7a-947cd4a1f2c1 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mf25281d9-3e0d-4cc1-8555-6d85e188ce2f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m49c31777-3d3a-4d62-8919-512e8f3b0fa5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m9e697529-0b11-4e1c-a273-665f36c60340 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m9b69eccc-b8c0-4426-b56f-af05a4e46aa1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0me4a3b210-6038-4c6b-b91b-e86c22d96340 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m31bfb4ff-a043-433d-805f-a8653907668c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mf66c9291-36f3-4f67-aa7b-e5f5a116f358 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mbc4c96a9-ca08-4c98-a1ba-f40d70536860 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mb22bccb0-f6ac-4367-a81e-c599029673c6 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mb7407bdc-d695-4d78-98af-f204915a8625 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m9220398a-b22b-43f1-8cf3-d2d145381e11 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m9e06bad3-b5f9-4f22-942e-fbb1bdaf26c6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0maaebedbb-53a3-4f31-8824-cdefa469db89 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m103dc722-fafc-4f7a-baf4-1051da28ca7a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m749e5192-88f5-4f01-8023-47d9de1a1217 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mb507b3f0-0806-4165-9ce6-77f4b15c34e5 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m1fd79371-e07a-47de-9b33-649d7c78d0cb failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mb4b15497-c1cf-4df4-9e49-f0f9b0c636cd failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m8fc0ab71-8a06-47bd-bc28-74a0e5351a79 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0mae16c0ab-a463-4735-a73e-858e1a34fbce failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m6e017a7b-138b-4a9d-85d2-e42413b46abc failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m33d15a96-dd6d-48f0-95d2-1d05b117607e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0md252ee09-c548-43d4-95cc-4d7e34d9866e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m1dec434e-840a-494e-95ba-ab7264a4737e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0mcc467f13-02db-4079-910a-3046d24f7a9c failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0maa08a9a7-47a2-47b4-b0fb-96211dbd8018 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m57f3ca50-52c0-4824-a25e-84bec5e4bb0b failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m12b95fd4-4a77-45c8-a807-cba86ce90041 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m496006d4-92e8-404a-91fb-6b9170c88464 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m837bf90c-11ae-4b3c-b615-c7b86bdf7261 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m7f357e3d-6f3d-4e86-9208-7530a1a97c75 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m809b65fb-d4e7-4de5-b2e8-8c897e414e5a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:24 [0m[31m[ERROR] [0m54aef785-a1b3-4bff-9a3e-20c3e0a7a279 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:24 [0m[31m[ERROR] [0m860da019-3996-42f0-ba89-ced557ce0da4 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m9d534892-910f-45c4-b6aa-3487c67eb8c3 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m8c9eed31-9aa2-4aed-bb9e-513896b46c38 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m6547ee01-e3c3-4300-9cf3-dd0af3d27f8f failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m60e7b0f4-4180-4453-b15d-4b6db5005548 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m8036ea5e-6061-4d0c-8d92-afbd5386b376 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m22ea0fd3-285e-48d8-b02b-4dc22b559009 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m9433865a-965f-48ef-afc6-de905d19a294 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m809d7ab2-d5a2-434a-a77b-72dd9f9dcf17 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0md13be8b4-e828-4afc-9cff-a1c928eb0760 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m25408eec-94bc-4eb5-92a9-99a914dc4f4d failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m8d90f88f-3242-4ecc-a606-21fa4f0054c7 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m87334d89-5ece-4c69-8059-f3db9ca7eac5 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m63c50bb7-6e30-45b0-bbf8-f03e93c1b90e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m12fbf7bc-487e-4d17-b541-8f0240838bb6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m619922bc-7743-492c-9dd2-976984510211 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mf4003b1e-ec91-43d5-a87e-40dece4cf5fa failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m143ffb3e-3650-41e7-8b35-b47a941c29c6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m9d4f402a-4c8c-4fee-92fc-563271f739de failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m46250422-eb8d-4383-81c5-957be0cdafbe failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m9cd24a72-42d7-4e9e-b1f2-ede7aed9abcb failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0me03fc365-e3b6-4672-9dcb-59db685f1752 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m5fcd53c2-5f85-4907-86e5-e2d3c1f2e41f failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m86e26c84-7714-4fb3-8ea4-68453a2e8644 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m14edd992-bc59-4533-a41f-dac76886f0c8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m2b0c612f-b017-4cbc-ba59-ad89917bfdbc failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m2ae9cfe5-cbf9-452a-8325-8fda28bd129e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m0845be46-c260-4c64-a475-0e55bd09b710 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m6440f460-ddc0-4b57-b40b-943b88a793db failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mdba790fd-06fe-4c8b-8b23-828fdaa19786 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0me9fcf01d-8ec0-43fc-baf0-3f2b3e000b57 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m072d0f7a-2a57-433b-b62c-64913bd06211 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m9c6972b6-62bd-4bb9-96a1-dd5b226c34a2 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m99bbdfa5-cc50-49ef-a313-ed862b8a3126 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m26276dfe-43c9-4e6d-82f6-f4f50edd4509 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mb95de558-09ab-4419-b695-fdd4c954fe7a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m26e8c940-ebdd-4ea5-a245-bca23e0ac1fe failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m17fd48d5-1479-4fdd-9b80-82a045237fc4 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m0acb1156-fb0d-42e0-a19c-dfaa63cae2f2 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mfe91e961-4a96-48dc-b163-6d05d95eebae failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m2dbf0ee1-c0a1-4f97-9c0b-67c43ebd792b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m4dd7cbb3-d01d-4369-bd80-3375b3e5f044 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m65f99b4e-ac8a-4e82-8778-63e4c5f79ee8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0md0c5fb6c-4520-4549-9f1c-6bf24c74b3b6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mdbd4a06c-6df7-4115-9246-55138cdadf6d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0md2eed5a8-8004-44e2-891d-16a10bda67e0 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mffb0ac7b-08f9-4e5d-ae88-481b3f2b3d38 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0me26661c8-9c99-4ffd-9c84-88b74df372d5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m0e6c5303-cff6-4c5c-9a24-a7d2e8f7cffa failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m3091be82-430f-4010-913a-280e8f9ba608 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m0ac9cfe2-1277-439b-861f-d86ec98238fb failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m887ef6ee-2d62-4fec-801b-fa2e522ea726 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m5348ca92-8d6b-466b-bacb-a872529fa8f0 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m171a2b9c-f738-4153-86c9-b1f6d4fccc84 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m4767167a-f113-48c7-b271-53cb4d352bb8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mc75577fb-5dfe-4c6d-a88a-bf20e3ade504 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m89e5c094-b388-478b-a020-4fe58bb084b5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m1328019b-bf38-4467-be31-690937e7d57a failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mb6543609-3140-45f5-8ae5-c911c19fdd43 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m1d25bd59-671f-4047-b9e5-71dfccc1e3a9 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0md12cfb97-86e0-4734-b15b-acde8e31b86f failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m69adb15d-2e5f-44ff-820d-6416386ef040 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m713597f8-2377-4a42-b2b8-e0fab666971c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0me38abe98-bd79-4144-8822-6d7425d7dc9c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m40a00763-8dbd-4219-aa0e-2569beab32c2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m6025e27e-8589-4335-92a1-55d770d7b83f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mcf4011a8-9396-4b3c-892b-2b7d2a24fc80 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m4c415ec6-0c86-49ea-a198-63f026d46d4e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m32613d14-82b9-446a-989b-66c2ccf96299 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m26aed38b-da69-4bfe-a20f-0f219901708f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m26be56a2-2c13-4ca5-9104-273491e2d901 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m83fae18d-91ee-46e3-8fd6-1848dd97360f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m56cb4afd-4458-4e2c-b8c0-1d35b733238f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mec127fe2-4bb9-450c-9cd6-7699807b2a0b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m2a63b5cf-ee4b-4d18-b01f-a248f83409b3 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mc06a4f00-3534-4a0e-89ee-a0c614f16716 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mc8ce987b-fac6-4f20-bfed-7d26400659f8 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mc47a2a08-8a0d-4cbf-9c40-fbaf3f79e127 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mf11a49b0-4d83-4795-afb7-8d54c77c1df8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m0959a2cb-3464-496b-ba4e-ed5c6c799e58 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m12ddb49d-1490-4091-8eb0-73dcc8e807ab failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m317d43d9-b178-4755-8cc6-1fe7ecc097de failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mb068f738-03bf-47c7-8f66-425c5ee05dad failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mf8451ef1-7c69-4e46-85ad-685dbebf91de failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m48d01033-89b0-4b25-a508-4f295386c32e failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mf780afbd-4e39-4671-95db-b0ae78f42fb5 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m75e581e3-4390-444c-ae03-f35bd6df42ad failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m11bb8eb0-0bde-4712-8e2c-229c7c00bebc failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m965f8f58-f0b9-424b-859d-51dd7eec0622 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m0b8e478d-dd00-487f-bfae-2e7d710f067d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m86ea041f-0c04-4c68-916d-81cf0d54b7ad failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m15918f62-8a92-4c1f-be22-1fab436f3ed1 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m876adac6-2b70-4f07-b276-03c0a0ddfe54 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m9c276fde-fd1a-4ee7-805f-e95bcfe7bf7f failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m1b27f863-a2b7-4474-b6eb-6c1af7d6d8b4 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m129c377d-b6ab-4d68-ad24-c9c643b19cd2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mce74caf7-9983-4b0e-8a31-68874cec32aa failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mc5c3ee0a-5d27-4275-93d9-5a961a7d2cd0 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0ma32b4bf8-87da-4d6b-af61-e98f2378b370 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0md5f5cd4f-62b6-423b-95dc-b80a25f0dfaf failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0ma90c2510-e974-48e1-827b-6de8916acf90 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m64b200b1-d5e1-4186-99ae-3ab7d744721a failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m5b089754-cc85-41fa-8082-15e3f4f22f2e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m4eeb4ef0-f505-4ca6-b475-e37569cb2485 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m5f5c17fc-82ee-4f60-8498-a4f3d9e2bfd8 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m3f0b263e-b3bc-49d1-92ec-c5ba9e91aa85 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mfb69060b-70ac-45d9-a05f-30faa50ad43c failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mfff83aa3-9452-4198-8e3f-65c7c83c26c3 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m1fd162b2-6f06-40b3-83db-99e15d0b9ac8 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mb0f9baad-ccff-459c-976b-14897b65ab27 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m74f9fed5-e79f-41c8-8837-00cc9f691834 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m38e2aaa3-c423-47d7-85e7-67a4bd785dc5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0ma67c4c35-99e2-4d3f-bd2b-7a90071559ab failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m867b66fc-e3c0-4e53-80ba-a75e1d8622d7 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mfd744ca8-c2ec-4bad-8f03-5103b120f3c0 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m3e26a3ad-e02e-432b-91b0-4b26e997372e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m99a49402-3bf1-4849-a1cd-4855a595494f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mfd88ec04-0e41-42da-ae94-9dea598c1c98 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mdd0f558a-1fda-4772-ba4a-d482ec2ebfb5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m90183a4d-03c6-46d5-8698-76c2a3f7740a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mff8c507d-d5d4-4873-9034-191f32147864 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m01fde742-2069-4d81-a9f3-5586d583a260 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mc35c1754-8efa-493e-a202-3b556f0e59b2 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mc9d2e557-1e18-4e73-ba9a-92fb3c7ad58c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m8eb4f407-dfaf-4c57-81c1-c0b1ce0c0fa6 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m674a1e9d-4e1b-42e0-b174-8429bd50d9d2 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m74acbe3e-953c-47b9-8744-0872b151da45 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m778f4298-2889-4a04-8a92-223f3f1e94fc failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mf5127ada-c50e-4a2a-9496-3e183b7c768c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m770369f6-5e90-48e9-9045-4099e879a863 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m89e9f410-b520-438c-a06d-67feacf2d687 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m85ffb228-d392-41aa-935d-6416cbb8d55e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mabd507f3-0528-4801-822a-657ccaa1b6d9 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0mfce7b02a-9d82-4537-8c1d-988fb3697db5 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0meed51f46-56ef-4207-9ef6-abdaefd8eee0 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:25 [0m[31m[ERROR] [0m13f759e2-391e-41bd-b93f-47b245841849 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0mb08e87a4-cd18-48c2-91ba-57833e22436c failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m5b5a0286-7842-49f4-94bf-74c1a8e6ce3e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m9e0f540e-eb59-4739-9b43-3d1f3d689a65 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m0553eb63-6c19-46cd-b23e-783ff4147384 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:25 [0m[31m[ERROR] [0m7dd26cdf-75a9-495a-84a5-5a08d10283aa failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0mcb334cbd-cd76-4a92-a7f1-c803c487f009 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0md73fa37c-e13a-4a38-8fbd-d92f6fb15818 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m18de59c1-d0c8-4674-bf16-0369be3502e1 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0mb6a36549-7127-4e7c-b410-63482fc3a007 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0mf2f06ae2-8dae-4db8-b123-069b0d93df7e failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0me6ec7ccb-5306-4c32-baed-f76be50ffd57 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m90dbf5a3-3c37-4e91-bce1-57f2ab255033 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m01ac11dc-a7cc-4275-8768-7630653457b1 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m35541d43-83d6-4e1f-a75b-df2faa3f737d failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m5b6e4eaa-e989-4998-9b98-4a4f6b04f9a7 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0md0875280-6a50-479a-bffe-f2b506149a78 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m0c731415-0006-45fd-93ba-18c4ae9d5321 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m1baac738-ecab-4c86-9957-b017e41296fa failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m69e928df-e506-4d3d-8921-37ac3f744f98 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m794a1423-6bf7-4dbc-9f80-1a791938c01a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0mb4f11623-9925-40bc-a81d-d0d95431e234 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0mb518c532-60a1-48ab-99b3-7e90b593cabc failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m3bb2e68e-f19c-4973-a457-ce81137cbd15 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0mdbcf82a8-e3d6-467d-9a5b-c332ef50525d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0mf9b985a5-c88c-46d6-94f9-06ccc6f36a3b failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m74359219-1a07-4300-8992-8690245ff2ee failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m7f621ec8-f7b6-4d1e-b8b3-dc2915c31b05 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m9a587366-1957-4062-a5aa-5f977fa50e3f failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m1bc6744c-6cdb-41ed-b058-13da312ac4cc failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m18119298-72f2-4775-936f-f20b12042504 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m9f8f2782-b7a6-4313-affd-fe88eb0dd84b failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m8e952e80-8362-4f67-88a7-3afc431b5831 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m21b984a7-cadf-47aa-902a-2116426ab553 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m07005479-2785-46df-9379-8465bc1b6176 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0mce8dfe16-0b5d-4a18-9620-bfe6e250ce4d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m9a9b3f9f-7935-4a85-ab27-156c7eb5cde8 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m81a314a0-19aa-4601-873b-f44a04c1f719 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m55bce499-4541-4766-bebf-24a701886356 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0mb6a01e7a-61a0-4ed4-9aea-21f6119cdec4 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m9ad29012-4249-4672-a69e-bcd38e634035 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m38094682-59f1-4687-8cfa-4aed6ebe09de failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m079c84d6-1378-40b7-9b02-50f33bf9f2fe failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m97748d07-a876-420d-be82-cb156a6791e2 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0mb7798c63-0b3f-487a-8d92-be9beebdb06c failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0mc67c6a81-f8dc-4b33-b1c7-55896a5869f0 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0mbc54e3b1-3458-4981-b1de-3ddd44070f48 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m8b2d15a7-5ec6-4fc9-a619-0bca65df6646 failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m9251a7ec-5596-48ce-acad-f0af8d9dab4d failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m5b28f6aa-a4cb-441e-b153-edd79565153a failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m63ce1251-f40c-49f3-86aa-146d6295fb4f failed at default with error error sending request for url (http://payment-processor-default:8080/payments), 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0m130f05fe-eee0-4c7a-96ae-e982ab4e4302 failed at default with status 500 Internal Server Error, 1 attempts
+api2-1   | 05:43:27 [0m[31m[ERROR] [0m72edcd1c-0d10-484d-a9ec-a55d9d7e5ce6 failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0mac152335-04bd-43a2-b8a3-8bd2961ac72b failed at default with status 500 Internal Server Error, 1 attempts
+api1-1   | 05:43:27 [0m[31m[ERROR] [0mf3850d69-12ec-4016-8f7e-4474ae05b844 failed at default with status 500 Internal Server Error, 1 attempts
+log truncated at line 1000

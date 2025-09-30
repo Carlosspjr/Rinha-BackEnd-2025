@@ -1,0 +1,1001 @@
+
+ api2 Pulling 
+ worker Pulling 
+ network-setup Pulling 
+ api1 Pulling 
+ 9824c27679d3 Already exists 
+ 745a1af2fe11 Pulling fs layer 
+ e079bb2ff524 Pulling fs layer 
+ 2f52b3f88640 Pulling fs layer 
+ 8c485791fc49 Pulling fs layer 
+ ae996312aaf3 Pulling fs layer 
+ 8c485791fc49 Waiting 
+ ae996312aaf3 Waiting 
+ 2f52b3f88640 Downloading [=>                                                 ]     935B/44.27kB
+ 2f52b3f88640 Verifying Checksum 
+ 2f52b3f88640 Download complete 
+ 9824c27679d3 Already exists 
+ 745a1af2fe11 Pulling fs layer 
+ e079bb2ff524 Pulling fs layer 
+ 2f52b3f88640 Pulling fs layer 
+ 8c485791fc49 Pulling fs layer 
+ ae996312aaf3 Pulling fs layer 
+ ae996312aaf3 Waiting 
+ 2f52b3f88640 Download complete 
+ 8c485791fc49 Waiting 
+ 8c485791fc49 Downloading [>                                                  ]  52.06kB/5.164MB
+ 8c485791fc49 Downloading [>                                                  ]  52.06kB/5.164MB
+ 9824c27679d3 Already exists 
+ 745a1af2fe11 Pulling fs layer 
+ e079bb2ff524 Pulling fs layer 
+ 2f52b3f88640 Pulling fs layer 
+ 8c485791fc49 Pulling fs layer 
+ ae996312aaf3 Pulling fs layer 
+ ae996312aaf3 Waiting 
+ 2f52b3f88640 Download complete 
+ 8c485791fc49 Downloading [>                                                  ]  52.06kB/5.164MB
+ 745a1af2fe11 Verifying Checksum 
+ 745a1af2fe11 Downloading [==================================================>]      93B/93B
+ 745a1af2fe11 Verifying Checksum 
+ 745a1af2fe11 Verifying Checksum 
+ 745a1af2fe11 Extracting [==================================================>]      93B/93B
+ 745a1af2fe11 Extracting [==================================================>]      93B/93B
+ 745a1af2fe11 Extracting [==================================================>]      93B/93B
+ 745a1af2fe11 Extracting [==================================================>]      93B/93B
+ 745a1af2fe11 Extracting [==================================================>]      93B/93B
+ 745a1af2fe11 Extracting [==================================================>]      93B/93B
+ 9824c27679d3 Already exists 
+ 58ebeacb5069 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 499c513a0a32 Pulling fs layer 
+ 773c23551ae3 Pulling fs layer 
+ a81e2e8a4d16 Pulling fs layer 
+ 102b158915f6 Pulling fs layer 
+ 18f5c9f19652 Pulling fs layer 
+ 58ebeacb5069 Waiting 
+ 4f4fb700ef54 Waiting 
+ 5de31166e21d Pulling fs layer 
+ 499c513a0a32 Waiting 
+ 45275556821f Pulling fs layer 
+ 773c23551ae3 Waiting 
+ a81e2e8a4d16 Waiting 
+ b8791499fa9b Pulling fs layer 
+ 102b158915f6 Waiting 
+ 2fadee7df1b3 Pulling fs layer 
+ 18f5c9f19652 Waiting 
+ 5de31166e21d Waiting 
+ 585c63523750 Pulling fs layer 
+ 45275556821f Waiting 
+ f66ef36d1f42 Pulling fs layer 
+ b8791499fa9b Waiting 
+ beaa56a13dff Pulling fs layer 
+ 2fadee7df1b3 Waiting 
+ 585c63523750 Waiting 
+ d2ae60b32004 Pulling fs layer 
+ f66ef36d1f42 Waiting 
+ beaa56a13dff Waiting 
+ d2ae60b32004 Waiting 
+ 745a1af2fe11 Pull complete 
+ 745a1af2fe11 Pull complete 
+ 745a1af2fe11 Pull complete 
+ 8c485791fc49 Downloading [==============================>                    ]  3.193MB/5.164MB
+ 8c485791fc49 Downloading [==============================>                    ]  3.193MB/5.164MB
+ 8c485791fc49 Downloading [==============================>                    ]  3.193MB/5.164MB
+ e079bb2ff524 Verifying Checksum 
+ e079bb2ff524 Download complete 
+ e079bb2ff524 Downloading [==================================================>]     330B/330B
+ e079bb2ff524 Verifying Checksum 
+ e079bb2ff524 Download complete 
+ e079bb2ff524 Download complete 
+ e079bb2ff524 Extracting [==================================================>]     330B/330B
+ e079bb2ff524 Extracting [==================================================>]     330B/330B
+ e079bb2ff524 Extracting [==================================================>]     330B/330B
+ e079bb2ff524 Extracting [==================================================>]     330B/330B
+ e079bb2ff524 Extracting [==================================================>]     330B/330B
+ e079bb2ff524 Extracting [==================================================>]     330B/330B
+ e079bb2ff524 Pull complete 
+ e079bb2ff524 Pull complete 
+ e079bb2ff524 Pull complete 
+ 2f52b3f88640 Extracting [=====================================>             ]  32.77kB/44.27kB
+ 2f52b3f88640 Extracting [=====================================>             ]  32.77kB/44.27kB
+ 2f52b3f88640 Extracting [=====================================>             ]  32.77kB/44.27kB
+ 2f52b3f88640 Extracting [==================================================>]  44.27kB/44.27kB
+ 2f52b3f88640 Extracting [==================================================>]  44.27kB/44.27kB
+ 2f52b3f88640 Extracting [==================================================>]  44.27kB/44.27kB
+ 2f52b3f88640 Pull complete 
+ 2f52b3f88640 Pull complete 
+ 2f52b3f88640 Pull complete 
+ 8c485791fc49 Verifying Checksum 
+ 8c485791fc49 Download complete 
+ 8c485791fc49 Verifying Checksum 
+ 8c485791fc49 Download complete 
+ 8c485791fc49 Verifying Checksum 
+ 8c485791fc49 Download complete 
+ 8c485791fc49 Extracting [>                                                  ]  65.54kB/5.164MB
+ 8c485791fc49 Extracting [>                                                  ]  65.54kB/5.164MB
+ 8c485791fc49 Extracting [>                                                  ]  65.54kB/5.164MB
+ 8c485791fc49 Extracting [==================================================>]  5.164MB/5.164MB
+ 8c485791fc49 Extracting [==================================================>]  5.164MB/5.164MB
+ 8c485791fc49 Extracting [==================================================>]  5.164MB/5.164MB
+ 8c485791fc49 Extracting [==================================================>]  5.164MB/5.164MB
+ 8c485791fc49 Extracting [==================================================>]  5.164MB/5.164MB
+ 8c485791fc49 Extracting [==================================================>]  5.164MB/5.164MB
+ 8c485791fc49 Pull complete 
+ 8c485791fc49 Pull complete 
+ 8c485791fc49 Pull complete 
+ ae996312aaf3 Downloading [>                                                  ]  59.74kB/5.679MB
+ ae996312aaf3 Downloading [>                                                  ]  59.74kB/5.679MB
+ ae996312aaf3 Downloading [>                                                  ]  59.74kB/5.679MB
+ ae996312aaf3 Verifying Checksum 
+ ae996312aaf3 Verifying Checksum 
+ ae996312aaf3 Download complete 
+ ae996312aaf3 Verifying Checksum 
+ ae996312aaf3 Download complete 
+ ae996312aaf3 Download complete 
+ ae996312aaf3 Extracting [>                                                  ]  65.54kB/5.679MB
+ ae996312aaf3 Extracting [>                                                  ]  65.54kB/5.679MB
+ ae996312aaf3 Extracting [>                                                  ]  65.54kB/5.679MB
+ ae996312aaf3 Extracting [==================================================>]  5.679MB/5.679MB
+ ae996312aaf3 Extracting [==================================================>]  5.679MB/5.679MB
+ ae996312aaf3 Extracting [==================================================>]  5.679MB/5.679MB
+ ae996312aaf3 Pull complete 
+ ae996312aaf3 Pull complete 
+ ae996312aaf3 Pull complete 
+ api1 Pulled 
+ api2 Pulled 
+ worker Pulled 
+ 58ebeacb5069 Downloading [>                                                  ]  82.19kB/8.198MB
+ 4f4fb700ef54 Download complete 
+ 58ebeacb5069 Downloading [=======================>                           ]  3.801MB/8.198MB
+ 58ebeacb5069 Verifying Checksum 
+ 58ebeacb5069 Download complete 
+ 58ebeacb5069 Extracting [>                                                  ]   98.3kB/8.198MB
+ 58ebeacb5069 Extracting [==================>                                ]  3.047MB/8.198MB
+ 58ebeacb5069 Extracting [==================================================>]  8.198MB/8.198MB
+ 499c513a0a32 Downloading [==================================================>]     457B/457B
+ 499c513a0a32 Verifying Checksum 
+ 499c513a0a32 Download complete 
+ 58ebeacb5069 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 499c513a0a32 Extracting [==================================================>]     457B/457B
+ 499c513a0a32 Extracting [==================================================>]     457B/457B
+ 499c513a0a32 Pull complete 
+ 773c23551ae3 Downloading [>                                                  ]  205.1kB/20.47MB
+ 773c23551ae3 Downloading [=============>                                     ]  5.489MB/20.47MB
+ 773c23551ae3 Downloading [=====================>                             ]  8.647MB/20.47MB
+ a81e2e8a4d16 Downloading [>                                                  ]  233.5kB/21.96MB
+ 102b158915f6 Downloading [>                                                  ]  217.2kB/21.46MB
+ 773c23551ae3 Downloading [===========================>                       ]  11.12MB/20.47MB
+ a81e2e8a4d16 Downloading [=======>                                           ]  3.207MB/21.96MB
+ 102b158915f6 Downloading [=======>                                           ]  3.326MB/21.46MB
+ 773c23551ae3 Downloading [===============================>                   ]  13.04MB/20.47MB
+ a81e2e8a4d16 Downloading [==============>                                    ]  6.402MB/21.96MB
+ 773c23551ae3 Downloading [==========================================>        ]  17.25MB/20.47MB
+ 102b158915f6 Downloading [==============>                                    ]  6.013MB/21.46MB
+ a81e2e8a4d16 Downloading [============================>                      ]  12.55MB/21.96MB
+ 773c23551ae3 Verifying Checksum 
+ 773c23551ae3 Download complete 
+ 773c23551ae3 Extracting [>                                                  ]  229.4kB/20.47MB
+ 102b158915f6 Downloading [==================>                                ]  7.811MB/21.46MB
+ a81e2e8a4d16 Downloading [===================================>               ]  15.74MB/21.96MB
+ 773c23551ae3 Extracting [================>                                  ]  6.881MB/20.47MB
+ 102b158915f6 Downloading [========================>                          ]  10.49MB/21.46MB
+ a81e2e8a4d16 Downloading [===============================================>   ]  21.01MB/21.96MB
+ 773c23551ae3 Extracting [==================================================>]  20.47MB/20.47MB
+ a81e2e8a4d16 Verifying Checksum 
+ a81e2e8a4d16 Download complete 
+ 773c23551ae3 Pull complete 
+ a81e2e8a4d16 Extracting [>                                                  ]  229.4kB/21.96MB
+ 102b158915f6 Downloading [=================================>                 ]  14.55MB/21.46MB
+ a81e2e8a4d16 Extracting [================>                                  ]  7.111MB/21.96MB
+ 102b158915f6 Downloading [=======================================>           ]  16.99MB/21.46MB
+ a81e2e8a4d16 Extracting [================================>                  ]  14.45MB/21.96MB
+ 102b158915f6 Downloading [=============================================>     ]  19.45MB/21.46MB
+ 102b158915f6 Verifying Checksum 
+ 102b158915f6 Download complete 
+ 18f5c9f19652 Downloading [==================================================>]     538B/538B
+ 18f5c9f19652 Verifying Checksum 
+ 18f5c9f19652 Download complete 
+ a81e2e8a4d16 Extracting [================================================>  ]   21.1MB/21.96MB
+ a81e2e8a4d16 Extracting [==================================================>]  21.96MB/21.96MB
+ a81e2e8a4d16 Pull complete 
+ 102b158915f6 Extracting [>                                                  ]  229.4kB/21.46MB
+ 102b158915f6 Extracting [================>                                  ]  7.111MB/21.46MB
+ 5de31166e21d Downloading [==================================================>]   1.01kB/1.01kB
+ 5de31166e21d Verifying Checksum 
+ 5de31166e21d Download complete 
+ 102b158915f6 Extracting [================================>                  ]  13.76MB/21.46MB
+ 102b158915f6 Extracting [===============================================>   ]  20.19MB/21.46MB
+ 102b158915f6 Extracting [==================================================>]  21.46MB/21.46MB
+ 102b158915f6 Pull complete 
+ 18f5c9f19652 Extracting [==================================================>]     538B/538B
+ 18f5c9f19652 Extracting [==================================================>]     538B/538B
+ 18f5c9f19652 Pull complete 
+ 5de31166e21d Extracting [==================================================>]   1.01kB/1.01kB
+ 5de31166e21d Extracting [==================================================>]   1.01kB/1.01kB
+ 5de31166e21d Pull complete 
+ 45275556821f Downloading [==================================================>]     116B/116B
+ 45275556821f Download complete 
+ 45275556821f Extracting [==================================================>]     116B/116B
+ 45275556821f Extracting [==================================================>]     116B/116B
+ b8791499fa9b Downloading [>                                                  ]  70.03kB/6.906MB
+ 45275556821f Pull complete 
+ b8791499fa9b Downloading [================================>                  ]  4.424MB/6.906MB
+ b8791499fa9b Verifying Checksum 
+ b8791499fa9b Download complete 
+ b8791499fa9b Extracting [>                                                  ]   98.3kB/6.906MB
+ 2fadee7df1b3 Downloading [>                                                  ]  1.048kB/90.22kB
+ 2fadee7df1b3 Verifying Checksum 
+ 2fadee7df1b3 Download complete 
+ b8791499fa9b Extracting [==================================>                ]  4.719MB/6.906MB
+ b8791499fa9b Extracting [===============================================>   ]  6.586MB/6.906MB
+ b8791499fa9b Extracting [==================================================>]  6.906MB/6.906MB
+ b8791499fa9b Pull complete 
+ 2fadee7df1b3 Extracting [==================>                                ]  32.77kB/90.22kB
+ 2fadee7df1b3 Extracting [==================================================>]  90.22kB/90.22kB
+ 2fadee7df1b3 Extracting [==================================================>]  90.22kB/90.22kB
+ 2fadee7df1b3 Pull complete 
+ 585c63523750 Downloading [==================================================>]  1.008kB/1.008kB
+ 585c63523750 Verifying Checksum 
+ 585c63523750 Download complete 
+ 585c63523750 Extracting [==================================================>]  1.008kB/1.008kB
+ 585c63523750 Extracting [==================================================>]  1.008kB/1.008kB
+ 585c63523750 Pull complete 
+ f66ef36d1f42 Downloading [>                                                  ]  528.4kB/62.52MB
+ beaa56a13dff Downloading [========================================>          ]  1.369kB/1.688kB
+ beaa56a13dff Downloading [==================================================>]  1.688kB/1.688kB
+ beaa56a13dff Download complete 
+ f66ef36d1f42 Downloading [===>                                               ]  4.289MB/62.52MB
+ f66ef36d1f42 Downloading [=======>                                           ]  9.646MB/62.52MB
+ f66ef36d1f42 Downloading [===========>                                       ]  14.48MB/62.52MB
+ f66ef36d1f42 Downloading [=============>                                     ]  16.61MB/62.52MB
+ d2ae60b32004 Downloading [===============>                                   ]  1.049kB/3.298kB
+ d2ae60b32004 Downloading [==================================================>]  3.298kB/3.298kB
+ d2ae60b32004 Download complete 
+ f66ef36d1f42 Downloading [=================>                                 ]   22.5MB/62.52MB
+ f66ef36d1f42 Downloading [===================>                               ]  24.63MB/62.52MB
+ f66ef36d1f42 Downloading [=======================>                           ]  29.44MB/62.52MB
+ f66ef36d1f42 Downloading [=========================>                         ]  31.59MB/62.52MB
+ f66ef36d1f42 Downloading [===========================>                       ]   34.8MB/62.52MB
+ f66ef36d1f42 Downloading [=============================>                     ]  36.41MB/62.52MB
+ f66ef36d1f42 Downloading [================================>                  ]  40.69MB/62.52MB
+ f66ef36d1f42 Downloading [==================================>                ]  42.84MB/62.52MB
+ f66ef36d1f42 Downloading [===================================>               ]  44.98MB/62.52MB
+ f66ef36d1f42 Downloading [======================================>            ]  47.67MB/62.52MB
+ f66ef36d1f42 Downloading [=======================================>           ]  49.26MB/62.52MB
+ f66ef36d1f42 Downloading [========================================>          ]  50.87MB/62.52MB
+ f66ef36d1f42 Downloading [=========================================>         ]  52.48MB/62.52MB
+ f66ef36d1f42 Downloading [=============================================>     ]  57.29MB/62.52MB
+ f66ef36d1f42 Downloading [===============================================>   ]  59.98MB/62.52MB
+ f66ef36d1f42 Verifying Checksum 
+ f66ef36d1f42 Download complete 
+ f66ef36d1f42 Extracting [>                                                  ]  557.1kB/62.52MB
+ f66ef36d1f42 Extracting [======>                                            ]  8.356MB/62.52MB
+ f66ef36d1f42 Extracting [============>                                      ]   15.6MB/62.52MB
+ f66ef36d1f42 Extracting [==================>                                ]   23.4MB/62.52MB
+ f66ef36d1f42 Extracting [========================>                          ]  30.64MB/62.52MB
+ f66ef36d1f42 Extracting [=============================>                     ]  37.32MB/62.52MB
+ f66ef36d1f42 Extracting [====================================>              ]  45.68MB/62.52MB
+ f66ef36d1f42 Extracting [==========================================>        ]  53.48MB/62.52MB
+ f66ef36d1f42 Extracting [================================================>  ]  60.16MB/62.52MB
+ f66ef36d1f42 Extracting [==================================================>]  62.52MB/62.52MB
+ f66ef36d1f42 Pull complete 
+ beaa56a13dff Extracting [==================================================>]  1.688kB/1.688kB
+ beaa56a13dff Extracting [==================================================>]  1.688kB/1.688kB
+ beaa56a13dff Pull complete 
+ d2ae60b32004 Extracting [==================================================>]  3.298kB/3.298kB
+ d2ae60b32004 Extracting [==================================================>]  3.298kB/3.298kB
+ d2ae60b32004 Pull complete 
+ network-setup Pulled 
+ Network payment-proxy_default  Creating
+ Network payment-proxy_default  Created
+ Network payment-proxy_acsbackend  Creating
+ Network payment-proxy_acsbackend  Created
+ Container network-setup  Creating
+ Container network-setup  Created
+ Container worker  Creating
+ Container api2  Creating
+ Container api1  Creating
+ Container worker  Created
+ Container api2  Created
+ Container api1  Created
+ Container nginx-lb  Creating
+ Container nginx-lb  Created
+Attaching to api1, api2, network-setup, nginx-lb, worker
+network-setup  | [
+network-setup  |     {
+network-setup  |         "Name": "payment-proxy_acsbackend",
+network-setup  |         "Id": "5872096f545f6d44ae81090cbf6cd2aa0fa5195ae14b806a107dcc04ac3c75f4",
+network-setup  |         "Created": "2025-08-21T01:28:34.898127369Z",
+network-setup  |         "Scope": "local",
+network-setup  |         "Driver": "bridge",
+network-setup  |         "EnableIPv4": true,
+network-setup  |         "EnableIPv6": false,
+network-setup  |         "IPAM": {
+network-setup  |             "Driver": "default",
+network-setup  |             "Options": null,
+network-setup  |             "Config": [
+network-setup  |                 {
+network-setup  |                     "Subnet": "172.25.0.0/16"
+network-setup  |                 }
+network-setup  |             ]
+network-setup  |         },
+network-setup  |         "Internal": false,
+network-setup  |         "Attachable": false,
+network-setup  |         "Ingress": false,
+network-setup  |         "ConfigFrom": {
+network-setup  |             "Network": ""
+network-setup  |         },
+network-setup  |         "ConfigOnly": false,
+network-setup  |         "Containers": {},
+network-setup  |         "Options": {},
+network-setup  |         "Labels": {
+network-setup  |             "com.docker.compose.config-hash": "c34582086e6c90892e72eda7826397683dfed1eab6662ef90e5a307e2ad9c712",
+network-setup  |             "com.docker.compose.network": "acsbackend",
+network-setup  |             "com.docker.compose.project": "payment-proxy",
+network-setup  |             "com.docker.compose.version": "2.39.1"
+network-setup  |         }
+network-setup  |     }
+network-setup  | ]
+[Knetwork-setup exited with code 0
+api2           | Running 'server'...
+api2           | 2025/08/21 01:28:37 INFO server started on :9999
+worker         | Running 'worker'...
+worker         | 2025/08/21 01:28:37 Servidor UDP escutando na porta :9000
+worker         | 2025/08/21 01:28:37 [INFO] Starting PaymentsQueue with 16 workers
+worker         | 2025/08/21 01:28:37 [worker 0] started
+worker         | 2025/08/21 01:28:37 [worker 1] started
+worker         | 2025/08/21 01:28:37 [worker 8] started
+worker         | 2025/08/21 01:28:37 [worker 2] started
+worker         | 2025/08/21 01:28:37 [worker 3] started
+worker         | 2025/08/21 01:28:37 [worker 15] started
+worker         | 2025/08/21 01:28:37 [worker 4] started
+worker         | 2025/08/21 01:28:37 [worker 5] started
+worker         | 2025/08/21 01:28:37 [worker 9] started
+worker         | 2025/08/21 01:28:37 [worker 6] started
+worker         | 2025/08/21 01:28:37 [worker 10] started
+worker         | 2025/08/21 01:28:37 [worker 7] started
+worker         | 2025/08/21 01:28:37 [worker 11] started
+worker         | 2025/08/21 01:28:37 [worker 13] started
+worker         | 2025/08/21 01:28:37 [worker 14] started
+worker         | 2025/08/21 01:28:37 [worker 12] started
+api1           | Running 'server'...
+api1           | 2025/08/21 01:28:37 INFO server started on :9999
+nginx-lb       | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx-lb       | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx-lb       | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx-lb       | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx-lb       | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx-lb       | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx-lb       | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx-lb       | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx-lb       | /docker-entrypoint.sh: Configuration complete; ready for start up
+api1           | 2025/08/21 01:28:39 INFO handlePaymentsSummary time=0
+worker         | 2025/08/21 01:28:45 [info] queues cleared (paymentChan len=0 retryChan len=0)
+api2           | 2025/08/21 01:28:45 INFO handlePaymentsSummary time=0
+api1           | 2025/08/21 01:28:55 INFO handlePaymentsSummary time=0
+api1           | 2025/08/21 01:29:05 INFO handlePaymentsSummary time=1
+api1           | 2025/08/21 01:29:15 INFO handlePaymentsSummary time=1
+api1           | 2025/08/21 01:29:25 INFO handlePaymentsSummary time=1
+api2           | 2025/08/21 01:29:35 INFO handlePaymentsSummary time=1
+api2           | 2025/08/21 01:29:45 INFO handlePaymentsSummary time=1
+api2           | 2025/08/21 01:29:55 INFO handlePaymentsSummary time=1
+api2           | 2025/08/21 01:30:05 INFO handlePaymentsSummary time=1
+api1           | 2025/08/21 01:30:15 INFO handlePaymentsSummary time=1
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=1a0d629f-03c5-425a-8ebd-3fea69e20630 err=EOF
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=c5304ab6-3c2f-40de-9bea-f0929fe45246 err=EOF
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=38363710-a977-4d72-9584-16b72c88b290 err=EOF
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=9f95d2d2-198c-4e0c-aa14-37753ccf4eed err=EOF
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=34a80941-d9b8-443d-bff8-8774b8b1a3f0 err=EOF
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=cea349f6-3c01-4571-8ad9-5a76c97033e2 err=EOF
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=4997826a-f11c-4778-84ed-e503a62453c8 err=EOF
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=5f284ea1-9c38-4345-b458-9eef4f13c8eb err=EOF
+worker         | 2025/08/21 01:30:15 [WARN] process payment failed (attempt 1) CorrelationID=8fe14094-ebea-441a-8a2b-78a68e30ff04 err=EOF
+worker         | 2025/08/21 01:30:16 [WARN] process payment failed (attempt 1) CorrelationID=1b4a0508-57b6-4ecb-b34d-3af12903f3dd err=EOF
+worker         | 2025/08/21 01:30:16 [WARN] process payment failed (attempt 1) CorrelationID=42baa7f4-f9e8-4773-aa0b-db2d0f705c07 err=EOF
+worker         | 2025/08/21 01:30:16 [WARN] process payment failed (attempt 1) CorrelationID=f97f2558-1180-4488-abc0-b9e39f0648d7 err=EOF
+worker         | 2025/08/21 01:30:16 [WARN] process payment failed (attempt 1) CorrelationID=72c4e80e-ffa9-4317-aedc-a6138612fbcf err=EOF
+worker         | 2025/08/21 01:30:16 [WARN] process payment failed (attempt 1) CorrelationID=fd388890-1152-41dc-a2e2-8df18ccb983d err=EOF
+worker         | 2025/08/21 01:30:16 [WARN] process payment failed (attempt 1) CorrelationID=1d691a43-a67f-4626-b27c-eddd4b7ae761 err=EOF
+worker         | 2025/08/21 01:30:16 [WARN] process payment failed (attempt 1) CorrelationID=42be6d58-7e61-4325-bf3f-c434872013ab err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 1) CorrelationID=0501fbbe-b179-484c-b34b-238e647d6e2b err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 2) CorrelationID=1a0d629f-03c5-425a-8ebd-3fea69e20630 err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 2) CorrelationID=c5304ab6-3c2f-40de-9bea-f0929fe45246 err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 2) CorrelationID=38363710-a977-4d72-9584-16b72c88b290 err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 2) CorrelationID=9f95d2d2-198c-4e0c-aa14-37753ccf4eed err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 2) CorrelationID=34a80941-d9b8-443d-bff8-8774b8b1a3f0 err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 2) CorrelationID=cea349f6-3c01-4571-8ad9-5a76c97033e2 err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 1) CorrelationID=7908e0c9-940a-4d01-ae9b-991f0a2e7e9f err=EOF
+worker         | 2025/08/21 01:30:17 [WARN] process payment failed (attempt 2) CorrelationID=4997826a-f11c-4778-84ed-e503a62453c8 err=EOF
+worker         | 2025/08/21 01:30:18 [WARN] process payment failed (attempt 2) CorrelationID=5f284ea1-9c38-4345-b458-9eef4f13c8eb err=EOF
+worker         | 2025/08/21 01:30:18 [WARN] process payment failed (attempt 2) CorrelationID=f97f2558-1180-4488-abc0-b9e39f0648d7 err=EOF
+worker         | 2025/08/21 01:30:18 [WARN] process payment failed (attempt 2) CorrelationID=1b4a0508-57b6-4ecb-b34d-3af12903f3dd err=EOF
+worker         | 2025/08/21 01:30:18 [WARN] process payment failed (attempt 2) CorrelationID=8fe14094-ebea-441a-8a2b-78a68e30ff04 err=EOF
+worker         | 2025/08/21 01:30:18 [WARN] process payment failed (attempt 2) CorrelationID=42baa7f4-f9e8-4773-aa0b-db2d0f705c07 err=EOF
+worker         | 2025/08/21 01:30:18 [WARN] process payment failed (attempt 1) CorrelationID=5dd639b2-ecd1-48bf-b77c-52d4005ab6a1 err=EOF
+worker         | 2025/08/21 01:30:18 [WARN] process payment failed (attempt 1) CorrelationID=9d14a3b7-2def-43cf-9e00-7b2a068fe91c err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 2) CorrelationID=72c4e80e-ffa9-4317-aedc-a6138612fbcf err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 1) CorrelationID=b83e14de-6c75-428e-a821-b424295fba2b err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 1) CorrelationID=a8e61fe9-014a-486c-9008-4a0b74c44793 err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 2) CorrelationID=fd388890-1152-41dc-a2e2-8df18ccb983d err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 2) CorrelationID=1d691a43-a67f-4626-b27c-eddd4b7ae761 err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 1) CorrelationID=313be9be-94c0-46c3-9e62-5eb72e24ea37 err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 2) CorrelationID=42be6d58-7e61-4325-bf3f-c434872013ab err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 2) CorrelationID=0501fbbe-b179-484c-b34b-238e647d6e2b err=EOF
+worker         | 2025/08/21 01:30:19 [WARN] process payment failed (attempt 1) CorrelationID=7ce4c606-569f-45d1-b77f-fa72a7855a2d err=EOF
+worker         | 2025/08/21 01:30:20 [WARN] process payment failed (attempt 1) CorrelationID=58b39cf3-7632-4510-a39c-5bf622cf79c9 err=EOF
+worker         | 2025/08/21 01:30:20 [WARN] process payment failed (attempt 3) CorrelationID=1a0d629f-03c5-425a-8ebd-3fea69e20630 err=EOF
+worker         | 2025/08/21 01:30:20 [WARN] process payment failed (attempt 3) CorrelationID=c5304ab6-3c2f-40de-9bea-f0929fe45246 err=EOF
+worker         | 2025/08/21 01:30:20 [WARN] process payment failed (attempt 1) CorrelationID=1f690fc0-0e00-47c3-ab0e-d5b7c44078e5 err=EOF
+worker         | 2025/08/21 01:30:20 [WARN] process payment failed (attempt 1) CorrelationID=695e75bc-35bf-4229-8250-21203fd3bacf err=EOF
+worker         | 2025/08/21 01:30:20 [WARN] process payment failed (attempt 1) CorrelationID=448d0f84-c3a7-4bd2-b0a6-86a8dba63b1f err=EOF
+worker         | 2025/08/21 01:30:20 [WARN] process payment failed (attempt 1) CorrelationID=e92daa52-69cc-4f91-af02-1616c16274d5 err=EOF
+api1           | 2025/08/21 01:30:25 INFO handlePaymentsSummary time=1
+api2           | 2025/08/21 01:30:35 INFO handlePaymentsSummary time=1
+api1           | 2025/08/21 01:30:45 INFO handlePaymentsSummary time=1
+api2           | 2025/08/21 01:30:55 INFO handlePaymentsSummary time=3
+api1           | 2025/08/21 01:31:05 INFO handlePaymentsSummary time=2
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+api2           | 2025/08/21 01:31:15 INFO handlePaymentsSummary time=2
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=d0f5f352-0984-4a7d-842e-23391ec51c3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=598963a4-8926-4c6d-8c1b-f63b3b523375 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=ea2c0785-3055-443f-962c-4c1cc0fd50b7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=76beebb5-d69f-49a2-ae7c-8cbcd0da2976 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=62fc3e68-458b-4f99-aeb6-a0097c8bf2b1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=4ac5a961-ed91-462f-9944-d3de026220b4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=1fb8e3ba-0b9b-4821-98a9-b779444383a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=d0f5f352-0984-4a7d-842e-23391ec51c3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=598963a4-8926-4c6d-8c1b-f63b3b523375 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=b93ab5ca-be55-44cc-bb4a-436b81edf020 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=1b379c96-551f-417a-9aea-cc8ee4616ce6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=c77f97a8-b157-4daf-b5ee-5f3f8c827a8e err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=ea2c0785-3055-443f-962c-4c1cc0fd50b7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=02bd6a86-f56e-4257-b674-01cd33d0d511 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=62fc3e68-458b-4f99-aeb6-a0097c8bf2b1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=76beebb5-d69f-49a2-ae7c-8cbcd0da2976 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=4ac5a961-ed91-462f-9944-d3de026220b4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=1fb8e3ba-0b9b-4821-98a9-b779444383a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=8a3f3456-b4c5-4640-a7f0-d7d7ca58dbc0 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=d0f5f352-0984-4a7d-842e-23391ec51c3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=598963a4-8926-4c6d-8c1b-f63b3b523375 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=b93ab5ca-be55-44cc-bb4a-436b81edf020 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=ea2c0785-3055-443f-962c-4c1cc0fd50b7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=c77f97a8-b157-4daf-b5ee-5f3f8c827a8e err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=1b379c96-551f-417a-9aea-cc8ee4616ce6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=62fc3e68-458b-4f99-aeb6-a0097c8bf2b1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=02bd6a86-f56e-4257-b674-01cd33d0d511 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=76beebb5-d69f-49a2-ae7c-8cbcd0da2976 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=5f366dac-34d0-4f48-9107-9d443e810761 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=e9930487-a569-4b35-973c-d7cba85b5655 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=55496ce0-a81f-4258-93d3-fb9423dccb2f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=236258d9-dca8-40f4-98c1-7983a663a58a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=8122e141-2902-4544-a755-e1f0305bed41 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=07165da5-b54b-4317-a41e-48b6514fdf36 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=4ac5a961-ed91-462f-9944-d3de026220b4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=1fb8e3ba-0b9b-4821-98a9-b779444383a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=53c23148-0f46-4b19-ae99-95b3272d5a35 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=8a3f3456-b4c5-4640-a7f0-d7d7ca58dbc0 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=002e17c1-092c-43ea-97dc-27dd79d7e6a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=d0f5f352-0984-4a7d-842e-23391ec51c3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=598963a4-8926-4c6d-8c1b-f63b3b523375 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=ea2c0785-3055-443f-962c-4c1cc0fd50b7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=b93ab5ca-be55-44cc-bb4a-436b81edf020 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=5171b2dc-f3fe-4180-8a5b-29c7b96b95b8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=c77f97a8-b157-4daf-b5ee-5f3f8c827a8e err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=4ad1dc39-6964-40e7-8706-d40595028398 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=62fc3e68-458b-4f99-aeb6-a0097c8bf2b1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=1b379c96-551f-417a-9aea-cc8ee4616ce6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=02bd6a86-f56e-4257-b674-01cd33d0d511 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=1fb873f7-6997-4da8-9cd9-d2c281dd1f90 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=e9930487-a569-4b35-973c-d7cba85b5655 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=76beebb5-d69f-49a2-ae7c-8cbcd0da2976 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=5f366dac-34d0-4f48-9107-9d443e810761 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=6762175e-fcfb-4584-9c6c-5936b6e2fe55 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=8122e141-2902-4544-a755-e1f0305bed41 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=07165da5-b54b-4317-a41e-48b6514fdf36 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=55496ce0-a81f-4258-93d3-fb9423dccb2f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=236258d9-dca8-40f4-98c1-7983a663a58a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=1fb8e3ba-0b9b-4821-98a9-b779444383a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=a01ea07e-fedf-42e1-a4ae-46171ab1e1e5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=4ac5a961-ed91-462f-9944-d3de026220b4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=14ede2b2-9a7c-4e8e-b8e7-e590eb7c3346 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=6427e9a3-4c09-4e98-b3b0-0ea5b3ce42eb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=4b919116-7e37-45a2-ab6a-8007fbbd6f3c err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=fecd544f-ebec-4b46-8a7f-71705c29f8e3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=53c23148-0f46-4b19-ae99-95b3272d5a35 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=002e17c1-092c-43ea-97dc-27dd79d7e6a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=8a3f3456-b4c5-4640-a7f0-d7d7ca58dbc0 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=d0f5f352-0984-4a7d-842e-23391ec51c3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=598963a4-8926-4c6d-8c1b-f63b3b523375 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=ea2c0785-3055-443f-962c-4c1cc0fd50b7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=f229f964-2a3e-4889-bcbe-6ea9b5602a22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=b93ab5ca-be55-44cc-bb4a-436b81edf020 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=5171b2dc-f3fe-4180-8a5b-29c7b96b95b8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=c77f97a8-b157-4daf-b5ee-5f3f8c827a8e err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=4ad1dc39-6964-40e7-8706-d40595028398 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=1b379c96-551f-417a-9aea-cc8ee4616ce6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=62fc3e68-458b-4f99-aeb6-a0097c8bf2b1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=1fb873f7-6997-4da8-9cd9-d2c281dd1f90 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=02bd6a86-f56e-4257-b674-01cd33d0d511 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=e9930487-a569-4b35-973c-d7cba85b5655 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=5f366dac-34d0-4f48-9107-9d443e810761 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=76beebb5-d69f-49a2-ae7c-8cbcd0da2976 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=6762175e-fcfb-4584-9c6c-5936b6e2fe55 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=e24ab9ec-8a5e-4b01-8a70-ab6599519ae6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=d9bc6bb1-87c5-418e-8d21-d57b3e8200dd err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=236258d9-dca8-40f4-98c1-7983a663a58a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=8122e141-2902-4544-a755-e1f0305bed41 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=7f89a93c-626e-498d-a533-16c4e87dc4a8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=1a77a774-015d-4018-88cf-33097911c411 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=07165da5-b54b-4317-a41e-48b6514fdf36 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=55496ce0-a81f-4258-93d3-fb9423dccb2f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=1fb8e3ba-0b9b-4821-98a9-b779444383a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=40ff7d6e-2af1-40fe-9af7-447cf9125dcc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=53c23148-0f46-4b19-ae99-95b3272d5a35 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=a01ea07e-fedf-42e1-a4ae-46171ab1e1e5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=4ac5a961-ed91-462f-9944-d3de026220b4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=14ede2b2-9a7c-4e8e-b8e7-e590eb7c3346 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=305b68aa-e787-4c8e-9bbb-57daee4034e5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=6427e9a3-4c09-4e98-b3b0-0ea5b3ce42eb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=002e17c1-092c-43ea-97dc-27dd79d7e6a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=4b919116-7e37-45a2-ab6a-8007fbbd6f3c err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=8a3f3456-b4c5-4640-a7f0-d7d7ca58dbc0 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=d3005dd6-d282-44af-b474-7aa3701705eb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=5ccd6749-132f-4093-8889-55819679d1d7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=fecd544f-ebec-4b46-8a7f-71705c29f8e3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=d0f5f352-0984-4a7d-842e-23391ec51c3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=598963a4-8926-4c6d-8c1b-f63b3b523375 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=5171b2dc-f3fe-4180-8a5b-29c7b96b95b8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=f229f964-2a3e-4889-bcbe-6ea9b5602a22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=ea2c0785-3055-443f-962c-4c1cc0fd50b7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=b93ab5ca-be55-44cc-bb4a-436b81edf020 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 15) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=c77f97a8-b157-4daf-b5ee-5f3f8c827a8e err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=1b379c96-551f-417a-9aea-cc8ee4616ce6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=4ad1dc39-6964-40e7-8706-d40595028398 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=62fc3e68-458b-4f99-aeb6-a0097c8bf2b1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=1fb873f7-6997-4da8-9cd9-d2c281dd1f90 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=e9930487-a569-4b35-973c-d7cba85b5655 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=02bd6a86-f56e-4257-b674-01cd33d0d511 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=76beebb5-d69f-49a2-ae7c-8cbcd0da2976 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=5f366dac-34d0-4f48-9107-9d443e810761 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=6762175e-fcfb-4584-9c6c-5936b6e2fe55 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=ecc4120c-9b49-4976-b7df-501d9970dd5f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=1a77a774-015d-4018-88cf-33097911c411 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=1084a632-d1f8-4308-a813-5463541679f1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=8122e141-2902-4544-a755-e1f0305bed41 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=7f89a93c-626e-498d-a533-16c4e87dc4a8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=e24ab9ec-8a5e-4b01-8a70-ab6599519ae6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=d9bc6bb1-87c5-418e-8d21-d57b3e8200dd err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=236258d9-dca8-40f4-98c1-7983a663a58a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=105a3aa3-77ba-48f7-a65d-a94cc5e23f72 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=07165da5-b54b-4317-a41e-48b6514fdf36 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=68382291-c0f5-4acb-bb65-a493914200d5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=e8d8a298-f834-49ca-bf73-b2ef619066b3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=f562bf0c-33a0-4775-a2f4-1459435b2744 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=40ff7d6e-2af1-40fe-9af7-447cf9125dcc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=1fb8e3ba-0b9b-4821-98a9-b779444383a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=e48eb8c6-8398-4044-be74-270e1ae4465f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=55496ce0-a81f-4258-93d3-fb9423dccb2f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=9286eefb-06c6-4469-8ba5-0fb13ccc6b88 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=82203fa7-ee43-4139-ac86-a57c4e2e92db err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=53c23148-0f46-4b19-ae99-95b3272d5a35 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=b5b08f91-0ba0-4116-ab8c-b4f243db8e77 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=305b68aa-e787-4c8e-9bbb-57daee4034e5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=14ede2b2-9a7c-4e8e-b8e7-e590eb7c3346 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=a01ea07e-fedf-42e1-a4ae-46171ab1e1e5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=6427e9a3-4c09-4e98-b3b0-0ea5b3ce42eb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=4ac5a961-ed91-462f-9944-d3de026220b4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=002e17c1-092c-43ea-97dc-27dd79d7e6a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=d0f5f352-0984-4a7d-842e-23391ec51c3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=8a3f3456-b4c5-4640-a7f0-d7d7ca58dbc0 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=5ccd6749-132f-4093-8889-55819679d1d7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=fecd544f-ebec-4b46-8a7f-71705c29f8e3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=d3005dd6-d282-44af-b474-7aa3701705eb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=4b919116-7e37-45a2-ab6a-8007fbbd6f3c err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=598963a4-8926-4c6d-8c1b-f63b3b523375 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 15) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=5171b2dc-f3fe-4180-8a5b-29c7b96b95b8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=8d1fa10e-7329-46c4-9544-77bbc0d84e85 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=f229f964-2a3e-4889-bcbe-6ea9b5602a22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=b20db394-df51-4353-88d5-c14383802824 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=ea2c0785-3055-443f-962c-4c1cc0fd50b7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=22e725cd-dbd9-4a7d-8e6b-6902448bf1e6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=0effef31-4ded-4fa7-b8cc-bc579d07ecaf err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=565e0869-4aa5-4675-bbde-2bf4f72e8b9c err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=30756c09-90d9-4052-a81e-aefcded03bb3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=1341510f-ca8e-4e02-b182-801d18c3fd08 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=b93ab5ca-be55-44cc-bb4a-436b81edf020 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=c77f97a8-b157-4daf-b5ee-5f3f8c827a8e err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 16) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=1b379c96-551f-417a-9aea-cc8ee4616ce6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 15) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=e5fdb00e-baff-4877-9ff6-9bc8098a3a19 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=62fc3e68-458b-4f99-aeb6-a0097c8bf2b1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=2e66c246-7cf3-4f36-8710-538a982e971b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=39f516aa-1d70-43ec-bee3-4bb93bb80ff3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=4ad1dc39-6964-40e7-8706-d40595028398 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=1fb873f7-6997-4da8-9cd9-d2c281dd1f90 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=36575f88-4af4-46f6-bdfd-2cff8f586aeb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=e9930487-a569-4b35-973c-d7cba85b5655 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=7bb6c811-e829-49eb-9568-8cd97b712da4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=e478e6dc-fb32-44a7-b57c-c4daa36769c5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 15) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 15) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=02bd6a86-f56e-4257-b674-01cd33d0d511 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=5f366dac-34d0-4f48-9107-9d443e810761 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=f1b5c898-a07f-4dd5-9fd6-3fdd0d42c07b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=76beebb5-d69f-49a2-ae7c-8cbcd0da2976 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=01d754ed-296a-4346-a3d4-9c0fe4f2d560 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=07e38c2d-f955-4a60-95bd-3856fd3dbd22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=ecc4120c-9b49-4976-b7df-501d9970dd5f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=c7dab056-54e3-415c-87c8-475ae9c78d88 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=6762175e-fcfb-4584-9c6c-5936b6e2fe55 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=1084a632-d1f8-4308-a813-5463541679f1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=1a77a774-015d-4018-88cf-33097911c411 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=d9bc6bb1-87c5-418e-8d21-d57b3e8200dd err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=7f89a93c-626e-498d-a533-16c4e87dc4a8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=8122e141-2902-4544-a755-e1f0305bed41 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=e24ab9ec-8a5e-4b01-8a70-ab6599519ae6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=105a3aa3-77ba-48f7-a65d-a94cc5e23f72 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=236258d9-dca8-40f4-98c1-7983a663a58a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=68382291-c0f5-4acb-bb65-a493914200d5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=07165da5-b54b-4317-a41e-48b6514fdf36 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=b5c2348a-73c0-4c96-bcb8-8a57034f8872 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=e8d8a298-f834-49ca-bf73-b2ef619066b3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 15) CorrelationID=16301a24-f2b5-4ffe-b544-112deed2a7da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=b2165642-6c49-47c0-abcc-b5cfaf2612d8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=3bd4c2b7-c233-4c5e-b4b7-2ffe4fa50a9f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=0f824a31-5c1c-48a7-8eb5-342260b42876 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=40ff7d6e-2af1-40fe-9af7-447cf9125dcc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=acb33a68-2388-4b48-bb8e-6e7ef074e1e9 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=688bbed6-a1b7-4a83-8591-f59bf7f14cf0 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=f562bf0c-33a0-4775-a2f4-1459435b2744 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=1fb8e3ba-0b9b-4821-98a9-b779444383a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=e48eb8c6-8398-4044-be74-270e1ae4465f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=55496ce0-a81f-4258-93d3-fb9423dccb2f err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=0738b865-2489-49c3-b4ed-dcd85a5fce48 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=9286eefb-06c6-4469-8ba5-0fb13ccc6b88 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=82203fa7-ee43-4139-ac86-a57c4e2e92db err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=14ede2b2-9a7c-4e8e-b8e7-e590eb7c3346 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=b5b08f91-0ba0-4116-ab8c-b4f243db8e77 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=53c23148-0f46-4b19-ae99-95b3272d5a35 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=305b68aa-e787-4c8e-9bbb-57daee4034e5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=4ac5a961-ed91-462f-9944-d3de026220b4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=002e17c1-092c-43ea-97dc-27dd79d7e6a6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=d0f5f352-0984-4a7d-842e-23391ec51c3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=a01ea07e-fedf-42e1-a4ae-46171ab1e1e5 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=6427e9a3-4c09-4e98-b3b0-0ea5b3ce42eb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=8a3f3456-b4c5-4640-a7f0-d7d7ca58dbc0 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=5ccd6749-132f-4093-8889-55819679d1d7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=f8d35f46-bc44-46d1-a273-9bf38faf07da err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=fecd544f-ebec-4b46-8a7f-71705c29f8e3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=639d0074-48c2-4d51-a03d-437f1beede7b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=4b919116-7e37-45a2-ab6a-8007fbbd6f3c err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=e7abab1f-047c-4677-b06b-98e90bbdeebc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=598963a4-8926-4c6d-8c1b-f63b3b523375 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 3) CorrelationID=d3005dd6-d282-44af-b474-7aa3701705eb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=c4dc27b6-a6d7-4b7f-b6d5-d894c90096cc err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=70e7f4c4-ed86-4315-9543-bfe408866048 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 16) CorrelationID=6a3013a6-d5f3-4bce-90c3-8392f4906e01 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=5171b2dc-f3fe-4180-8a5b-29c7b96b95b8 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=8bbf1c7a-0416-4b2d-a7d7-1424876705d6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=7f0d6496-af95-4240-bccf-c47def5696b6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=98aaab78-0b84-42fe-8d7f-5a9bdf10159a err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=8d1fa10e-7329-46c4-9544-77bbc0d84e85 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=f78003af-dd30-4b79-9f5b-41590b8020ff err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 4) CorrelationID=f229f964-2a3e-4889-bcbe-6ea9b5602a22 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=b20db394-df51-4353-88d5-c14383802824 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=ea2c0785-3055-443f-962c-4c1cc0fd50b7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=22e725cd-dbd9-4a7d-8e6b-6902448bf1e6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=0effef31-4ded-4fa7-b8cc-bc579d07ecaf err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=30091c4a-74f3-41ce-98f2-a058f22d5d3d err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=4b706faf-a259-4046-9c0b-0da50145fe47 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 14) CorrelationID=890d326c-aa84-41de-869e-695f82484fba err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=b93ab5ca-be55-44cc-bb4a-436b81edf020 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=1341510f-ca8e-4e02-b182-801d18c3fd08 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=565e0869-4aa5-4675-bbde-2bf4f72e8b9c err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=30756c09-90d9-4052-a81e-aefcded03bb3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 10) CorrelationID=7c2ef24b-36a0-4488-bb66-34e31f8afd38 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 9) CorrelationID=80a06c50-9028-4ab9-bd42-2a6e83aab5f6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=c77f97a8-b157-4daf-b5ee-5f3f8c827a8e err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=b88d2973-05ec-4364-810c-15a3de6c33a2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 17) CorrelationID=281d1640-77f7-4244-adbe-33f93d8037f2 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 16) CorrelationID=97dee808-0b8a-4b36-884d-3a66303fb2cb err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=1b379c96-551f-417a-9aea-cc8ee4616ce6 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 8) CorrelationID=62fc3e68-458b-4f99-aeb6-a0097c8bf2b1 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 11) CorrelationID=4be9d629-b781-4182-9bc5-387c6d911994 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=d5b7e4a5-9e55-4576-b64f-5b22a25f70d3 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 7) CorrelationID=02bd6a86-f56e-4257-b674-01cd33d0d511 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 1) CorrelationID=fee218b0-7fdf-448a-979d-b825f9388af7 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 16) CorrelationID=5065e216-ccd7-47c3-bd54-de41035fc717 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 13) CorrelationID=ac58539d-3a15-477b-98bf-ab462672d926 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=4ad1dc39-6964-40e7-8706-d40595028398 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=2e66c246-7cf3-4f36-8710-538a982e971b err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 12) CorrelationID=ae2cae45-7ee7-43cb-82ad-79445f9dda06 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 5) CorrelationID=1fb873f7-6997-4da8-9cd9-d2c281dd1f90 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=7bb6c811-e829-49eb-9568-8cd97b712da4 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 16) CorrelationID=975bf2f5-3301-4671-b37a-a22c62156a65 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 6) CorrelationID=e9930487-a569-4b35-973c-d7cba85b5655 err=EOF
+worker         | 2025/08/21 01:31:15 [WARN] process payment failed (attempt 2) CorrelationID=e478e6dc-fb32-44a7-b57c-c4daa36769c5 err=EOF
+log truncated at line 1000

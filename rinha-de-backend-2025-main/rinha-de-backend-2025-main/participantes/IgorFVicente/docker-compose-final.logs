@@ -1,0 +1,78 @@
+
+ api-1 Pulling 
+ api-2 Pulling 
+ 9824c27679d3 Already exists 
+ f014b3106062 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ d677a4cd03aa Pulling fs layer 
+ 9824c27679d3 Already exists 
+ f014b3106062 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ d677a4cd03aa Pulling fs layer 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Download complete 
+ f014b3106062 Downloading [>                                                  ]  3.745kB/282.5kB
+ f014b3106062 Downloading [>                                                  ]  3.745kB/282.5kB
+ f014b3106062 Downloading [==========>                                        ]  57.34kB/282.5kB
+ f014b3106062 Downloading [==========>                                        ]  57.34kB/282.5kB
+ f014b3106062 Downloading [========================>                          ]  139.8kB/282.5kB
+ f014b3106062 Downloading [========================>                          ]  139.8kB/282.5kB
+ f014b3106062 Downloading [==========================================>        ]  237.6kB/282.5kB
+ f014b3106062 Downloading [==========================================>        ]  237.6kB/282.5kB
+ f014b3106062 Verifying Checksum 
+ f014b3106062 Download complete 
+ f014b3106062 Downloading [==================================================>]  282.5kB/282.5kB
+ f014b3106062 Download complete 
+ f014b3106062 Extracting [=====>                                             ]  32.77kB/282.5kB
+ f014b3106062 Extracting [=====>                                             ]  32.77kB/282.5kB
+ f014b3106062 Extracting [==================================================>]  282.5kB/282.5kB
+ f014b3106062 Extracting [==================================================>]  282.5kB/282.5kB
+ f014b3106062 Extracting [==================================================>]  282.5kB/282.5kB
+ f014b3106062 Extracting [==================================================>]  282.5kB/282.5kB
+ d677a4cd03aa Downloading [>                                                  ]  58.85kB/5.694MB
+ d677a4cd03aa Downloading [>                                                  ]  58.85kB/5.694MB
+ f014b3106062 Pull complete 
+ f014b3106062 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ d677a4cd03aa Downloading [==>                                                ]  245.8kB/5.694MB
+ d677a4cd03aa Downloading [==>                                                ]  245.8kB/5.694MB
+ d677a4cd03aa Downloading [=====>                                             ]    639kB/5.694MB
+ d677a4cd03aa Downloading [=====>                                             ]    639kB/5.694MB
+ d677a4cd03aa Downloading [===========>                                       ]  1.343MB/5.694MB
+ d677a4cd03aa Downloading [===========>                                       ]  1.343MB/5.694MB
+ d677a4cd03aa Downloading [======================>                            ]  2.568MB/5.694MB
+ d677a4cd03aa Downloading [======================>                            ]  2.568MB/5.694MB
+ d677a4cd03aa Downloading [===========================================>       ]  4.952MB/5.694MB
+ d677a4cd03aa Downloading [===========================================>       ]  4.952MB/5.694MB
+ d677a4cd03aa Download complete 
+ d677a4cd03aa Verifying Checksum 
+ d677a4cd03aa Download complete 
+ d677a4cd03aa Extracting [>                                                  ]  65.54kB/5.694MB
+ d677a4cd03aa Extracting [>                                                  ]  65.54kB/5.694MB
+ d677a4cd03aa Extracting [==================================================>]  5.694MB/5.694MB
+ d677a4cd03aa Extracting [==================================================>]  5.694MB/5.694MB
+ d677a4cd03aa Extracting [==================================================>]  5.694MB/5.694MB
+ d677a4cd03aa Extracting [==================================================>]  5.694MB/5.694MB
+ d677a4cd03aa Pull complete 
+ d677a4cd03aa Pull complete 
+ api-1 Pulled 
+ api-2 Pulled 
+ Network igorfvicente_payment-network  Creating
+ Network igorfvicente_payment-network  Created
+ Container payment-redis  Creating
+ Container payment-redis  Created
+ Container payment-api-1  Creating
+ Container payment-api-2  Creating
+ Container payment-api-1  Created
+ Container payment-api-2  Created
+ Container payment-nginx  Creating
+ Container payment-nginx  Created
+Attaching to payment-api-1, payment-api-2, payment-nginx, payment-redis
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint payment-redis (31390f89f3a7241dd0ec99daf3fd38412945ed106947804521b89d68dc308d79): Bind for 0.0.0.0:6379 failed: port is already allocated
+log truncated at line 1000

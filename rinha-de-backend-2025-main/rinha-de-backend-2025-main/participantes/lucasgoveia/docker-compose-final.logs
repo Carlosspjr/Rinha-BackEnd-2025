@@ -1,0 +1,1001 @@
+
+ gateway1 Pulling 
+ gateway2 Pulling 
+ worker Pulling 
+ loadbalancer Pulling 
+ 9824c27679d3 Already exists 
+ 9824c27679d3 Already exists 
+ 123b92336b82 Pulling fs layer 
+ e7cee334a64b Pulling fs layer 
+ 536eff87c11a Pulling fs layer 
+ 0b2aa9ab96ae Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 0b2aa9ab96ae Waiting 
+ 4f4fb700ef54 Waiting 
+ 15c908b72757 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ bcbbff2dad83 Pulling fs layer 
+ 15c908b72757 Waiting 
+ 4f4fb700ef54 Waiting 
+ bcbbff2dad83 Waiting 
+ 9824c27679d3 Already exists 
+ 9bc8912743ff Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ b4744d006fac Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ b4744d006fac Waiting 
+ 9bc8912743ff Waiting 
+ 9824c27679d3 Already exists 
+ 15c908b72757 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ bcbbff2dad83 Pulling fs layer 
+ bcbbff2dad83 Waiting 
+ 4f4fb700ef54 Waiting 
+ 15c908b72757 Waiting 
+ e7cee334a64b Downloading [==================================================>]     964B/964B
+ e7cee334a64b Verifying Checksum 
+ e7cee334a64b Download complete 
+ 123b92336b82 Downloading [>                                                  ]  3.785kB/282.4kB
+ 536eff87c11a Downloading [>                                                  ]  111.3kB/11.02MB
+ 123b92336b82 Downloading [==================================================>]  282.4kB/282.4kB
+ 123b92336b82 Verifying Checksum 
+ 123b92336b82 Download complete 
+ 123b92336b82 Extracting [=====>                                             ]  32.77kB/282.4kB
+ 123b92336b82 Extracting [==================================================>]  282.4kB/282.4kB
+ 123b92336b82 Extracting [==================================================>]  282.4kB/282.4kB
+ 536eff87c11a Downloading [======================================>            ]  8.385MB/11.02MB
+ 123b92336b82 Pull complete 
+ 536eff87c11a Verifying Checksum 
+ 536eff87c11a Download complete 
+ e7cee334a64b Extracting [==================================================>]     964B/964B
+ e7cee334a64b Extracting [==================================================>]     964B/964B
+ e7cee334a64b Pull complete 
+ 536eff87c11a Extracting [>                                                  ]  131.1kB/11.02MB
+ 536eff87c11a Extracting [=================================>                 ]  7.471MB/11.02MB
+ 536eff87c11a Extracting [==================================================>]  11.02MB/11.02MB
+ 536eff87c11a Pull complete 
+ 0b2aa9ab96ae Downloading [==================================================>]     440B/440B
+ 0b2aa9ab96ae Verifying Checksum 
+ 0b2aa9ab96ae Download complete 
+ 0b2aa9ab96ae Extracting [==================================================>]     440B/440B
+ 0b2aa9ab96ae Extracting [==================================================>]     440B/440B
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 0b2aa9ab96ae Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ loadbalancer Pulled 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 15c908b72757 Verifying Checksum 
+ 15c908b72757 Downloading [==================================================>]     977B/977B
+ 15c908b72757 Verifying Checksum 
+ 15c908b72757 Download complete 
+ 15c908b72757 Extracting [==================================================>]     977B/977B
+ 15c908b72757 Download complete 
+ 15c908b72757 Extracting [==================================================>]     977B/977B
+ 15c908b72757 Extracting [==================================================>]     977B/977B
+ 15c908b72757 Extracting [==================================================>]     977B/977B
+ 15c908b72757 Pull complete 
+ 15c908b72757 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 9bc8912743ff Download complete 
+ 9bc8912743ff Extracting [==================================================>]     977B/977B
+ 9bc8912743ff Extracting [==================================================>]     977B/977B
+ bcbbff2dad83 Downloading [>                                                  ]  8.349kB/784.6kB
+ bcbbff2dad83 Downloading [>                                                  ]  8.349kB/784.6kB
+ 9bc8912743ff Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ bcbbff2dad83 Downloading [=>                                                 ]   24.6kB/784.6kB
+ bcbbff2dad83 Downloading [=>                                                 ]   24.6kB/784.6kB
+ bcbbff2dad83 Downloading [====>                                              ]  70.61kB/784.6kB
+ bcbbff2dad83 Downloading [====>                                              ]  70.61kB/784.6kB
+ bcbbff2dad83 Downloading [===========>                                       ]  178.1kB/784.6kB
+ bcbbff2dad83 Downloading [===========>                                       ]  178.1kB/784.6kB
+ bcbbff2dad83 Downloading [=======================>                           ]  373.7kB/784.6kB
+ bcbbff2dad83 Downloading [=======================>                           ]  373.7kB/784.6kB
+ bcbbff2dad83 Downloading [=================================================> ]  783.3kB/784.6kB
+ bcbbff2dad83 Verifying Checksum 
+ bcbbff2dad83 Download complete 
+ bcbbff2dad83 Verifying Checksum 
+ bcbbff2dad83 Download complete 
+ bcbbff2dad83 Extracting [==>                                                ]  32.77kB/784.6kB
+ bcbbff2dad83 Extracting [==>                                                ]  32.77kB/784.6kB
+ bcbbff2dad83 Extracting [==================================================>]  784.6kB/784.6kB
+ bcbbff2dad83 Extracting [==================================================>]  784.6kB/784.6kB
+ bcbbff2dad83 Extracting [==================================================>]  784.6kB/784.6kB
+ bcbbff2dad83 Extracting [==================================================>]  784.6kB/784.6kB
+ bcbbff2dad83 Pull complete 
+ bcbbff2dad83 Pull complete 
+ gateway2 Pulled 
+ gateway1 Pulled 
+ b4744d006fac Downloading [>                                                  ]  27.88kB/2.719MB
+ b4744d006fac Downloading [=>                                                 ]  84.56kB/2.719MB
+ b4744d006fac Downloading [===>                                               ]  205.3kB/2.719MB
+ b4744d006fac Downloading [=======>                                           ]  396.8kB/2.719MB
+ b4744d006fac Downloading [==============>                                    ]    790kB/2.719MB
+ b4744d006fac Downloading [=============================>                     ]  1.599MB/2.719MB
+ b4744d006fac Download complete 
+ b4744d006fac Extracting [>                                                  ]  32.77kB/2.719MB
+ b4744d006fac Extracting [==================================================>]  2.719MB/2.719MB
+ b4744d006fac Extracting [==================================================>]  2.719MB/2.719MB
+ b4744d006fac Pull complete 
+ worker Pulled 
+ Network lucasgoveia_backend  Creating
+ Network lucasgoveia_backend  Created
+ Volume "lucasgoveia_pg_socket"  Creating
+ Volume "lucasgoveia_pg_socket"  Created
+ Volume "lucasgoveia_postgres_data"  Creating
+ Volume "lucasgoveia_postgres_data"  Created
+ Volume "lucasgoveia_tmp_sockets"  Creating
+ Volume "lucasgoveia_tmp_sockets"  Created
+ Container lucasgoveia-postgres-1  Creating
+ Container lucasgoveia-postgres-1  Created
+ Container worker  Creating
+ Container worker  Created
+ Container gateway2  Creating
+ Container gateway1  Creating
+ Container gateway1  Created
+ Container gateway2  Created
+ Container lucasgoveia-loadbalancer-1  Creating
+ Container lucasgoveia-loadbalancer-1  Created
+Attaching to gateway1, gateway2, loadbalancer-1, postgres-1, worker
+postgres-1  | The files belonging to this database system will be owned by user "postgres".
+postgres-1  | This user must also own the server process.
+postgres-1  | 
+postgres-1  | The database cluster will be initialized with locale "en_US.utf8".
+postgres-1  | The default database encoding has accordingly been set to "UTF8".
+postgres-1  | The default text search configuration will be set to "english".
+postgres-1  | 
+postgres-1  | Data page checksums are disabled.
+postgres-1  | 
+postgres-1  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+postgres-1  | creating subdirectories ... ok
+postgres-1  | selecting dynamic shared memory implementation ... posix
+postgres-1  | selecting default "max_connections" ... 100
+postgres-1  | selecting default "shared_buffers" ... 128MB
+loadbalancer-1  | [NOTICE]   (1) : Initializing new worker (8)
+postgres-1      | selecting default time zone ... UTC
+postgres-1      | creating configuration files ... ok
+loadbalancer-1  | [NOTICE]   (1) : Loading success.
+postgres-1      | running bootstrap script ... ok
+postgres-1      | sh: locale: not found
+postgres-1      | 2025-08-21 05:14:29.482 UTC [36] WARNING:  no usable system locales were found
+postgres-1      | performing post-bootstrap initialization ... ok
+postgres-1      | initdb: warning: enabling "trust" authentication for local connections
+postgres-1      | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+postgres-1      | syncing data to disk ... ok
+postgres-1      | 
+postgres-1      | 
+postgres-1      | Success. You can now start the database server using:
+postgres-1      | 
+postgres-1      |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+postgres-1      | 
+postgres-1      | waiting for server to start....2025-08-21 05:14:32.681 UTC [42] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1      | 2025-08-21 05:14:32.681 UTC [42] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1      | 2025-08-21 05:14:32.683 UTC [45] LOG:  database system was shut down at 2025-08-21 05:14:32 UTC
+postgres-1      | 2025-08-21 05:14:32.687 UTC [42] LOG:  database system is ready to accept connections
+postgres-1      |  done
+postgres-1      | server started
+postgres-1      | CREATE DATABASE
+postgres-1      | 
+postgres-1      | 
+postgres-1      | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/init.sql
+postgres-1      | CREATE TYPE
+postgres-1      | CREATE TABLE
+postgres-1      | CREATE INDEX
+postgres-1      | CREATE INDEX
+postgres-1      | 
+postgres-1      | 
+postgres-1      | waiting for server to shut down....2025-08-21 05:14:33.381 UTC [42] LOG:  received fast shutdown request
+postgres-1      | 2025-08-21 05:14:33.381 UTC [42] LOG:  aborting any active transactions
+postgres-1      | 2025-08-21 05:14:33.389 UTC [42] LOG:  background worker "logical replication launcher" (PID 48) exited with exit code 1
+postgres-1      | 2025-08-21 05:14:33.390 UTC [43] LOG:  shutting down
+postgres-1      | 2025-08-21 05:14:33.390 UTC [43] LOG:  checkpoint starting: shutdown immediate
+postgres-1      | 2025-08-21 05:14:33.484 UTC [43] LOG:  checkpoint complete: wrote 937 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.094 s, sync=0.001 s, total=0.095 s; sync files=306, longest=0.001 s, average=0.000 s; distance=4282 kB, estimate=4282 kB; lsn=0/191BB68, redo lsn=0/191BB68
+postgres-1      | 2025-08-21 05:14:33.493 UTC [42] LOG:  database system is shut down
+postgres-1      |  done
+postgres-1      | server stopped
+postgres-1      | 
+postgres-1      | PostgreSQL init process complete; ready for start up.
+postgres-1      | 
+postgres-1      | 2025-08-21 05:14:33.683 UTC [1] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1      | 2025-08-21 05:14:33.683 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres-1      | 2025-08-21 05:14:33.683 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres-1      | 2025-08-21 05:14:33.683 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1      | 2025-08-21 05:14:33.685 UTC [60] LOG:  database system was shut down at 2025-08-21 05:14:33 UTC
+postgres-1      | 2025-08-21 05:14:33.689 UTC [1] LOG:  database system is ready to accept connections
+worker          | [2m2025-08-21T05:16:56.418363Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d8cb89d3-a4af-4b47-adbd-90a7050d0457
+worker          | [2m2025-08-21T05:16:56.418390Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4c784c7c-f67f-453f-bd3d-d942d9b01bf5
+worker          | [2m2025-08-21T05:16:56.418394Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 900b2ec2-a808-40b7-9ed4-f0aa55b1bc93
+worker          | [2m2025-08-21T05:16:56.418397Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7d39cc6a-e2e0-4cbc-a956-30b63fcc0868
+worker          | [2m2025-08-21T05:16:56.422760Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 44884233-d079-4929-be30-a94e06d8fcfd
+worker          | [2m2025-08-21T05:16:56.427129Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 52debbba-dfa6-4391-9ec4-b2a88f7c39f6
+worker          | [2m2025-08-21T05:16:56.438313Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0a4e25bf-d7f4-4891-b79c-c53cea981d1e
+worker          | [2m2025-08-21T05:16:56.438326Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 077d287c-c8a3-4089-833d-5c88f4143a51
+worker          | [2m2025-08-21T05:16:56.441992Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3ab99d24-65ae-4258-87bd-e0445f222795
+worker          | [2m2025-08-21T05:16:56.449606Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 84a97f68-bca7-459a-9bb5-52d11b379a37
+worker          | [2m2025-08-21T05:16:56.449618Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fd3a934a-2c6e-46e7-b167-4cbd5eb5f541
+worker          | [2m2025-08-21T05:16:56.449621Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b339dc84-2355-4d0a-9c81-2c854ea787ab
+worker          | [2m2025-08-21T05:16:56.457780Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6a2fa170-3363-4fd7-b6d0-b2853c8e5bf6
+worker          | [2m2025-08-21T05:16:56.465333Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e2e8425a-6a72-48aa-8488-df8a0c51d08f
+worker          | [2m2025-08-21T05:16:56.465356Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4bb8ea95-d2a9-4f96-b5fe-aab2465d21b3
+worker          | [2m2025-08-21T05:16:56.472940Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1b6da604-8bf9-4952-8fcb-22271218e93e
+worker          | [2m2025-08-21T05:16:56.472964Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 36ea19fb-ceb3-4dee-9408-513241480a40
+worker          | [2m2025-08-21T05:16:56.483288Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2655c570-3f1d-4918-952e-79faac289ccc
+worker          | [2m2025-08-21T05:16:56.491220Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 379ab7fc-80bb-48c1-847a-39e46022dcab
+worker          | [2m2025-08-21T05:16:56.492328Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 45873547-0187-4f98-80a7-c917e42d5900
+worker          | [2m2025-08-21T05:16:56.856933Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b726dd3e-d595-403a-a62a-1ac1688f82e7
+worker          | [2m2025-08-21T05:16:56.869963Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e550d573-d179-4e33-bcd5-294c17b99818
+worker          | [2m2025-08-21T05:16:56.885513Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e8c30db3-2a4e-41bd-b07f-90dac163b1e4
+worker          | [2m2025-08-21T05:16:56.885533Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8682a072-9eb1-44b6-886f-1c40149d688d
+worker          | [2m2025-08-21T05:16:56.885536Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 487b6227-fc88-47a1-844d-ff02d7a390b5
+worker          | [2m2025-08-21T05:16:56.885538Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e21ef5fa-b9b1-4a40-92a7-72054e48c647
+worker          | [2m2025-08-21T05:16:56.896125Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5dbff210-541c-4edb-8d26-0d95a0e23e41
+worker          | [2m2025-08-21T05:16:56.896142Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4e3a662a-2c7d-4cb2-ac14-d4b92b3f7f67
+worker          | [2m2025-08-21T05:16:56.896145Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2aada587-7584-4c05-bcd5-953958f3cc69
+worker          | [2m2025-08-21T05:16:56.896148Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2ebcb33a-1ea2-422c-b55c-39158ff8365d
+worker          | [2m2025-08-21T05:16:56.896151Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 059332e2-07e5-4709-9c82-e4ad8e60ded7
+worker          | [2m2025-08-21T05:16:56.896154Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 84eaf859-2a47-4a24-ac6d-fb34353386fd
+worker          | [2m2025-08-21T05:16:56.902659Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cd3d8b4d-7e7b-4f9e-85ed-0a69e198b368
+worker          | [2m2025-08-21T05:16:56.914394Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 96d894b2-810c-40e1-9fe6-a9211aa96f9c
+worker          | [2m2025-08-21T05:16:56.914409Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 680b6f1f-a325-4f11-8346-4a5edaa895e6
+worker          | [2m2025-08-21T05:16:56.920934Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 724c9b3d-e546-4b14-aa13-8371b3798891
+worker          | [2m2025-08-21T05:16:56.926399Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fb080545-a7fa-4811-9710-99fa233f5ebf
+worker          | [2m2025-08-21T05:16:56.926415Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 823a25d4-ee5a-4129-b3d3-98cc0704a675
+worker          | [2m2025-08-21T05:16:56.930623Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: af4f4b9e-8c80-4aa7-b180-2cb8bfcccfbc
+worker          | [2m2025-08-21T05:16:56.937081Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f8423dc6-03e7-4506-9a23-081600f40eba
+worker          | [2m2025-08-21T05:16:56.944216Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: be971827-6c7c-4a51-8543-1b33b7951ff3
+worker          | [2m2025-08-21T05:16:56.944230Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 75ad738a-7c7d-4767-ae1c-e9bb66dac8ab
+worker          | [2m2025-08-21T05:16:56.944233Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a9c3144b-835f-4d0e-8fcd-c285f2e13560
+worker          | [2m2025-08-21T05:16:56.944235Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 52fc9bca-fdd1-4d36-be22-c90097834ea6
+worker          | [2m2025-08-21T05:16:56.953816Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 907473e1-71f5-4b67-9aaf-67d27f696cb6
+worker          | [2m2025-08-21T05:16:56.953831Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 906f5fe2-7ba9-4cf8-98b2-818c66dd8c8e
+worker          | [2m2025-08-21T05:16:56.957074Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b54fe861-b0c9-49ca-b181-14003a7c7f4d
+worker          | [2m2025-08-21T05:16:56.957087Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d865952d-04b7-491c-b6f3-5405dcb36603
+worker          | [2m2025-08-21T05:16:56.962688Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0eb0dad8-c3e4-4a87-aeb0-cc5746f9864f
+worker          | [2m2025-08-21T05:16:56.962702Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1240bd58-202d-49ec-89be-2b961e14cad8
+worker          | [2m2025-08-21T05:16:56.964874Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6bcdb440-4dce-4479-ab2e-e2cf622ce616
+worker          | [2m2025-08-21T05:16:56.964887Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 67277836-1cbc-4289-a0d0-dd0c2d652259
+worker          | [2m2025-08-21T05:16:56.968153Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9caec03c-66e3-474b-b82e-9941b05fddea
+worker          | [2m2025-08-21T05:16:56.972514Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 508cb8a1-c5a0-40d9-a295-160a1260c7b4
+worker          | [2m2025-08-21T05:16:56.972529Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: aafda1a5-f714-43ab-b357-0930feab9f02
+worker          | [2m2025-08-21T05:16:56.972538Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 82a8f31d-d7c9-4d62-90d5-66dc3f567eee
+worker          | [2m2025-08-21T05:16:56.972540Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b1290be5-9e19-4f51-9d20-504844b7630d
+worker          | [2m2025-08-21T05:16:56.972542Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1e13af97-868d-4d16-abe7-b7435ae5efb2
+worker          | [2m2025-08-21T05:16:56.982090Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 771ceb6d-7d89-448c-8a48-45173afcb3cb
+worker          | [2m2025-08-21T05:16:56.982103Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b00a0bd8-bc96-4835-8a15-41bc96e4c986
+worker          | [2m2025-08-21T05:16:56.984290Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f2474a54-84d1-4911-ab0a-9aa694476d3e
+worker          | [2m2025-08-21T05:16:56.984301Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 283ebcb4-2454-4653-8570-bc9ddcb25ad6
+worker          | [2m2025-08-21T05:16:56.986831Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a9ec047d-cf5d-4238-bb41-aaf2241a6512
+worker          | [2m2025-08-21T05:16:56.995268Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 52f41524-d82d-42c9-a76e-ca21859bbdb8
+worker          | [2m2025-08-21T05:16:56.997458Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fbc1b214-329b-44d3-b182-a7e764972bd0
+worker          | [2m2025-08-21T05:16:57.328158Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 86d71a8d-dba4-452d-ad97-7b04e3e6519d
+worker          | [2m2025-08-21T05:16:57.328183Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b7e5e1ae-1aed-44c8-b390-1bc8929254b8
+worker          | [2m2025-08-21T05:16:57.328186Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 43500b79-2670-40e5-bd49-8981b4e2463d
+worker          | [2m2025-08-21T05:16:57.338807Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e3991ea6-06fb-4e73-9c3f-96d8ac0ebaf5
+worker          | [2m2025-08-21T05:16:57.350499Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2a1cd646-093d-455c-90ee-547f74621c3f
+worker          | [2m2025-08-21T05:16:57.350512Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b91c2e13-d2bd-488f-bd88-59b088067082
+worker          | [2m2025-08-21T05:16:57.350516Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2fcf1bce-7998-4eea-9bc3-ec56653d3241
+worker          | [2m2025-08-21T05:16:57.350518Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 75e91882-1b8f-4c8c-9cb4-0c5a88706cb2
+worker          | [2m2025-08-21T05:16:57.354860Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ccb28768-fcfa-4641-b39e-721a024c8ffb
+worker          | [2m2025-08-21T05:16:57.354878Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 832a5bf7-de96-43a8-9a60-08c79d6676ad
+worker          | [2m2025-08-21T05:16:57.363845Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b03ebc6a-5fd0-44bd-b863-7831861dd674
+worker          | [2m2025-08-21T05:16:57.363858Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d90bcc2f-8c41-414d-9ead-dac2a3cf6859
+worker          | [2m2025-08-21T05:16:57.363861Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 728fed43-b8e3-4309-ad9f-705e5252856e
+worker          | [2m2025-08-21T05:16:57.363864Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 723ecd89-536f-46ee-8b28-125b0f627420
+worker          | [2m2025-08-21T05:16:57.363867Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b8de55f1-4e73-4b09-aaee-3475af4807bb
+worker          | [2m2025-08-21T05:16:57.376613Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5c945c79-6b95-4a04-8db0-4552a64771a5
+worker          | [2m2025-08-21T05:16:57.376627Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 486f2f9a-171d-4295-9d98-16b735f935a4
+worker          | [2m2025-08-21T05:16:57.377718Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 19a63bef-4602-4ad7-baca-ac183d4f723e
+worker          | [2m2025-08-21T05:16:57.377730Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 514e3624-4f25-4c6d-9951-6f81247c91da
+worker          | [2m2025-08-21T05:16:57.380990Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 712ca072-e9e1-4cb3-baf8-6dd69a2cfddf
+worker          | [2m2025-08-21T05:16:57.382271Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a1fe65d1-4e87-4aaa-9338-0f9b250e1d57
+worker          | [2m2025-08-21T05:16:57.387157Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 29915bb0-3399-40c5-8470-7c6a04dad6c5
+worker          | [2m2025-08-21T05:16:57.393468Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5fb84d73-e084-4a90-accc-b7a1defb2304
+worker          | [2m2025-08-21T05:16:57.393483Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 557aa973-e017-4ee8-adf3-7d42f0caaec9
+worker          | [2m2025-08-21T05:16:57.393487Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 543fd50b-d3cc-4b5e-a17a-2f0eb6e39337
+worker          | [2m2025-08-21T05:16:57.393490Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 07d28471-65dd-4cc1-930a-d08e10212c6d
+worker          | [2m2025-08-21T05:16:57.393492Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c81d9c80-4a3a-4c1f-8449-900698a360b3
+worker          | [2m2025-08-21T05:16:57.403458Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a685b9fb-f310-4ee1-b4b7-b6b7b66f33af
+worker          | [2m2025-08-21T05:16:57.412446Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 628a849c-f9ce-41db-8bd3-88e88beac0ec
+worker          | [2m2025-08-21T05:16:57.418629Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ca433d06-359e-45ba-a542-3c8843af8c3e
+worker          | [2m2025-08-21T05:16:57.418645Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c0a6b36c-8a45-4f7e-ab54-6f7d9ea9c9bc
+worker          | [2m2025-08-21T05:16:57.418649Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4a4cbc5f-e91e-457c-aed6-8d76154f4748
+worker          | [2m2025-08-21T05:16:57.418652Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1a51538a-af5b-454a-8959-03167dd00248
+worker          | [2m2025-08-21T05:16:57.420838Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b94876a6-0b42-4d20-b004-f85a6c6f880b
+worker          | [2m2025-08-21T05:16:57.428381Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ecb344c2-3bd3-41d9-81b7-17f2885d8ec9
+worker          | [2m2025-08-21T05:16:57.435999Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 85eba35c-a6ff-48f8-9671-aaa92da7a0e5
+worker          | [2m2025-08-21T05:16:57.442608Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4e059416-3352-45c4-b702-c8aaa301ecef
+worker          | [2m2025-08-21T05:16:57.442622Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a40558bc-2b30-48c9-9edb-5e782dbfcfc4
+worker          | [2m2025-08-21T05:16:57.446946Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 368c50b6-6e38-48e1-9f52-ef16f6629596
+worker          | [2m2025-08-21T05:16:57.451298Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 41b2a7d5-b8ae-4971-bb30-2b125b02b677
+worker          | [2m2025-08-21T05:16:57.452400Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: efc85adf-7eb7-4b20-b29b-2624a2d20e60
+worker          | [2m2025-08-21T05:16:57.465100Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 255e1b01-d66a-43ef-ad63-bbc660a2fced
+worker          | [2m2025-08-21T05:16:57.465114Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 851eff4f-0575-45ab-9f77-4ecc2892a6d7
+worker          | [2m2025-08-21T05:16:57.467282Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 928daae6-1da2-4846-a2bf-95a12244c185
+worker          | [2m2025-08-21T05:16:57.473795Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b592f5f4-688a-47b3-8ae2-54304f76e289
+worker          | [2m2025-08-21T05:16:57.479271Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dddb6f6e-0915-439b-9f78-cd96a5e1b20f
+worker          | [2m2025-08-21T05:16:57.486401Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: efa2c494-3092-4661-b5de-67b637c539af
+worker          | [2m2025-08-21T05:16:57.489902Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4db92edb-2f7e-448c-9d5d-5df4a45d4817
+worker          | [2m2025-08-21T05:16:57.495791Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 08bdc147-5d42-405b-a3f4-666d673bd6ee
+worker          | [2m2025-08-21T05:16:57.828184Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0befdfe5-ad49-4cbc-92c8-5033428d1fca
+worker          | [2m2025-08-21T05:16:57.828204Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 484f7a6d-b73c-4caa-ae2b-c8eb3dfc2a72
+worker          | [2m2025-08-21T05:16:57.836621Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a84e8b70-643d-46f2-8093-e0702c773080
+worker          | [2m2025-08-21T05:16:57.838783Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d6f286cd-544f-4da6-817b-7a5ebd7e6c65
+worker          | [2m2025-08-21T05:16:57.847031Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 93736c48-b35e-4d46-995f-aa4f2eb1ea2a
+worker          | [2m2025-08-21T05:16:57.847044Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 08e7113c-41e1-4166-ae2c-f408dcf59f13
+worker          | [2m2025-08-21T05:16:57.857391Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4519b017-a3bd-4c22-a75d-cb566e9f9f6d
+worker          | [2m2025-08-21T05:16:57.860732Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ea9792f6-a9ee-4130-81e5-d17bb37ec152
+worker          | [2m2025-08-21T05:16:57.860745Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5f544a3e-f183-4c07-8588-5c2b5c54dd33
+worker          | [2m2025-08-21T05:16:57.866150Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 156a5b3c-203a-4796-aae4-0b8222a4d266
+worker          | [2m2025-08-21T05:16:57.873636Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f532dd44-33b3-4ca8-9394-bc389153ba25
+worker          | [2m2025-08-21T05:16:57.873656Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 16723e87-df9b-4a44-925a-302e8745f27f
+worker          | [2m2025-08-21T05:16:57.879697Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: de913146-20eb-455d-8556-ec00012be349
+worker          | [2m2025-08-21T05:16:57.886156Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9aad13b8-b6bd-41b0-a1ae-1db4c8a97cf4
+worker          | [2m2025-08-21T05:16:57.895702Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 89917bc8-c089-47e1-b85e-6617e5b5092d
+worker          | [2m2025-08-21T05:16:57.895727Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: aac282f2-e31d-4bfc-b0e4-65c9416044bf
+worker          | [2m2025-08-21T05:16:57.895730Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a8dd507e-389c-44c7-b46f-6e76bc3c209e
+worker          | [2m2025-08-21T05:16:57.901151Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dada66cf-51da-4533-9a4d-b721ff8f3146
+worker          | [2m2025-08-21T05:16:57.905514Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8d9174c1-dba5-430d-ab4b-3afe17270fae
+worker          | [2m2025-08-21T05:16:57.918720Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 40b8480f-c6fd-494b-a605-497d0b65b8c6
+worker          | [2m2025-08-21T05:16:57.918734Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: db9eac64-7834-4310-a81d-40e406b3a25d
+worker          | [2m2025-08-21T05:16:57.923075Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cc607782-f8a8-4000-bb67-acd622d96a01
+worker          | [2m2025-08-21T05:16:57.929858Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 952f0d26-ee0b-4401-8dfb-dc7e4065aec5
+worker          | [2m2025-08-21T05:16:57.929879Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8dd350cc-96a2-4dac-b0e9-d34d14b750aa
+worker          | [2m2025-08-21T05:16:57.938148Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d75fd19b-80a0-4d2d-b207-aa71f9d5d506
+worker          | [2m2025-08-21T05:16:57.938173Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4fdbee4a-50f4-496d-b3c4-caa1acaac372
+worker          | [2m2025-08-21T05:16:57.947418Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d603618b-9e93-4284-8004-201a89769ece
+worker          | [2m2025-08-21T05:16:57.947432Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 33df92ba-6560-4bb6-8bce-df2e2ee919f2
+worker          | [2m2025-08-21T05:16:57.959270Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 44732805-d3ef-4976-ad77-06fa9eb0ff6e
+worker          | [2m2025-08-21T05:16:57.959307Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 928406d1-89e6-441a-9afd-32f54f2f07ad
+worker          | [2m2025-08-21T05:16:57.966052Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: caa95693-ca32-43ed-a74a-9b42000f0227
+worker          | [2m2025-08-21T05:16:57.971438Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 24408dc3-15b6-4456-a3cc-82efbfdb459e
+worker          | [2m2025-08-21T05:16:57.973862Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6cfa98b1-2160-48fc-95a7-e255a2e502a0
+worker          | [2m2025-08-21T05:16:57.973876Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e4611601-d998-415a-a68e-b953135603bc
+worker          | [2m2025-08-21T05:16:57.981280Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cd86ed2d-0bf2-4eab-b177-332167104780
+worker          | [2m2025-08-21T05:16:57.986097Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 14014684-2bdb-4ef6-8e92-8ba25e1a7f23
+worker          | [2m2025-08-21T05:16:57.990999Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a2a2f609-725b-4818-84b6-5d42b18f0110
+worker          | [2m2025-08-21T05:16:58.001225Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 20f7b07c-fb6d-4ae5-ad58-304ca0ce4465
+worker          | [2m2025-08-21T05:16:58.323664Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f33d39a5-e70f-46ce-8e5e-31b3d1dcad36
+worker          | [2m2025-08-21T05:16:58.328509Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f8274303-d713-427b-9c1a-406764f7ea3c
+worker          | [2m2025-08-21T05:16:58.338768Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 316b56a2-cbb7-462b-9edb-734fe6e8967a
+worker          | [2m2025-08-21T05:16:58.338781Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2d82f949-9b99-4849-8dbc-b1b12fb1eaf4
+worker          | [2m2025-08-21T05:16:58.344697Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 09957768-4088-4b65-a9c2-acc60391d385
+worker          | [2m2025-08-21T05:16:58.344710Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2975a9f8-6190-4c18-b7fd-fc85cee64605
+worker          | [2m2025-08-21T05:16:58.350977Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2821280b-b542-4c19-bc68-bc690a1e09be
+worker          | [2m2025-08-21T05:16:58.350990Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9ff7ade9-cf17-4ded-b6fb-e16b6787433e
+worker          | [2m2025-08-21T05:16:58.350993Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a5bc1276-43bd-443b-b6ed-5d25302f0dea
+worker          | [2m2025-08-21T05:16:58.367471Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f297d79d-f7a7-4261-9028-0167b34e3477
+worker          | [2m2025-08-21T05:16:58.368581Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1a411d8d-2c4e-4a17-be46-cb43308afbdc
+worker          | [2m2025-08-21T05:16:58.375565Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e036ed7f-f97b-450e-844e-8f2e69085c64
+worker          | [2m2025-08-21T05:16:58.385025Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 23ea64ff-8a63-4639-9ebc-dcc7924113b1
+worker          | [2m2025-08-21T05:16:58.386707Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f3f1036f-d1f8-4724-bca7-6c8e07da28bf
+worker          | [2m2025-08-21T05:16:58.395191Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7baaca6b-f2af-4f45-a1aa-84553c8be702
+worker          | [2m2025-08-21T05:16:58.398409Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 62af6b16-f258-44fd-a205-02543920894a
+worker          | [2m2025-08-21T05:16:58.403044Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 368c829a-7a22-40f3-ae95-1f37fbec5fa3
+worker          | [2m2025-08-21T05:16:58.403056Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e63d279b-51a5-4931-bdf2-d1a15b0149bf
+worker          | [2m2025-08-21T05:16:58.425894Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7cd91efd-a9d8-4e88-addf-4367c939447a
+worker          | [2m2025-08-21T05:16:58.425908Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8d921301-de1b-42dc-9f35-64852bfc0af9
+worker          | [2m2025-08-21T05:16:58.425912Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8c2a3085-1250-4c36-a5f7-495632c6adfb
+worker          | [2m2025-08-21T05:16:58.425914Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 67521090-9acd-4428-937b-0856be89f2c9
+worker          | [2m2025-08-21T05:16:58.425947Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fe367384-18ad-4136-a300-1884a0afb370
+worker          | [2m2025-08-21T05:16:58.433528Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5928cc15-bd9c-471e-b766-7bb31d58110c
+worker          | [2m2025-08-21T05:16:58.437894Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2b410f8f-f0c5-44a4-bf58-690d62d4108d
+worker          | [2m2025-08-21T05:16:58.441300Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bf395c32-089b-49f4-842a-63015e5f5a7c
+worker          | [2m2025-08-21T05:16:58.445172Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dbcae09d-3e46-49c1-a065-288de319918d
+worker          | [2m2025-08-21T05:16:58.448437Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6255d2b3-8ed6-4df3-8450-73394f07e913
+worker          | [2m2025-08-21T05:16:58.448449Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9867d24b-6770-4f20-9c5f-870d6b0d4fdd
+worker          | [2m2025-08-21T05:16:58.458929Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8465fef5-d124-4dbe-9d45-6d157d2722a7
+worker          | [2m2025-08-21T05:16:58.458941Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 305f805b-8354-42eb-ae20-a4a015590e1e
+worker          | [2m2025-08-21T05:16:58.458943Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 79920934-9e90-4580-8cdc-0a9e0201a62b
+worker          | [2m2025-08-21T05:16:58.468668Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9253b970-9eba-477f-b4de-5844d523f039
+worker          | [2m2025-08-21T05:16:58.475151Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b721b09b-4d03-4414-ae3d-dd4ed7f7a422
+worker          | [2m2025-08-21T05:16:58.484629Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9faf0330-8df0-42b9-8d94-c8584bacfce2
+worker          | [2m2025-08-21T05:16:58.484642Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f3cabe62-a86f-4271-a138-bd5b6a5d734e
+worker          | [2m2025-08-21T05:16:58.487897Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c9880a83-6fe1-4edb-bf41-3311d89c3072
+worker          | [2m2025-08-21T05:16:58.491206Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cfda3d9f-3c81-446f-8e58-5829f7342644
+worker          | [2m2025-08-21T05:16:58.818124Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5b4ede7a-1d19-4abf-bc91-74f9f0966e06
+worker          | [2m2025-08-21T05:16:58.828716Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 334b3d2a-23e3-454b-993d-ea587c1fdcc8
+worker          | [2m2025-08-21T05:16:58.828748Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f6219b26-aa8f-42b0-a36c-f8c662a7a162
+worker          | [2m2025-08-21T05:16:58.838267Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ebebf7d1-d0f2-45ac-a1cf-abecd91eb8d2
+worker          | [2m2025-08-21T05:16:58.838280Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e808af0d-0044-40c9-8039-4ce60d5042ae
+worker          | [2m2025-08-21T05:16:58.845084Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1ebbeae1-cf1c-4ff3-9e04-01b0137f273c
+worker          | [2m2025-08-21T05:16:58.850158Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 43171702-c940-4301-afdf-0942bc667b90
+worker          | [2m2025-08-21T05:16:58.850177Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 89079b4a-ddc9-4449-86d4-02b3eef062e3
+worker          | [2m2025-08-21T05:16:58.861060Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: beb538a2-2c3d-47a4-86ae-2243e39c47d0
+worker          | [2m2025-08-21T05:16:58.869844Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 952b4f09-105a-4d47-af88-826af9112443
+worker          | [2m2025-08-21T05:16:58.869862Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a76736ac-fd6b-496e-822b-cab6c9860865
+worker          | [2m2025-08-21T05:16:58.873129Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 699a69bd-0d36-413a-a0e4-fb8f083c9795
+worker          | [2m2025-08-21T05:16:58.879851Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 969cc848-9e82-47c9-97df-75b559d7c15a
+worker          | [2m2025-08-21T05:16:58.885333Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6c79e400-ca10-4bcd-a1ae-88b36af0b5d1
+worker          | [2m2025-08-21T05:16:58.887517Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b57c6f5f-83e7-4bc2-9c3e-5a1131e8ff0c
+worker          | [2m2025-08-21T05:16:58.891519Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 25cef9f4-b4c2-4ff9-bc61-ec101153d4b7
+worker          | [2m2025-08-21T05:16:58.893709Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4060f864-7510-46e7-92f7-872ece1dae2b
+worker          | [2m2025-08-21T05:16:58.898058Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bb81ecae-20b7-46bd-bc24-8a7481f4e9af
+worker          | [2m2025-08-21T05:16:58.904584Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 16c562fd-c630-49a7-81e9-0c486abe13f6
+worker          | [2m2025-08-21T05:16:58.904621Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7e8aa8cc-cbbb-43f8-bf06-e145ee27f15b
+worker          | [2m2025-08-21T05:16:58.915934Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b8289149-9a14-40cf-90d0-263b67fbda1c
+worker          | [2m2025-08-21T05:16:58.918118Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0e85f9c6-2b69-4c75-82fe-265555d1c514
+worker          | [2m2025-08-21T05:16:58.924646Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bbd888ea-1581-4858-b83f-29fae15d8ea0
+worker          | [2m2025-08-21T05:16:58.929030Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d7f8abd1-0795-47ec-b7d1-f60728d2aac3
+worker          | [2m2025-08-21T05:16:58.936099Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bcf700cf-7cca-417d-b657-42057876db53
+worker          | [2m2025-08-21T05:16:58.936114Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b8831137-9461-481b-8ddb-458d47cf5f64
+worker          | [2m2025-08-21T05:16:58.945736Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: db0c40bc-ce6a-420f-82fa-6f23b7adb695
+worker          | [2m2025-08-21T05:16:58.945749Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 50501c78-efbf-4c78-bd1a-e1508d6eb275
+worker          | [2m2025-08-21T05:16:58.953238Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f7835aaf-291d-48b4-9cc1-0a4eda4aef42
+worker          | [2m2025-08-21T05:16:58.960767Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 37db5c63-86e4-4fd1-b935-507e243df5e1
+worker          | [2m2025-08-21T05:16:58.960780Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 230f19bc-bae5-4b0f-a3db-055953e74d37
+worker          | [2m2025-08-21T05:16:58.966438Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: aadb5cc8-907c-4679-8afe-bab18b0727b4
+worker          | [2m2025-08-21T05:16:58.972995Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a84425f7-0cd5-4ae1-a43a-baf4b8545589
+worker          | [2m2025-08-21T05:16:58.977407Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 058bf61f-145d-41e0-9662-17106c0ed087
+worker          | [2m2025-08-21T05:16:58.977422Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 36adf405-d5d8-4529-9bd2-0badbbbf6404
+worker          | [2m2025-08-21T05:16:58.983799Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 648b28bc-a1c8-4e2b-beb9-65f1592b9f5f
+worker          | [2m2025-08-21T05:16:58.983813Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c4a31d81-d827-47d2-9073-14887b4c9945
+worker          | [2m2025-08-21T05:16:58.991269Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 75d9ff87-d212-4052-85be-eecc9814062a
+worker          | [2m2025-08-21T05:16:58.993938Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e2a8c438-f1e3-4eaa-8a81-6e7b96d51a39
+worker          | [2m2025-08-21T05:16:59.321423Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0c363ab5-d80a-476f-b6db-ac902c622ed4
+worker          | [2m2025-08-21T05:16:59.321477Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: debf3573-6284-4d4d-9022-2084647b91b9
+worker          | [2m2025-08-21T05:16:59.334126Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9713e1db-5528-4199-ad0a-4d0a37353563
+worker          | [2m2025-08-21T05:16:59.337416Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f4f22d77-0d37-4450-84f5-9a1ff6c125c7
+worker          | [2m2025-08-21T05:16:59.337433Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9c1db86f-a57f-48a3-8297-211a36ab689f
+worker          | [2m2025-08-21T05:16:59.345520Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9ccd7ad0-bfed-4ef0-b475-50b2bb82ed61
+worker          | [2m2025-08-21T05:16:59.345533Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ebadab79-f8f2-40d1-83f7-ed9c0a3fa9d5
+worker          | [2m2025-08-21T05:16:59.356136Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cadc3c54-ccf6-4327-ba83-7a164abcc648
+worker          | [2m2025-08-21T05:16:59.360826Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c85177b2-3f5d-4399-bd96-c9f68abeba29
+worker          | [2m2025-08-21T05:16:59.360841Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 01fb404f-126b-4c9c-8458-4e3101f4f9d6
+worker          | [2m2025-08-21T05:16:59.365196Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6c2744a8-cd75-4364-b26a-b22119d413b9
+worker          | [2m2025-08-21T05:16:59.365209Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 42f915ee-1368-4a6f-8212-6c9595aeca46
+worker          | [2m2025-08-21T05:16:59.378078Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f500a6a2-80e8-4748-a6a2-84e54591f655
+worker          | [2m2025-08-21T05:16:59.378093Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6cb7c61b-fdb3-4261-91e1-f1e83af77bcb
+worker          | [2m2025-08-21T05:16:59.390868Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1258225a-2294-4e88-b7aa-9b6aa85ab9b9
+worker          | [2m2025-08-21T05:16:59.400443Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 09f02a37-83af-4e7f-8e2b-768258466979
+worker          | [2m2025-08-21T05:16:59.402837Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 04f61245-c4cc-4af1-9ba6-4313fb095644
+worker          | [2m2025-08-21T05:16:59.402850Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cce4a7fe-ee67-40e9-ab17-8178f7ad76ba
+worker          | [2m2025-08-21T05:16:59.406596Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 019d9831-e60b-4a00-a8eb-e764b834ecda
+worker          | [2m2025-08-21T05:16:59.416331Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f124a065-23d4-46c3-9b11-a6443272a19b
+worker          | [2m2025-08-21T05:16:59.416351Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 09e61893-60f0-456b-8a1c-94fae34f82fb
+worker          | [2m2025-08-21T05:16:59.416355Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a1502dc5-e6d9-4808-997f-2b9796cc551d
+worker          | [2m2025-08-21T05:16:59.425806Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5025eadd-d55e-4ff1-a812-d559c6534cf4
+worker          | [2m2025-08-21T05:16:59.429070Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 768d4c96-695f-4be3-96ab-2ea89c57cbee
+worker          | [2m2025-08-21T05:16:59.432278Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d4c9ee3e-840a-49dc-93e7-e824843155b6
+worker          | [2m2025-08-21T05:16:59.434475Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7045f94d-14f0-48b6-a96f-2ebdd418a6a1
+worker          | [2m2025-08-21T05:16:59.443304Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 72432681-c1db-45e3-9126-07d293b292fd
+worker          | [2m2025-08-21T05:16:59.443318Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e923e6dc-4add-4778-a85a-fa2b22197b1f
+worker          | [2m2025-08-21T05:16:59.443320Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f0f7ee74-368e-465d-847a-690448a4c11d
+worker          | [2m2025-08-21T05:16:59.449346Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9cee604f-939c-4fa5-a7f4-a8284ed1ccae
+worker          | [2m2025-08-21T05:16:59.458668Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e474d5a2-dd0a-4d10-ae4c-631542fc58ab
+worker          | [2m2025-08-21T05:16:59.461978Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dfec75fa-87b8-4073-93c4-b4f6b07b9597
+worker          | [2m2025-08-21T05:16:59.461989Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c0e766fa-d7fa-4aaa-af33-303c8b40e160
+worker          | [2m2025-08-21T05:16:59.471709Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 61dc8d37-c2ff-41d8-a2a5-67263bc40814
+worker          | [2m2025-08-21T05:16:59.474984Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1260d9bf-2b51-4ef3-ad9e-8d278dbc4841
+worker          | [2m2025-08-21T05:16:59.484136Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a4c88c21-3bba-4329-902c-e635f0917f34
+worker          | [2m2025-08-21T05:16:59.484149Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: afada0d3-7220-4241-a7c7-342e3cda9a32
+worker          | [2m2025-08-21T05:16:59.489500Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 71f3bcb6-410e-4ece-bbb0-66f2344da1a7
+worker          | [2m2025-08-21T05:16:59.503221Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 18b59dda-aab6-4648-b81f-4b0bdce9385f
+worker          | [2m2025-08-21T05:16:59.819530Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dce3c7bb-de8e-492e-b494-7db56bf64c0b
+worker          | [2m2025-08-21T05:16:59.824514Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2930734e-e5d2-4f6e-adaf-0824f5d2ed4e
+worker          | [2m2025-08-21T05:16:59.824527Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d49550b9-7397-4355-a01e-9a92ab00f65a
+worker          | [2m2025-08-21T05:16:59.830075Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0477c18f-ddad-4265-8184-adb3f686ed91
+worker          | [2m2025-08-21T05:16:59.844230Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: efd88271-062b-4194-a415-ec73407c46f1
+worker          | [2m2025-08-21T05:16:59.844258Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fa255903-7a5b-4d2f-aa6a-b9d7db425dd6
+worker          | [2m2025-08-21T05:16:59.850076Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3d486347-c2b1-4686-9863-a029ab8d44a7
+worker          | [2m2025-08-21T05:16:59.851578Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cf4924ad-b0fd-4d5b-81c4-347e5d071b60
+worker          | [2m2025-08-21T05:16:59.858120Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cd1a2fe4-8206-4f5e-8a30-5f6d7399076b
+worker          | [2m2025-08-21T05:16:59.858139Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cf114741-5d29-4f92-afcd-c05663f1e130
+worker          | [2m2025-08-21T05:16:59.864699Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 068b1805-3b16-4021-a4ba-6bc27bbd7d6c
+worker          | [2m2025-08-21T05:16:59.864712Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7e24c881-cd6d-48b5-b0a0-b9b17f736271
+worker          | [2m2025-08-21T05:16:59.876799Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4442aa9b-5d30-45eb-ba27-fe101b453255
+worker          | [2m2025-08-21T05:16:59.876848Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e2cbe348-0c6f-4d2f-8236-7df65b81b338
+worker          | [2m2025-08-21T05:16:59.887902Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 361661bb-ce48-482c-b717-ed511483644b
+worker          | [2m2025-08-21T05:16:59.890768Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5dbe0474-c137-4d01-b218-9543a22a4744
+worker          | [2m2025-08-21T05:16:59.896402Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 930a600a-5d42-42ae-8c06-692081a9949e
+worker          | [2m2025-08-21T05:16:59.896416Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b9178bda-8707-45f1-a243-777a0f456c3e
+worker          | [2m2025-08-21T05:16:59.901854Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2e0ef8a0-8a5b-4ffb-ac1c-e046cb68b4e4
+worker          | [2m2025-08-21T05:16:59.909316Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: be4a7712-3eb1-4e6c-9d33-01471fe6591f
+worker          | [2m2025-08-21T05:16:59.909329Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 10252e1b-40bf-4c83-b389-b8c6647f5a0c
+worker          | [2m2025-08-21T05:16:59.914320Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ce7ef72e-acd4-4887-9137-cbcedd1bf8b3
+worker          | [2m2025-08-21T05:16:59.924060Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 49dcc7b8-2799-4592-83bd-39ae51e2e040
+worker          | [2m2025-08-21T05:16:59.924073Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4a76dd05-a8ae-484d-a61a-2a48ea88690f
+worker          | [2m2025-08-21T05:16:59.931707Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4b939fd6-49ff-4923-aa1c-83e07d90e70f
+worker          | [2m2025-08-21T05:16:59.931721Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 738ce5bb-7ac4-45c5-9857-38c86e6a9061
+worker          | [2m2025-08-21T05:16:59.936884Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6647b293-17fd-4964-a231-98184af4ded1
+worker          | [2m2025-08-21T05:16:59.944331Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d6d63dfd-aab9-42c0-b3fe-d19863d5c8f9
+worker          | [2m2025-08-21T05:16:59.946517Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ed5d169c-b7b8-4f5f-a04b-fbe8b1714f2f
+worker          | [2m2025-08-21T05:16:59.956275Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8f43b34d-db78-456a-81ff-bde7bda29888
+worker          | [2m2025-08-21T05:16:59.956288Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 466d1227-a4a0-493b-9a1c-8cda7f800ea3
+worker          | [2m2025-08-21T05:16:59.963808Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5fde729d-f9eb-4cfd-bd43-d34804e9cca8
+worker          | [2m2025-08-21T05:16:59.967097Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: efcaa43f-9460-4f91-9104-ebb4644d6265
+worker          | [2m2025-08-21T05:16:59.974632Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 84c85844-2b57-4df0-8d53-929ebaa2bd42
+worker          | [2m2025-08-21T05:16:59.974922Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0bfe3d89-e096-45a3-ab37-a3ed179d2d23
+worker          | [2m2025-08-21T05:16:59.974969Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 031269e5-0b52-465c-83a0-7caac081a86a
+worker          | [2m2025-08-21T05:16:59.983714Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: eefea8b6-9cea-4c11-8a9c-40666e66d4ff
+worker          | [2m2025-08-21T05:16:59.989508Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e6d88307-f37d-4c8c-9a73-3d2c902fd552
+worker          | [2m2025-08-21T05:16:59.989523Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 925dc2f4-e71c-40da-b555-1a37b7054f1a
+worker          | [2m2025-08-21T05:17:00.003651Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a9ff9a4f-1cac-43f9-bd56-3fbeebb19929
+worker          | [2m2025-08-21T05:17:00.317562Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ab8cd766-daad-49e9-8330-5c119cb67f91
+worker          | [2m2025-08-21T05:17:00.323798Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8b97ee99-8777-427d-bb68-353f74d57438
+worker          | [2m2025-08-21T05:17:00.329727Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 14e2673b-089c-4e47-a7a8-96999193234f
+worker          | [2m2025-08-21T05:17:00.334617Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 672f19e0-ab97-403b-b2ec-d326bf507a56
+worker          | [2m2025-08-21T05:17:00.334630Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1ca3cfe1-b6c3-425e-8170-a6b196d0d8da
+worker          | [2m2025-08-21T05:17:00.340219Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 26022450-da71-4f7a-a4c2-203d92b45854
+worker          | [2m2025-08-21T05:17:00.348318Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f7b8711d-45dc-41e6-ac37-d7b6a80b63f1
+worker          | [2m2025-08-21T05:17:00.348335Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8d32540a-eb89-45d6-b72c-73f7ccc748df
+worker          | [2m2025-08-21T05:17:00.355638Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9f74ec1a-6bd8-41ae-94e2-e3947d03241c
+worker          | [2m2025-08-21T05:17:00.358927Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c74a54b9-5ef7-4215-94f5-20b6dab4f090
+worker          | [2m2025-08-21T05:17:00.358939Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b0799e05-e6c4-4be1-9ed6-50b42b64477e
+worker          | [2m2025-08-21T05:17:00.364455Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b0981da5-f506-4e72-81ca-37aeed0a2614
+worker          | [2m2025-08-21T05:17:00.366621Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f7c8ffdd-ed3a-49e9-af7c-9bda092e3093
+worker          | [2m2025-08-21T05:17:00.385214Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ee428d89-a6db-461d-90a5-942cfb62319d
+worker          | [2m2025-08-21T05:17:00.385227Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1c41ba0c-c1e3-44b1-bd80-b3f6bb5973cf
+worker          | [2m2025-08-21T05:17:00.388003Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1d3cf130-5365-4cb5-a10e-c616744102dc
+worker          | [2m2025-08-21T05:17:00.397559Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 635aed9a-9529-4cd1-865f-0e111f874500
+worker          | [2m2025-08-21T05:17:00.397572Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 780cb341-81ef-400e-90f8-0c9bc6529091
+worker          | [2m2025-08-21T05:17:00.397575Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0a7bb86f-2173-48b5-bbed-25d987409fc3
+worker          | [2m2025-08-21T05:17:00.412206Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 38d226de-8f39-4458-9124-17868ce1d662
+worker          | [2m2025-08-21T05:17:00.419551Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8f2a654f-b811-4a4a-8005-6e9492c056e2
+worker          | [2m2025-08-21T05:17:00.419565Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 916d7b99-2ed4-4fea-a6e3-55cd605b9633
+worker          | [2m2025-08-21T05:17:00.419568Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d1cc6abd-a571-4577-844a-a156aaef0e26
+worker          | [2m2025-08-21T05:17:00.426067Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d5c5c948-5192-42be-8cf7-895ef6c0224f
+worker          | [2m2025-08-21T05:17:00.430306Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c5213e15-a3c9-4ea4-b0ad-2ec770d626a3
+worker          | [2m2025-08-21T05:17:00.432493Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a309741a-8f0a-4eb7-9520-1f9db57a3e39
+worker          | [2m2025-08-21T05:17:00.434683Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 41e67e9c-0b00-4dfa-9f52-939b13c2a8fb
+worker          | [2m2025-08-21T05:17:00.444663Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 14819d7a-7215-47ec-8a8b-ad8cbfef0783
+worker          | [2m2025-08-21T05:17:00.447400Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1a19d15a-4c7b-4373-aff7-449edef78437
+worker          | [2m2025-08-21T05:17:00.449594Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d7f710cb-659c-4923-ad30-e15a611bf759
+worker          | [2m2025-08-21T05:17:00.455050Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c36203f7-3667-4a1c-ba76-567b5ea616be
+worker          | [2m2025-08-21T05:17:00.457230Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ed3c0bcd-655a-499a-b0d3-b18b3fa09e94
+worker          | [2m2025-08-21T05:17:00.464310Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3a88a102-4220-43b5-bb8a-659b41788323
+worker          | [2m2025-08-21T05:17:00.464328Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6221fcf2-0828-4cd1-afdd-8d0cb6239162
+worker          | [2m2025-08-21T05:17:00.470836Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dce4ff4e-2497-4365-93c9-cd6c3060b371
+worker          | [2m2025-08-21T05:17:00.480590Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 21f672e2-a482-44de-8dce-c5d62c7b425f
+worker          | [2m2025-08-21T05:17:00.484297Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bb98659f-b433-42b2-a961-b59c93302227
+worker          | [2m2025-08-21T05:17:00.493514Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e8defaff-ed1d-4d80-8492-129b52bd522b
+worker          | [2m2025-08-21T05:17:00.493527Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 31f636a1-3c01-4916-afa8-4cca8b8f4ef8
+worker          | [2m2025-08-21T05:17:00.499444Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 06e6fb4e-4f5e-4d67-99b9-8e59fb00abdb
+worker          | [2m2025-08-21T05:17:00.817704Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c907326b-d17f-4816-9e6c-7f4be28d9fb8
+worker          | [2m2025-08-21T05:17:00.817723Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f438e51f-5ebb-4f49-9c4a-1bfb5cfcddbb
+worker          | [2m2025-08-21T05:17:00.825833Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 15df97d7-3ff7-46c3-8682-a211050a17fd
+worker          | [2m2025-08-21T05:17:00.825849Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d2a33fc4-ecf3-4cb3-bf80-348f60e45840
+worker          | [2m2025-08-21T05:17:00.838727Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 802a6c41-735f-4ea8-9efe-1e89cb173755
+worker          | [2m2025-08-21T05:17:00.843103Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 012e7c72-24fe-4f31-80a0-bc5e10a97746
+worker          | [2m2025-08-21T05:17:00.843139Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3680cd5e-b85d-4d9f-8733-b6c31db91390
+worker          | [2m2025-08-21T05:17:00.851273Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f09dca4b-c6f3-4359-aa25-f7d5c5619a45
+worker          | [2m2025-08-21T05:17:00.855163Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9070827d-08f1-40ac-9e2a-105af490caf3
+worker          | [2m2025-08-21T05:17:00.855177Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 25055227-b831-49ed-ae0d-78d6ed422a78
+worker          | [2m2025-08-21T05:17:00.867087Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 80e5bbe2-450c-41d4-898a-5bfc9f2517a4
+worker          | [2m2025-08-21T05:17:00.869203Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ff77bca7-46e2-4e63-a1f2-ec0d0177433e
+worker          | [2m2025-08-21T05:17:00.871417Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4e9ac291-0abd-4d4b-ac3a-98c1814e96aa
+worker          | [2m2025-08-21T05:17:00.880830Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3ad3011c-040d-48d9-a03a-bc60fb4f91ff
+worker          | [2m2025-08-21T05:17:00.880844Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5ba29c89-eefe-4524-b80f-5ffb56fb9ce2
+worker          | [2m2025-08-21T05:17:00.885139Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 80df8b1b-6231-47fb-8ea5-63c84cd27b6a
+worker          | [2m2025-08-21T05:17:00.887340Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 43ee1f21-4a48-4433-82d8-6089d85f3b1d
+worker          | [2m2025-08-21T05:17:00.897902Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6ef18845-33ff-4598-998d-4a4c2d329897
+worker          | [2m2025-08-21T05:17:00.897916Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 82da0da5-565a-4131-8d0a-09d66a107a5e
+worker          | [2m2025-08-21T05:17:00.897919Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 85d0df32-35dd-4e77-9dae-733c81941211
+worker          | [2m2025-08-21T05:17:00.906596Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e8e39027-5624-4864-83a1-67a3c231408f
+worker          | [2m2025-08-21T05:17:00.909850Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2f53c527-ef09-4b9b-be5f-ca2b6f8eec8a
+worker          | [2m2025-08-21T05:17:00.919037Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a42752ad-d507-42f6-ada8-8ec225b8ff76
+worker          | [2m2025-08-21T05:17:00.920143Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b2f0aa38-d980-47e6-85db-a5ef7ff929a8
+worker          | [2m2025-08-21T05:17:00.925501Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0ce7a3b9-ebfe-4cda-b9aa-86661515465b
+worker          | [2m2025-08-21T05:17:00.930996Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 91155ce0-9b63-4b90-bc4f-35977a22c3cb
+worker          | [2m2025-08-21T05:17:00.931008Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6482764d-8e2a-480b-b583-742f848db3de
+worker          | [2m2025-08-21T05:17:00.940124Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 919c06ec-cd7d-40bf-8d8d-ccedc4351fe8
+worker          | [2m2025-08-21T05:17:00.950959Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 87857aad-fe92-4ea7-bdce-b39c0efaa087
+worker          | [2m2025-08-21T05:17:00.950972Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 11e05912-8b7a-432c-83f0-041dbeaeeccb
+worker          | [2m2025-08-21T05:17:00.955310Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1e181f3e-8585-426a-b599-e8a5796cda8f
+worker          | [2m2025-08-21T05:17:00.963704Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bc201fea-8971-47a5-b211-9c351994407b
+worker          | [2m2025-08-21T05:17:00.968414Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2c4b8527-d501-465a-a210-cfe0fb1fba18
+worker          | [2m2025-08-21T05:17:00.968427Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 04a872ac-ec62-4459-91d8-74e9abca4e78
+worker          | [2m2025-08-21T05:17:00.979328Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e4a9355c-d13c-424a-b9fc-198ae52939a1
+worker          | [2m2025-08-21T05:17:00.979724Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3b72ddb4-4e73-4269-a34e-bba58341b4ea
+worker          | [2m2025-08-21T05:17:00.979744Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9c2cdbaa-092b-4eba-8a1f-f651c0f139aa
+worker          | [2m2025-08-21T05:17:00.983019Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: edb24a71-1df1-4582-93ee-d20eaa57423d
+worker          | [2m2025-08-21T05:17:00.993978Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0c1d3d37-90cd-4eec-b904-79855a0a79f5
+worker          | [2m2025-08-21T05:17:00.999953Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 54fd2c02-d779-4f68-a78b-9d245be2a2f4
+worker          | [2m2025-08-21T05:17:01.006412Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: aa674f0c-c794-46b3-b0d0-b81d9c41a9f5
+worker          | [2m2025-08-21T05:17:01.315858Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6b6944f8-baf1-469d-900f-4d2a36fe315c
+worker          | [2m2025-08-21T05:17:01.323302Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c7c37aeb-211d-4c01-b2ad-85bde496a7e1
+worker          | [2m2025-08-21T05:17:01.323313Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e3da3f27-3721-4b26-b702-4fd411c1bd94
+worker          | [2m2025-08-21T05:17:01.332794Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b64981db-7a95-4481-9b37-f3ad5aef4c47
+worker          | [2m2025-08-21T05:17:01.332808Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3fc70148-de52-4d98-91be-d36f11b6686d
+worker          | [2m2025-08-21T05:17:01.339268Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 570a432e-888b-4e48-b90e-a9b6f0f86833
+worker          | [2m2025-08-21T05:17:01.341704Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7616709f-910b-4d05-a99a-24db9a2df0e8
+worker          | [2m2025-08-21T05:17:01.341717Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4c81dbb7-aa62-48ea-a69e-5b5ae8cf2a04
+worker          | [2m2025-08-21T05:17:01.352311Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3406de06-cc4f-456c-b160-fdeb26a764eb
+worker          | [2m2025-08-21T05:17:01.355073Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f1304727-3a44-4f1b-b333-979022720bbe
+worker          | [2m2025-08-21T05:17:01.367222Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 33f7a651-b4ba-442b-8c01-663734ef6473
+worker          | [2m2025-08-21T05:17:01.367235Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 33ca4efa-e49b-4bb4-8fb2-c5001854d843
+worker          | [2m2025-08-21T05:17:01.370517Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fb6c3ea0-3a86-4e18-92c9-79b2e9d90afb
+worker          | [2m2025-08-21T05:17:01.372699Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0671aaae-5a0b-453c-9d37-6680e60bd51c
+worker          | [2m2025-08-21T05:17:01.383652Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c0eb0e53-cc5a-45c0-bc86-15c2a4fb1ad7
+worker          | [2m2025-08-21T05:17:01.383666Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8a9156c3-d573-4b2f-b5c1-96a1220cef37
+worker          | [2m2025-08-21T05:17:01.385846Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e2c24786-f571-42d1-80cc-60f5eb7167a0
+worker          | [2m2025-08-21T05:17:01.404541Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a6ed278b-80e0-4200-a4b5-67df6d56b13e
+worker          | [2m2025-08-21T05:17:01.404576Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5ea30b01-0e73-4679-a877-92ffbec8887b
+worker          | [2m2025-08-21T05:17:01.404580Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 45fdfc42-e72e-4f0b-bdea-e9c2047bb586
+worker          | [2m2025-08-21T05:17:01.410533Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b3a0930f-3962-4921-91bc-52a1cb461e92
+worker          | [2m2025-08-21T05:17:01.424382Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 13393f4a-4723-45fa-8b2c-067a82756a5f
+worker          | [2m2025-08-21T05:17:01.424395Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fb3cba35-cb2a-4085-a667-1ed3d7487535
+worker          | [2m2025-08-21T05:17:01.424398Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 46d60806-6e9a-4fc1-8b4f-69ebe5fc78d9
+worker          | [2m2025-08-21T05:17:01.424400Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e0057d1c-679a-440d-9f72-fdd1f6ff10e6
+worker          | [2m2025-08-21T05:17:01.428800Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 16948aca-41e3-43fe-a898-58331fa5e254
+worker          | [2m2025-08-21T05:17:01.434160Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5b83d371-2c20-42d5-b6a9-28ffb81e812f
+worker          | [2m2025-08-21T05:17:01.439559Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 14a1d36d-6b33-421a-a7f8-b45683b29ede
+worker          | [2m2025-08-21T05:17:01.444255Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9c8a954d-885e-410f-a777-d1d817460797
+worker          | [2m2025-08-21T05:17:01.452428Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bb7b92de-ea6a-459f-9e9f-6c6950654e66
+worker          | [2m2025-08-21T05:17:01.452441Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 43ec4cc5-6b37-4859-8127-be393992b80f
+worker          | [2m2025-08-21T05:17:01.455688Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d87c9cd8-547b-43b3-8148-73e280244b3a
+worker          | [2m2025-08-21T05:17:01.458957Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2f66e66a-dd11-4a17-b10f-7eaaed4f1d22
+worker          | [2m2025-08-21T05:17:01.470344Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6835d96b-b62c-48d8-b69c-a9a4c18ba7fb
+worker          | [2m2025-08-21T05:17:01.470356Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 979fe436-54ef-41f3-86bd-ac3ae210f93c
+worker          | [2m2025-08-21T05:17:01.480048Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f6d8962c-ad7e-46df-8292-5941efc8087f
+worker          | [2m2025-08-21T05:17:01.482159Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b909b477-b72f-453e-b50b-e52a55f530e3
+worker          | [2m2025-08-21T05:17:01.482208Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2a9560eb-6096-4fe2-9ec6-818ddbbb6f5e
+worker          | [2m2025-08-21T05:17:01.485593Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 70d1230a-e697-4c68-93df-d7e7e8eb33a8
+worker          | [2m2025-08-21T05:17:01.503050Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 155406c4-9f9f-4bc8-b1ce-3d70e73cdea9
+worker          | [2m2025-08-21T05:17:01.503070Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: edb68e52-2ebe-4f5c-bc06-c58125f5174a
+worker          | [2m2025-08-21T05:17:01.810628Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6baaf979-9f9b-4cd7-bdb0-f849639b55cd
+worker          | [2m2025-08-21T05:17:01.818767Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fc8067c2-6a41-4803-997b-4d93438673d7
+worker          | [2m2025-08-21T05:17:01.834611Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8378bdba-30c5-4925-b17c-1614f847af7f
+worker          | [2m2025-08-21T05:17:01.834625Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b4f9dfd7-9141-441d-b81d-6fc19d7499fc
+worker          | [2m2025-08-21T05:17:01.834629Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 871bb546-aee0-4699-8141-f1ed9d3fba19
+worker          | [2m2025-08-21T05:17:01.835063Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3fe121bd-cf58-4ee8-9afb-390b0b38c1b1
+worker          | [2m2025-08-21T05:17:01.844547Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0e86a4e2-1d14-461d-adb2-1b96cd6cf625
+worker          | [2m2025-08-21T05:17:01.850000Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 76a5c5ca-ea89-40b6-b934-2cde9c3f80e0
+worker          | [2m2025-08-21T05:17:01.850019Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f598b3ce-a374-47f5-9827-db4d5b78407d
+worker          | [2m2025-08-21T05:17:01.850022Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2d8ada58-ff4c-4aea-83c2-9259d6d1e033
+worker          | [2m2025-08-21T05:17:01.856187Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8ea3728a-e25e-4e76-8da1-dc322d22d844
+worker          | [2m2025-08-21T05:17:01.865995Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0e0aec75-ee36-4236-a6c8-9033a0c2a7f2
+worker          | [2m2025-08-21T05:17:01.870262Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 69f364b1-fe59-4fac-b6c0-7ad63ca92979
+worker          | [2m2025-08-21T05:17:01.870276Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9f7c73cc-2a70-4deb-ac30-e75113096998
+worker          | [2m2025-08-21T05:17:01.878142Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 30f955e8-efd5-42fe-bf64-f565b6bf430c
+worker          | [2m2025-08-21T05:17:01.880560Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2c58a29d-8ce8-482a-838d-0aa943539c90
+worker          | [2m2025-08-21T05:17:01.880574Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d0dcac52-7aa2-4aa1-a92c-50be76f077c3
+worker          | [2m2025-08-21T05:17:01.889238Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4f725c20-0795-4158-b5b5-005ce4ff8c76
+worker          | [2m2025-08-21T05:17:01.889255Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8bc65e49-093e-4b2c-bdc9-9959af4be713
+worker          | [2m2025-08-21T05:17:01.902070Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 17931efd-c26b-4f5a-b4de-5eaa73dc4c61
+worker          | [2m2025-08-21T05:17:01.905359Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 73476587-732d-48b4-b80b-54745bf10d01
+worker          | [2m2025-08-21T05:17:01.909722Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7d34fba7-d30e-4e06-9b35-b27f555d2782
+worker          | [2m2025-08-21T05:17:01.916526Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c303038f-cb7a-4cbf-a825-b4809d1aaeac
+worker          | [2m2025-08-21T05:17:01.917624Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 45853b02-a708-442a-92d7-92fe68ce3edd
+worker          | [2m2025-08-21T05:17:01.920895Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 62a79b34-32a5-4e83-a491-7b90e0873d2a
+worker          | [2m2025-08-21T05:17:01.927212Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3886cf82-3409-4e3e-a432-a204fa47bada
+worker          | [2m2025-08-21T05:17:01.927224Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 04ea7cd1-db99-4faa-9e3f-3e7be9dd6d3f
+worker          | [2m2025-08-21T05:17:01.935775Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fab4bbf8-e685-46fc-8a91-4e3ae5315ac7
+worker          | [2m2025-08-21T05:17:01.943482Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: faa4bdde-8b8e-4bbd-8bd3-40fef1acb9e5
+worker          | [2m2025-08-21T05:17:01.943500Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 61962801-9606-4d68-bc0e-b644ef5c9aac
+worker          | [2m2025-08-21T05:17:01.943504Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1391c518-06f5-4b65-99cc-af14fb6173a8
+worker          | [2m2025-08-21T05:17:01.955824Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6dd13a2d-5bbf-43ff-9acc-e6fb6a4bce93
+worker          | [2m2025-08-21T05:17:01.959114Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6a752284-86bf-4610-b3dd-45dde94b1484
+worker          | [2m2025-08-21T05:17:01.968165Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 57fbd844-c177-47ed-9c0d-a36158409d49
+worker          | [2m2025-08-21T05:17:01.968186Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 80adb244-c61c-4af2-91e5-461b45f6d9e6
+worker          | [2m2025-08-21T05:17:01.968196Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 466f14d2-f694-458e-a388-3d2e421bec54
+worker          | [2m2025-08-21T05:17:01.979142Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8eb81005-0c9e-48fb-bd86-0a9ee5bc7846
+worker          | [2m2025-08-21T05:17:01.979155Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 226c53cb-a15f-4588-9740-fd8b57442152
+worker          | [2m2025-08-21T05:17:01.986629Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b2e5db0c-c3fb-4a48-b942-d8e696fed20d
+worker          | [2m2025-08-21T05:17:01.989903Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7144f048-37a7-41f1-a987-9b1d0886edb5
+worker          | [2m2025-08-21T05:17:01.998938Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 110ab1f3-e7fe-4b84-8fb0-05ebe09791cc
+worker          | [2m2025-08-21T05:17:02.002201Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8b3094a9-ff4f-400e-bd84-251aac7875ac
+worker          | [2m2025-08-21T05:17:02.313481Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a62f2c02-5c89-4e99-916b-f65e14612e23
+worker          | [2m2025-08-21T05:17:02.322464Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 197d9080-5b7e-44a2-b62b-2251cf294502
+worker          | [2m2025-08-21T05:17:02.322491Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f9fd5b68-d2b1-4458-8521-05488a3c64f1
+worker          | [2m2025-08-21T05:17:02.322494Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2e036a84-b777-4873-96bb-7985c9ec4e91
+worker          | [2m2025-08-21T05:17:02.331317Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ec9667a4-dfa4-45c4-a53f-3997b6a73f0a
+worker          | [2m2025-08-21T05:17:02.337180Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b44bb663-95ae-43fa-8dc5-e030664cc642
+worker          | [2m2025-08-21T05:17:02.337193Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ed5bae94-a680-4f5b-8542-efe3b67ffd5a
+worker          | [2m2025-08-21T05:17:02.344983Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8d7e4907-6eeb-4624-8fd5-97b06ae2b8d4
+worker          | [2m2025-08-21T05:17:02.353414Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ef4501cf-7a32-4232-abe7-ad02f91dbd72
+worker          | [2m2025-08-21T05:17:02.353426Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1f7d0546-8a3e-4b6c-9b84-9cfbb9b521ec
+worker          | [2m2025-08-21T05:17:02.353429Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 15326769-b1fb-4d89-8d63-2013ee45fb0d
+worker          | [2m2025-08-21T05:17:02.369182Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a9ef69c3-0c59-49b3-98c4-13e50e14ca38
+worker          | [2m2025-08-21T05:17:02.373598Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fd2e6ccb-67c6-4dc8-9084-dd8dffb27d47
+worker          | [2m2025-08-21T05:17:02.373612Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5237bf8e-be3c-41bf-8308-8d3028482afd
+worker          | [2m2025-08-21T05:17:02.373615Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e9d585f0-c920-458f-8ebb-be7dc1fd3c2f
+worker          | [2m2025-08-21T05:17:02.380146Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dd155e36-693e-420a-ba41-68cfa35e2f41
+worker          | [2m2025-08-21T05:17:02.380160Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1b5b180d-84b5-4610-a918-df63b97b461a
+worker          | [2m2025-08-21T05:17:02.391609Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e132131f-afda-40ce-8a7a-31942d01c069
+worker          | [2m2025-08-21T05:17:02.404346Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5d1efe6c-e0bb-4c5c-92a3-dd27c8379e75
+worker          | [2m2025-08-21T05:17:02.404358Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6fa82cd1-cdeb-401e-a541-d5f285652805
+worker          | [2m2025-08-21T05:17:02.404361Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cbefae41-e30a-445e-8c2c-885c7f1a8350
+worker          | [2m2025-08-21T05:17:02.408781Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dc41ea59-d029-46fa-8b4a-75596edb8c23
+worker          | [2m2025-08-21T05:17:02.420475Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cc9b4e3d-8bd7-472b-94f7-c6db6e3dfc3b
+worker          | [2m2025-08-21T05:17:02.420489Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4072b186-f8f5-454b-bd44-2fb610ab83e3
+worker          | [2m2025-08-21T05:17:02.420494Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 07dac43d-9388-4b0a-aa56-61b03954bb31
+worker          | [2m2025-08-21T05:17:02.429665Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4ae63a64-380a-45fb-9d1a-73ee0318cc20
+worker          | [2m2025-08-21T05:17:02.432874Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 795f1f64-965d-4325-baa4-050c05d3832a
+worker          | [2m2025-08-21T05:17:02.440465Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ad3085f1-3907-47ac-88b8-637b10a3f550
+worker          | [2m2025-08-21T05:17:02.440477Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 056d03d9-1a79-42de-9bdc-0ab0339b5ba6
+worker          | [2m2025-08-21T05:17:02.443158Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 75d6877d-a141-4e67-83ec-9a2db3c38837
+worker          | [2m2025-08-21T05:17:02.443190Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6e1171d6-538a-4551-9ca2-78d2704136c2
+worker          | [2m2025-08-21T05:17:02.446947Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 86089496-0e10-468e-94d4-b668ac2545e3
+worker          | [2m2025-08-21T05:17:02.457680Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5cfc0eea-0371-450a-aef0-218f3e41e292
+worker          | [2m2025-08-21T05:17:02.460957Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cdbceaa2-0689-48c9-94ce-8f59634b0333
+worker          | [2m2025-08-21T05:17:02.468405Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 495fa5a4-0b28-48ad-97a2-86faf02a2973
+worker          | [2m2025-08-21T05:17:02.471706Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 33c45d56-f39f-4ff9-890b-2f057e72ed4e
+worker          | [2m2025-08-21T05:17:02.473902Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a7a16d55-6da0-4ed0-957f-2a652b2c879d
+worker          | [2m2025-08-21T05:17:02.479306Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 88cfccf6-7a50-4203-a46e-8ffb2cd98c3a
+worker          | [2m2025-08-21T05:17:02.483704Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a686b5a8-3aae-48d6-8c27-afac4cfb07cb
+worker          | [2m2025-08-21T05:17:02.483736Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c0c9bb19-ff80-45a3-b275-cfbb6c7900ca
+worker          | [2m2025-08-21T05:17:02.497363Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 03825c66-d697-4e16-8fcf-f20c4e7f6eec
+worker          | [2m2025-08-21T05:17:02.501104Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f25041c1-a9e5-4c68-80e8-49ab97e01ab1
+worker          | [2m2025-08-21T05:17:02.808184Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f26077ae-7c22-40cf-a1c7-aa7a22793c7e
+worker          | [2m2025-08-21T05:17:02.812559Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3ab36854-2206-4832-96ef-176290e9b809
+worker          | [2m2025-08-21T05:17:02.823277Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 58fd2eac-9b8d-462a-a028-6900e099b314
+worker          | [2m2025-08-21T05:17:02.827845Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bab272f8-3325-4c47-a5a3-ba1a208f373e
+worker          | [2m2025-08-21T05:17:02.830039Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ee44dd25-d7a1-4d4e-bd5e-aaec9524913c
+worker          | [2m2025-08-21T05:17:02.837985Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 09f3a0c9-ca6a-4166-887a-8497b7afed1e
+worker          | [2m2025-08-21T05:17:02.839446Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f00b5f68-cdbc-4105-9285-026e681ab9e9
+worker          | [2m2025-08-21T05:17:02.842725Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8625d954-17a7-4d11-b240-b25ba0c2374e
+worker          | [2m2025-08-21T05:17:02.842738Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 30f7275f-c15a-471d-b38a-20f88d34d900
+worker          | [2m2025-08-21T05:17:02.847229Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f9bbfe5f-d279-4376-b46c-68fa02689309
+worker          | [2m2025-08-21T05:17:02.854020Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ad5228ae-f571-49e8-9cfa-9a161fe68a87
+worker          | [2m2025-08-21T05:17:02.857736Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6c27092f-7653-498d-b924-4e0b0c883f60
+worker          | [2m2025-08-21T05:17:02.868667Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6ed88e22-1956-4fe0-a315-dd43bf0068d1
+worker          | [2m2025-08-21T05:17:02.870862Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 867bbd6e-e2e5-4ab9-a4ba-c1046d577f67
+worker          | [2m2025-08-21T05:17:02.870874Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 47e4c401-04dc-4e54-ac93-31eb1a5aec50
+worker          | [2m2025-08-21T05:17:02.884381Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 18870728-1470-4ba7-9661-b8097e5d9d8f
+worker          | [2m2025-08-21T05:17:02.884394Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5442faaa-70c4-41e6-9d22-bc260b8fc116
+worker          | [2m2025-08-21T05:17:02.892045Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b46c3123-3ae6-4000-8527-b474029ed833
+worker          | [2m2025-08-21T05:17:02.892058Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b5c12ca7-89df-47c9-8957-abe6f9923dc7
+worker          | [2m2025-08-21T05:17:02.892060Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c8b2f963-5f7e-4bfd-b63c-f2c0ac2b6724
+worker          | [2m2025-08-21T05:17:02.902615Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2cdbcfb0-0ee1-44aa-bcbd-1efe540e2fea
+worker          | [2m2025-08-21T05:17:02.902631Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dde8a21e-4993-491f-b691-c4d0b53d5f28
+worker          | [2m2025-08-21T05:17:02.917503Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2c99c6e7-9360-49e6-ab5c-83b52c001fd9
+worker          | [2m2025-08-21T05:17:02.918624Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3da80f58-3e7c-468e-99d0-04c186ce8227
+worker          | [2m2025-08-21T05:17:02.918638Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d52f95d5-a878-4c58-be7e-64338387cc87
+worker          | [2m2025-08-21T05:17:02.922982Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2ef7e75d-8f46-46c3-a42b-b3ab663b3276
+worker          | [2m2025-08-21T05:17:02.929498Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7970e247-5fea-45f8-ba19-8cad17280d5c
+worker          | [2m2025-08-21T05:17:02.937315Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c108496f-a078-45ef-bfe6-8dccb587a92c
+worker          | [2m2025-08-21T05:17:02.939445Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5bf5fc99-ab9e-4903-b364-64a3053a7e5e
+worker          | [2m2025-08-21T05:17:02.939459Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7f3d9c03-478b-4112-86a2-0a6bf62419ae
+worker          | [2m2025-08-21T05:17:02.948955Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 32e5628e-3613-4b8b-a836-f7c6ce2e01eb
+worker          | [2m2025-08-21T05:17:02.948967Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0e6325c1-784d-40cd-afc0-211c03e2c007
+worker          | [2m2025-08-21T05:17:02.954275Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c58af0de-5851-4e49-a307-2cc83be5ad5d
+worker          | [2m2025-08-21T05:17:02.962722Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 91d1c1ab-5c0c-4c0c-a785-8cfe50811238
+worker          | [2m2025-08-21T05:17:02.966005Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 191a77b3-8844-4390-9bb2-36f8b0b5a292
+worker          | [2m2025-08-21T05:17:02.969649Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 95c7d69e-f0e5-4b64-b631-564ea80f3930
+worker          | [2m2025-08-21T05:17:02.969663Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e0a68221-3941-4484-b8c8-8806a6386f5a
+worker          | [2m2025-08-21T05:17:02.983170Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ce62f9ac-7ca4-409c-bb09-8ef54fe59395
+worker          | [2m2025-08-21T05:17:02.983183Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3b38a86e-6a89-4150-8699-577aa3572f07
+worker          | [2m2025-08-21T05:17:02.991618Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5543327b-aa58-4c56-b273-c3eb0c99f0d9
+worker          | [2m2025-08-21T05:17:02.993807Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dd20244d-d705-491e-b4af-ebe27fb4246a
+worker          | [2m2025-08-21T05:17:02.993821Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 94676370-2a25-45e7-a4da-9e40a6a7a959
+worker          | [2m2025-08-21T05:17:03.009270Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a02c31fb-bdeb-4250-8521-df54410d97e1
+worker          | [2m2025-08-21T05:17:03.303005Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 22fe1161-dff0-4a8d-b183-ffecfc5d0cc6
+worker          | [2m2025-08-21T05:17:03.320136Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ee8ceb1b-e408-4fc0-a530-0d9a0086c31a
+worker          | [2m2025-08-21T05:17:03.323414Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7d5be950-855b-412b-aa6f-41288c2e1326
+worker          | [2m2025-08-21T05:17:03.323427Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6c07599c-febe-464d-91d7-64e117b5f493
+worker          | [2m2025-08-21T05:17:03.325640Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2d1265d6-2793-4621-84ad-3bae2a38d4b2
+worker          | [2m2025-08-21T05:17:03.325658Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 387076fd-969f-4c27-82cf-453e20f6ed1d
+worker          | [2m2025-08-21T05:17:03.334893Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ce69e682-25e4-4211-a5b0-c3a0e349f12e
+worker          | [2m2025-08-21T05:17:03.338150Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7976d102-8ded-42fd-9641-17623a5a272e
+worker          | [2m2025-08-21T05:17:03.344821Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 799cc9a1-da49-4653-acb9-d1d3c66ed542
+worker          | [2m2025-08-21T05:17:03.344845Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6b7de58b-48d8-4799-a96c-0e7e9ca65225
+worker          | [2m2025-08-21T05:17:03.344849Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a5ebbd1b-ce67-4673-81b6-d36ec67a421b
+worker          | [2m2025-08-21T05:17:03.353268Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 859b4c6d-c5e9-4d86-b4b1-1cbe53b3cf38
+worker          | [2m2025-08-21T05:17:03.368118Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5b6ed0df-68d5-4908-bc33-d45a8161875a
+worker          | [2m2025-08-21T05:17:03.368134Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0026d098-0823-4d3c-8a18-972b95d33d92
+worker          | [2m2025-08-21T05:17:03.368137Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 89dcbb16-2def-4fe6-a0e5-cb7671f59026
+worker          | [2m2025-08-21T05:17:03.372485Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: eddbb49e-40cd-4379-82e9-ebfe3b122287
+worker          | [2m2025-08-21T05:17:03.385492Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: beef391f-ed5a-4370-9083-15a61dc3095d
+worker          | [2m2025-08-21T05:17:03.385505Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5428a998-15aa-434f-8535-808439946ca7
+worker          | [2m2025-08-21T05:17:03.398429Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4abf9ca2-5a5f-46f8-a6d5-d7d0dde9e57b
+worker          | [2m2025-08-21T05:17:03.401712Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ca9fd3bb-af65-4757-ae90-f76d7e9e9caa
+worker          | [2m2025-08-21T05:17:03.403892Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 992ad0f8-4948-4fa0-a339-a81ea6101ac0
+worker          | [2m2025-08-21T05:17:03.403905Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f6446c81-f79b-49a6-9338-0a639bfdb719
+worker          | [2m2025-08-21T05:17:03.411321Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0d5cfa2f-9de3-4f36-a925-0ab54d7aa977
+worker          | [2m2025-08-21T05:17:03.424975Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: db7dcff4-358e-4315-bdfb-a5206b76ab4f
+worker          | [2m2025-08-21T05:17:03.424988Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 96f8de7b-279c-454c-8d15-38a9b7258773
+worker          | [2m2025-08-21T05:17:03.424990Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6c00d2bd-62e7-4ef8-b67f-8200ed0656be
+worker          | [2m2025-08-21T05:17:03.426088Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9d20b1b0-ef81-4a3d-9492-6a26903f52dc
+worker          | [2m2025-08-21T05:17:03.431561Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6accf88c-b910-4f70-ab1a-df8da102c59a
+worker          | [2m2025-08-21T05:17:03.435929Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d41da34d-fd8c-4be2-bd08-2d4fbb7caa81
+worker          | [2m2025-08-21T05:17:03.440278Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c458503f-0c93-4e97-8db5-f56887d5790f
+worker          | [2m2025-08-21T05:17:03.444726Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ad9da47e-2db5-40f8-81db-a048df03b9cd
+worker          | [2m2025-08-21T05:17:03.444747Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 464d8370-1c4c-4991-a625-aa2bcc8cc5d8
+worker          | [2m2025-08-21T05:17:03.457282Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 63d408ac-d95a-440d-b5bf-dcbbb814de4a
+worker          | [2m2025-08-21T05:17:03.459470Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 594d2d3c-3796-4d63-a9e6-6138d8617a15
+worker          | [2m2025-08-21T05:17:03.466734Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cd850889-7afb-4d2e-ad92-f808607e5c11
+worker          | [2m2025-08-21T05:17:03.471089Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 12f0232b-a994-4cfc-b81a-cba6a99914fe
+worker          | [2m2025-08-21T05:17:03.471102Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b4118fc0-f101-482a-8df2-2c325a2eb874
+worker          | [2m2025-08-21T05:17:03.475435Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e20951c0-b745-4caf-bcd4-dad688badcd6
+worker          | [2m2025-08-21T05:17:03.484119Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e68b2c03-cfa3-42b2-883a-299d5eee9445
+worker          | [2m2025-08-21T05:17:03.488547Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ffcac10b-7e61-4d6f-8d60-7efa26839e72
+worker          | [2m2025-08-21T05:17:03.488557Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b24f3a34-7231-4ebc-87d4-2f83cc52f217
+worker          | [2m2025-08-21T05:17:03.496658Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f71eec65-79fe-4615-a351-24ff54431f66
+worker          | [2m2025-08-21T05:17:03.501375Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 05475027-41b5-44cf-b503-d3b720925c2d
+worker          | [2m2025-08-21T05:17:03.805741Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4fc591a1-be4e-42f1-945a-dee781664a70
+worker          | [2m2025-08-21T05:17:03.805762Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 248fa8e7-f77f-486f-a280-d0ed370c25bb
+worker          | [2m2025-08-21T05:17:03.813522Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4e0f6752-6790-48c9-b028-c9416c3b3b42
+worker          | [2m2025-08-21T05:17:03.820733Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d10d7cd9-c651-4f0e-b54b-e3fba887bf49
+worker          | [2m2025-08-21T05:17:03.830020Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5045dc8c-d910-4209-866e-7ff44c3f9b20
+worker          | [2m2025-08-21T05:17:03.830033Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a784783b-96d6-462d-aff3-c9228f59c6ac
+worker          | [2m2025-08-21T05:17:03.837126Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d11a3ca1-dfc2-4086-8620-f23bdd0d0624
+worker          | [2m2025-08-21T05:17:03.837142Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a0dc41b1-9e6a-4916-890f-31fda565bcfa
+worker          | [2m2025-08-21T05:17:03.843011Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a29495ef-7843-4362-933a-8321b3f7baae
+worker          | [2m2025-08-21T05:17:03.843032Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ffd77533-7687-4429-b525-9a2c641412fd
+worker          | [2m2025-08-21T05:17:03.847384Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 231706e2-3f6c-42a2-8110-44578c0c5391
+worker          | [2m2025-08-21T05:17:03.856633Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 29b2df05-0a5f-4c64-a4f7-21da3c711c34
+worker          | [2m2025-08-21T05:17:03.862536Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 934058b8-147c-4aba-a2c8-be5bcf25f8e4
+worker          | [2m2025-08-21T05:17:03.862548Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6a61592b-6a6e-4811-b5a0-eeee8a61c95a
+worker          | [2m2025-08-21T05:17:03.869068Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e7e16b81-a4f8-46e2-8ee9-9009e4143485
+worker          | [2m2025-08-21T05:17:03.876972Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8aeb62e1-ecf9-47e0-aea4-14f15b6df4f9
+worker          | [2m2025-08-21T05:17:03.879160Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 180a265d-af11-448c-a9ca-c09b4539120f
+worker          | [2m2025-08-21T05:17:03.890068Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4121e811-ebdf-454d-876b-bef8f73295e0
+worker          | [2m2025-08-21T05:17:03.890081Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e4ae94b5-7a0d-46f5-a036-766d0d9d4323
+worker          | [2m2025-08-21T05:17:03.891184Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9d530746-3ebc-4c26-86bd-4586d53f1dda
+worker          | [2m2025-08-21T05:17:03.897744Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e61a948d-5cd5-4d77-9b81-d716834ce19b
+worker          | [2m2025-08-21T05:17:03.898838Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 77cacfb9-55d4-438f-b5a4-05862181de81
+worker          | [2m2025-08-21T05:17:03.903181Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f75fac28-f9c3-4dd6-b689-629787574a29
+worker          | [2m2025-08-21T05:17:03.916058Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a8552b8b-f2b1-4c4a-8f1d-62a361464ea3
+worker          | [2m2025-08-21T05:17:03.916070Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4194fe04-53d3-4ed9-b252-bc83e87a3de0
+worker          | [2m2025-08-21T05:17:03.918968Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 35b44f21-7316-41ad-9fed-8416471c6d69
+worker          | [2m2025-08-21T05:17:03.926546Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e3e521fb-b3e2-463d-960e-3bbdb74b3c32
+worker          | [2m2025-08-21T05:17:03.928729Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 91dd709e-fb8f-4c98-a925-1f333be04324
+worker          | [2m2025-08-21T05:17:03.940019Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6fb0bc2b-4bf3-4572-ae9b-8c4abfc3f2f8
+worker          | [2m2025-08-21T05:17:03.940033Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7a6871b8-401d-4b3e-96c5-b6b677db9d9c
+worker          | [2m2025-08-21T05:17:03.940036Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 76e160d7-53d5-4e60-8058-125afb899591
+worker          | [2m2025-08-21T05:17:03.947000Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5fa557fa-d26c-4f77-bf3e-331ee3c8085b
+worker          | [2m2025-08-21T05:17:03.953005Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 87c35348-6987-48cb-955f-2aee4e0cd1e9
+worker          | [2m2025-08-21T05:17:03.953020Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: aa09fcd4-8c29-4c8e-a9e4-18144603b99e
+worker          | [2m2025-08-21T05:17:03.962391Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4c73c2ff-68d8-40b1-bc01-4fe48d9c89a8
+worker          | [2m2025-08-21T05:17:03.971286Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 07975e73-5672-40ac-ab4d-7c9ec4023fc8
+worker          | [2m2025-08-21T05:17:03.976731Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 18cfa378-bae8-42b9-a9bc-1439b2198b54
+worker          | [2m2025-08-21T05:17:03.976743Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5c767e1c-6efe-4ca6-a439-e9cd3f6d346d
+worker          | [2m2025-08-21T05:17:03.981993Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9df4a97b-d321-4157-9f8c-7af1beea6d57
+worker          | [2m2025-08-21T05:17:03.982006Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f1124866-d083-4894-8bef-347d9fd07ebc
+worker          | [2m2025-08-21T05:17:03.989325Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a261f31a-1352-4121-b007-a276b07f9cf2
+worker          | [2m2025-08-21T05:17:03.989340Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c79626ac-ca59-4a2c-9f77-47a75427e8c2
+worker          | [2m2025-08-21T05:17:03.998909Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 93e98b04-34f9-485b-9250-18b815ac2681
+worker          | [2m2025-08-21T05:17:04.007937Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: be612698-49cd-4177-851e-a7542486a809
+worker          | [2m2025-08-21T05:17:04.308196Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: df7fe11a-e397-471d-80ce-bf5a0ae797ce
+worker          | [2m2025-08-21T05:17:04.312549Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ad60f93c-3cd6-4fcd-80e3-ab56a78cbe7b
+worker          | [2m2025-08-21T05:17:04.318073Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 57befd60-b39b-4f8f-8e9e-9fb797226ba0
+worker          | [2m2025-08-21T05:17:04.323524Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8bbb4c91-e35d-4218-b49a-46b38d4ec969
+worker          | [2m2025-08-21T05:17:04.329831Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bba720af-37c5-40f2-a031-585f99fe1ef0
+worker          | [2m2025-08-21T05:17:04.332531Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2066f84b-8332-4c18-96c6-5798006f1160
+worker          | [2m2025-08-21T05:17:04.332547Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4b0b776b-ec90-4e0d-a946-dc92db8c0ba9
+worker          | [2m2025-08-21T05:17:04.335811Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 24939653-ab0f-40ea-8bc6-91feafa73c9b
+worker          | [2m2025-08-21T05:17:04.337304Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 789eda20-78f2-4229-9910-d74ed587adb2
+worker          | [2m2025-08-21T05:17:04.347273Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9ec77eac-d249-4e1e-a36c-54ec11f33c1d
+worker          | [2m2025-08-21T05:17:04.347286Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: eb141a1c-192a-415a-b6c7-404648457d0a
+worker          | [2m2025-08-21T05:17:04.354778Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 81fe98e7-c63f-47a4-bc01-7ffdf667e732
+worker          | [2m2025-08-21T05:17:04.354792Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 70098a6d-44a3-4bda-a5c8-208153951a33
+worker          | [2m2025-08-21T05:17:04.368570Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 18b75a6b-6413-49aa-bee8-fbc748ed7bba
+worker          | [2m2025-08-21T05:17:04.368589Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 929d63e0-b766-44dc-8c17-44cb6585556b
+worker          | [2m2025-08-21T05:17:04.368592Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9d009c04-e878-4abc-a36c-7e3cd261e938
+worker          | [2m2025-08-21T05:17:04.368595Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 05f321a5-ab3a-44a1-b8a0-d55513c0bf80
+worker          | [2m2025-08-21T05:17:04.382706Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ed829e57-9929-4bb6-b532-dc364324b118
+worker          | [2m2025-08-21T05:17:04.389245Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 592a229f-a00f-41a2-9b35-2649e10a481c
+worker          | [2m2025-08-21T05:17:04.395327Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 78c896bd-3fdc-44ef-bf02-eda32c3233ac
+worker          | [2m2025-08-21T05:17:04.404198Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5d78f537-21dc-480a-bb1b-12986cc8f0cf
+worker          | [2m2025-08-21T05:17:04.404211Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 615cdfc9-4f33-4888-8818-4dc3d07be233
+worker          | [2m2025-08-21T05:17:04.404214Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: be0964e3-3040-4405-91b8-92e441248213
+worker          | [2m2025-08-21T05:17:04.411861Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5edb0ebd-6232-4c07-a515-be8ff5e03f94
+worker          | [2m2025-08-21T05:17:04.425672Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7a622aac-9557-4711-923d-cfc8cbb1461f
+worker          | [2m2025-08-21T05:17:04.425686Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7e3f5003-8492-4390-8d42-40c57bcefe26
+worker          | [2m2025-08-21T05:17:04.425690Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7718f67a-831f-4d03-ba96-a799e3187bcf
+worker          | [2m2025-08-21T05:17:04.425693Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 903a7e75-afdb-41eb-8c99-31004f17a86e
+worker          | [2m2025-08-21T05:17:04.433263Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dc79e7ea-c5fa-4cd4-a969-826f7a0bd950
+worker          | [2m2025-08-21T05:17:04.438728Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ff1cfa94-0849-4c8e-8ac8-3521b3a978a7
+worker          | [2m2025-08-21T05:17:04.442030Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a45c3d9f-81d6-4ee0-9fc1-10528f9e2ae6
+worker          | [2m2025-08-21T05:17:04.444220Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f57063e2-be9b-4024-81ee-e52c01c954e2
+worker          | [2m2025-08-21T05:17:04.452271Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ea783c59-5340-45c4-8ca6-76e7a32abdef
+worker          | [2m2025-08-21T05:17:04.452284Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 658a7689-6e1e-4c41-83b5-54977557a4fb
+worker          | [2m2025-08-21T05:17:04.459943Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ae944732-d014-485e-b868-888a852e9f45
+worker          | [2m2025-08-21T05:17:04.461075Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7fbef257-502a-4f3d-9e99-10aae1cf24b4
+worker          | [2m2025-08-21T05:17:04.468102Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4ac77d09-34ed-4b0e-a1dc-ba42f729e222
+worker          | [2m2025-08-21T05:17:04.468116Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: f8fbf7e4-ed7b-4cb9-9e7a-1219987f5699
+worker          | [2m2025-08-21T05:17:04.482122Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 2e83c6b6-3ae8-41c2-b1f7-f6da71d5d4f8
+worker          | [2m2025-08-21T05:17:04.484249Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d7f66355-d9bf-42ce-9382-eccac10a8fe9
+worker          | [2m2025-08-21T05:17:04.491440Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4e7de8b5-550a-4e46-b3fc-823e9b635a44
+worker          | [2m2025-08-21T05:17:04.491454Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bb8a94ac-8af1-4d3f-948b-37ebad6a0c62
+worker          | [2m2025-08-21T05:17:04.497957Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e5601dca-4833-43f5-8d9f-a20b21b89c80
+worker          | [2m2025-08-21T05:17:04.508639Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d1872e0c-2edc-44d4-92e6-2a886eaa22dc
+worker          | [2m2025-08-21T05:17:04.802490Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6f87d07f-e981-45fe-a7d2-cb0dbddf0d70
+worker          | [2m2025-08-21T05:17:04.802517Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6778d544-2621-46d0-9522-16c1a4a66fa7
+worker          | [2m2025-08-21T05:17:04.808238Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d0d68b66-70ca-4114-ac39-0649e0befe03
+worker          | [2m2025-08-21T05:17:04.818391Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fafc669d-edcb-48fb-b3e1-f898ae113dc7
+worker          | [2m2025-08-21T05:17:04.822273Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 940b9fcb-0295-4eef-a407-8c88f40c6d16
+worker          | [2m2025-08-21T05:17:04.831547Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e9b87e8f-981f-42b7-a775-2d3e13c00547
+worker          | [2m2025-08-21T05:17:04.831561Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b1d383a5-47d8-4792-b56f-519f289dd2c9
+worker          | [2m2025-08-21T05:17:04.838287Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cf3760a3-fa1f-43e0-b840-5b8102c23ec5
+worker          | [2m2025-08-21T05:17:04.838303Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a32dcdef-2efb-4ebd-a900-31d631a64a97
+worker          | [2m2025-08-21T05:17:04.839821Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c08c5907-321e-47ed-a934-609fe106c16a
+worker          | [2m2025-08-21T05:17:04.844541Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 77e76a0a-87c1-4c32-89ee-0eae8556485e
+worker          | [2m2025-08-21T05:17:04.854511Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 59e7b7e3-deaf-47b3-a1e2-746c5b2601a2
+worker          | [2m2025-08-21T05:17:04.857029Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4202e154-686a-4e14-9b08-5e227026e822
+worker          | [2m2025-08-21T05:17:04.865082Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 82cd6ab1-d0e0-41d7-a16b-8ccf6b0d1b24
+worker          | [2m2025-08-21T05:17:04.867313Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e41e9307-0cf5-40f6-8094-016664d7b653
+worker          | [2m2025-08-21T05:17:04.874905Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b22cd7c3-a3a7-4b94-91e6-e6e40109e08b
+worker          | [2m2025-08-21T05:17:04.878273Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8d8fb6a4-b66b-4866-bf6a-58cad0cdd176
+worker          | [2m2025-08-21T05:17:04.887226Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9353a938-3e13-4e2a-b267-f384237eed04
+worker          | [2m2025-08-21T05:17:04.887239Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 078e6ff1-63ce-4a25-b9a5-c161708deda3
+worker          | [2m2025-08-21T05:17:04.888361Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: abfa4446-b50e-475f-a683-8095371e72e8
+worker          | [2m2025-08-21T05:17:04.888373Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 686613fb-78ae-44e6-9c99-a48783df3303
+worker          | [2m2025-08-21T05:17:04.904355Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ace15e3f-1e2a-4b0e-9f26-5dd3a8bcd9a1
+worker          | [2m2025-08-21T05:17:04.904369Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: ac2442db-28c6-45d2-bd0f-29a8fbafa92c
+worker          | [2m2025-08-21T05:17:04.904372Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0f42d5ef-0e75-424b-9836-09531edcfe27
+worker          | [2m2025-08-21T05:17:04.909809Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 66e20a93-7cc4-4920-b6a7-254ccf851fae
+worker          | [2m2025-08-21T05:17:04.915174Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 96b9f908-37e6-497a-835a-0889e39f0a68
+worker          | [2m2025-08-21T05:17:04.922383Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3fffba9b-5a44-4000-95ad-cb44847f497c
+worker          | [2m2025-08-21T05:17:04.927822Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 24205a8f-6fea-40ea-a812-adbf739b95ba
+worker          | [2m2025-08-21T05:17:04.927834Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4f3d436a-47b0-42fa-b9d1-fa55b5327e8b
+worker          | [2m2025-08-21T05:17:04.935445Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: eee274ae-d1ad-45f3-875f-ddce8ef53539
+worker          | [2m2025-08-21T05:17:04.938735Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9d160423-7a1e-4450-9df6-546b89f094d8
+worker          | [2m2025-08-21T05:17:04.938748Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: c891f9b1-0622-4475-8920-6f547d0e90d3
+worker          | [2m2025-08-21T05:17:04.948520Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 79ad824b-9eef-4234-a790-ad367317ac06
+worker          | [2m2025-08-21T05:17:04.953467Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: df3e575a-8b52-48e4-b666-8324f6e75090
+worker          | [2m2025-08-21T05:17:04.962188Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 440fb6c6-2e85-42ab-a26c-c09d268cb639
+worker          | [2m2025-08-21T05:17:04.962201Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4e4b5411-16dd-414d-917a-a50f600aefc2
+worker          | [2m2025-08-21T05:17:04.963980Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b45564a8-48bc-4549-a0ed-f9b2731d9b3e
+worker          | [2m2025-08-21T05:17:04.973164Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 31af3d74-a76c-4632-b74b-4cf6f7c46084
+worker          | [2m2025-08-21T05:17:04.980507Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5e3a9701-f172-4803-b84e-ecd1a6acc172
+worker          | [2m2025-08-21T05:17:04.985458Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 012158a8-df82-4ad2-86ba-c3a3caf53fcb
+worker          | [2m2025-08-21T05:17:04.985472Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9b4bbc93-778f-49d0-ba40-e8dac7b43fec
+worker          | [2m2025-08-21T05:17:04.993453Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6c3359a6-9ddd-4126-b4d0-ff1cde918536
+worker          | [2m2025-08-21T05:17:04.999827Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: a25f3321-cb38-403e-a635-a587e4c269aa
+worker          | [2m2025-08-21T05:17:04.999839Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 33b05012-7f45-40d9-8a72-ef64d1dd8edd
+worker          | [2m2025-08-21T05:17:05.009936Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6d636931-75a7-4721-acad-57b4e6c7dcc3
+worker          | [2m2025-08-21T05:17:05.299120Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 05a4bf40-69ef-4c73-b69e-665c5410272b
+worker          | [2m2025-08-21T05:17:05.306500Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9bd0671a-1761-44ff-a230-8acddc99e677
+worker          | [2m2025-08-21T05:17:05.308736Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 1f032590-7d89-4ebd-8129-2fb98aefe89c
+worker          | [2m2025-08-21T05:17:05.315607Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 56834dfc-311e-4573-8552-1f46e9f21895
+worker          | [2m2025-08-21T05:17:05.327719Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 403a1633-63fd-478f-a785-5fb60d0e16d1
+worker          | [2m2025-08-21T05:17:05.327730Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8ce1edb5-dbc7-4eb6-8a17-b930b99788fb
+worker          | [2m2025-08-21T05:17:05.327733Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b133fd5f-ad5d-4e58-ac56-12c103cdf0a7
+worker          | [2m2025-08-21T05:17:05.327736Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 01447bf5-05e6-40f3-8a41-6c05e79a33d1
+worker          | [2m2025-08-21T05:17:05.340209Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 68050e3a-bd8c-4e8a-8799-99c14754c7ef
+worker          | [2m2025-08-21T05:17:05.340224Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: eadc4762-3c71-49ef-ab89-2828dfa3c444
+worker          | [2m2025-08-21T05:17:05.347910Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 6d7488e4-bb6f-4268-9705-8587e865425b
+worker          | [2m2025-08-21T05:17:05.353735Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 62853477-8fde-431d-8847-f36f338584bf
+worker          | [2m2025-08-21T05:17:05.353748Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 4752d999-bcd4-462d-a1c1-607306cb49f2
+worker          | [2m2025-08-21T05:17:05.359941Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7f5d46d9-5e56-492f-98e7-a746c5ff0bec
+worker          | [2m2025-08-21T05:17:05.365408Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d5fd3b93-cddf-4712-8fb8-4a524556366a
+worker          | [2m2025-08-21T05:17:05.368780Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8c0ecb1f-6396-4872-9366-1ed0743d9b75
+worker          | [2m2025-08-21T05:17:05.368796Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9a90b4f7-6d99-476e-9289-5f26388ccc56
+worker          | [2m2025-08-21T05:17:05.377477Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8554287e-afb3-4923-9cda-93aa2237a29d
+worker          | [2m2025-08-21T05:17:05.387075Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: db56d54d-1529-4fad-a91b-0043981dfae8
+worker          | [2m2025-08-21T05:17:05.390283Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 37407cdf-c17a-48ae-be5c-7eaf10b95e94
+worker          | [2m2025-08-21T05:17:05.397702Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: e09b268b-5ec5-4782-9afa-0460e92c1983
+worker          | [2m2025-08-21T05:17:05.401224Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5e1bccec-b46b-40cf-ba8e-27216fa93863
+worker          | [2m2025-08-21T05:17:05.404495Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: d71dd342-0e6e-4e66-9a6d-112583deec94
+worker          | [2m2025-08-21T05:17:05.404516Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 15f73bce-8da7-4f34-916f-4d673aba1b0d
+worker          | [2m2025-08-21T05:17:05.408863Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 3733360d-3741-491b-9816-11e1334c2b10
+worker          | [2m2025-08-21T05:17:05.424969Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 05758513-783b-4a0b-92d5-32a59e7103fa
+worker          | [2m2025-08-21T05:17:05.424982Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 8c4140c3-96c2-4f7a-b6db-eb317efe8955
+worker          | [2m2025-08-21T05:17:05.424985Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 14e7c5e9-b73e-4383-afc8-a8e6276ee3fc
+worker          | [2m2025-08-21T05:17:05.427777Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9320929c-0a45-4f07-96e0-66ba7afdf352
+worker          | [2m2025-08-21T05:17:05.432122Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 12d6f20b-80fc-4603-94e6-12965a6913cf
+worker          | [2m2025-08-21T05:17:05.439686Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 0b4a3b07-626d-4b0e-aa90-3f0cfbf77106
+worker          | [2m2025-08-21T05:17:05.445065Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 9dc63da9-dba9-4560-8b2f-8341848132b8
+worker          | [2m2025-08-21T05:17:05.445077Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: b5a23659-570d-4958-9804-0f7cecd5c6f4
+worker          | [2m2025-08-21T05:17:05.456646Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fc7ff38b-184c-45a1-ad31-dccfa44a49e3
+worker          | [2m2025-08-21T05:17:05.456659Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bdc24e7b-9826-4366-a0cd-df120a6c00eb
+worker          | [2m2025-08-21T05:17:05.456662Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 5cbdbece-c88a-4c04-91ee-835d4b5bb2d4
+worker          | [2m2025-08-21T05:17:05.461003Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 7e020bb2-bee8-4253-947e-36f91b6e9b89
+worker          | [2m2025-08-21T05:17:05.470623Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 35aabd64-38eb-4ebc-b7d8-a49847c65321
+worker          | [2m2025-08-21T05:17:05.470637Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: fb811f51-9718-42eb-97e1-fd608c0cdb45
+worker          | [2m2025-08-21T05:17:05.479297Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: bb790c8e-444f-4993-8aa9-53f3bf7383c7
+worker          | [2m2025-08-21T05:17:05.479311Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dd9550cf-17d2-4b91-a848-22913e1ae980
+worker          | [2m2025-08-21T05:17:05.490201Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 54c8dcbd-e38a-415f-ba3c-a4065b8beecb
+worker          | [2m2025-08-21T05:17:05.491294Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: dc458120-a8fe-4330-a711-08d3d31f1309
+worker          | [2m2025-08-21T05:17:05.500945Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: 692656fc-2e9d-4ca8-84a6-681ecfa07527
+worker          | [2m2025-08-21T05:17:05.500972Z[0m [33m WARN[0m [2mworker::worker_pool[0m[2m:[0m Max retries exceeded, dropping message: cb646b98-5057-47a7-aa34-8368def7ede3
+log truncated at line 1000

@@ -1,0 +1,61 @@
+
+time="2025-08-21T00:14:47Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/jairoandre/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ backend2 Pulling 
+ service-health Pulling 
+ backend1 Pulling 
+ d08c9d1be8c6 Pulling fs layer 
+ d08c9d1be8c6 Pulling fs layer 
+ 5bc4faa77d3b Pulling fs layer 
+ d08c9d1be8c6 Downloading [>                                                  ]  29.75kB/2.867MB
+ d08c9d1be8c6 Downloading [>                                                  ]  29.75kB/2.867MB
+ d08c9d1be8c6 Downloading [=>                                                 ]  90.46kB/2.867MB
+ d08c9d1be8c6 Downloading [=>                                                 ]  90.46kB/2.867MB
+ d08c9d1be8c6 Downloading [===>                                               ]  228.9kB/2.867MB
+ d08c9d1be8c6 Downloading [===>                                               ]  228.9kB/2.867MB
+ 5bc4faa77d3b Downloading [>                                                  ]  28.73kB/2.842MB
+ d08c9d1be8c6 Downloading [=======>                                           ]  458.3kB/2.867MB
+ d08c9d1be8c6 Downloading [=======>                                           ]  458.3kB/2.867MB
+ 5bc4faa77d3b Downloading [=>                                                 ]  90.64kB/2.842MB
+ d08c9d1be8c6 Downloading [==============>                                    ]  851.5kB/2.867MB
+ d08c9d1be8c6 Downloading [==============>                                    ]  851.5kB/2.867MB
+ 5bc4faa77d3b Downloading [===>                                               ]  213.1kB/2.842MB
+ d08c9d1be8c6 Downloading [============================>                      ]  1.646MB/2.867MB
+ d08c9d1be8c6 Downloading [============================>                      ]  1.646MB/2.867MB
+ 5bc4faa77d3b Downloading [========>                                          ]    471kB/2.842MB
+ d08c9d1be8c6 Verifying Checksum 
+ d08c9d1be8c6 Download complete 
+ d08c9d1be8c6 Extracting [>                                                  ]  32.77kB/2.867MB
+ d08c9d1be8c6 Verifying Checksum 
+ d08c9d1be8c6 Download complete 
+ d08c9d1be8c6 Extracting [>                                                  ]  32.77kB/2.867MB
+ d08c9d1be8c6 Extracting [==================================================>]  2.867MB/2.867MB
+ d08c9d1be8c6 Extracting [==================================================>]  2.867MB/2.867MB
+ d08c9d1be8c6 Pull complete 
+ d08c9d1be8c6 Pull complete 
+ backend2 Pulled 
+ backend1 Pulled 
+ 5bc4faa77d3b Downloading [===============>                                   ]  864.3kB/2.842MB
+ 5bc4faa77d3b Downloading [=============================>                     ]  1.658MB/2.842MB
+ 5bc4faa77d3b Verifying Checksum 
+ 5bc4faa77d3b Download complete 
+ 5bc4faa77d3b Extracting [>                                                  ]  32.77kB/2.842MB
+ 5bc4faa77d3b Extracting [==================================================>]  2.842MB/2.842MB
+ 5bc4faa77d3b Pull complete 
+ service-health Pulled 
+ Network jairoandre_backend  Creating
+ Network jairoandre_backend  Created
+ Container service-health  Creating
+ Container service-health  Created
+ Container backend2  Creating
+ Container backend1  Creating
+ Container backend1  Created
+ Container backend2  Created
+ Container nginx  Creating
+ Container nginx  Created
+Attaching to backend1, backend2, nginx, service-health
+service-health  | 2025/08/21 00:14:52 Listening on port 9001
+service-health  | 2025/08/21 00:14:52 Updating service status
+backend1        | 2025/08/21 00:14:52 Listening on port 9999
+backend2        | 2025/08/21 00:14:52 Listening on port 9999
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint nginx (d4e028bfa76eb74caac6a9e607a2dfabf2f30499fd39c6191ef20ecab1231d70): Bind for 0.0.0.0:9999 failed: port is already allocated
+log truncated at line 1000

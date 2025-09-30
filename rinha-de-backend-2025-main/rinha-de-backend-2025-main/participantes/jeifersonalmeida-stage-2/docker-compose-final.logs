@@ -1,0 +1,52 @@
+
+time="2025-08-21T00:51:47Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/jeifersonalmeida-stage-2/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ api-1 Pulling 
+ api-3 Pulling 
+ api-2 Pulling 
+ api-3 Pulled 
+ api-1 Pulled 
+ api-2 Pulled 
+ Network rinha-network  Creating
+ Network rinha-network  Created
+ Container api-3  Creating
+ Container api-1  Creating
+ Container api-2  Creating
+ Container api-1  Created
+ Container api-2  Created
+ Container api-3  Created
+ Container haproxy  Creating
+ Container haproxy  Created
+Attaching to api-1, api-2, api-3, haproxy
+api-1  | Starting circuit controller
+api-1  | 
+api-1  |  ┌───────────────────────────────────────────────────┐ 
+api-1  |  │                   Fiber v2.52.9                   │ 
+api-1  |  │               http://127.0.0.1:8080               │ 
+api-1  |  │       (bound on host 0.0.0.0 and port 8080)       │ 
+api-1  |  │                                                   │ 
+api-1  |  │ Handlers ............. 8  Processes ........... 1 │ 
+api-1  |  │ Prefork ....... Disabled  PID ................. 1 │ 
+api-1  |  └───────────────────────────────────────────────────┘ 
+api-1  | 
+api-2  | 
+api-2  |  ┌───────────────────────────────────────────────────┐ 
+api-2  |  │                   Fiber v2.52.9                   │ 
+api-2  |  │               http://127.0.0.1:8080               │ 
+api-2  |  │       (bound on host 0.0.0.0 and port 8080)       │ 
+api-2  |  │                                                   │ 
+api-2  |  │ Handlers ............. 8  Processes ........... 1 │ 
+api-2  |  │ Prefork ....... Disabled  PID ................. 1 │ 
+api-2  |  └───────────────────────────────────────────────────┘ 
+api-2  | 
+api-3  | 
+api-3  |  ┌───────────────────────────────────────────────────┐ 
+api-3  |  │                   Fiber v2.52.9                   │ 
+api-3  |  │               http://127.0.0.1:8080               │ 
+api-3  |  │       (bound on host 0.0.0.0 and port 8080)       │ 
+api-3  |  │                                                   │ 
+api-3  |  │ Handlers ............. 8  Processes ........... 1 │ 
+api-3  |  │ Prefork ....... Disabled  PID ................. 1 │ 
+api-3  |  └───────────────────────────────────────────────────┘ 
+api-3  | 
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint haproxy (e28622e0474d472ceec2d99a38a041c8fc901fae38fdd857d6aaed87f7e4f8b8): Bind for 0.0.0.0:9999 failed: port is already allocated
+log truncated at line 1000

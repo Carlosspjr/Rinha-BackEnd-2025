@@ -1,0 +1,454 @@
+
+ go-backend-4 Pulling 
+ go-backend-1 Pulling 
+ go-backend-2 Pulling 
+ go-backend-3 Pulling 
+ go-worker-1 Pulling 
+ 01d036902a3c Already exists 
+ c19ca819714c Pulling fs layer 
+ 16e604981c36 Pulling fs layer 
+ 01d036902a3c Already exists 
+ c19ca819714c Pulling fs layer 
+ 16e604981c36 Pulling fs layer 
+ 01d036902a3c Already exists 
+ c19ca819714c Pulling fs layer 
+ 16e604981c36 Pulling fs layer 
+ 01d036902a3c Already exists 
+ c19ca819714c Pulling fs layer 
+ 8eb720a700b4 Pulling fs layer 
+ c19ca819714c Download complete 
+ c19ca819714c Extracting [==================================================>]      92B/92B
+ c19ca819714c Download complete 
+ c19ca819714c Extracting [==================================================>]      92B/92B
+ c19ca819714c Download complete 
+ c19ca819714c Extracting [==================================================>]      92B/92B
+ c19ca819714c Download complete 
+ c19ca819714c Extracting [==================================================>]      92B/92B
+ c19ca819714c Extracting [==================================================>]      92B/92B
+ c19ca819714c Extracting [==================================================>]      92B/92B
+ c19ca819714c Extracting [==================================================>]      92B/92B
+ c19ca819714c Extracting [==================================================>]      92B/92B
+ c19ca819714c Pull complete 
+ c19ca819714c Pull complete 
+ c19ca819714c Pull complete 
+ c19ca819714c Pull complete 
+ 01d036902a3c Already exists 
+ c19ca819714c Already exists 
+ 16e604981c36 Pulling fs layer 
+ 16e604981c36 Downloading [>                                                  ]  43.74kB/4.293MB
+ 16e604981c36 Downloading [>                                                  ]  43.74kB/4.293MB
+ 16e604981c36 Downloading [>                                                  ]  43.74kB/4.293MB
+ 16e604981c36 Downloading [>                                                  ]  43.74kB/4.293MB
+ 8eb720a700b4 Downloading [>                                                  ]  40.96kB/4.004MB
+ 16e604981c36 Downloading [==>                                                ]  176.3kB/4.293MB
+ 16e604981c36 Downloading [==>                                                ]  176.3kB/4.293MB
+ 16e604981c36 Downloading [==>                                                ]  176.3kB/4.293MB
+ 16e604981c36 Downloading [==>                                                ]  176.3kB/4.293MB
+ 8eb720a700b4 Downloading [========>                                          ]  692.2kB/4.004MB
+ 16e604981c36 Downloading [====>                                              ]  376.8kB/4.293MB
+ 16e604981c36 Downloading [====>                                              ]  376.8kB/4.293MB
+ 16e604981c36 Downloading [====>                                              ]  376.8kB/4.293MB
+ 16e604981c36 Downloading [====>                                              ]  376.8kB/4.293MB
+ 8eb720a700b4 Downloading [===================>                               ]  1.524MB/4.004MB
+ 16e604981c36 Downloading [=======>                                           ]    684kB/4.293MB
+ 16e604981c36 Downloading [=======>                                           ]    684kB/4.293MB
+ 16e604981c36 Downloading [=======>                                           ]    684kB/4.293MB
+ 16e604981c36 Downloading [=======>                                           ]    684kB/4.293MB
+ 8eb720a700b4 Downloading [=========================================>         ]  3.289MB/4.004MB
+ 8eb720a700b4 Downloading [==================================================>]  4.004MB/4.004MB
+ 8eb720a700b4 Verifying Checksum 
+ 8eb720a700b4 Download complete 
+ 8eb720a700b4 Extracting [>                                                  ]  65.54kB/4.004MB
+ 16e604981c36 Downloading [==============>                                    ]  1.212MB/4.293MB
+ 16e604981c36 Downloading [==============>                                    ]  1.212MB/4.293MB
+ 16e604981c36 Downloading [==============>                                    ]  1.212MB/4.293MB
+ 16e604981c36 Downloading [==============>                                    ]  1.212MB/4.293MB
+ 8eb720a700b4 Extracting [==================================================>]  4.004MB/4.004MB
+ 8eb720a700b4 Pull complete 
+ go-worker-1 Pulled 
+ 16e604981c36 Downloading [=========================>                         ]  2.187MB/4.293MB
+ 16e604981c36 Downloading [=========================>                         ]  2.187MB/4.293MB
+ 16e604981c36 Downloading [=========================>                         ]  2.187MB/4.293MB
+ 16e604981c36 Downloading [=========================>                         ]  2.187MB/4.293MB
+ 16e604981c36 Downloading [==========================================>        ]  3.666MB/4.293MB
+ 16e604981c36 Downloading [==========================================>        ]  3.666MB/4.293MB
+ 16e604981c36 Downloading [==========================================>        ]  3.666MB/4.293MB
+ 16e604981c36 Downloading [==========================================>        ]  3.666MB/4.293MB
+ 16e604981c36 Download complete 
+ 16e604981c36 Download complete 
+ 16e604981c36 Verifying Checksum 
+ 16e604981c36 Verifying Checksum 
+ 16e604981c36 Download complete 
+ 16e604981c36 Download complete 
+ 16e604981c36 Extracting [>                                                  ]  65.54kB/4.293MB
+ 16e604981c36 Extracting [>                                                  ]  65.54kB/4.293MB
+ 16e604981c36 Extracting [>                                                  ]  65.54kB/4.293MB
+ 16e604981c36 Extracting [>                                                  ]  65.54kB/4.293MB
+ 16e604981c36 Extracting [==================================================>]  4.293MB/4.293MB
+ 16e604981c36 Extracting [==================================================>]  4.293MB/4.293MB
+ 16e604981c36 Extracting [==================================================>]  4.293MB/4.293MB
+ 16e604981c36 Extracting [==================================================>]  4.293MB/4.293MB
+ 16e604981c36 Pull complete 
+ 16e604981c36 Pull complete 
+ 16e604981c36 Pull complete 
+ 16e604981c36 Pull complete 
+ go-backend-2 Pulled 
+ go-backend-1 Pulled 
+ go-backend-3 Pulled 
+ go-backend-4 Pulled 
+ Network davidalecrim1-go-6_app  Creating
+ Network davidalecrim1-go-6_app  Created
+ Volume "davidalecrim1-go-6_api-sockets"  Creating
+ Volume "davidalecrim1-go-6_api-sockets"  Created
+ Container redis-db  Creating
+ Container redis-db  Created
+ Container go-backend-4  Creating
+ Container go-backend-2  Creating
+ Container go-backend-3  Creating
+ Container go-backend-1  Creating
+ Container go-backend-3  Created
+ Container go-backend-4  Created
+ Container go-backend-2  Created
+ Container go-backend-1  Created
+ Container davidalecrim1-go-6-go-worker-1-1  Creating
+ Container load-balancer-extreme-proxy  Creating
+ Container davidalecrim1-go-6-go-worker-1-1  Created
+ Container load-balancer-extreme-proxy  Created
+Attaching to go-worker-1-1, go-backend-1, go-backend-2, go-backend-3, go-backend-4, load-balancer-extreme-proxy, redis-db
+redis-db  | 1:C 21 Aug 2025 03:00:44.191 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis-db  | 1:C 21 Aug 2025 03:00:44.191 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis-db  | 1:C 21 Aug 2025 03:00:44.191 * Redis version=8.0.3, bits=64, commit=00000000, modified=1, pid=1, just started
+redis-db  | 1:C 21 Aug 2025 03:00:44.191 * Configuration loaded
+redis-db  | 1:M 21 Aug 2025 03:00:44.191 * monotonic clock: POSIX clock_gettime
+redis-db  | 1:M 21 Aug 2025 03:00:44.192 * Running mode=standalone, port=6379.
+redis-db  | 1:M 21 Aug 2025 03:00:44.193 * Server initialized
+redis-db  | 1:M 21 Aug 2025 03:00:44.193 * Ready to accept connections tcp
+redis-db  | 1:M 21 Aug 2025 03:00:44.193 * Ready to accept connections unix
+go-backend-3  | 2025/08/21 03:00:44 INFO starting app on unix socket socketPath=/var/run/api_3.sock
+go-backend-1  | 2025/08/21 03:00:44 INFO starting app on unix socket socketPath=/var/run/api_1.sock
+go-backend-2  | 2025/08/21 03:00:44 INFO starting app on unix socket socketPath=/var/run/api_2.sock
+go-backend-4  | 2025/08/21 03:00:44 INFO starting app on unix socket socketPath=/var/run/api_4.sock
+load-balancer-extreme-proxy  | {"time":"2025-08-21T03:00:44.891497397Z","level":"INFO","msg":"starting proxy server","address":":9999","backends":["/var/run/api_1.sock","/var/run/api_2.sock","/var/run/api_3.sock","/var/run/api_4.sock"]}
+go-worker-1-1                | 2025/08/21 03:00:45 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:46 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:47 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:48 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:49 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:50 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:51 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:52 INFO length of the queue length=0
+go-backend-3                 | 2025/08/21 03:00:52 ERROR failed to purge payments error="invalid request"
+go-worker-1-1                | 2025/08/21 03:00:53 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:54 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:55 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:56 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:57 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:58 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:00:59 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:00 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:01 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:02 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:03 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:04 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:05 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:06 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:07 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:08 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:09 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:10 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:11 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:12 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:13 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:01:14 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:15 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:16 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:17 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:18 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:01:19 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:20 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:21 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:01:22 INFO length of the queue length=4
+go-worker-1-1                | 2025/08/21 03:01:23 INFO length of the queue length=5
+go-worker-1-1                | 2025/08/21 03:01:24 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:01:25 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:01:26 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:27 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:28 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:01:29 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:30 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:31 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:32 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:33 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:34 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:01:35 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:36 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:37 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:38 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:39 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:40 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:41 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:42 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:43 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:44 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:45 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:46 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:47 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:48 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:49 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:50 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:51 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:52 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:53 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:54 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:01:55 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:01:56 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:57 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:01:58 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:01:59 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:02:00 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:01 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:02 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:02:03 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:04 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:05 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:06 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:02:07 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:02:08 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:09 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:10 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:11 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:12 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:02:13 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:02:14 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:02:15 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:16 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:17 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:18 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:19 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:20 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:21 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:02:22 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:02:23 INFO length of the queue length=66
+go-worker-1-1                | 2025/08/21 03:02:24 INFO length of the queue length=251
+go-worker-1-1                | 2025/08/21 03:02:25 INFO length of the queue length=438
+go-worker-1-1                | 2025/08/21 03:02:26 INFO length of the queue length=627
+go-worker-1-1                | 2025/08/21 03:02:27 INFO length of the queue length=817
+go-worker-1-1                | 2025/08/21 03:02:28 INFO length of the queue length=1010
+go-worker-1-1                | 2025/08/21 03:02:29 INFO length of the queue length=1205
+go-worker-1-1                | 2025/08/21 03:02:30 INFO length of the queue length=1402
+go-worker-1-1                | 2025/08/21 03:02:31 INFO length of the queue length=1600
+go-worker-1-1                | 2025/08/21 03:02:32 INFO length of the queue length=1801
+go-worker-1-1                | 2025/08/21 03:02:33 INFO length of the queue length=2004
+go-worker-1-1                | 2025/08/21 03:02:34 INFO length of the queue length=2209
+go-worker-1-1                | 2025/08/21 03:02:35 INFO length of the queue length=2416
+go-worker-1-1                | 2025/08/21 03:02:36 INFO length of the queue length=2625
+go-worker-1-1                | 2025/08/21 03:02:37 INFO length of the queue length=2835
+go-worker-1-1                | 2025/08/21 03:02:38 INFO length of the queue length=3048
+go-worker-1-1                | 2025/08/21 03:02:39 INFO length of the queue length=3263
+go-worker-1-1                | 2025/08/21 03:02:40 INFO length of the queue length=3480
+go-worker-1-1                | 2025/08/21 03:02:41 INFO length of the queue length=3698
+go-worker-1-1                | 2025/08/21 03:02:42 INFO length of the queue length=3919
+go-worker-1-1                | 2025/08/21 03:02:43 INFO length of the queue length=4142
+go-worker-1-1                | 2025/08/21 03:02:44 INFO length of the queue length=4367
+go-worker-1-1                | 2025/08/21 03:02:45 INFO length of the queue length=4594
+go-worker-1-1                | 2025/08/21 03:02:46 INFO length of the queue length=4823
+go-worker-1-1                | 2025/08/21 03:02:47 INFO length of the queue length=5054
+go-worker-1-1                | 2025/08/21 03:02:48 INFO length of the queue length=5287
+go-worker-1-1                | 2025/08/21 03:02:49 INFO length of the queue length=5522
+go-worker-1-1                | 2025/08/21 03:02:50 INFO length of the queue length=5757
+go-worker-1-1                | 2025/08/21 03:02:51 INFO length of the queue length=5996
+go-worker-1-1                | 2025/08/21 03:02:52 INFO length of the queue length=6237
+go-worker-1-1                | 2025/08/21 03:02:53 INFO length of the queue length=6479
+go-worker-1-1                | 2025/08/21 03:02:54 INFO length of the queue length=6722
+go-worker-1-1                | 2025/08/21 03:02:55 INFO length of the queue length=6969
+go-worker-1-1                | 2025/08/21 03:02:56 INFO length of the queue length=7218
+go-worker-1-1                | 2025/08/21 03:02:57 INFO length of the queue length=7469
+go-worker-1-1                | 2025/08/21 03:02:58 INFO length of the queue length=7722
+go-worker-1-1                | 2025/08/21 03:02:59 INFO length of the queue length=7977
+go-worker-1-1                | 2025/08/21 03:03:00 INFO length of the queue length=8234
+go-worker-1-1                | 2025/08/21 03:03:01 INFO length of the queue length=8493
+go-worker-1-1                | 2025/08/21 03:03:02 INFO length of the queue length=8754
+go-worker-1-1                | 2025/08/21 03:03:03 INFO length of the queue length=9016
+go-worker-1-1                | 2025/08/21 03:03:04 INFO length of the queue length=9281
+go-worker-1-1                | 2025/08/21 03:03:05 INFO length of the queue length=9548
+go-worker-1-1                | 2025/08/21 03:03:06 INFO length of the queue length=9817
+go-worker-1-1                | 2025/08/21 03:03:07 INFO length of the queue length=10088
+go-worker-1-1                | 2025/08/21 03:03:08 INFO length of the queue length=10361
+go-worker-1-1                | 2025/08/21 03:03:09 INFO length of the queue length=10635
+go-worker-1-1                | 2025/08/21 03:03:10 INFO length of the queue length=10912
+go-worker-1-1                | 2025/08/21 03:03:11 INFO length of the queue length=11191
+go-worker-1-1                | 2025/08/21 03:03:12 INFO length of the queue length=11472
+go-worker-1-1                | 2025/08/21 03:03:13 INFO length of the queue length=11755
+go-worker-1-1                | 2025/08/21 03:03:14 INFO length of the queue length=12039
+go-worker-1-1                | 2025/08/21 03:03:15 INFO length of the queue length=12326
+go-worker-1-1                | 2025/08/21 03:03:16 INFO length of the queue length=12613
+go-worker-1-1                | 2025/08/21 03:03:17 INFO length of the queue length=12904
+go-worker-1-1                | 2025/08/21 03:03:18 INFO length of the queue length=13198
+go-worker-1-1                | 2025/08/21 03:03:19 INFO length of the queue length=13492
+go-worker-1-1                | 2025/08/21 03:03:20 INFO length of the queue length=13789
+go-worker-1-1                | 2025/08/21 03:03:21 INFO length of the queue length=14088
+go-worker-1-1                | 2025/08/21 03:03:22 INFO length of the queue length=14389
+go-worker-1-1                | 2025/08/21 03:03:23 INFO length of the queue length=14119
+go-worker-1-1                | 2025/08/21 03:03:24 INFO length of the queue length=9788
+go-worker-1-1                | 2025/08/21 03:03:25 INFO length of the queue length=5047
+go-worker-1-1                | 2025/08/21 03:03:26 INFO length of the queue length=235
+go-worker-1-1                | 2025/08/21 03:03:27 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:28 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:29 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:30 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:03:31 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:32 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:33 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:34 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:35 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:03:36 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:37 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:38 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:03:39 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:03:40 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:03:41 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:03:42 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:43 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:03:44 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:03:45 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:46 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:47 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:03:48 INFO length of the queue length=4
+go-worker-1-1                | 2025/08/21 03:03:49 INFO length of the queue length=5
+go-worker-1-1                | 2025/08/21 03:03:50 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:03:51 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:03:52 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:03:53 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:03:54 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:55 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:03:56 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:03:57 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:03:58 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:03:59 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:00 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:01 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:02 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:04:03 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:04:04 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:05 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:04:06 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:04:07 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:08 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:04:09 INFO length of the queue length=4
+go-worker-1-1                | 2025/08/21 03:04:10 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:11 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:12 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:13 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:14 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:15 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:16 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:17 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:18 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:19 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:20 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:21 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:04:22 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:23 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:24 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:25 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:26 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:27 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:04:28 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:04:29 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:04:30 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:31 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:32 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:33 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:34 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:35 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:04:36 INFO length of the queue length=4
+go-worker-1-1                | 2025/08/21 03:04:37 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:04:38 INFO length of the queue length=13
+go-worker-1-1                | 2025/08/21 03:04:39 INFO length of the queue length=4
+go-worker-1-1                | 2025/08/21 03:04:40 INFO length of the queue length=7
+go-worker-1-1                | 2025/08/21 03:04:41 INFO length of the queue length=5
+go-worker-1-1                | 2025/08/21 03:04:42 INFO length of the queue length=4
+go-worker-1-1                | 2025/08/21 03:04:43 INFO length of the queue length=5
+go-worker-1-1                | 2025/08/21 03:04:44 INFO length of the queue length=8
+go-worker-1-1                | 2025/08/21 03:04:45 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:04:46 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:47 INFO length of the queue length=7
+go-worker-1-1                | 2025/08/21 03:04:48 INFO length of the queue length=8
+go-worker-1-1                | 2025/08/21 03:04:49 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:04:50 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:04:51 INFO length of the queue length=6
+go-worker-1-1                | 2025/08/21 03:04:52 INFO length of the queue length=4
+go-worker-1-1                | 2025/08/21 03:04:53 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:54 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:55 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:56 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:57 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:58 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:04:59 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:00 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:01 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:02 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:03 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:04 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:05 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:06 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:07 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:08 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:09 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:10 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:11 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:12 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:13 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:14 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:15 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:16 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:17 INFO length of the queue length=1
+go-worker-1-1                | 2025/08/21 03:05:18 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:19 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:20 INFO length of the queue length=3
+go-worker-1-1                | 2025/08/21 03:05:21 INFO length of the queue length=2
+go-worker-1-1                | 2025/08/21 03:05:22 INFO length of the queue length=0
+go-worker-1-1                | 2025/08/21 03:05:23 INFO length of the queue length=340
+go-worker-1-1                | 2025/08/21 03:05:24 INFO length of the queue length=886
+go-worker-1-1                | 2025/08/21 03:05:25 INFO length of the queue length=1234
+go-worker-1-1                | 2025/08/21 03:05:26 INFO length of the queue length=1784
+go-worker-1-1                | 2025/08/21 03:05:27 INFO length of the queue length=2136
+go-worker-1-1                | 2025/08/21 03:05:28 INFO length of the queue length=2690
+go-worker-1-1                | 2025/08/21 03:05:29 INFO length of the queue length=3046
+go-worker-1-1                | 2025/08/21 03:05:30 INFO length of the queue length=3604
+go-worker-1-1                | 2025/08/21 03:05:31 INFO length of the queue length=3964
+go-worker-1-1                | 2025/08/21 03:05:32 INFO length of the queue length=4526
+go-worker-1-1                | 2025/08/21 03:05:33 INFO length of the queue length=4890
+go-worker-1-1                | 2025/08/21 03:05:34 INFO length of the queue length=5456
+go-worker-1-1                | 2025/08/21 03:05:35 INFO length of the queue length=5824
+go-worker-1-1                | 2025/08/21 03:05:36 INFO length of the queue length=6394
+go-worker-1-1                | 2025/08/21 03:05:37 INFO length of the queue length=6766
+go-worker-1-1                | 2025/08/21 03:05:38 INFO length of the queue length=7332
+go-worker-1-1                | 2025/08/21 03:05:39 INFO length of the queue length=7708
+go-worker-1-1                | 2025/08/21 03:05:40 INFO length of the queue length=8286
+go-worker-1-1                | 2025/08/21 03:05:41 INFO length of the queue length=8666
+go-worker-1-1                | 2025/08/21 03:05:42 INFO length of the queue length=9241
+go-worker-1-1                | 2025/08/21 03:05:43 INFO length of the queue length=9625
+go-worker-1-1                | 2025/08/21 03:05:44 INFO length of the queue length=10211
+go-worker-1-1                | 2025/08/21 03:05:45 INFO length of the queue length=10597
+go-worker-1-1                | 2025/08/21 03:05:46 INFO length of the queue length=11184
+go-worker-1-1                | 2025/08/21 03:05:47 INFO length of the queue length=11576
+go-worker-1-1                | 2025/08/21 03:05:48 INFO length of the queue length=12170
+go-worker-1-1                | 2025/08/21 03:05:49 INFO length of the queue length=12565
+go-worker-1-1                | 2025/08/21 03:05:50 INFO length of the queue length=13151
+go-worker-1-1                | 2025/08/21 03:05:51 INFO length of the queue length=13551
+go-worker-1-1                | 2025/08/21 03:05:52 INFO length of the queue length=14153
+go-worker-1-1                | 2025/08/21 03:05:53 INFO length of the queue length=13990
+go-worker-1-1                | 2025/08/21 03:05:54 INFO shutting down workers and summary server...
+load-balancer-extreme-proxy  | {"time":"2025-08-21T03:05:54.223212837Z","level":"INFO","msg":"shutting down proxy server"}
+[Kgo-worker-1-1 exited with code 0
+[Kload-balancer-extreme-proxy exited with code 0
+[Kgo-backend-3 exited with code 0
+[Kgo-backend-4 exited with code 0
+[Kgo-backend-2 exited with code 0
+[Kgo-backend-1 exited with code 0
+redis-db                     | 1:signal-handler (1755745555) Received SIGTERM scheduling shutdown...
+redis-db                     | 1:M 21 Aug 2025 03:05:55.326 * User requested shutdown...
+redis-db                     | 1:M 21 Aug 2025 03:05:55.326 * Removing the unix socket file.
+redis-db                     | 1:M 21 Aug 2025 03:05:55.326 # Redis is now ready to exit, bye bye...
+log truncated at line 1000

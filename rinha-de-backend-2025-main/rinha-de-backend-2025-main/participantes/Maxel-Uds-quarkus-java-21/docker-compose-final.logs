@@ -1,0 +1,137 @@
+
+time="2025-08-21T00:32:06Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/Maxel-Uds-quarkus-java-21/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ api01 Pulling 
+ api02 Pulling 
+ fcce199ebec0 Already exists 
+ 4f4fb700ef54 Already exists 
+ a7720e08d945 Pulling fs layer 
+ 4f8a96af7396 Pulling fs layer 
+ 5a0f03ef0af8 Pulling fs layer 
+ ffbfedbfb2fe Pulling fs layer 
+ 2d9bfc246b63 Pulling fs layer 
+ ffbfedbfb2fe Waiting 
+ 2d9bfc246b63 Waiting 
+ fcce199ebec0 Already exists 
+ 4f4fb700ef54 Already exists 
+ a7720e08d945 Pulling fs layer 
+ 4f8a96af7396 Pulling fs layer 
+ 5a0f03ef0af8 Pulling fs layer 
+ ffbfedbfb2fe Pulling fs layer 
+ 2d9bfc246b63 Pulling fs layer 
+ 2d9bfc246b63 Waiting 
+ ffbfedbfb2fe Waiting 
+ 4f8a96af7396 Downloading [>                                                  ]     935B/53kB
+ 4f8a96af7396 Downloading [>                                                  ]     935B/53kB
+ 4f8a96af7396 Downloading [==================================================>]     53kB/53kB
+ 4f8a96af7396 Verifying Checksum 
+ 4f8a96af7396 Download complete 
+ 4f8a96af7396 Verifying Checksum 
+ 4f8a96af7396 Download complete 
+ a7720e08d945 Downloading [>                                                  ]  9.583kB/845.4kB
+ a7720e08d945 Downloading [>                                                  ]  9.583kB/845.4kB
+ a7720e08d945 Download complete 
+ a7720e08d945 Download complete 
+ a7720e08d945 Extracting [=>                                                 ]  32.77kB/845.4kB
+ a7720e08d945 Extracting [=>                                                 ]  32.77kB/845.4kB
+ a7720e08d945 Extracting [==================================================>]  845.4kB/845.4kB
+ a7720e08d945 Extracting [==================================================>]  845.4kB/845.4kB
+ a7720e08d945 Extracting [==================================================>]  845.4kB/845.4kB
+ a7720e08d945 Extracting [==================================================>]  845.4kB/845.4kB
+ a7720e08d945 Pull complete 
+ a7720e08d945 Pull complete 
+ 4f8a96af7396 Extracting [==============================>                    ]  32.77kB/53kB
+ 4f8a96af7396 Extracting [==============================>                    ]  32.77kB/53kB
+ 4f8a96af7396 Extracting [==================================================>]     53kB/53kB
+ 4f8a96af7396 Extracting [==================================================>]     53kB/53kB
+ 4f8a96af7396 Pull complete 
+ 4f8a96af7396 Pull complete 
+ 5a0f03ef0af8 Verifying Checksum 
+ 5a0f03ef0af8 Download complete 
+ 5a0f03ef0af8 Downloading [==================================================>]      94B/94B
+ 5a0f03ef0af8 Verifying Checksum 
+ 5a0f03ef0af8 Download complete 
+ 5a0f03ef0af8 Extracting [==================================================>]      94B/94B
+ 5a0f03ef0af8 Extracting [==================================================>]      94B/94B
+ 5a0f03ef0af8 Extracting [==================================================>]      94B/94B
+ 5a0f03ef0af8 Extracting [==================================================>]      94B/94B
+ 5a0f03ef0af8 Pull complete 
+ 5a0f03ef0af8 Pull complete 
+ 2d9bfc246b63 Downloading [>                                                  ]  307.2kB/29.84MB
+ 2d9bfc246b63 Downloading [>                                                  ]  307.2kB/29.84MB
+ ffbfedbfb2fe Verifying Checksum 
+ ffbfedbfb2fe Download complete 
+ ffbfedbfb2fe Downloading [==================================================>]     102B/102B
+ ffbfedbfb2fe Verifying Checksum 
+ ffbfedbfb2fe Download complete 
+ ffbfedbfb2fe Extracting [==================================================>]     102B/102B
+ ffbfedbfb2fe Extracting [==================================================>]     102B/102B
+ ffbfedbfb2fe Extracting [==================================================>]     102B/102B
+ ffbfedbfb2fe Extracting [==================================================>]     102B/102B
+ ffbfedbfb2fe Pull complete 
+ ffbfedbfb2fe Pull complete 
+ 2d9bfc246b63 Downloading [======>                                            ]  3.666MB/29.84MB
+ 2d9bfc246b63 Downloading [======>                                            ]  3.666MB/29.84MB
+ 2d9bfc246b63 Downloading [==========>                                        ]  6.111MB/29.84MB
+ 2d9bfc246b63 Downloading [==========>                                        ]  6.111MB/29.84MB
+ 2d9bfc246b63 Downloading [==============>                                    ]  8.843MB/29.84MB
+ 2d9bfc246b63 Downloading [==============>                                    ]  8.843MB/29.84MB
+ 2d9bfc246b63 Downloading [==================>                                ]  11.28MB/29.84MB
+ 2d9bfc246b63 Downloading [==================>                                ]  11.28MB/29.84MB
+ 2d9bfc246b63 Downloading [====================>                              ]   12.2MB/29.84MB
+ 2d9bfc246b63 Downloading [====================>                              ]   12.2MB/29.84MB
+ 2d9bfc246b63 Downloading [===========================>                       ]  16.13MB/29.84MB
+ 2d9bfc246b63 Downloading [===========================>                       ]  16.13MB/29.84MB
+ 2d9bfc246b63 Downloading [================================>                  ]  19.51MB/29.84MB
+ 2d9bfc246b63 Downloading [================================>                  ]  19.51MB/29.84MB
+ 2d9bfc246b63 Downloading [========================================>          ]  24.33MB/29.84MB
+ 2d9bfc246b63 Downloading [========================================>          ]  24.33MB/29.84MB
+ 2d9bfc246b63 Downloading [===============================================>   ]   28.6MB/29.84MB
+ 2d9bfc246b63 Downloading [===============================================>   ]   28.6MB/29.84MB
+ 2d9bfc246b63 Verifying Checksum 
+ 2d9bfc246b63 Download complete 
+ 2d9bfc246b63 Verifying Checksum 
+ 2d9bfc246b63 Download complete 
+ 2d9bfc246b63 Extracting [>                                                  ]  327.7kB/29.84MB
+ 2d9bfc246b63 Extracting [>                                                  ]  327.7kB/29.84MB
+ 2d9bfc246b63 Extracting [=============>                                     ]  7.864MB/29.84MB
+ 2d9bfc246b63 Extracting [=============>                                     ]  7.864MB/29.84MB
+ 2d9bfc246b63 Extracting [==========================>                        ]  15.73MB/29.84MB
+ 2d9bfc246b63 Extracting [==========================>                        ]  15.73MB/29.84MB
+ 2d9bfc246b63 Extracting [==========================================>        ]  25.23MB/29.84MB
+ 2d9bfc246b63 Extracting [==========================================>        ]  25.23MB/29.84MB
+ 2d9bfc246b63 Extracting [==================================================>]  29.84MB/29.84MB
+ 2d9bfc246b63 Extracting [==================================================>]  29.84MB/29.84MB
+ 2d9bfc246b63 Pull complete 
+ 2d9bfc246b63 Pull complete 
+ api02 Pulled 
+ api01 Pulled 
+ Network maxel-uds-quarkus-java-21_payment-router  Creating
+ Network maxel-uds-quarkus-java-21_payment-router  Created
+ Container payment-router-db  Creating
+ Container payment-router-db  Created
+ Container api02  Creating
+ Container api01  Creating
+ Container api01  Created
+ Container api02  Created
+ Container load_balancer  Creating
+ Container load_balancer  Created
+Attaching to api01, api02, load_balancer, payment-router-db
+payment-router-db  | The files belonging to this database system will be owned by user "postgres".
+payment-router-db  | This user must also own the server process.
+payment-router-db  | 
+payment-router-db  | The database cluster will be initialized with locale "en_US.utf8".
+payment-router-db  | The default database encoding has accordingly been set to "UTF8".
+payment-router-db  | The default text search configuration will be set to "english".
+payment-router-db  | 
+payment-router-db  | Data page checksums are disabled.
+payment-router-db  | 
+payment-router-db  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+payment-router-db  | creating subdirectories ... ok
+payment-router-db  | selecting dynamic shared memory implementation ... posix
+payment-router-db  | selecting default "max_connections" ... 100
+payment-router-db  | selecting default "shared_buffers" ... 128MB
+payment-router-db  | selecting default time zone ... UTC
+payment-router-db  | creating configuration files ... ok
+payment-router-db  | running bootstrap script ... ok
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint load_balancer (c05b32a51d330b1036aa57318e3e50c06a8a98b5e17a401e76506d83852b4613): Bind for 0.0.0.0:9999 failed: port is already allocated
+log truncated at line 1000

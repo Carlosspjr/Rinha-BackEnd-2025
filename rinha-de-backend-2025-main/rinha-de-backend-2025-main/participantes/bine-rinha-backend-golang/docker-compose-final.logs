@@ -1,0 +1,1001 @@
+
+ api02 Pulling 
+ api01 Pulling 
+ nginx Pulling 
+ redis Pulling 
+ 9824c27679d3 Already exists 
+ 4f4fb700ef54 Pulling fs layer 
+ 0aca576156e9 Pulling fs layer 
+ 9824c27679d3 Already exists 
+ 4f4fb700ef54 Pulling fs layer 
+ 0aca576156e9 Pulling fs layer 
+ 0368fd46e3c6 Already exists 
+ 0aca576156e9 Downloading [>                                                  ]  36.36kB/3.507MB
+ 0aca576156e9 Downloading [>                                                  ]  36.36kB/3.507MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4e225d7a935a Pulling fs layer 
+ 74ab898fdb32 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ bb1131de5e60 Pulling fs layer 
+ 407621d26c3b Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 87acabadf81b Pulling fs layer 
+ bb1131de5e60 Waiting 
+ 407621d26c3b Waiting 
+ 4f4fb700ef54 Waiting 
+ 87acabadf81b Waiting 
+ 311eca34042e Waiting 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ b1badc6e5066 Waiting 
+ a2da0c0f2353 Waiting 
+ e5d9bb0b85cc Waiting 
+ 14a859b5ba24 Waiting 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ 0aca576156e9 Download complete 
+ 0aca576156e9 Download complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 0aca576156e9 Extracting [>                                                  ]  65.54kB/3.507MB
+ 0aca576156e9 Extracting [>                                                  ]  65.54kB/3.507MB
+ 0aca576156e9 Extracting [==================================================>]  3.507MB/3.507MB
+ 0aca576156e9 Extracting [==================================================>]  3.507MB/3.507MB
+ 0aca576156e9 Pull complete 
+ 0aca576156e9 Pull complete 
+ api01 Pulled 
+ api02 Pulled 
+ 74ab898fdb32 Downloading [>                                                  ]  2.416kB/173.2kB
+ 74ab898fdb32 Verifying Checksum 
+ 74ab898fdb32 Download complete 
+ 311eca34042e Downloading [>                                                  ]  10.63kB/1.003MB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 4e225d7a935a Downloading [==================================================>]     948B/948B
+ 4e225d7a935a Verifying Checksum 
+ 4e225d7a935a Extracting [==================================================>]     948B/948B
+ 4e225d7a935a Extracting [==================================================>]     948B/948B
+ 4e225d7a935a Pull complete 
+ 74ab898fdb32 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 74ab898fdb32 Extracting [==================================================>]  173.2kB/173.2kB
+ 74ab898fdb32 Extracting [==================================================>]  173.2kB/173.2kB
+ 74ab898fdb32 Pull complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ bb1131de5e60 Downloading [>                                                  ]  123.3kB/12.01MB
+ 407621d26c3b Downloading [==================================================>]      99B/99B
+ 407621d26c3b Verifying Checksum 
+ 407621d26c3b Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ bb1131de5e60 Downloading [==================================>                ]  8.376MB/12.01MB
+ bb1131de5e60 Verifying Checksum 
+ bb1131de5e60 Download complete 
+ bb1131de5e60 Extracting [>                                                  ]  131.1kB/12.01MB
+ bb1131de5e60 Extracting [==========================>                        ]  6.423MB/12.01MB
+ bb1131de5e60 Extracting [==================================================>]  12.01MB/12.01MB
+ bb1131de5e60 Pull complete 
+ 407621d26c3b Extracting [==================================================>]      99B/99B
+ 407621d26c3b Extracting [==================================================>]      99B/99B
+ 407621d26c3b Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ b1badc6e5066 Downloading [>                                                  ]  294.9kB/28.23MB
+ 87acabadf81b Downloading [==================================================>]     573B/573B
+ 87acabadf81b Verifying Checksum 
+ 87acabadf81b Download complete 
+ 87acabadf81b Extracting [==================================================>]     573B/573B
+ 87acabadf81b Extracting [==================================================>]     573B/573B
+ 87acabadf81b Pull complete 
+ redis Pulled 
+ b1badc6e5066 Downloading [========================>                          ]  13.57MB/28.23MB
+ a2da0c0f2353 Downloading [>                                                  ]  442.4kB/44.07MB
+ b1badc6e5066 Downloading [===============================================>   ]   27.1MB/28.23MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ a2da0c0f2353 Downloading [======>                                            ]  5.325MB/44.07MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ a2da0c0f2353 Downloading [============>                                      ]   10.7MB/44.07MB
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ a2da0c0f2353 Downloading [==================>                                ]  16.06MB/44.07MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ b1badc6e5066 Extracting [===================>                               ]  11.21MB/28.23MB
+ a2da0c0f2353 Downloading [======================>                            ]  20.05MB/44.07MB
+ b1badc6e5066 Extracting [=================================>                 ]  18.87MB/28.23MB
+ a2da0c0f2353 Downloading [============================>                      ]  25.42MB/44.07MB
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ a2da0c0f2353 Downloading [=================================>                 ]  29.45MB/44.07MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ a2da0c0f2353 Downloading [========================================>          ]  35.68MB/44.07MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ a2da0c0f2353 Downloading [============================================>      ]  39.24MB/44.07MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Download complete 
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Pull complete 
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ a2da0c0f2353 Extracting [=========>                                         ]  8.258MB/44.07MB
+ a2da0c0f2353 Extracting [================>                                  ]  14.68MB/44.07MB
+ a2da0c0f2353 Extracting [===========================>                       ]  23.86MB/44.07MB
+ a2da0c0f2353 Extracting [====================================>              ]  32.57MB/44.07MB
+ a2da0c0f2353 Extracting [===========================================>       ]  38.54MB/44.07MB
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ a2da0c0f2353 Extracting [=================================================> ]  44.04MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ nginx Pulled 
+ Network bine-rinha-backend-golang_backend  Creating
+ Network bine-rinha-backend-golang_backend  Created
+ Container bine-rinha-backend-golang-redis-1  Creating
+ Container bine-rinha-backend-golang-redis-1  Created
+ Container bine-rinha-backend-golang-api02-1  Creating
+ Container bine-rinha-backend-golang-api01-1  Creating
+ Container bine-rinha-backend-golang-api01-1  Created
+ Container bine-rinha-backend-golang-api02-1  Created
+ Container bine-rinha-backend-golang-nginx-1  Creating
+ Container bine-rinha-backend-golang-nginx-1  Created
+Attaching to api01-1, api02-1, nginx-1, redis-1
+redis-1  | 1:C 21 Aug 2025 05:36:18.673 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis-1  | 1:C 21 Aug 2025 05:36:18.673 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis-1  | 1:C 21 Aug 2025 05:36:18.673 * Redis version=7.2.10, bits=64, commit=00000000, modified=0, pid=1, just started
+redis-1  | 1:C 21 Aug 2025 05:36:18.673 * Configuration loaded
+redis-1  | 1:M 21 Aug 2025 05:36:18.673 * monotonic clock: POSIX clock_gettime
+redis-1  | 1:M 21 Aug 2025 05:36:18.673 * Running mode=standalone, port=6379.
+redis-1  | 1:M 21 Aug 2025 05:36:18.674 * Server initialized
+redis-1  | 1:M 21 Aug 2025 05:36:18.674 * Ready to accept connections tcp
+api02-1  | 2025/08/21 05:36:24 Connected to Redis at redis:6379
+api02-1  | 2025/08/21 05:36:24 Worker 3 started
+api02-1  | 2025/08/21 05:36:24 Worker 0 started
+api02-1  | 2025/08/21 05:36:24 Worker 5 started
+api02-1  | 2025/08/21 05:36:24 Worker 1 started
+api02-1  | 2025/08/21 05:36:24 Worker 2 started
+api02-1  | 2025/08/21 05:36:24 Worker 4 started
+api02-1  | 2025/08/21 05:36:24 Worker 10 started
+api02-1  | 2025/08/21 05:36:24 Worker 6 started
+api02-1  | 2025/08/21 05:36:24 Worker 7 started
+api02-1  | 2025/08/21 05:36:24 Worker 8 started
+api02-1  | 2025/08/21 05:36:24 Worker 9 started
+api02-1  | 2025/08/21 05:36:24 Worker 11 started
+api02-1  | 2025/08/21 05:36:24 Worker 12 started
+api02-1  | 2025/08/21 05:36:24 Worker 13 started
+api02-1  | 2025/08/21 05:36:24 Worker 14 started
+api02-1  | 2025/08/21 05:36:24 Server running on :8080
+api02-1  | 2025/08/21 05:36:24 Worker 15 started
+api02-1  | 
+api02-1  |  ┌───────────────────────────────────────────────────┐ 
+api02-1  |  │                   Fiber v2.52.8                   │ 
+api02-1  |  │               http://127.0.0.1:8080               │ 
+api02-1  |  │       (bound on host 0.0.0.0 and port 8080)       │ 
+api02-1  |  │                                                   │ 
+api02-1  |  │ Handlers ............. 5  Processes ........... 1 │ 
+api02-1  |  │ Prefork ....... Disabled  PID ................. 1 │ 
+api02-1  |  └───────────────────────────────────────────────────┘ 
+api02-1  | 
+api01-1  | 2025/08/21 05:36:24 Connected to Redis at redis:6379
+api01-1  | 2025/08/21 05:36:24 Server running on :8080
+api01-1  | 2025/08/21 05:36:24 Worker 10 started
+api01-1  | 2025/08/21 05:36:24 Worker 13 started
+api01-1  | 2025/08/21 05:36:24 Worker 9 started
+api01-1  | 2025/08/21 05:36:24 Worker 12 started
+api01-1  | 2025/08/21 05:36:24 Worker 14 started
+api01-1  | 2025/08/21 05:36:24 Worker 8 started
+api01-1  | 2025/08/21 05:36:24 Worker 15 started
+api01-1  | 2025/08/21 05:36:24 Worker 5 started
+api01-1  | 2025/08/21 05:36:24 Worker 6 started
+api01-1  | 2025/08/21 05:36:24 Starting health monitor...
+api01-1  | 2025/08/21 05:36:24 Worker 11 started
+api01-1  | 2025/08/21 05:36:24 Worker 0 started
+api01-1  | 2025/08/21 05:36:24 Worker 1 started
+api01-1  | 2025/08/21 05:36:24 Worker 7 started
+api01-1  | 2025/08/21 05:36:24 Worker 2 started
+api01-1  | 2025/08/21 05:36:24 Worker 3 started
+api01-1  | 2025/08/21 05:36:24 Worker 4 started
+api01-1  | 
+api01-1  |  ┌───────────────────────────────────────────────────┐ 
+api01-1  |  │                   Fiber v2.52.8                   │ 
+api01-1  |  │               http://127.0.0.1:8080               │ 
+api01-1  |  │       (bound on host 0.0.0.0 and port 8080)       │ 
+api01-1  |  │                                                   │ 
+api01-1  |  │ Handlers ............. 5  Processes ........... 1 │ 
+api01-1  |  │ Prefork ....... Disabled  PID ................. 1 │ 
+api01-1  |  └───────────────────────────────────────────────────┘ 
+api01-1  | 
+nginx-1  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx-1  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx-1  | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx-1  | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx-1  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx-1  | /docker-entrypoint.sh: Configuration complete; ready for start up
+api01-1  | 05:36:25 | 200 |     243.083µs | 172.20.0.5 | GET | /payments-summary | -
+api01-1  | 2025/08/21 05:36:29 Processor 1 health: failing=false, minResponseTime=0
+api01-1  | 2025/08/21 05:36:29 Processor 2 health: failing=false, minResponseTime=0
+api01-1  | 2025/08/21 05:36:29 Updated best processor to 1 (MinResponseTime=0ms)
+api02-1  | 2025/08/21 05:36:31 Purging all payments from Redis
+api02-1  | 05:36:30 | 204 |     163.402µs | 172.20.0.5 | POST | /purge-payments | -
+api01-1  | 05:36:31 | 200 |     167.452µs | 172.20.0.5 | GET | /payments-summary | -
+api02-1  | 05:36:30 | 204 |     117.391µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:31 Payment received and queued [CorrelationID=7cee68fc-aa19-4fff-82af-1b14b03c1864, Amount=20.05]
+api02-1  | 2025/08/21 05:36:31 Worker 3 processing CorrelationID=7cee68fc-aa19-4fff-82af-1b14b03c1864
+api02-1  | 2025/08/21 05:36:31 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:31 Payment sent to processor 1 [CorrelationID=7cee68fc-aa19-4fff-82af-1b14b03c1864]
+api02-1  | 2025/08/21 05:36:31 Stored payment in Redis [CorrelationID=7cee68fc-aa19-4fff-82af-1b14b03c1864, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:31 Payment received and queued [CorrelationID=4875bdcd-ce79-4597-b98b-cf73ae5e31bb, Amount=20.05]
+api01-1  | 2025/08/21 05:36:31 Worker 10 processing CorrelationID=4875bdcd-ce79-4597-b98b-cf73ae5e31bb
+api01-1  | 05:36:31 | 204 |      56.871µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:31 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:31 Payment sent to processor 1 [CorrelationID=4875bdcd-ce79-4597-b98b-cf73ae5e31bb]
+api01-1  | 2025/08/21 05:36:31 Stored payment in Redis [CorrelationID=4875bdcd-ce79-4597-b98b-cf73ae5e31bb, ProcessorID=1]
+api02-1  | 05:36:31 | 204 |      46.851µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:32 Payment received and queued [CorrelationID=8df8e0c0-8688-4cd7-8d2d-3398ac51b7f1, Amount=20.05]
+api02-1  | 2025/08/21 05:36:32 Worker 0 processing CorrelationID=8df8e0c0-8688-4cd7-8d2d-3398ac51b7f1
+api02-1  | 2025/08/21 05:36:32 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:32 Payment sent to processor 1 [CorrelationID=8df8e0c0-8688-4cd7-8d2d-3398ac51b7f1]
+api02-1  | 2025/08/21 05:36:32 Stored payment in Redis [CorrelationID=8df8e0c0-8688-4cd7-8d2d-3398ac51b7f1, ProcessorID=1]
+api01-1  | 05:36:32 | 204 |      99.801µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:32 Payment received and queued [CorrelationID=a4441417-cd34-40fd-86e1-f6447951304e, Amount=20.05]
+api01-1  | 2025/08/21 05:36:32 Worker 13 processing CorrelationID=a4441417-cd34-40fd-86e1-f6447951304e
+api01-1  | 2025/08/21 05:36:32 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:32 Payment sent to processor 1 [CorrelationID=a4441417-cd34-40fd-86e1-f6447951304e]
+api01-1  | 2025/08/21 05:36:32 Stored payment in Redis [CorrelationID=a4441417-cd34-40fd-86e1-f6447951304e, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:32 Payment received and queued [CorrelationID=68d62e73-576f-4d47-b226-a483e5405f45, Amount=20.05]
+api02-1  | 05:36:32 | 204 |       31.56µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:32 Worker 5 processing CorrelationID=68d62e73-576f-4d47-b226-a483e5405f45
+api02-1  | 2025/08/21 05:36:32 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:32 Payment sent to processor 1 [CorrelationID=68d62e73-576f-4d47-b226-a483e5405f45]
+api02-1  | 2025/08/21 05:36:32 Stored payment in Redis [CorrelationID=68d62e73-576f-4d47-b226-a483e5405f45, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:32 Payment received and queued [CorrelationID=5189d0ee-a49d-404c-a041-616fed516529, Amount=20.05]
+api01-1  | 2025/08/21 05:36:32 Worker 9 processing CorrelationID=5189d0ee-a49d-404c-a041-616fed516529
+api01-1  | 05:36:32 | 204 |      31.391µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:32 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:32 Payment sent to processor 1 [CorrelationID=5189d0ee-a49d-404c-a041-616fed516529]
+api01-1  | 2025/08/21 05:36:32 Stored payment in Redis [CorrelationID=5189d0ee-a49d-404c-a041-616fed516529, ProcessorID=1]
+api02-1  | 05:36:32 | 204 |      43.701µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:33 Payment received and queued [CorrelationID=90006a60-3b6b-431b-bec6-74e14cb4eafe, Amount=20.05]
+api02-1  | 2025/08/21 05:36:33 Worker 1 processing CorrelationID=90006a60-3b6b-431b-bec6-74e14cb4eafe
+api02-1  | 2025/08/21 05:36:33 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:33 Payment sent to processor 1 [CorrelationID=90006a60-3b6b-431b-bec6-74e14cb4eafe]
+api02-1  | 2025/08/21 05:36:33 Stored payment in Redis [CorrelationID=90006a60-3b6b-431b-bec6-74e14cb4eafe, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:33 Payment received and queued [CorrelationID=08fa4114-7f5e-4406-850c-76690936d0f9, Amount=20.05]
+api01-1  | 2025/08/21 05:36:33 Worker 12 processing CorrelationID=08fa4114-7f5e-4406-850c-76690936d0f9
+api01-1  | 2025/08/21 05:36:33 Best processor selected: 1
+api01-1  | 05:36:33 | 204 |       38.37µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:33 Payment sent to processor 1 [CorrelationID=08fa4114-7f5e-4406-850c-76690936d0f9]
+api01-1  | 2025/08/21 05:36:33 Stored payment in Redis [CorrelationID=08fa4114-7f5e-4406-850c-76690936d0f9, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:33 Payment received and queued [CorrelationID=ca7b434a-eae5-4b69-b526-da5fc2c80798, Amount=20.05]
+api02-1  | 2025/08/21 05:36:33 Worker 2 processing CorrelationID=ca7b434a-eae5-4b69-b526-da5fc2c80798
+api02-1  | 2025/08/21 05:36:33 Best processor selected: 1
+api02-1  | 05:36:32 | 204 |       30.26µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:33 Payment sent to processor 1 [CorrelationID=ca7b434a-eae5-4b69-b526-da5fc2c80798]
+api02-1  | 2025/08/21 05:36:33 Stored payment in Redis [CorrelationID=ca7b434a-eae5-4b69-b526-da5fc2c80798, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:33 Payment received and queued [CorrelationID=68969c5a-060e-4d25-bd0e-68e0ac77b495, Amount=20.05]
+api01-1  | 2025/08/21 05:36:33 Worker 14 processing CorrelationID=68969c5a-060e-4d25-bd0e-68e0ac77b495
+api01-1  | 05:36:33 | 204 |      33.241µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:33 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:33 Payment sent to processor 1 [CorrelationID=68969c5a-060e-4d25-bd0e-68e0ac77b495]
+api01-1  | 2025/08/21 05:36:33 Stored payment in Redis [CorrelationID=68969c5a-060e-4d25-bd0e-68e0ac77b495, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:33 Payment received and queued [CorrelationID=6576b874-ae97-48a3-bef5-4aad283d5df9, Amount=20.05]
+api02-1  | 2025/08/21 05:36:33 Worker 4 processing CorrelationID=6576b874-ae97-48a3-bef5-4aad283d5df9
+api02-1  | 05:36:33 | 204 |      31.581µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:33 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:33 Payment sent to processor 1 [CorrelationID=6576b874-ae97-48a3-bef5-4aad283d5df9]
+api02-1  | 2025/08/21 05:36:33 Stored payment in Redis [CorrelationID=6576b874-ae97-48a3-bef5-4aad283d5df9, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:33 Payment received and queued [CorrelationID=8f233687-a0b6-4948-9367-da5af8a5a8b4, Amount=20.05]
+api01-1  | 2025/08/21 05:36:33 Worker 8 processing CorrelationID=8f233687-a0b6-4948-9367-da5af8a5a8b4
+api01-1  | 05:36:33 | 204 |      30.081µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:33 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:33 Payment sent to processor 1 [CorrelationID=8f233687-a0b6-4948-9367-da5af8a5a8b4]
+api01-1  | 2025/08/21 05:36:33 Stored payment in Redis [CorrelationID=8f233687-a0b6-4948-9367-da5af8a5a8b4, ProcessorID=1]
+api02-1  | 05:36:33 | 204 |       51.51µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:34 Payment received and queued [CorrelationID=b349f79a-66f4-4ae6-869f-88c7a8753841, Amount=20.05]
+api02-1  | 2025/08/21 05:36:34 Worker 10 processing CorrelationID=b349f79a-66f4-4ae6-869f-88c7a8753841
+api02-1  | 2025/08/21 05:36:34 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:34 Payment sent to processor 1 [CorrelationID=b349f79a-66f4-4ae6-869f-88c7a8753841]
+api02-1  | 2025/08/21 05:36:34 Stored payment in Redis [CorrelationID=b349f79a-66f4-4ae6-869f-88c7a8753841, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:34 Payment received and queued [CorrelationID=088ad83e-8030-490f-bb80-4717647b98d1, Amount=20.05]
+api01-1  | 2025/08/21 05:36:34 Worker 15 processing CorrelationID=088ad83e-8030-490f-bb80-4717647b98d1
+api01-1  | 2025/08/21 05:36:34 Best processor selected: 1
+api01-1  | 05:36:34 | 204 |       34.32µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:34 Payment sent to processor 1 [CorrelationID=088ad83e-8030-490f-bb80-4717647b98d1]
+api01-1  | 2025/08/21 05:36:34 Stored payment in Redis [CorrelationID=088ad83e-8030-490f-bb80-4717647b98d1, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:34 Payment received and queued [CorrelationID=e2ca76ff-e330-443a-91a1-484c9dd46854, Amount=20.05]
+api02-1  | 05:36:33 | 204 |       50.23µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:34 Worker 6 processing CorrelationID=e2ca76ff-e330-443a-91a1-484c9dd46854
+api02-1  | 2025/08/21 05:36:34 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:34 Payment sent to processor 1 [CorrelationID=e2ca76ff-e330-443a-91a1-484c9dd46854]
+api02-1  | 2025/08/21 05:36:34 Stored payment in Redis [CorrelationID=e2ca76ff-e330-443a-91a1-484c9dd46854, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:34 Payment received and queued [CorrelationID=ec8a0bd0-663b-482f-9188-f3801d71e10a, Amount=20.05]
+api01-1  | 2025/08/21 05:36:34 Worker 5 processing CorrelationID=ec8a0bd0-663b-482f-9188-f3801d71e10a
+api01-1  | 05:36:34 | 204 |       28.87µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:34 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:34 Payment sent to processor 1 [CorrelationID=ec8a0bd0-663b-482f-9188-f3801d71e10a]
+api01-1  | 2025/08/21 05:36:34 Stored payment in Redis [CorrelationID=ec8a0bd0-663b-482f-9188-f3801d71e10a, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:34 Processor 1 health: failing=false, minResponseTime=0
+api01-1  | 2025/08/21 05:36:34 Processor 2 health: failing=false, minResponseTime=0
+api01-1  | 2025/08/21 05:36:34 Updated best processor to 2 (MinResponseTime=0ms)
+api02-1  | 05:36:34 | 204 |       36.26µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:34 Payment received and queued [CorrelationID=85e7bc97-47ec-4545-878c-c4720b62a1f5, Amount=20.05]
+api02-1  | 2025/08/21 05:36:34 Worker 7 processing CorrelationID=85e7bc97-47ec-4545-878c-c4720b62a1f5
+api02-1  | 2025/08/21 05:36:34 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:34 Payment sent to processor 2 [CorrelationID=85e7bc97-47ec-4545-878c-c4720b62a1f5]
+api02-1  | 2025/08/21 05:36:34 Stored payment in Redis [CorrelationID=85e7bc97-47ec-4545-878c-c4720b62a1f5, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:34 Payment received and queued [CorrelationID=cac89480-7876-43d7-a730-37db90168763, Amount=20.05]
+api01-1  | 2025/08/21 05:36:34 Worker 6 processing CorrelationID=cac89480-7876-43d7-a730-37db90168763
+api01-1  | 2025/08/21 05:36:34 Best processor selected: 2
+api01-1  | 05:36:34 | 204 |      30.211µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:34 Payment sent to processor 2 [CorrelationID=cac89480-7876-43d7-a730-37db90168763]
+api01-1  | 2025/08/21 05:36:34 Stored payment in Redis [CorrelationID=cac89480-7876-43d7-a730-37db90168763, ProcessorID=2]
+api02-1  | 05:36:34 | 204 |       20.98µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:34 Payment received and queued [CorrelationID=fc597882-2d04-4f84-9803-d3b894b86fff, Amount=20.05]
+api02-1  | 2025/08/21 05:36:34 Worker 8 processing CorrelationID=fc597882-2d04-4f84-9803-d3b894b86fff
+api02-1  | 2025/08/21 05:36:34 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:34 Payment sent to processor 2 [CorrelationID=fc597882-2d04-4f84-9803-d3b894b86fff]
+api02-1  | 2025/08/21 05:36:34 Stored payment in Redis [CorrelationID=fc597882-2d04-4f84-9803-d3b894b86fff, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:34 Payment received and queued [CorrelationID=8b41ae0a-bef0-4f1a-aaa0-75b268c6cafd, Amount=20.05]
+api01-1  | 05:36:34 | 204 |       28.62µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:34 Worker 11 processing CorrelationID=8b41ae0a-bef0-4f1a-aaa0-75b268c6cafd
+api01-1  | 2025/08/21 05:36:34 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:34 Payment sent to processor 2 [CorrelationID=8b41ae0a-bef0-4f1a-aaa0-75b268c6cafd]
+api01-1  | 2025/08/21 05:36:34 Stored payment in Redis [CorrelationID=8b41ae0a-bef0-4f1a-aaa0-75b268c6cafd, ProcessorID=2]
+api02-1  | 05:36:34 | 204 |          43µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=73fed749-873a-4d51-a1f8-1a3cb21fda17, Amount=20.05]
+api02-1  | 2025/08/21 05:36:35 Worker 9 processing CorrelationID=73fed749-873a-4d51-a1f8-1a3cb21fda17
+api02-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=73fed749-873a-4d51-a1f8-1a3cb21fda17]
+api02-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=73fed749-873a-4d51-a1f8-1a3cb21fda17, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=48a49d44-6efe-494f-9131-de26c5e90be6, Amount=20.05]
+api01-1  | 2025/08/21 05:36:35 Worker 0 processing CorrelationID=48a49d44-6efe-494f-9131-de26c5e90be6
+api01-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api01-1  | 05:36:35 | 204 |       33.47µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=48a49d44-6efe-494f-9131-de26c5e90be6]
+api01-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=48a49d44-6efe-494f-9131-de26c5e90be6, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=bff4e6fc-75b5-4c6d-8082-a6b0dcb24519, Amount=20.05]
+api02-1  | 2025/08/21 05:36:35 Worker 11 processing CorrelationID=bff4e6fc-75b5-4c6d-8082-a6b0dcb24519
+api02-1  | 05:36:34 | 204 |      31.051µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=bff4e6fc-75b5-4c6d-8082-a6b0dcb24519]
+api02-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=bff4e6fc-75b5-4c6d-8082-a6b0dcb24519, ProcessorID=2]
+api01-1  | 05:36:35 | 204 |        28.2µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=6a7735bf-585b-42e2-8e44-e172ad7073aa, Amount=20.05]
+api01-1  | 2025/08/21 05:36:35 Worker 1 processing CorrelationID=6a7735bf-585b-42e2-8e44-e172ad7073aa
+api01-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=6a7735bf-585b-42e2-8e44-e172ad7073aa]
+api01-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=6a7735bf-585b-42e2-8e44-e172ad7073aa, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=2d5c6959-2817-4a64-b5ef-0ef0c0443308, Amount=20.05]
+api02-1  | 2025/08/21 05:36:35 Worker 12 processing CorrelationID=2d5c6959-2817-4a64-b5ef-0ef0c0443308
+api02-1  | 05:36:34 | 204 |       23.84µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=2d5c6959-2817-4a64-b5ef-0ef0c0443308]
+api02-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=2d5c6959-2817-4a64-b5ef-0ef0c0443308, ProcessorID=2]
+api01-1  | 05:36:35 | 204 |      37.401µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=10ef07c5-d980-418b-8710-2f8e8ea6fddc, Amount=20.05]
+api01-1  | 2025/08/21 05:36:35 Worker 7 processing CorrelationID=10ef07c5-d980-418b-8710-2f8e8ea6fddc
+api01-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=10ef07c5-d980-418b-8710-2f8e8ea6fddc]
+api01-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=10ef07c5-d980-418b-8710-2f8e8ea6fddc, ProcessorID=2]
+api02-1  | 05:36:35 | 204 |       30.44µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=58278a07-2990-4242-a58f-89f0cb893b4b, Amount=20.05]
+api02-1  | 2025/08/21 05:36:35 Worker 13 processing CorrelationID=58278a07-2990-4242-a58f-89f0cb893b4b
+api02-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=58278a07-2990-4242-a58f-89f0cb893b4b]
+api02-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=58278a07-2990-4242-a58f-89f0cb893b4b, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=f52cc0de-dfc8-4517-a632-eccf2e32ef31, Amount=20.05]
+api01-1  | 2025/08/21 05:36:35 Worker 2 processing CorrelationID=f52cc0de-dfc8-4517-a632-eccf2e32ef31
+api01-1  | 05:36:35 | 204 |       30.89µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=f52cc0de-dfc8-4517-a632-eccf2e32ef31]
+api01-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=f52cc0de-dfc8-4517-a632-eccf2e32ef31, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=406a5e10-3912-4d8e-af19-4524388cada1, Amount=20.05]
+api02-1  | 2025/08/21 05:36:35 Worker 14 processing CorrelationID=406a5e10-3912-4d8e-af19-4524388cada1
+api02-1  | 05:36:35 | 204 |      28.631µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=406a5e10-3912-4d8e-af19-4524388cada1]
+api02-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=406a5e10-3912-4d8e-af19-4524388cada1, ProcessorID=2]
+api01-1  | 05:36:35 | 204 |       31.26µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:35 Payment received and queued [CorrelationID=a49c2e17-5e5c-4141-bce8-c788a7177006, Amount=20.05]
+api01-1  | 2025/08/21 05:36:35 Worker 3 processing CorrelationID=a49c2e17-5e5c-4141-bce8-c788a7177006
+api01-1  | 2025/08/21 05:36:35 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:35 Payment sent to processor 2 [CorrelationID=a49c2e17-5e5c-4141-bce8-c788a7177006]
+api01-1  | 2025/08/21 05:36:35 Stored payment in Redis [CorrelationID=a49c2e17-5e5c-4141-bce8-c788a7177006, ProcessorID=2]
+api02-1  | 05:36:35 | 204 |      36.861µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=75d55c99-4016-4aaf-96a1-10e016be00d4, Amount=20.05]
+api02-1  | 2025/08/21 05:36:36 Worker 15 processing CorrelationID=75d55c99-4016-4aaf-96a1-10e016be00d4
+api02-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=75d55c99-4016-4aaf-96a1-10e016be00d4]
+api02-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=75d55c99-4016-4aaf-96a1-10e016be00d4, ProcessorID=2]
+api01-1  | 05:36:36 | 204 |       31.12µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=642231ed-1e59-4a5f-8ab9-ace26b015701, Amount=20.05]
+api01-1  | 2025/08/21 05:36:36 Worker 4 processing CorrelationID=642231ed-1e59-4a5f-8ab9-ace26b015701
+api01-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=642231ed-1e59-4a5f-8ab9-ace26b015701]
+api01-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=642231ed-1e59-4a5f-8ab9-ace26b015701, ProcessorID=2]
+api02-1  | 05:36:35 | 204 |       22.21µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=9db7caf9-5499-408c-be65-e22fed9ca16a, Amount=20.05]
+api02-1  | 2025/08/21 05:36:36 Worker 3 processing CorrelationID=9db7caf9-5499-408c-be65-e22fed9ca16a
+api02-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=9db7caf9-5499-408c-be65-e22fed9ca16a]
+api02-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=9db7caf9-5499-408c-be65-e22fed9ca16a, ProcessorID=2]
+api01-1  | 05:36:36 | 204 |      30.041µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=c2b3484e-45ff-4794-9b47-1dabcdd5576a, Amount=20.05]
+api01-1  | 2025/08/21 05:36:36 Worker 10 processing CorrelationID=c2b3484e-45ff-4794-9b47-1dabcdd5576a
+api01-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=c2b3484e-45ff-4794-9b47-1dabcdd5576a]
+api01-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=c2b3484e-45ff-4794-9b47-1dabcdd5576a, ProcessorID=2]
+api02-1  | 05:36:35 | 204 |      28.271µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=0db11aa0-0733-4254-aa65-f6ff99d9e35f, Amount=20.05]
+api02-1  | 2025/08/21 05:36:36 Worker 0 processing CorrelationID=0db11aa0-0733-4254-aa65-f6ff99d9e35f
+api02-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=0db11aa0-0733-4254-aa65-f6ff99d9e35f]
+api02-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=0db11aa0-0733-4254-aa65-f6ff99d9e35f, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=1b17aa00-2bd3-4582-92f0-1ce38950b684, Amount=20.05]
+api01-1  | 2025/08/21 05:36:36 Worker 13 processing CorrelationID=1b17aa00-2bd3-4582-92f0-1ce38950b684
+api01-1  | 05:36:36 | 204 |       30.44µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=1b17aa00-2bd3-4582-92f0-1ce38950b684]
+api01-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=1b17aa00-2bd3-4582-92f0-1ce38950b684, ProcessorID=2]
+api02-1  | 05:36:36 | 204 |       36.99µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=179dba78-934d-4751-80e5-27ed6ad95a04, Amount=20.05]
+api02-1  | 2025/08/21 05:36:36 Worker 5 processing CorrelationID=179dba78-934d-4751-80e5-27ed6ad95a04
+api02-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=179dba78-934d-4751-80e5-27ed6ad95a04]
+api02-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=179dba78-934d-4751-80e5-27ed6ad95a04, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=e6d74c88-7172-47a2-9f0a-a01b89af4e6e, Amount=20.05]
+api01-1  | 2025/08/21 05:36:36 Worker 9 processing CorrelationID=e6d74c88-7172-47a2-9f0a-a01b89af4e6e
+api01-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api01-1  | 05:36:36 | 204 |        32.6µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=e6d74c88-7172-47a2-9f0a-a01b89af4e6e]
+api01-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=e6d74c88-7172-47a2-9f0a-a01b89af4e6e, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=4db6bfdd-2562-4e6a-a280-723745b63ec4, Amount=20.05]
+api02-1  | 2025/08/21 05:36:36 Worker 1 processing CorrelationID=4db6bfdd-2562-4e6a-a280-723745b63ec4
+api02-1  | 05:36:36 | 204 |       29.17µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=4db6bfdd-2562-4e6a-a280-723745b63ec4]
+api02-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=4db6bfdd-2562-4e6a-a280-723745b63ec4, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=833ce7ce-5b01-4bca-8ae4-e40c16db7862, Amount=20.05]
+api01-1  | 05:36:36 | 204 |     173.373µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:36 Worker 12 processing CorrelationID=833ce7ce-5b01-4bca-8ae4-e40c16db7862
+api01-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=833ce7ce-5b01-4bca-8ae4-e40c16db7862]
+api01-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=833ce7ce-5b01-4bca-8ae4-e40c16db7862, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=8ad107f5-7a19-4d30-8fb2-143daa68ba46, Amount=20.05]
+api02-1  | 2025/08/21 05:36:36 Worker 2 processing CorrelationID=8ad107f5-7a19-4d30-8fb2-143daa68ba46
+api02-1  | 05:36:36 | 204 |       28.91µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=8ad107f5-7a19-4d30-8fb2-143daa68ba46]
+api02-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=8ad107f5-7a19-4d30-8fb2-143daa68ba46, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:36 Payment received and queued [CorrelationID=f7fd5baa-f63f-4858-8fc8-c9764bc1cc40, Amount=20.05]
+api01-1  | 2025/08/21 05:36:36 Worker 14 processing CorrelationID=f7fd5baa-f63f-4858-8fc8-c9764bc1cc40
+api01-1  | 05:36:36 | 204 |      33.831µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:36 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:36 Payment sent to processor 2 [CorrelationID=f7fd5baa-f63f-4858-8fc8-c9764bc1cc40]
+api01-1  | 2025/08/21 05:36:36 Stored payment in Redis [CorrelationID=f7fd5baa-f63f-4858-8fc8-c9764bc1cc40, ProcessorID=2]
+api02-1  | 05:36:36 | 204 |       37.84µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=31d00a9d-237c-4298-9c66-097d5f98cbde, Amount=20.05]
+api02-1  | 2025/08/21 05:36:37 Worker 4 processing CorrelationID=31d00a9d-237c-4298-9c66-097d5f98cbde
+api02-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=31d00a9d-237c-4298-9c66-097d5f98cbde]
+api02-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=31d00a9d-237c-4298-9c66-097d5f98cbde, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=3a9ab599-e7db-43ba-b251-481c6db4ff78, Amount=20.05]
+api01-1  | 2025/08/21 05:36:37 Worker 8 processing CorrelationID=3a9ab599-e7db-43ba-b251-481c6db4ff78
+api01-1  | 05:36:37 | 204 |      36.261µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=3a9ab599-e7db-43ba-b251-481c6db4ff78]
+api01-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=3a9ab599-e7db-43ba-b251-481c6db4ff78, ProcessorID=2]
+api02-1  | 05:36:36 | 204 |       29.75µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=0b68c2ed-7127-4c82-93ca-551264b0413a, Amount=20.05]
+api02-1  | 2025/08/21 05:36:37 Worker 10 processing CorrelationID=0b68c2ed-7127-4c82-93ca-551264b0413a
+api02-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=0b68c2ed-7127-4c82-93ca-551264b0413a]
+api02-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=0b68c2ed-7127-4c82-93ca-551264b0413a, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=232d95f1-ca2f-48d2-8514-7104b53485e8, Amount=20.05]
+api01-1  | 05:36:37 | 204 |       30.64µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:37 Worker 15 processing CorrelationID=232d95f1-ca2f-48d2-8514-7104b53485e8
+api01-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=232d95f1-ca2f-48d2-8514-7104b53485e8]
+api01-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=232d95f1-ca2f-48d2-8514-7104b53485e8, ProcessorID=2]
+api02-1  | 05:36:36 | 204 |      33.801µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=71fc6562-85d1-4dcc-bb52-2f1ad4e18289, Amount=20.05]
+api02-1  | 2025/08/21 05:36:37 Worker 6 processing CorrelationID=71fc6562-85d1-4dcc-bb52-2f1ad4e18289
+api02-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=71fc6562-85d1-4dcc-bb52-2f1ad4e18289]
+api02-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=71fc6562-85d1-4dcc-bb52-2f1ad4e18289, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=0d009f76-8866-44e9-8696-a1728683355f, Amount=20.05]
+api01-1  | 2025/08/21 05:36:37 Worker 5 processing CorrelationID=0d009f76-8866-44e9-8696-a1728683355f
+api01-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api01-1  | 05:36:37 | 204 |      30.661µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=0d009f76-8866-44e9-8696-a1728683355f]
+api01-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=0d009f76-8866-44e9-8696-a1728683355f, ProcessorID=2]
+api02-1  | 05:36:36 | 204 |      27.361µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=fc93f65c-8f31-4308-a48c-d475526a563d, Amount=20.05]
+api02-1  | 2025/08/21 05:36:37 Worker 7 processing CorrelationID=fc93f65c-8f31-4308-a48c-d475526a563d
+api02-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=fc93f65c-8f31-4308-a48c-d475526a563d]
+api02-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=fc93f65c-8f31-4308-a48c-d475526a563d, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=f7bed349-515a-4453-857d-6379753bbbdd, Amount=20.05]
+api01-1  | 2025/08/21 05:36:37 Worker 6 processing CorrelationID=f7bed349-515a-4453-857d-6379753bbbdd
+api01-1  | 05:36:37 | 204 |      35.141µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=f7bed349-515a-4453-857d-6379753bbbdd]
+api01-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=f7bed349-515a-4453-857d-6379753bbbdd, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=2c4f3266-71bb-4b1a-8fc8-113e2a5218cf, Amount=20.05]
+api02-1  | 2025/08/21 05:36:37 Worker 8 processing CorrelationID=2c4f3266-71bb-4b1a-8fc8-113e2a5218cf
+api02-1  | 05:36:37 | 204 |      31.991µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=2c4f3266-71bb-4b1a-8fc8-113e2a5218cf]
+api02-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=2c4f3266-71bb-4b1a-8fc8-113e2a5218cf, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=1ec4f2bc-ff89-4b5a-a384-a8c3e223e6ec, Amount=20.05]
+api01-1  | 2025/08/21 05:36:37 Worker 11 processing CorrelationID=1ec4f2bc-ff89-4b5a-a384-a8c3e223e6ec
+api01-1  | 05:36:37 | 204 |       32.19µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=1ec4f2bc-ff89-4b5a-a384-a8c3e223e6ec]
+api01-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=1ec4f2bc-ff89-4b5a-a384-a8c3e223e6ec, ProcessorID=2]
+api02-1  | 05:36:37 | 204 |       30.91µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=07ab2e00-6015-475f-90a1-0fa230b55622, Amount=20.05]
+api02-1  | 2025/08/21 05:36:37 Worker 9 processing CorrelationID=07ab2e00-6015-475f-90a1-0fa230b55622
+api02-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=07ab2e00-6015-475f-90a1-0fa230b55622]
+api02-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=07ab2e00-6015-475f-90a1-0fa230b55622, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=6632d93e-8420-4913-bc94-a012aa765153, Amount=20.05]
+api01-1  | 2025/08/21 05:36:37 Worker 0 processing CorrelationID=6632d93e-8420-4913-bc94-a012aa765153
+api01-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api01-1  | 05:36:37 | 204 |       33.49µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=6632d93e-8420-4913-bc94-a012aa765153]
+api01-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=6632d93e-8420-4913-bc94-a012aa765153, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=755527f0-0b25-437e-bfe5-37cb487a2bdc, Amount=20.05]
+api02-1  | 2025/08/21 05:36:37 Worker 11 processing CorrelationID=755527f0-0b25-437e-bfe5-37cb487a2bdc
+api02-1  | 05:36:37 | 204 |      29.251µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=755527f0-0b25-437e-bfe5-37cb487a2bdc]
+api02-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=755527f0-0b25-437e-bfe5-37cb487a2bdc, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:37 Payment received and queued [CorrelationID=f124f6ce-9ddf-4c48-9e9e-95792d876f92, Amount=20.05]
+api01-1  | 2025/08/21 05:36:37 Worker 1 processing CorrelationID=f124f6ce-9ddf-4c48-9e9e-95792d876f92
+api01-1  | 05:36:37 | 204 |       27.58µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:37 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:37 Payment sent to processor 2 [CorrelationID=f124f6ce-9ddf-4c48-9e9e-95792d876f92]
+api01-1  | 2025/08/21 05:36:37 Stored payment in Redis [CorrelationID=f124f6ce-9ddf-4c48-9e9e-95792d876f92, ProcessorID=2]
+api02-1  | 05:36:37 | 204 |      38.981µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=99c0e84a-5acf-45ef-aca4-650a4bc09e8e, Amount=20.05]
+api02-1  | 2025/08/21 05:36:38 Worker 12 processing CorrelationID=99c0e84a-5acf-45ef-aca4-650a4bc09e8e
+api02-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=99c0e84a-5acf-45ef-aca4-650a4bc09e8e]
+api02-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=99c0e84a-5acf-45ef-aca4-650a4bc09e8e, ProcessorID=2]
+api01-1  | 05:36:38 | 204 |      34.441µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=9e03b4ad-b3af-4916-a102-18895c982026, Amount=20.05]
+api01-1  | 2025/08/21 05:36:38 Worker 7 processing CorrelationID=9e03b4ad-b3af-4916-a102-18895c982026
+api01-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=9e03b4ad-b3af-4916-a102-18895c982026]
+api01-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=9e03b4ad-b3af-4916-a102-18895c982026, ProcessorID=2]
+api02-1  | 05:36:37 | 204 |       31.21µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=5fa481ef-8807-4569-8408-ae30b977cc6f, Amount=20.05]
+api02-1  | 2025/08/21 05:36:38 Worker 13 processing CorrelationID=5fa481ef-8807-4569-8408-ae30b977cc6f
+api02-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=5fa481ef-8807-4569-8408-ae30b977cc6f]
+api02-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=5fa481ef-8807-4569-8408-ae30b977cc6f, ProcessorID=2]
+api01-1  | 05:36:38 | 204 |       27.54µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=59c0f60b-aefd-4c2f-ab8e-d0eb858d91e1, Amount=20.05]
+api01-1  | 2025/08/21 05:36:38 Worker 2 processing CorrelationID=59c0f60b-aefd-4c2f-ab8e-d0eb858d91e1
+api01-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=59c0f60b-aefd-4c2f-ab8e-d0eb858d91e1]
+api01-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=59c0f60b-aefd-4c2f-ab8e-d0eb858d91e1, ProcessorID=2]
+api02-1  | 05:36:37 | 204 |      22.361µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=8ad82b0d-5bab-438a-939e-701f2f184ec6, Amount=20.05]
+api02-1  | 2025/08/21 05:36:38 Worker 14 processing CorrelationID=8ad82b0d-5bab-438a-939e-701f2f184ec6
+api02-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=8ad82b0d-5bab-438a-939e-701f2f184ec6]
+api02-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=8ad82b0d-5bab-438a-939e-701f2f184ec6, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=8ac2a1c6-035c-4a48-885a-5e51b466f76e, Amount=20.05]
+api01-1  | 2025/08/21 05:36:38 Worker 3 processing CorrelationID=8ac2a1c6-035c-4a48-885a-5e51b466f76e
+api01-1  | 05:36:38 | 204 |       27.06µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=8ac2a1c6-035c-4a48-885a-5e51b466f76e]
+api01-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=8ac2a1c6-035c-4a48-885a-5e51b466f76e, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=5aa5be14-874d-45b3-bde7-53a4f3e7bba1, Amount=20.05]
+api02-1  | 2025/08/21 05:36:38 Worker 15 processing CorrelationID=5aa5be14-874d-45b3-bde7-53a4f3e7bba1
+api02-1  | 05:36:37 | 204 |       29.12µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=5aa5be14-874d-45b3-bde7-53a4f3e7bba1]
+api02-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=5aa5be14-874d-45b3-bde7-53a4f3e7bba1, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=c8162932-20f5-405c-838c-7880688e07b5, Amount=20.05]
+api01-1  | 2025/08/21 05:36:38 Worker 4 processing CorrelationID=c8162932-20f5-405c-838c-7880688e07b5
+api01-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api01-1  | 05:36:38 | 204 |      29.161µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=c8162932-20f5-405c-838c-7880688e07b5]
+api01-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=c8162932-20f5-405c-838c-7880688e07b5, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=4ab2b9b1-2267-49d3-b7f2-c9d39dc0235c, Amount=20.05]
+api02-1  | 2025/08/21 05:36:38 Worker 3 processing CorrelationID=4ab2b9b1-2267-49d3-b7f2-c9d39dc0235c
+api02-1  | 05:36:38 | 204 |      41.291µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=4ab2b9b1-2267-49d3-b7f2-c9d39dc0235c]
+api02-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=4ab2b9b1-2267-49d3-b7f2-c9d39dc0235c, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=2fafbfc7-ffe8-4749-80ad-ff8f09dd2846, Amount=20.05]
+api01-1  | 2025/08/21 05:36:38 Worker 10 processing CorrelationID=2fafbfc7-ffe8-4749-80ad-ff8f09dd2846
+api01-1  | 05:36:38 | 204 |       43.88µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=2fafbfc7-ffe8-4749-80ad-ff8f09dd2846]
+api01-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=2fafbfc7-ffe8-4749-80ad-ff8f09dd2846, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=9d135a7a-755a-4cd3-a7f9-3cec923d65e0, Amount=20.05]
+api02-1  | 2025/08/21 05:36:38 Worker 0 processing CorrelationID=9d135a7a-755a-4cd3-a7f9-3cec923d65e0
+api02-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api02-1  | 05:36:38 | 204 |        28.7µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=9d135a7a-755a-4cd3-a7f9-3cec923d65e0]
+api02-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=9d135a7a-755a-4cd3-a7f9-3cec923d65e0, ProcessorID=2]
+api01-1  | 05:36:38 | 204 |      32.021µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=8830ccfd-1c80-4e72-9451-c024eabc5416, Amount=20.05]
+api01-1  | 2025/08/21 05:36:38 Worker 13 processing CorrelationID=8830ccfd-1c80-4e72-9451-c024eabc5416
+api01-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=8830ccfd-1c80-4e72-9451-c024eabc5416]
+api01-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=8830ccfd-1c80-4e72-9451-c024eabc5416, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=2bcaa9c3-5fcc-49c0-a1fe-de97c73b4185, Amount=20.05]
+api02-1  | 2025/08/21 05:36:38 Worker 5 processing CorrelationID=2bcaa9c3-5fcc-49c0-a1fe-de97c73b4185
+api02-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api02-1  | 05:36:38 | 204 |      36.231µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=2bcaa9c3-5fcc-49c0-a1fe-de97c73b4185]
+api02-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=2bcaa9c3-5fcc-49c0-a1fe-de97c73b4185, ProcessorID=2]
+api01-1  | 05:36:38 | 204 |       33.28µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=f8380d2a-e90b-430d-9312-41f4d76dd2f0, Amount=20.05]
+api01-1  | 2025/08/21 05:36:38 Worker 9 processing CorrelationID=f8380d2a-e90b-430d-9312-41f4d76dd2f0
+api01-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=f8380d2a-e90b-430d-9312-41f4d76dd2f0]
+api01-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=f8380d2a-e90b-430d-9312-41f4d76dd2f0, ProcessorID=2]
+api02-1  | 05:36:38 | 204 |        29.7µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=bffe9602-ee9f-47f5-b88c-92a0d4d6c0ba, Amount=20.05]
+api02-1  | 2025/08/21 05:36:38 Worker 1 processing CorrelationID=bffe9602-ee9f-47f5-b88c-92a0d4d6c0ba
+api02-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=bffe9602-ee9f-47f5-b88c-92a0d4d6c0ba]
+api02-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=bffe9602-ee9f-47f5-b88c-92a0d4d6c0ba, ProcessorID=2]
+api01-1  | 05:36:38 | 204 |      34.441µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:38 Payment received and queued [CorrelationID=6f899d3f-25a2-4142-8fb8-87b5e4b02dc6, Amount=20.05]
+api01-1  | 2025/08/21 05:36:38 Worker 12 processing CorrelationID=6f899d3f-25a2-4142-8fb8-87b5e4b02dc6
+api01-1  | 2025/08/21 05:36:38 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:38 Payment sent to processor 2 [CorrelationID=6f899d3f-25a2-4142-8fb8-87b5e4b02dc6]
+api01-1  | 2025/08/21 05:36:38 Stored payment in Redis [CorrelationID=6f899d3f-25a2-4142-8fb8-87b5e4b02dc6, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=e9384f31-db80-4d19-be63-e43a0b907a5f, Amount=20.05]
+api02-1  | 05:36:38 | 204 |      66.621µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Worker 2 processing CorrelationID=e9384f31-db80-4d19-be63-e43a0b907a5f
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=e9384f31-db80-4d19-be63-e43a0b907a5f]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=e9384f31-db80-4d19-be63-e43a0b907a5f, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=c766324a-cfb9-44c2-b698-adb35602a785, Amount=20.05]
+api01-1  | 2025/08/21 05:36:39 Worker 14 processing CorrelationID=c766324a-cfb9-44c2-b698-adb35602a785
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api01-1  | 05:36:39 | 204 |       33.74µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=c766324a-cfb9-44c2-b698-adb35602a785]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=c766324a-cfb9-44c2-b698-adb35602a785, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=2fd9a962-58a8-481d-aae0-464e3168c61d, Amount=20.05]
+api02-1  | 2025/08/21 05:36:39 Worker 4 processing CorrelationID=2fd9a962-58a8-481d-aae0-464e3168c61d
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api02-1  | 05:36:38 | 204 |      30.291µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=2fd9a962-58a8-481d-aae0-464e3168c61d]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=2fd9a962-58a8-481d-aae0-464e3168c61d, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=1e989fd6-33d3-46e5-9a96-f3b9117ee640, Amount=20.05]
+api01-1  | 2025/08/21 05:36:39 Worker 8 processing CorrelationID=1e989fd6-33d3-46e5-9a96-f3b9117ee640
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api01-1  | 05:36:39 | 204 |       30.14µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=1e989fd6-33d3-46e5-9a96-f3b9117ee640]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=1e989fd6-33d3-46e5-9a96-f3b9117ee640, ProcessorID=2]
+api02-1  | 05:36:38 | 204 |       29.79µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=8fb992ee-a5e0-4dfb-a10b-536d9e45bc4f, Amount=20.05]
+api02-1  | 2025/08/21 05:36:39 Worker 10 processing CorrelationID=8fb992ee-a5e0-4dfb-a10b-536d9e45bc4f
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=8fb992ee-a5e0-4dfb-a10b-536d9e45bc4f]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=8fb992ee-a5e0-4dfb-a10b-536d9e45bc4f, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=a03ebfad-f881-431a-ba52-af24b06ad883, Amount=20.05]
+api01-1  | 05:36:39 | 204 |      30.651µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Worker 15 processing CorrelationID=a03ebfad-f881-431a-ba52-af24b06ad883
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=a03ebfad-f881-431a-ba52-af24b06ad883]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=a03ebfad-f881-431a-ba52-af24b06ad883, ProcessorID=2]
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=fe0eca93-5e04-47c2-a00a-e092e242f96f, Amount=20.05]
+api02-1  | 2025/08/21 05:36:39 Worker 6 processing CorrelationID=fe0eca93-5e04-47c2-a00a-e092e242f96f
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api02-1  | 05:36:38 | 204 |        30.7µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=fe0eca93-5e04-47c2-a00a-e092e242f96f]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=fe0eca93-5e04-47c2-a00a-e092e242f96f, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=5f3d7bce-a6bd-49f2-9d70-ed30c174a18a, Amount=20.05]
+api01-1  | 2025/08/21 05:36:39 Worker 5 processing CorrelationID=5f3d7bce-a6bd-49f2-9d70-ed30c174a18a
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api01-1  | 05:36:39 | 204 |       28.04µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=5f3d7bce-a6bd-49f2-9d70-ed30c174a18a]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=5f3d7bce-a6bd-49f2-9d70-ed30c174a18a, ProcessorID=2]
+api02-1  | 05:36:38 | 204 |      30.581µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=95cef3e2-b9b0-4e21-b9fe-36a2a08e4d60, Amount=20.05]
+api02-1  | 2025/08/21 05:36:39 Worker 7 processing CorrelationID=95cef3e2-b9b0-4e21-b9fe-36a2a08e4d60
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 2
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 2 [CorrelationID=95cef3e2-b9b0-4e21-b9fe-36a2a08e4d60]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=95cef3e2-b9b0-4e21-b9fe-36a2a08e4d60, ProcessorID=2]
+api01-1  | 2025/08/21 05:36:39 Processor 1 health: failing=false, minResponseTime=0
+api01-1  | 2025/08/21 05:36:39 Processor 2 health: failing=false, minResponseTime=0
+api01-1  | 2025/08/21 05:36:39 Updated best processor to 1 (MinResponseTime=0ms)
+api01-1  | 05:36:39 | 204 |       32.65µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=f41ed5bb-7707-4cce-8543-aebdb97396db, Amount=20.05]
+api01-1  | 2025/08/21 05:36:39 Worker 6 processing CorrelationID=f41ed5bb-7707-4cce-8543-aebdb97396db
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=f41ed5bb-7707-4cce-8543-aebdb97396db]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=f41ed5bb-7707-4cce-8543-aebdb97396db, ProcessorID=1]
+api02-1  | 05:36:39 | 204 |       32.42µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=72a9191a-ab9f-4c32-aa6d-a6331ab5928e, Amount=20.05]
+api02-1  | 2025/08/21 05:36:39 Worker 8 processing CorrelationID=72a9191a-ab9f-4c32-aa6d-a6331ab5928e
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=72a9191a-ab9f-4c32-aa6d-a6331ab5928e]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=72a9191a-ab9f-4c32-aa6d-a6331ab5928e, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=5fd2141f-6f4d-4f25-896b-fcc911492c00, Amount=20.05]
+api01-1  | 2025/08/21 05:36:39 Worker 11 processing CorrelationID=5fd2141f-6f4d-4f25-896b-fcc911492c00
+api01-1  | 05:36:39 | 204 |       28.74µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=5fd2141f-6f4d-4f25-896b-fcc911492c00]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=5fd2141f-6f4d-4f25-896b-fcc911492c00, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=1acf8a74-8da2-4423-b3b6-93a322d10f97, Amount=20.05]
+api02-1  | 2025/08/21 05:36:39 Worker 9 processing CorrelationID=1acf8a74-8da2-4423-b3b6-93a322d10f97
+api02-1  | 05:36:39 | 204 |       54.27µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=1acf8a74-8da2-4423-b3b6-93a322d10f97]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=1acf8a74-8da2-4423-b3b6-93a322d10f97, ProcessorID=1]
+api01-1  | 05:36:39 | 204 |      33.001µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=eb61e927-4c24-45f2-8ab2-9e800efba73a, Amount=20.05]
+api01-1  | 2025/08/21 05:36:39 Worker 0 processing CorrelationID=eb61e927-4c24-45f2-8ab2-9e800efba73a
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=eb61e927-4c24-45f2-8ab2-9e800efba73a]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=eb61e927-4c24-45f2-8ab2-9e800efba73a, ProcessorID=1]
+api02-1  | 05:36:39 | 204 |       30.25µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=f775cb5d-13d1-45f7-ae0f-bccd3331a734, Amount=20.05]
+api02-1  | 2025/08/21 05:36:39 Worker 11 processing CorrelationID=f775cb5d-13d1-45f7-ae0f-bccd3331a734
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=f775cb5d-13d1-45f7-ae0f-bccd3331a734]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=f775cb5d-13d1-45f7-ae0f-bccd3331a734, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=bb86b4ac-071d-4f54-9543-9e5f2b58fd91, Amount=20.05]
+api01-1  | 2025/08/21 05:36:39 Worker 1 processing CorrelationID=bb86b4ac-071d-4f54-9543-9e5f2b58fd91
+api01-1  | 05:36:39 | 204 |       28.09µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=bb86b4ac-071d-4f54-9543-9e5f2b58fd91]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=bb86b4ac-071d-4f54-9543-9e5f2b58fd91, ProcessorID=1]
+api02-1  | 05:36:39 | 204 |      29.791µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=8126677a-0df3-4dba-9996-7d9b4d7dd453, Amount=20.05]
+api02-1  | 2025/08/21 05:36:39 Worker 12 processing CorrelationID=8126677a-0df3-4dba-9996-7d9b4d7dd453
+api02-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=8126677a-0df3-4dba-9996-7d9b4d7dd453]
+api02-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=8126677a-0df3-4dba-9996-7d9b4d7dd453, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:39 Payment received and queued [CorrelationID=48222dcd-1752-43b8-b24e-e633a6a0bd3a, Amount=20.05]
+api01-1  | 2025/08/21 05:36:39 Worker 7 processing CorrelationID=48222dcd-1752-43b8-b24e-e633a6a0bd3a
+api01-1  | 2025/08/21 05:36:39 Best processor selected: 1
+api01-1  | 05:36:39 | 204 |       29.42µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:39 Payment sent to processor 1 [CorrelationID=48222dcd-1752-43b8-b24e-e633a6a0bd3a]
+api01-1  | 2025/08/21 05:36:39 Stored payment in Redis [CorrelationID=48222dcd-1752-43b8-b24e-e633a6a0bd3a, ProcessorID=1]
+api02-1  | 05:36:39 | 204 |      36.981µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=55d45144-3f2c-430e-af3e-8e45c4aa8160, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 13 processing CorrelationID=55d45144-3f2c-430e-af3e-8e45c4aa8160
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=55d45144-3f2c-430e-af3e-8e45c4aa8160]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=55d45144-3f2c-430e-af3e-8e45c4aa8160, ProcessorID=1]
+api01-1  | 05:36:40 | 204 |      33.941µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=7b814e5d-5d3f-4648-8642-311f11fd6194, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 2 processing CorrelationID=7b814e5d-5d3f-4648-8642-311f11fd6194
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=7b814e5d-5d3f-4648-8642-311f11fd6194]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=7b814e5d-5d3f-4648-8642-311f11fd6194, ProcessorID=1]
+api02-1  | 05:36:39 | 204 |      27.401µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=40ae46d9-bc8a-40da-bfd8-d77e44b5048b, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 14 processing CorrelationID=40ae46d9-bc8a-40da-bfd8-d77e44b5048b
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=40ae46d9-bc8a-40da-bfd8-d77e44b5048b]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=40ae46d9-bc8a-40da-bfd8-d77e44b5048b, ProcessorID=1]
+api01-1  | 05:36:40 | 204 |       31.77µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=5b3633bf-c2a6-4462-9e8e-97a2a4fbd3c0, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 3 processing CorrelationID=5b3633bf-c2a6-4462-9e8e-97a2a4fbd3c0
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=5b3633bf-c2a6-4462-9e8e-97a2a4fbd3c0]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=5b3633bf-c2a6-4462-9e8e-97a2a4fbd3c0, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=3e7660ea-3a04-4805-92ec-26cb661424b4, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 15 processing CorrelationID=3e7660ea-3a04-4805-92ec-26cb661424b4
+api02-1  | 05:36:39 | 204 |       30.06µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=3e7660ea-3a04-4805-92ec-26cb661424b4]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=3e7660ea-3a04-4805-92ec-26cb661424b4, ProcessorID=1]
+api01-1  | 05:36:40 | 204 |       28.47µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=0dd2144f-f506-4ce0-92fa-9617b0fee86c, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 4 processing CorrelationID=0dd2144f-f506-4ce0-92fa-9617b0fee86c
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=0dd2144f-f506-4ce0-92fa-9617b0fee86c]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=0dd2144f-f506-4ce0-92fa-9617b0fee86c, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=db21a995-dbe8-4c7a-83e8-765f2bd4dffe, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 3 processing CorrelationID=db21a995-dbe8-4c7a-83e8-765f2bd4dffe
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 05:36:39 | 204 |          22µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=db21a995-dbe8-4c7a-83e8-765f2bd4dffe]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=db21a995-dbe8-4c7a-83e8-765f2bd4dffe, ProcessorID=1]
+api01-1  | 05:36:40 | 204 |      31.941µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=594c2299-a87b-40dd-a42b-d4ac6f8de254, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 10 processing CorrelationID=594c2299-a87b-40dd-a42b-d4ac6f8de254
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=594c2299-a87b-40dd-a42b-d4ac6f8de254]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=594c2299-a87b-40dd-a42b-d4ac6f8de254, ProcessorID=1]
+api02-1  | 05:36:39 | 204 |       28.18µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=05c3f9a2-d91a-455a-a2f2-d0fb6d114b65, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 0 processing CorrelationID=05c3f9a2-d91a-455a-a2f2-d0fb6d114b65
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=05c3f9a2-d91a-455a-a2f2-d0fb6d114b65]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=05c3f9a2-d91a-455a-a2f2-d0fb6d114b65, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=d377421d-9799-49c9-b71c-c42da6938c98, Amount=20.05]
+api01-1  | 05:36:40 | 204 |       28.26µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Worker 13 processing CorrelationID=d377421d-9799-49c9-b71c-c42da6938c98
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=d377421d-9799-49c9-b71c-c42da6938c98]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=d377421d-9799-49c9-b71c-c42da6938c98, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=0b97384a-7d58-4907-93b4-b8125db46b1e, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 5 processing CorrelationID=0b97384a-7d58-4907-93b4-b8125db46b1e
+api02-1  | 05:36:40 | 204 |       34.99µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=0b97384a-7d58-4907-93b4-b8125db46b1e]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=0b97384a-7d58-4907-93b4-b8125db46b1e, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=42254065-0520-4cff-8faa-80d46e8a2c78, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 9 processing CorrelationID=42254065-0520-4cff-8faa-80d46e8a2c78
+api01-1  | 05:36:40 | 204 |      29.311µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=42254065-0520-4cff-8faa-80d46e8a2c78]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=42254065-0520-4cff-8faa-80d46e8a2c78, ProcessorID=1]
+api02-1  | 05:36:40 | 204 |        30.5µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=afa359d1-8645-470d-9322-d27f597041a7, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 1 processing CorrelationID=afa359d1-8645-470d-9322-d27f597041a7
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=afa359d1-8645-470d-9322-d27f597041a7]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=afa359d1-8645-470d-9322-d27f597041a7, ProcessorID=1]
+api01-1  | 05:36:40 | 204 |      28.171µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=973273db-732b-46aa-befd-5c217774465b, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 12 processing CorrelationID=973273db-732b-46aa-befd-5c217774465b
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=973273db-732b-46aa-befd-5c217774465b]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=973273db-732b-46aa-befd-5c217774465b, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=ada987b4-e01e-49dc-8e49-a0f0d5456c52, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 2 processing CorrelationID=ada987b4-e01e-49dc-8e49-a0f0d5456c52
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 05:36:40 | 204 |       29.42µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=ada987b4-e01e-49dc-8e49-a0f0d5456c52]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=ada987b4-e01e-49dc-8e49-a0f0d5456c52, ProcessorID=1]
+api01-1  | 05:36:40 | 204 |       30.38µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=ddc0e77c-2d24-473e-80a5-6c0420367650, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 14 processing CorrelationID=ddc0e77c-2d24-473e-80a5-6c0420367650
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=ddc0e77c-2d24-473e-80a5-6c0420367650]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=ddc0e77c-2d24-473e-80a5-6c0420367650, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=12692413-34b8-4b12-b5eb-3091ab7842fc, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 4 processing CorrelationID=12692413-34b8-4b12-b5eb-3091ab7842fc
+api02-1  | 05:36:40 | 204 |      49.051µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=12692413-34b8-4b12-b5eb-3091ab7842fc]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=12692413-34b8-4b12-b5eb-3091ab7842fc, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=b387fe20-2b10-41f0-a452-4e0973c6a536, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 8 processing CorrelationID=b387fe20-2b10-41f0-a452-4e0973c6a536
+api01-1  | 05:36:40 | 204 |       31.96µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=b387fe20-2b10-41f0-a452-4e0973c6a536]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=b387fe20-2b10-41f0-a452-4e0973c6a536, ProcessorID=1]
+api02-1  | 05:36:40 | 204 |       30.54µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=0381319e-f7ef-48fe-8c5d-235618a87c44, Amount=20.05]
+api02-1  | 2025/08/21 05:36:40 Worker 10 processing CorrelationID=0381319e-f7ef-48fe-8c5d-235618a87c44
+api02-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=0381319e-f7ef-48fe-8c5d-235618a87c44]
+api02-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=0381319e-f7ef-48fe-8c5d-235618a87c44, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:40 Payment received and queued [CorrelationID=61ce8885-3c9f-42cd-9203-f6f78fd15bdc, Amount=20.05]
+api01-1  | 2025/08/21 05:36:40 Worker 15 processing CorrelationID=61ce8885-3c9f-42cd-9203-f6f78fd15bdc
+api01-1  | 05:36:40 | 204 |      31.751µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:40 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:40 Payment sent to processor 1 [CorrelationID=61ce8885-3c9f-42cd-9203-f6f78fd15bdc]
+api01-1  | 2025/08/21 05:36:40 Stored payment in Redis [CorrelationID=61ce8885-3c9f-42cd-9203-f6f78fd15bdc, ProcessorID=1]
+api02-1  | 05:36:40 | 204 |      39.241µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=aa75a380-88f1-468b-a419-c931e43945bc, Amount=20.05]
+api02-1  | 2025/08/21 05:36:41 Worker 6 processing CorrelationID=aa75a380-88f1-468b-a419-c931e43945bc
+api02-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=aa75a380-88f1-468b-a419-c931e43945bc]
+api02-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=aa75a380-88f1-468b-a419-c931e43945bc, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=264b0cf2-a82c-4eae-ab12-9b01cfaf7cfb, Amount=20.05]
+api01-1  | 2025/08/21 05:36:41 Worker 5 processing CorrelationID=264b0cf2-a82c-4eae-ab12-9b01cfaf7cfb
+api01-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api01-1  | 05:36:41 | 204 |       33.56µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=264b0cf2-a82c-4eae-ab12-9b01cfaf7cfb]
+api01-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=264b0cf2-a82c-4eae-ab12-9b01cfaf7cfb, ProcessorID=1]
+api02-1  | 05:36:40 | 204 |      28.771µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=112ae918-5cf8-458b-8758-6654b1c10270, Amount=20.05]
+api02-1  | 2025/08/21 05:36:41 Worker 7 processing CorrelationID=112ae918-5cf8-458b-8758-6654b1c10270
+api02-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=112ae918-5cf8-458b-8758-6654b1c10270]
+api02-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=112ae918-5cf8-458b-8758-6654b1c10270, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=b048cf0e-f8a4-4ed9-8707-35f0dd7f25b1, Amount=20.05]
+api01-1  | 2025/08/21 05:36:41 Worker 6 processing CorrelationID=b048cf0e-f8a4-4ed9-8707-35f0dd7f25b1
+api01-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api01-1  | 05:36:41 | 204 |        28.8µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=b048cf0e-f8a4-4ed9-8707-35f0dd7f25b1]
+api01-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=b048cf0e-f8a4-4ed9-8707-35f0dd7f25b1, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=53043ae1-a74c-4485-bccd-f19d31719023, Amount=20.05]
+api02-1  | 2025/08/21 05:36:41 Worker 8 processing CorrelationID=53043ae1-a74c-4485-bccd-f19d31719023
+api02-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api02-1  | 05:36:40 | 204 |      34.251µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=53043ae1-a74c-4485-bccd-f19d31719023]
+api02-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=53043ae1-a74c-4485-bccd-f19d31719023, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=574f1b0e-a22d-496f-8952-b96262563b71, Amount=20.05]
+api01-1  | 2025/08/21 05:36:41 Worker 11 processing CorrelationID=574f1b0e-a22d-496f-8952-b96262563b71
+api01-1  | 05:36:41 | 204 |       31.61µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=574f1b0e-a22d-496f-8952-b96262563b71]
+api01-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=574f1b0e-a22d-496f-8952-b96262563b71, ProcessorID=1]
+api02-1  | 05:36:40 | 204 |       22.02µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=e9b1e441-60f3-4ddf-81c1-59b52b7c3b1a, Amount=20.05]
+api02-1  | 2025/08/21 05:36:41 Worker 9 processing CorrelationID=e9b1e441-60f3-4ddf-81c1-59b52b7c3b1a
+api02-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=e9b1e441-60f3-4ddf-81c1-59b52b7c3b1a]
+api02-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=e9b1e441-60f3-4ddf-81c1-59b52b7c3b1a, ProcessorID=1]
+api01-1  | 05:36:41 | 204 |       30.72µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=b5fd2c8e-c086-4950-a13a-9c99273076d9, Amount=20.05]
+api01-1  | 2025/08/21 05:36:41 Worker 0 processing CorrelationID=b5fd2c8e-c086-4950-a13a-9c99273076d9
+api01-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=b5fd2c8e-c086-4950-a13a-9c99273076d9]
+api01-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=b5fd2c8e-c086-4950-a13a-9c99273076d9, ProcessorID=1]
+api02-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=c5d90112-74ea-4356-9b10-ce5e2ca9a8be, Amount=20.05]
+api02-1  | 2025/08/21 05:36:41 Worker 11 processing CorrelationID=c5d90112-74ea-4356-9b10-ce5e2ca9a8be
+api02-1  | 05:36:40 | 204 |     231.903µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api01-1  | 05:36:41 | 200 |    1.093044ms | 172.20.0.5 | GET | /payments-summary | -
+api02-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=c5d90112-74ea-4356-9b10-ce5e2ca9a8be]
+api02-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=c5d90112-74ea-4356-9b10-ce5e2ca9a8be, ProcessorID=1]
+api02-1  | 05:36:40 | 204 |       23.05µs | 172.20.0.5 | POST | /payments | -
+api02-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=a07755ff-3055-4548-af48-f83b5d863f9e, Amount=20.05]
+api02-1  | 2025/08/21 05:36:41 Worker 12 processing CorrelationID=a07755ff-3055-4548-af48-f83b5d863f9e
+api02-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api02-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=a07755ff-3055-4548-af48-f83b5d863f9e]
+api02-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=a07755ff-3055-4548-af48-f83b5d863f9e, ProcessorID=1]
+api01-1  | 2025/08/21 05:36:41 Payment received and queued [CorrelationID=878d0fb6-2558-46c0-af48-45a09d938750, Amount=20.05]
+api01-1  | 2025/08/21 05:36:41 Worker 1 processing CorrelationID=878d0fb6-2558-46c0-af48-45a09d938750
+api01-1  | 05:36:41 | 204 |       31.23µs | 172.20.0.5 | POST | /payments | -
+api01-1  | 2025/08/21 05:36:41 Best processor selected: 1
+api01-1  | 2025/08/21 05:36:41 Payment sent to processor 1 [CorrelationID=878d0fb6-2558-46c0-af48-45a09d938750]
+api01-1  | 2025/08/21 05:36:41 Stored payment in Redis [CorrelationID=878d0fb6-2558-46c0-af48-45a09d938750, ProcessorID=1]
+api02-1  | 05:36:41 | 204 |       33.35µs | 172.20.0.5 | POST | /payments | -
+log truncated at line 1000

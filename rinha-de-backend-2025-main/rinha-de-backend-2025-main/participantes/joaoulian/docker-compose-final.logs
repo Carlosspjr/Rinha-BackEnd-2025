@@ -1,0 +1,1001 @@
+
+ api2 Pulling 
+ haproxy Pulling 
+ api1 Pulling 
+ worker1 Pulling 
+ f18232174bc9 Pulling fs layer 
+ acea0ca794e4 Pulling fs layer 
+ 4c98924bf6ad Pulling fs layer 
+ ce30ab7d663a Pulling fs layer 
+ dc14cc120f2e Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ ce30ab7d663a Waiting 
+ dc14cc120f2e Waiting 
+ 4f4fb700ef54 Waiting 
+ f18232174bc9 Downloading [>                                                  ]  36.92kB/3.642MB
+ acea0ca794e4 Downloading [>                                                  ]  3.785kB/294.9kB
+ acea0ca794e4 Downloading [==================================================>]  294.9kB/294.9kB
+ acea0ca794e4 Verifying Checksum 
+ acea0ca794e4 Download complete 
+ f18232174bc9 Downloading [============================>                      ]  2.109MB/3.642MB
+ f18232174bc9 Downloading [=================================================> ]  3.572MB/3.642MB
+ f18232174bc9 Download complete 
+ f18232174bc9 Extracting [>                                                  ]  65.54kB/3.642MB
+ b1badc6e5066 Already exists 
+ 7d0731002e5f Pulling fs layer 
+ e27ae6f53ba4 Pulling fs layer 
+ 9ebb4f79935d Pulling fs layer 
+ 3d741e5a2c15 Pulling fs layer 
+ 16ee7c0dc9b3 Pulling fs layer 
+ fb52e32852c0 Pulling fs layer 
+ 7d0731002e5f Waiting 
+ 2ca90675b748 Pulling fs layer 
+ e27ae6f53ba4 Waiting 
+ 8193b45ac304 Pulling fs layer 
+ 3274acb4da3a Pulling fs layer 
+ 9ebb4f79935d Waiting 
+ 3d741e5a2c15 Waiting 
+ 16ee7c0dc9b3 Waiting 
+ 8193b45ac304 Waiting 
+ fb52e32852c0 Waiting 
+ 3274acb4da3a Waiting 
+ 2ca90675b748 Waiting 
+ 4c98924bf6ad Downloading [==================================================>]     965B/965B
+ 4c98924bf6ad Verifying Checksum 
+ 4c98924bf6ad Download complete 
+ f18232174bc9 Extracting [============================================>      ]  3.277MB/3.642MB
+ f18232174bc9 Extracting [==================================================>]  3.642MB/3.642MB
+ f18232174bc9 Extracting [==================================================>]  3.642MB/3.642MB
+ f18232174bc9 Pull complete 
+ acea0ca794e4 Extracting [=====>                                             ]  32.77kB/294.9kB
+ b1badc6e5066 Already exists 
+ 7d0731002e5f Pulling fs layer 
+ e27ae6f53ba4 Pulling fs layer 
+ 9ebb4f79935d Pulling fs layer 
+ 3d741e5a2c15 Pulling fs layer 
+ 7d0731002e5f Waiting 
+ 16ee7c0dc9b3 Pulling fs layer 
+ fb52e32852c0 Pulling fs layer 
+ 2ca90675b748 Pulling fs layer 
+ 8193b45ac304 Pulling fs layer 
+ 3274acb4da3a Pulling fs layer 
+ 3274acb4da3a Waiting 
+ e27ae6f53ba4 Waiting 
+ 9ebb4f79935d Waiting 
+ 3d741e5a2c15 Waiting 
+ 16ee7c0dc9b3 Waiting 
+ fb52e32852c0 Waiting 
+ 2ca90675b748 Waiting 
+ 8193b45ac304 Waiting 
+ acea0ca794e4 Extracting [==================================================>]  294.9kB/294.9kB
+ acea0ca794e4 Extracting [==================================================>]  294.9kB/294.9kB
+ acea0ca794e4 Pull complete 
+ 4c98924bf6ad Extracting [==================================================>]     965B/965B
+ 4c98924bf6ad Extracting [==================================================>]     965B/965B
+ 4c98924bf6ad Pull complete 
+ ce30ab7d663a Downloading [>                                                  ]   90.3kB/8.742MB
+ dc14cc120f2e Downloading [==================================================>]     447B/447B
+ dc14cc120f2e Verifying Checksum 
+ dc14cc120f2e Download complete 
+ b1badc6e5066 Already exists 
+ 7d0731002e5f Pulling fs layer 
+ e27ae6f53ba4 Pulling fs layer 
+ 9ebb4f79935d Pulling fs layer 
+ 3d741e5a2c15 Pulling fs layer 
+ 16ee7c0dc9b3 Pulling fs layer 
+ fb52e32852c0 Pulling fs layer 
+ 2ca90675b748 Pulling fs layer 
+ 8193b45ac304 Pulling fs layer 
+ 3274acb4da3a Pulling fs layer 
+ 3274acb4da3a Waiting 
+ 16ee7c0dc9b3 Waiting 
+ fb52e32852c0 Waiting 
+ 2ca90675b748 Waiting 
+ 8193b45ac304 Waiting 
+ e27ae6f53ba4 Waiting 
+ 7d0731002e5f Waiting 
+ 9ebb4f79935d Waiting 
+ 3d741e5a2c15 Waiting 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ ce30ab7d663a Downloading [===========>                                       ]   1.95MB/8.742MB
+ ce30ab7d663a Downloading [=====================>                             ]  3.703MB/8.742MB
+ ce30ab7d663a Downloading [=========================================>         ]  7.217MB/8.742MB
+ ce30ab7d663a Verifying Checksum 
+ ce30ab7d663a Download complete 
+ ce30ab7d663a Extracting [>                                                  ]   98.3kB/8.742MB
+ ce30ab7d663a Extracting [=========================================>         ]  7.274MB/8.742MB
+ ce30ab7d663a Extracting [==================================================>]  8.742MB/8.742MB
+ ce30ab7d663a Extracting [==================================================>]  8.742MB/8.742MB
+ e27ae6f53ba4 Downloading [>                                                  ]  489.9kB/48.97MB
+ e27ae6f53ba4 Downloading [>                                                  ]  489.9kB/48.97MB
+ e27ae6f53ba4 Downloading [>                                                  ]  489.9kB/48.97MB
+ ce30ab7d663a Pull complete 
+ dc14cc120f2e Extracting [==================================================>]     447B/447B
+ dc14cc120f2e Extracting [==================================================>]     447B/447B
+ dc14cc120f2e Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ e27ae6f53ba4 Downloading [========>                                          ]  7.945MB/48.97MB
+ e27ae6f53ba4 Downloading [========>                                          ]  7.945MB/48.97MB
+ e27ae6f53ba4 Downloading [========>                                          ]  7.945MB/48.97MB
+ haproxy Pulled 
+ e27ae6f53ba4 Downloading [===============>                                   ]  15.37MB/48.97MB
+ e27ae6f53ba4 Downloading [===============>                                   ]  15.37MB/48.97MB
+ e27ae6f53ba4 Downloading [===============>                                   ]  15.37MB/48.97MB
+ 7d0731002e5f Downloading [====================>                              ]  1.369kB/3.313kB
+ 7d0731002e5f Downloading [====================>                              ]  1.369kB/3.313kB
+ 7d0731002e5f Downloading [====================>                              ]  1.369kB/3.313kB
+ 7d0731002e5f Downloading [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Downloading [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Download complete 
+ 7d0731002e5f Downloading [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Verifying Checksum 
+ 7d0731002e5f Download complete 
+ 7d0731002e5f Verifying Checksum 
+ 7d0731002e5f Download complete 
+ 7d0731002e5f Extracting [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Extracting [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Extracting [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Extracting [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Extracting [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Extracting [==================================================>]  3.313kB/3.313kB
+ 7d0731002e5f Pull complete 
+ 7d0731002e5f Pull complete 
+ 7d0731002e5f Pull complete 
+ 9ebb4f79935d Downloading [>                                                  ]  17.36kB/1.713MB
+ 9ebb4f79935d Downloading [>                                                  ]  17.36kB/1.713MB
+ 9ebb4f79935d Downloading [>                                                  ]  17.36kB/1.713MB
+ 9ebb4f79935d Verifying Checksum 
+ 9ebb4f79935d Download complete 
+ 9ebb4f79935d Verifying Checksum 
+ 9ebb4f79935d Download complete 
+ 9ebb4f79935d Download complete 
+ e27ae6f53ba4 Downloading [===================>                               ]  18.85MB/48.97MB
+ e27ae6f53ba4 Downloading [===================>                               ]  18.85MB/48.97MB
+ e27ae6f53ba4 Downloading [===================>                               ]  18.85MB/48.97MB
+ e27ae6f53ba4 Downloading [==========================>                        ]  25.84MB/48.97MB
+ e27ae6f53ba4 Downloading [==========================>                        ]  25.84MB/48.97MB
+ e27ae6f53ba4 Downloading [==========================>                        ]  25.84MB/48.97MB
+ e27ae6f53ba4 Downloading [==================================>                ]   33.8MB/48.97MB
+ e27ae6f53ba4 Downloading [==================================>                ]   33.8MB/48.97MB
+ e27ae6f53ba4 Downloading [==================================>                ]   33.8MB/48.97MB
+ e27ae6f53ba4 Downloading [======================================>            ]  37.75MB/48.97MB
+ e27ae6f53ba4 Downloading [======================================>            ]  37.75MB/48.97MB
+ e27ae6f53ba4 Downloading [======================================>            ]  37.75MB/48.97MB
+ 3d741e5a2c15 Download complete 
+ 3d741e5a2c15 Download complete 
+ 3d741e5a2c15 Download complete 
+ 16ee7c0dc9b3 Downloading [==================================================>]      93B/93B
+ 16ee7c0dc9b3 Download complete 
+ 16ee7c0dc9b3 Verifying Checksum 
+ 16ee7c0dc9b3 Download complete 
+ 16ee7c0dc9b3 Verifying Checksum 
+ 16ee7c0dc9b3 Download complete 
+ e27ae6f53ba4 Download complete 
+ e27ae6f53ba4 Verifying Checksum 
+ e27ae6f53ba4 Download complete 
+ e27ae6f53ba4 Downloading [==================================================>]  48.97MB/48.97MB
+ e27ae6f53ba4 Download complete 
+ e27ae6f53ba4 Extracting [>                                                  ]  491.5kB/48.97MB
+ e27ae6f53ba4 Extracting [>                                                  ]  491.5kB/48.97MB
+ e27ae6f53ba4 Extracting [>                                                  ]  491.5kB/48.97MB
+ e27ae6f53ba4 Extracting [========>                                          ]  8.356MB/48.97MB
+ e27ae6f53ba4 Extracting [========>                                          ]  8.356MB/48.97MB
+ e27ae6f53ba4 Extracting [========>                                          ]  8.356MB/48.97MB
+ e27ae6f53ba4 Extracting [=================>                                 ]  16.71MB/48.97MB
+ e27ae6f53ba4 Extracting [=================>                                 ]  16.71MB/48.97MB
+ e27ae6f53ba4 Extracting [=================>                                 ]  16.71MB/48.97MB
+ e27ae6f53ba4 Extracting [========================>                          ]  24.08MB/48.97MB
+ e27ae6f53ba4 Extracting [========================>                          ]  24.08MB/48.97MB
+ e27ae6f53ba4 Extracting [========================>                          ]  24.08MB/48.97MB
+ 2ca90675b748 Downloading [>                                                  ]  495.1kB/48.69MB
+ 8193b45ac304 Downloading [==================================================>]     679B/679B
+ 8193b45ac304 Downloading [==================================================>]     679B/679B
+ 8193b45ac304 Downloading [==================================================>]     679B/679B
+ 2ca90675b748 Downloading [>                                                  ]  495.1kB/48.69MB
+ 8193b45ac304 Verifying Checksum 
+ 8193b45ac304 Verifying Checksum 
+ 8193b45ac304 Download complete 
+ 2ca90675b748 Downloading [>                                                  ]  495.1kB/48.69MB
+ 8193b45ac304 Verifying Checksum 
+ 8193b45ac304 Download complete 
+ 8193b45ac304 Download complete 
+ e27ae6f53ba4 Extracting [==================================>                ]  33.91MB/48.97MB
+ e27ae6f53ba4 Extracting [==================================>                ]  33.91MB/48.97MB
+ e27ae6f53ba4 Extracting [==================================>                ]  33.91MB/48.97MB
+ 2ca90675b748 Downloading [=============>                                     ]  13.37MB/48.69MB
+ 2ca90675b748 Downloading [=============>                                     ]  13.37MB/48.69MB
+ 2ca90675b748 Downloading [=============>                                     ]  13.37MB/48.69MB
+ e27ae6f53ba4 Extracting [==========================================>        ]  41.29MB/48.97MB
+ e27ae6f53ba4 Extracting [==========================================>        ]  41.29MB/48.97MB
+ e27ae6f53ba4 Extracting [==========================================>        ]  41.29MB/48.97MB
+ 2ca90675b748 Downloading [==============================>                    ]  30.12MB/48.69MB
+ 2ca90675b748 Downloading [==============================>                    ]  30.12MB/48.69MB
+ 2ca90675b748 Downloading [==============================>                    ]  30.12MB/48.69MB
+ e27ae6f53ba4 Extracting [==============================================>    ]  45.22MB/48.97MB
+ e27ae6f53ba4 Extracting [==============================================>    ]  45.22MB/48.97MB
+ e27ae6f53ba4 Extracting [==============================================>    ]  45.22MB/48.97MB
+ 2ca90675b748 Downloading [=============================================>     ]  44.39MB/48.69MB
+ 2ca90675b748 Downloading [=============================================>     ]  44.39MB/48.69MB
+ 2ca90675b748 Downloading [=============================================>     ]  44.39MB/48.69MB
+ 2ca90675b748 Download complete 
+ 2ca90675b748 Verifying Checksum 
+ 2ca90675b748 Download complete 
+ 2ca90675b748 Verifying Checksum 
+ 2ca90675b748 Download complete 
+ fb52e32852c0 Downloading [===>                                               ]  1.008kB/15.77kB
+ fb52e32852c0 Downloading [===>                                               ]  1.008kB/15.77kB
+ fb52e32852c0 Downloading [===>                                               ]  1.008kB/15.77kB
+ fb52e32852c0 Downloading [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Verifying Checksum 
+ fb52e32852c0 Download complete 
+ fb52e32852c0 Downloading [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Verifying Checksum 
+ fb52e32852c0 Downloading [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Verifying Checksum 
+ fb52e32852c0 Download complete 
+ fb52e32852c0 Download complete 
+ 3274acb4da3a Download complete 
+ 3274acb4da3a Downloading [==================================================>]      96B/96B
+ 3274acb4da3a Download complete 
+ 3274acb4da3a Downloading [==================================================>]      96B/96B
+ 3274acb4da3a Download complete 
+ e27ae6f53ba4 Extracting [===============================================>   ]   46.2MB/48.97MB
+ e27ae6f53ba4 Extracting [===============================================>   ]   46.2MB/48.97MB
+ e27ae6f53ba4 Extracting [===============================================>   ]   46.2MB/48.97MB
+ e27ae6f53ba4 Extracting [===============================================>   ]  46.69MB/48.97MB
+ e27ae6f53ba4 Extracting [===============================================>   ]  46.69MB/48.97MB
+ e27ae6f53ba4 Extracting [===============================================>   ]  46.69MB/48.97MB
+ e27ae6f53ba4 Extracting [================================================>  ]  47.19MB/48.97MB
+ e27ae6f53ba4 Extracting [================================================>  ]  47.19MB/48.97MB
+ e27ae6f53ba4 Extracting [================================================>  ]  47.19MB/48.97MB
+ e27ae6f53ba4 Extracting [=================================================> ]  48.17MB/48.97MB
+ e27ae6f53ba4 Extracting [=================================================> ]  48.17MB/48.97MB
+ e27ae6f53ba4 Extracting [=================================================> ]  48.17MB/48.97MB
+ e27ae6f53ba4 Extracting [=================================================> ]  48.66MB/48.97MB
+ e27ae6f53ba4 Extracting [=================================================> ]  48.66MB/48.97MB
+ e27ae6f53ba4 Extracting [=================================================> ]  48.66MB/48.97MB
+ e27ae6f53ba4 Extracting [==================================================>]  48.97MB/48.97MB
+ e27ae6f53ba4 Extracting [==================================================>]  48.97MB/48.97MB
+ e27ae6f53ba4 Extracting [==================================================>]  48.97MB/48.97MB
+ e27ae6f53ba4 Pull complete 
+ e27ae6f53ba4 Pull complete 
+ e27ae6f53ba4 Pull complete 
+ 9ebb4f79935d Extracting [>                                                  ]  32.77kB/1.713MB
+ 9ebb4f79935d Extracting [>                                                  ]  32.77kB/1.713MB
+ 9ebb4f79935d Extracting [>                                                  ]  32.77kB/1.713MB
+ 9ebb4f79935d Extracting [==================================================>]  1.713MB/1.713MB
+ 9ebb4f79935d Extracting [==================================================>]  1.713MB/1.713MB
+ 9ebb4f79935d Extracting [==================================================>]  1.713MB/1.713MB
+ 9ebb4f79935d Pull complete 
+ 9ebb4f79935d Pull complete 
+ 9ebb4f79935d Pull complete 
+ 3d741e5a2c15 Extracting [==================================================>]     446B/446B
+ 3d741e5a2c15 Extracting [==================================================>]     446B/446B
+ 3d741e5a2c15 Extracting [==================================================>]     446B/446B
+ 3d741e5a2c15 Extracting [==================================================>]     446B/446B
+ 3d741e5a2c15 Extracting [==================================================>]     446B/446B
+ 3d741e5a2c15 Extracting [==================================================>]     446B/446B
+ 3d741e5a2c15 Pull complete 
+ 3d741e5a2c15 Pull complete 
+ 3d741e5a2c15 Pull complete 
+ 16ee7c0dc9b3 Extracting [==================================================>]      93B/93B
+ 16ee7c0dc9b3 Extracting [==================================================>]      93B/93B
+ 16ee7c0dc9b3 Extracting [==================================================>]      93B/93B
+ 16ee7c0dc9b3 Extracting [==================================================>]      93B/93B
+ 16ee7c0dc9b3 Extracting [==================================================>]      93B/93B
+ 16ee7c0dc9b3 Extracting [==================================================>]      93B/93B
+ 16ee7c0dc9b3 Pull complete 
+ 16ee7c0dc9b3 Pull complete 
+ 16ee7c0dc9b3 Pull complete 
+ fb52e32852c0 Extracting [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Extracting [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Extracting [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Extracting [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Extracting [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Extracting [==================================================>]  15.77kB/15.77kB
+ fb52e32852c0 Pull complete 
+ fb52e32852c0 Pull complete 
+ fb52e32852c0 Pull complete 
+ 2ca90675b748 Extracting [>                                                  ]  491.5kB/48.69MB
+ 2ca90675b748 Extracting [>                                                  ]  491.5kB/48.69MB
+ 2ca90675b748 Extracting [>                                                  ]  491.5kB/48.69MB
+ 2ca90675b748 Extracting [=>                                                 ]    983kB/48.69MB
+ 2ca90675b748 Extracting [=>                                                 ]    983kB/48.69MB
+ 2ca90675b748 Extracting [=>                                                 ]    983kB/48.69MB
+ 2ca90675b748 Extracting [==>                                                ]  1.966MB/48.69MB
+ 2ca90675b748 Extracting [==>                                                ]  1.966MB/48.69MB
+ 2ca90675b748 Extracting [==>                                                ]  1.966MB/48.69MB
+ 2ca90675b748 Extracting [==========>                                        ]   9.83MB/48.69MB
+ 2ca90675b748 Extracting [==========>                                        ]   9.83MB/48.69MB
+ 2ca90675b748 Extracting [==========>                                        ]   9.83MB/48.69MB
+ 2ca90675b748 Extracting [==================>                                ]  17.69MB/48.69MB
+ 2ca90675b748 Extracting [==================>                                ]  17.69MB/48.69MB
+ 2ca90675b748 Extracting [==================>                                ]  17.69MB/48.69MB
+ 2ca90675b748 Extracting [==========================>                        ]  26.05MB/48.69MB
+ 2ca90675b748 Extracting [==========================>                        ]  26.05MB/48.69MB
+ 2ca90675b748 Extracting [==========================>                        ]  26.05MB/48.69MB
+ 2ca90675b748 Extracting [=================================>                 ]  32.93MB/48.69MB
+ 2ca90675b748 Extracting [=================================>                 ]  32.93MB/48.69MB
+ 2ca90675b748 Extracting [=================================>                 ]  32.93MB/48.69MB
+ 2ca90675b748 Extracting [==================================>                ]  33.42MB/48.69MB
+ 2ca90675b748 Extracting [==================================>                ]  33.42MB/48.69MB
+ 2ca90675b748 Extracting [==================================>                ]  33.42MB/48.69MB
+ 2ca90675b748 Extracting [==================================>                ]  33.91MB/48.69MB
+ 2ca90675b748 Extracting [==================================>                ]  33.91MB/48.69MB
+ 2ca90675b748 Extracting [==================================>                ]  33.91MB/48.69MB
+ 2ca90675b748 Extracting [===================================>               ]  34.41MB/48.69MB
+ 2ca90675b748 Extracting [===================================>               ]  34.41MB/48.69MB
+ 2ca90675b748 Extracting [===================================>               ]  34.41MB/48.69MB
+ 2ca90675b748 Extracting [====================================>              ]  35.39MB/48.69MB
+ 2ca90675b748 Extracting [====================================>              ]  35.39MB/48.69MB
+ 2ca90675b748 Extracting [====================================>              ]  35.39MB/48.69MB
+ 2ca90675b748 Extracting [====================================>              ]  35.88MB/48.69MB
+ 2ca90675b748 Extracting [====================================>              ]  35.88MB/48.69MB
+ 2ca90675b748 Extracting [====================================>              ]  35.88MB/48.69MB
+ 2ca90675b748 Extracting [=====================================>             ]  36.37MB/48.69MB
+ 2ca90675b748 Extracting [=====================================>             ]  36.37MB/48.69MB
+ 2ca90675b748 Extracting [=====================================>             ]  36.37MB/48.69MB
+ 2ca90675b748 Extracting [=====================================>             ]  36.86MB/48.69MB
+ 2ca90675b748 Extracting [=====================================>             ]  36.86MB/48.69MB
+ 2ca90675b748 Extracting [=====================================>             ]  36.86MB/48.69MB
+ 2ca90675b748 Extracting [======================================>            ]  37.36MB/48.69MB
+ 2ca90675b748 Extracting [======================================>            ]  37.36MB/48.69MB
+ 2ca90675b748 Extracting [======================================>            ]  37.36MB/48.69MB
+ 2ca90675b748 Extracting [======================================>            ]  37.85MB/48.69MB
+ 2ca90675b748 Extracting [======================================>            ]  37.85MB/48.69MB
+ 2ca90675b748 Extracting [======================================>            ]  37.85MB/48.69MB
+ 2ca90675b748 Extracting [=======================================>           ]  38.34MB/48.69MB
+ 2ca90675b748 Extracting [=======================================>           ]  38.34MB/48.69MB
+ 2ca90675b748 Extracting [=======================================>           ]  38.34MB/48.69MB
+ 2ca90675b748 Extracting [=======================================>           ]  38.83MB/48.69MB
+ 2ca90675b748 Extracting [=======================================>           ]  38.83MB/48.69MB
+ 2ca90675b748 Extracting [=======================================>           ]  38.83MB/48.69MB
+ 2ca90675b748 Extracting [========================================>          ]  39.32MB/48.69MB
+ 2ca90675b748 Extracting [========================================>          ]  39.32MB/48.69MB
+ 2ca90675b748 Extracting [========================================>          ]  39.32MB/48.69MB
+ 2ca90675b748 Extracting [========================================>          ]  39.81MB/48.69MB
+ 2ca90675b748 Extracting [========================================>          ]  39.81MB/48.69MB
+ 2ca90675b748 Extracting [========================================>          ]  39.81MB/48.69MB
+ 2ca90675b748 Extracting [==========================================>        ]  41.29MB/48.69MB
+ 2ca90675b748 Extracting [==========================================>        ]  41.29MB/48.69MB
+ 2ca90675b748 Extracting [==========================================>        ]  41.29MB/48.69MB
+ 2ca90675b748 Extracting [==========================================>        ]  41.78MB/48.69MB
+ 2ca90675b748 Extracting [==========================================>        ]  41.78MB/48.69MB
+ 2ca90675b748 Extracting [==========================================>        ]  41.78MB/48.69MB
+ 2ca90675b748 Extracting [===========================================>       ]  42.27MB/48.69MB
+ 2ca90675b748 Extracting [===========================================>       ]  42.27MB/48.69MB
+ 2ca90675b748 Extracting [===========================================>       ]  42.27MB/48.69MB
+ 2ca90675b748 Extracting [===========================================>       ]  42.76MB/48.69MB
+ 2ca90675b748 Extracting [===========================================>       ]  42.76MB/48.69MB
+ 2ca90675b748 Extracting [===========================================>       ]  42.76MB/48.69MB
+ 2ca90675b748 Extracting [=============================================>     ]  44.24MB/48.69MB
+ 2ca90675b748 Extracting [=============================================>     ]  44.24MB/48.69MB
+ 2ca90675b748 Extracting [=============================================>     ]  44.24MB/48.69MB
+ 2ca90675b748 Extracting [================================================>  ]  47.68MB/48.69MB
+ 2ca90675b748 Extracting [================================================>  ]  47.68MB/48.69MB
+ 2ca90675b748 Extracting [================================================>  ]  47.68MB/48.69MB
+ 2ca90675b748 Extracting [=================================================> ]  48.17MB/48.69MB
+ 2ca90675b748 Extracting [=================================================> ]  48.17MB/48.69MB
+ 2ca90675b748 Extracting [=================================================> ]  48.17MB/48.69MB
+ 2ca90675b748 Extracting [=================================================> ]  48.66MB/48.69MB
+ 2ca90675b748 Extracting [=================================================> ]  48.66MB/48.69MB
+ 2ca90675b748 Extracting [=================================================> ]  48.66MB/48.69MB
+ 2ca90675b748 Extracting [==================================================>]  48.69MB/48.69MB
+ 2ca90675b748 Extracting [==================================================>]  48.69MB/48.69MB
+ 2ca90675b748 Extracting [==================================================>]  48.69MB/48.69MB
+ 2ca90675b748 Pull complete 
+ 2ca90675b748 Pull complete 
+ 2ca90675b748 Pull complete 
+ 8193b45ac304 Extracting [==================================================>]     679B/679B
+ 8193b45ac304 Extracting [==================================================>]     679B/679B
+ 8193b45ac304 Extracting [==================================================>]     679B/679B
+ 8193b45ac304 Extracting [==================================================>]     679B/679B
+ 8193b45ac304 Extracting [==================================================>]     679B/679B
+ 8193b45ac304 Extracting [==================================================>]     679B/679B
+ 8193b45ac304 Pull complete 
+ 8193b45ac304 Pull complete 
+ 8193b45ac304 Pull complete 
+ 3274acb4da3a Extracting [==================================================>]      96B/96B
+ 3274acb4da3a Extracting [==================================================>]      96B/96B
+ 3274acb4da3a Extracting [==================================================>]      96B/96B
+ 3274acb4da3a Extracting [==================================================>]      96B/96B
+ 3274acb4da3a Extracting [==================================================>]      96B/96B
+ 3274acb4da3a Extracting [==================================================>]      96B/96B
+ 3274acb4da3a Pull complete 
+ 3274acb4da3a Pull complete 
+ 3274acb4da3a Pull complete 
+ api1 Pulled 
+ worker1 Pulled 
+ api2 Pulled 
+ Network joaoulian_backend  Creating
+ Network joaoulian_backend  Created
+ Volume "joaoulian_redis_data"  Creating
+ Volume "joaoulian_redis_data"  Created
+ Container joaoulian-cache-1  Creating
+ Container joaoulian-cache-1  Created
+ Container joaoulian-api1-1  Creating
+ Container joaoulian-worker1-1  Creating
+ Container joaoulian-api2-1  Creating
+ Container joaoulian-worker1-1  Created
+ Container joaoulian-api2-1  Created
+ Container joaoulian-api1-1  Created
+ Container joaoulian-haproxy-1  Creating
+ Container joaoulian-haproxy-1  Created
+Attaching to api1-1, api2-1, cache-1, haproxy-1, worker1-1
+cache-1  | 1:C 21 Aug 2025 02:37:51.112 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+cache-1  | 1:C 21 Aug 2025 02:37:51.112 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+cache-1  | 1:C 21 Aug 2025 02:37:51.112 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+cache-1  | 1:C 21 Aug 2025 02:37:51.112 * Configuration loaded
+cache-1  | 1:M 21 Aug 2025 02:37:51.112 * monotonic clock: POSIX clock_gettime
+cache-1  | 1:M 21 Aug 2025 02:37:51.113 * Running mode=standalone, port=6379.
+cache-1  | 1:M 21 Aug 2025 02:37:51.113 * Server initialized
+cache-1  | 1:M 21 Aug 2025 02:37:51.119 * Creating AOF base file appendonly.aof.1.base.rdb on server start
+cache-1  | 1:M 21 Aug 2025 02:37:51.125 * Creating AOF incr file appendonly.aof.1.incr.aof on server start
+cache-1  | 1:M 21 Aug 2025 02:37:51.125 * Ready to accept connections tcp
+worker1-1  | [dotenv@17.2.1] injecting env (0) from .env -- tip: 📡 auto-backup env with Radar: https://dotenvx.com/radar
+haproxy-1  | [NOTICE]   (1) : New worker (9) forked
+haproxy-1  | [NOTICE]   (1) : Loading success.
+haproxy-1  | [WARNING]  (9) : Server backend_payments/api1 is DOWN, reason: Layer4 connection problem, info: "Connection refused", check duration: 0ms. 1 active and 0 backup servers left. 0 sessions active, 0 requeued, 0 remaining in queue.
+worker1-1  | [02:37:52 UTC] [32mINFO[39m: [36mRegistering Redis plugin...[39m
+worker1-1  | [02:37:52 UTC] [32mINFO[39m: [36mRedis plugin registered successfully[39m
+worker1-1  | [02:37:52 UTC] [32mINFO[39m: [36mRegistering DI Container plugin...[39m
+worker1-1  | [02:37:52 UTC] [32mINFO[39m: [36mDI Container plugin registered successfully[39m
+worker1-1  | [02:37:52 UTC] [32mINFO[39m: [36mConnected to Redis[39m
+api1-1     | [dotenv@17.2.1] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+api2-1     | [dotenv@17.2.1] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+haproxy-1  | [WARNING]  (9) : Server backend_payments/api2 is DOWN, reason: Layer4 connection problem, info: "Connection refused", check duration: 0ms. 0 active and 0 backup servers left. 0 sessions active, 0 requeued, 0 remaining in queue.
+haproxy-1  | [ALERT]    (9) : backend 'backend_payments' has no server available!
+worker1-1  | [02:37:52 UTC] [32mINFO[39m: [36mQueue created[39m
+haproxy-1  | [WARNING]  (9) : Server backend_payments/api1 is UP, reason: Layer4 check passed, check duration: 0ms. 1 active and 0 backup servers online. 0 sessions requeued, 0 total in queue.
+haproxy-1  | [WARNING]  (9) : Server backend_payments/api2 is UP, reason: Layer4 check passed, check duration: 0ms. 2 active and 0 backup servers online. 0 sessions requeued, 0 total in queue.
+api2-1     | {"level":50,"time":1755743882129,"pid":1,"hostname":"api2","reqId":"req-1","err":{"type":"FastifyError","message":"Body cannot be empty when content-type is set to 'application/json'","stack":"FastifyError: Body cannot be empty when content-type is set to 'application/json'\n    at Parser.defaultJsonParser [as fn] (/app/node_modules/.pnpm/fastify@4.29.1/node_modules/fastify/lib/contentTypeParser.js:295:19)\n    at IncomingMessage.onEnd (/app/node_modules/.pnpm/fastify@4.29.1/node_modules/fastify/lib/contentTypeParser.js:283:27)\n    at IncomingMessage.emit (node:events:518:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","code":"FST_ERR_CTP_EMPTY_JSON_BODY","name":"FastifyError","statusCode":400},"message":"Body cannot be empty when content-type is set to 'application/json'"}
+worker1-1  | [02:38:02 UTC] [32mINFO[39m: [36mQueue created[39m
+worker1-1  | [02:38:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743882579 Processing bulk payment job 1 with batchId batch-1755743882575-oq0085zd0 containing 1 payments. Host: default[39m
+worker1-1  | [02:38:03 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743883076 Processing bulk payment job 2 with batchId batch-1755743883074-9isbjrf66 containing 1 payments. Host: default[39m
+worker1-1  | [02:38:03 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743883577 Processing bulk payment job 3 with batchId batch-1755743883575-wa7k8r6jd containing 2 payments. Host: default[39m
+worker1-1  | [02:38:04 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743884076 Processing bulk payment job 4 with batchId batch-1755743884075-9o2udgz3s containing 2 payments. Host: default[39m
+worker1-1  | [02:38:04 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743884577 Processing bulk payment job 5 with batchId batch-1755743884575-62wh308r5 containing 3 payments. Host: default[39m
+worker1-1  | [02:38:05 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743885077 Processing bulk payment job 6 with batchId batch-1755743885076-s62n13wlz containing 3 payments. Host: default[39m
+worker1-1  | [02:38:05 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743885580 Processing bulk payment job 7 with batchId batch-1755743885577-x5naztmd3 containing 4 payments. Host: default[39m
+worker1-1  | [02:38:06 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743886078 Processing bulk payment job 8 with batchId batch-1755743886077-mv99vocto containing 4 payments. Host: default[39m
+worker1-1  | [02:38:06 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743886581 Processing bulk payment job 9 with batchId batch-1755743886578-7wssdz0vu containing 5 payments. Host: default[39m
+worker1-1  | [02:38:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743887080 Processing bulk payment job 10 with batchId batch-1755743887078-12o690bma containing 5 payments. Host: default[39m
+worker1-1  | [02:38:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743887582 Processing bulk payment job 11 with batchId batch-1755743887578-um611s2qo containing 6 payments. Host: default[39m
+worker1-1  | [02:38:08 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743888081 Processing bulk payment job 12 with batchId batch-1755743888079-ygf3e13be containing 6 payments. Host: default[39m
+worker1-1  | [02:38:08 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743888583 Processing bulk payment job 13 with batchId batch-1755743888580-91xlwt59l containing 7 payments. Host: default[39m
+worker1-1  | [02:38:09 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743889083 Processing bulk payment job 14 with batchId batch-1755743889081-6pgtoi43s containing 7 payments. Host: default[39m
+worker1-1  | [02:38:09 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743889584 Processing bulk payment job 15 with batchId batch-1755743889581-90vb3wwah containing 8 payments. Host: default[39m
+worker1-1  | [02:38:10 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743890083 Processing bulk payment job 16 with batchId batch-1755743890081-w30gf9i15 containing 8 payments. Host: default[39m
+worker1-1  | [02:38:10 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743890585 Processing bulk payment job 17 with batchId batch-1755743890582-316e4k7wi containing 9 payments. Host: default[39m
+worker1-1  | [02:38:11 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743891084 Processing bulk payment job 18 with batchId batch-1755743891083-6as8vc8ez containing 9 payments. Host: default[39m
+worker1-1  | [02:38:11 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743891585 Processing bulk payment job 19 with batchId batch-1755743891583-b36hdwk8b containing 10 payments. Host: default[39m
+worker1-1  | [02:38:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743892085 Processing bulk payment job 20 with batchId batch-1755743892084-87y92iajy containing 10 payments. Host: default[39m
+worker1-1  | [02:38:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743892586 Processing bulk payment job 21 with batchId batch-1755743892584-w1g4jnkqf containing 11 payments. Host: default[39m
+worker1-1  | [02:38:13 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743893086 Processing bulk payment job 22 with batchId batch-1755743893085-euedon3ff containing 11 payments. Host: default[39m
+worker1-1  | [02:38:13 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743893587 Processing bulk payment job 23 with batchId batch-1755743893585-vwgi0kic7 containing 12 payments. Host: default[39m
+worker1-1  | [02:38:14 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743894087 Processing bulk payment job 24 with batchId batch-1755743894086-7ffm9jsw4 containing 12 payments. Host: default[39m
+worker1-1  | [02:38:14 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743894590 Processing bulk payment job 25 with batchId batch-1755743894587-0ehqy8nug containing 13 payments. Host: default[39m
+worker1-1  | [02:38:15 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743895089 Processing bulk payment job 26 with batchId batch-1755743895087-uni7m2w36 containing 13 payments. Host: default[39m
+worker1-1  | [02:38:15 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743895591 Processing bulk payment job 27 with batchId batch-1755743895588-hzwv01ram containing 14 payments. Host: default[39m
+worker1-1  | [02:38:16 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743896090 Processing bulk payment job 28 with batchId batch-1755743896089-agllgyzlz containing 14 payments. Host: default[39m
+worker1-1  | [02:38:16 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743896591 Processing bulk payment job 29 with batchId batch-1755743896589-br006vn5a containing 16 payments. Host: default[39m
+worker1-1  | [02:38:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743897092 Processing bulk payment job 30 with batchId batch-1755743897090-yz4cva9sm containing 15 payments. Host: default[39m
+worker1-1  | [02:38:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743897592 Processing bulk payment job 31 with batchId batch-1755743897590-lt4vhq409 containing 16 payments. Host: default[39m
+worker1-1  | [02:38:18 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743898092 Processing bulk payment job 32 with batchId batch-1755743898090-t3fq7bvo5 containing 17 payments. Host: default[39m
+worker1-1  | [02:38:18 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743898593 Processing bulk payment job 33 with batchId batch-1755743898591-l7cxryi46 containing 17 payments. Host: default[39m
+worker1-1  | [02:38:19 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743899095 Processing bulk payment job 34 with batchId batch-1755743899093-zpspte9cm containing 18 payments. Host: default[39m
+worker1-1  | [02:38:19 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743899595 Processing bulk payment job 35 with batchId batch-1755743899594-9bvnlhbta containing 18 payments. Host: default[39m
+worker1-1  | [02:38:20 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743900096 Processing bulk payment job 36 with batchId batch-1755743900094-jexsp80wn containing 19 payments. Host: default[39m
+worker1-1  | [02:38:20 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743900596 Processing bulk payment job 37 with batchId batch-1755743900594-vvfpo9jd2 containing 19 payments. Host: default[39m
+worker1-1  | [02:38:21 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743901096 Processing bulk payment job 38 with batchId batch-1755743901095-52bu6aza9 containing 20 payments. Host: default[39m
+worker1-1  | [02:38:21 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743901597 Processing bulk payment job 39 with batchId batch-1755743901595-f4cz8qaa2 containing 20 payments. Host: default[39m
+worker1-1  | [02:38:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743902097 Processing bulk payment job 40 with batchId batch-1755743902095-iswllyma5 containing 20 payments. Host: default[39m
+worker1-1  | [02:38:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743902597 Processing bulk payment job 41 with batchId batch-1755743902595-ezfvmbjre containing 22 payments. Host: default[39m
+worker1-1  | [02:38:23 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743903097 Processing bulk payment job 42 with batchId batch-1755743903095-wluf1s2kr containing 21 payments. Host: default[39m
+worker1-1  | [02:38:23 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743903599 Processing bulk payment job 43 with batchId batch-1755743903596-l4cvuw5o8 containing 22 payments. Host: default[39m
+worker1-1  | [02:38:24 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743904099 Processing bulk payment job 44 with batchId batch-1755743904096-pdm4lzp2h containing 23 payments. Host: default[39m
+worker1-1  | [02:38:24 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743904599 Processing bulk payment job 45 with batchId batch-1755743904596-d48ls8nwg containing 23 payments. Host: default[39m
+worker1-1  | [02:38:25 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743905100 Processing bulk payment job 46 with batchId batch-1755743905098-2kf6w4g0u containing 24 payments. Host: default[39m
+worker1-1  | [02:38:25 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743905601 Processing bulk payment job 47 with batchId batch-1755743905598-dk46qapcx containing 24 payments. Host: default[39m
+worker1-1  | [02:38:26 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743906101 Processing bulk payment job 48 with batchId batch-1755743906099-n7mqu2175 containing 25 payments. Host: default[39m
+worker1-1  | [02:38:26 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743906602 Processing bulk payment job 49 with batchId batch-1755743906600-ad79fgnsz containing 25 payments. Host: default[39m
+worker1-1  | [02:38:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743907102 Processing bulk payment job 50 with batchId batch-1755743907100-eozsjseom containing 26 payments. Host: default[39m
+worker1-1  | [02:38:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743907604 Processing bulk payment job 51 with batchId batch-1755743907601-mx48lmbu0 containing 26 payments. Host: default[39m
+worker1-1  | [02:38:28 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743908104 Processing bulk payment job 52 with batchId batch-1755743908102-13l5gq4rz containing 27 payments. Host: default[39m
+worker1-1  | [02:38:28 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743908604 Processing bulk payment job 53 with batchId batch-1755743908602-ba3oy96r5 containing 27 payments. Host: default[39m
+worker1-1  | [02:38:29 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743909104 Processing bulk payment job 54 with batchId batch-1755743909102-p29numt7r containing 27 payments. Host: default[39m
+worker1-1  | [02:38:29 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743909605 Processing bulk payment job 55 with batchId batch-1755743909603-536cibf75 containing 28 payments. Host: default[39m
+worker1-1  | [02:38:30 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743910105 Processing bulk payment job 56 with batchId batch-1755743910102-qdtzmt16h containing 29 payments. Host: default[39m
+worker1-1  | [02:38:30 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743910606 Processing bulk payment job 57 with batchId batch-1755743910603-6ltuzau72 containing 29 payments. Host: default[39m
+worker1-1  | [02:38:31 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743911105 Processing bulk payment job 58 with batchId batch-1755743911103-yuhie8k8g containing 30 payments. Host: default[39m
+worker1-1  | [02:38:31 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743911606 Processing bulk payment job 59 with batchId batch-1755743911603-l17zpnrg4 containing 30 payments. Host: default[39m
+worker1-1  | [02:38:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743912106 Processing bulk payment job 60 with batchId batch-1755743912104-hbahi2z4w containing 30 payments. Host: default[39m
+worker1-1  | [02:38:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743912606 Processing bulk payment job 61 with batchId batch-1755743912604-l5oxa59lx containing 31 payments. Host: default[39m
+worker1-1  | [02:38:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743913109 Processing bulk payment job 62 with batchId batch-1755743913103-gwhxdikwl containing 32 payments. Host: default[39m
+worker1-1  | [02:38:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743913607 Processing bulk payment job 63 with batchId batch-1755743913605-1bzi4g00r containing 32 payments. Host: default[39m
+worker1-1  | [02:38:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743916630 Processing bulk payment job 64 with batchId batch-1755743914105-uqfm1fh14 containing 33 payments. Host: default[39m
+worker1-1  | [02:38:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743917137 Processing bulk payment job 65 with batchId batch-1755743914606-pmxfr0yfp containing 33 payments. Host: default[39m
+worker1-1  | [02:38:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743917643 Processing bulk payment job 66 with batchId batch-1755743915107-sf6e4yxwk containing 34 payments. Host: default[39m
+worker1-1  | [02:38:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743920657 Processing bulk payment job 67 with batchId batch-1755743915608-zf0xuiq58 containing 34 payments. Host: default[39m
+worker1-1  | [02:38:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743921154 Processing bulk payment job 68 with batchId batch-1755743916109-o0m95oulq containing 35 payments. Host: default[39m
+worker1-1  | [02:38:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743921667 Processing bulk payment job 69 with batchId batch-1755743916609-261b53rd3 containing 35 payments. Host: default[39m
+worker1-1  | [02:38:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743924675 Processing bulk payment job 70 with batchId batch-1755743917109-za35spzo4 containing 36 payments. Host: default[39m
+worker1-1  | [02:38:45 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743925175 Processing bulk payment job 71 with batchId batch-1755743917610-ikwj1l8je containing 36 payments. Host: default[39m
+worker1-1  | [02:38:45 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743925687 Processing bulk payment job 72 with batchId batch-1755743918110-bllz9nimh containing 37 payments. Host: default[39m
+worker1-1  | [02:38:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743928693 Processing bulk payment job 73 with batchId batch-1755743918611-nhh253osm containing 37 payments. Host: default[39m
+worker1-1  | [02:38:49 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743929195 Processing bulk payment job 74 with batchId batch-1755743919110-4ejyjo856 containing 38 payments. Host: default[39m
+worker1-1  | [02:38:49 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743929705 Processing bulk payment job 75 with batchId batch-1755743919611-efu78jtwz containing 38 payments. Host: default[39m
+cache-1    | 1:M 21 Aug 2025 02:38:52.046 * 10000 changes in 60 seconds. Saving...
+cache-1    | 1:M 21 Aug 2025 02:38:52.047 * Background saving started by pid 58
+cache-1    | 58:C 21 Aug 2025 02:38:52.059 * DB saved on disk
+cache-1    | 58:C 21 Aug 2025 02:38:52.059 * Fork CoW for RDB: current 1 MB, peak 1 MB, average 1 MB
+cache-1    | 1:M 21 Aug 2025 02:38:52.148 * Background saving terminated with success
+worker1-1  | [02:38:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743932723 Processing bulk payment job 76 with batchId batch-1755743920111-wjnyzbkz0 containing 38 payments. Host: default[39m
+worker1-1  | [02:38:53 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743933215 Processing bulk payment job 77 with batchId batch-1755743920611-1cd2llwye containing 40 payments. Host: default[39m
+worker1-1  | [02:38:53 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743933727 Processing bulk payment job 78 with batchId batch-1755743921111-vtx3tzqym containing 39 payments. Host: default[39m
+worker1-1  | [02:38:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743936748 Processing bulk payment job 79 with batchId batch-1755743921611-v3dsh5zup containing 40 payments. Host: default[39m
+worker1-1  | [02:38:57 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743937238 Processing bulk payment job 80 with batchId batch-1755743922112-itfws5dfl containing 40 payments. Host: default[39m
+worker1-1  | [02:38:57 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743937747 Processing bulk payment job 81 with batchId batch-1755743922614-1i28hl2bn containing 42 payments. Host: default[39m
+worker1-1  | [02:39:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743940768 Processing bulk payment job 82 with batchId batch-1755743923114-cm5b0a9nl containing 41 payments. Host: default[39m
+worker1-1  | [02:39:01 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743941257 Processing bulk payment job 83 with batchId batch-1755743923614-29jtuvbev containing 43 payments. Host: default[39m
+worker1-1  | [02:39:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743942770 Processing bulk payment job 84 with batchId batch-1755743924114-xkik92s31 containing 42 payments. Host: default[39m
+worker1-1  | [02:39:04 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743944281 Processing bulk payment job 85 with batchId batch-1755743924614-4r97pcq09 containing 44 payments. Host: default[39m
+worker1-1  | [02:39:04 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743944288 Processing bulk payment job 86 with batchId batch-1755743925115-prp3c29fb containing 43 payments. Host: default[39m
+worker1-1  | [02:39:05 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743945295 Processing bulk payment job 87 with batchId batch-1755743925614-1p397vgig containing 44 payments. Host: default[39m
+worker1-1  | [02:39:06 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743946803 Processing bulk payment job 88 with batchId batch-1755743926115-jb5hypan3 containing 44 payments. Host: default[39m
+worker1-1  | [02:39:06 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743946812 Processing bulk payment job 89 with batchId batch-1755743926615-8dwi1rkh7 containing 46 payments. Host: default[39m
+worker1-1  | [02:39:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743947818 Processing bulk payment job 90 with batchId batch-1755743927116-fp0ovlcdk containing 45 payments. Host: default[39m
+worker1-1  | [02:39:09 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743949328 Processing bulk payment job 91 with batchId batch-1755743927616-uq006l3n9 containing 47 payments. Host: default[39m
+worker1-1  | [02:39:09 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743949337 Processing bulk payment job 92 with batchId batch-1755743928118-2az87yzsc containing 46 payments. Host: default[39m
+worker1-1  | [02:39:10 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743950344 Processing bulk payment job 93 with batchId batch-1755743928619-htefw8hgl containing 48 payments. Host: default[39m
+worker1-1  | [02:39:11 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743951851 Processing bulk payment job 94 with batchId batch-1755743929120-e71ht84jz containing 47 payments. Host: default[39m
+worker1-1  | [02:39:11 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743951866 Processing bulk payment job 95 with batchId batch-1755743929620-s3r02ron2 containing 49 payments. Host: default[39m
+worker1-1  | [02:39:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743952866 Processing bulk payment job 96 with batchId batch-1755743930122-kmlqiusc5 containing 48 payments. Host: default[39m
+worker1-1  | [02:39:14 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743954374 Processing bulk payment job 97 with batchId batch-1755743930623-bt970bq0u containing 50 payments. Host: default[39m
+worker1-1  | [02:39:14 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743954387 Processing bulk payment job 98 with batchId batch-1755743931123-r9l9tp7o4 containing 49 payments. Host: default[39m
+worker1-1  | [02:39:15 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743955389 Processing bulk payment job 99 with batchId batch-1755743931624-wrxrg2dij containing 51 payments. Host: default[39m
+worker1-1  | [02:39:16 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743956900 Processing bulk payment job 100 with batchId batch-1755743932123-lbo1o6aur containing 50 payments. Host: default[39m
+worker1-1  | [02:39:16 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743956911 Processing bulk payment job 101 with batchId batch-1755743932623-13eihp4rd containing 52 payments. Host: default[39m
+worker1-1  | [02:39:18 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743958426 Processing bulk payment job 102 with batchId batch-1755743933123-6oy4clv5n containing 51 payments. Host: default[39m
+worker1-1  | [02:39:19 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743959434 Processing bulk payment job 103 with batchId batch-1755743933624-utzjw1r93 containing 53 payments. Host: default[39m
+worker1-1  | [02:39:19 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743959951 Processing bulk payment job 104 with batchId batch-1755743934125-fylk7mfex containing 52 payments. Host: default[39m
+worker1-1  | [02:39:21 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743961469 Processing bulk payment job 105 with batchId batch-1755743934626-l3j42ppot containing 54 payments. Host: default[39m
+worker1-1  | [02:39:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743962469 Processing bulk payment job 106 with batchId batch-1755743935126-6rs4b61n2 containing 53 payments. Host: default[39m
+worker1-1  | [02:39:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743962980 Processing bulk payment job 107 with batchId batch-1755743935626-0la68hufr containing 55 payments. Host: default[39m
+worker1-1  | [02:39:24 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743964502 Processing bulk payment job 108 with batchId batch-1755743936126-2l3bazpky containing 53 payments. Host: default[39m
+worker1-1  | [02:39:25 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743965500 Processing bulk payment job 109 with batchId batch-1755743936626-xqcafk69d containing 56 payments. Host: default[39m
+worker1-1  | [02:39:26 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743966011 Processing bulk payment job 110 with batchId batch-1755743937127-nwd02vyvy containing 54 payments. Host: default[39m
+worker1-1  | [02:39:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743967539 Processing bulk payment job 111 with batchId batch-1755743937628-2gt3vro0m containing 58 payments. Host: default[39m
+worker1-1  | [02:39:28 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743968530 Processing bulk payment job 112 with batchId batch-1755743938128-0mvp6xv5d containing 55 payments. Host: default[39m
+worker1-1  | [02:39:29 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743969052 Processing bulk payment job 113 with batchId batch-1755743938629-4tdnh5hh2 containing 59 payments. Host: default[39m
+worker1-1  | [02:39:30 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743970572 Processing bulk payment job 114 with batchId batch-1755743939129-px5ojphpp containing 56 payments. Host: default[39m
+worker1-1  | [02:39:31 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743971555 Processing bulk payment job 115 with batchId batch-1755743939630-prgmj6fj3 containing 60 payments. Host: default[39m
+worker1-1  | [02:39:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743972077 Processing bulk payment job 116 with batchId batch-1755743940130-ea6uwalbt containing 57 payments. Host: default[39m
+worker1-1  | [02:39:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743971555 Re-queuing 50 failed payments for individual retry[39m
+worker1-1  | [02:39:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743972566 Processing bulk payment job 117 with batchId batch-1755743940631-kw7x206pc containing 61 payments. Host: default[39m
+worker1-1  | [02:39:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743972077 Re-queuing 57 failed payments for individual retry[39m
+worker1-1  | [02:39:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743972584 Processing bulk payment job 118 with batchId batch-1755743941130-q1cgeggvq containing 58 payments. Host: default[39m
+worker1-1  | [02:39:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743970572 Re-queuing 26 failed payments for individual retry[39m
+worker1-1  | [02:39:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743972589 Processing bulk payment job 119 with batchId batch-1755743941632-kggjg8qbl containing 61 payments. Host: default[39m
+worker1-1  | [02:39:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743972566 Re-queuing 61 failed payments for individual retry[39m
+worker1-1  | [02:39:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743974571 Processing bulk payment job 120 with batchId batch-1755743942132-77g3gnjdn containing 60 payments. Host: default[39m
+worker1-1  | [02:39:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743972584 Re-queuing 58 failed payments for individual retry[39m
+worker1-1  | [02:39:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743974589 Processing bulk payment job 121 with batchId batch-1755743942632-cfxbjh60q containing 62 payments. Host: default[39m
+worker1-1  | [02:39:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743972589 Re-queuing 61 failed payments for individual retry[39m
+worker1-1  | [02:39:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743974595 Processing bulk payment job 122 with batchId batch-1755743943132-sdwe9m7tw containing 60 payments. Host: default[39m
+worker1-1  | [02:39:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743974571 Re-queuing 60 failed payments for individual retry[39m
+worker1-1  | [02:39:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743976577 Processing bulk payment job 123 with batchId batch-1755743943632-rb8wi7jbx containing 62 payments. Host: default[39m
+worker1-1  | [02:39:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743974589 Re-queuing 62 failed payments for individual retry[39m
+worker1-1  | [02:39:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743976595 Processing bulk payment job 124 with batchId batch-1755743944133-lrxdsvr15 containing 63 payments. Host: default[39m
+worker1-1  | [02:39:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743974595 Re-queuing 60 failed payments for individual retry[39m
+worker1-1  | [02:39:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743976601 Processing bulk payment job 125 with batchId batch-1755743944633-thtissm4c containing 63 payments. Host: default[39m
+worker1-1  | [02:39:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743976577 Re-queuing 62 failed payments for individual retry[39m
+worker1-1  | [02:39:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743978583 Processing bulk payment job 126 with batchId batch-1755743945133-op52gljjl containing 64 payments. Host: default[39m
+worker1-1  | [02:39:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743976595 Re-queuing 63 failed payments for individual retry[39m
+worker1-1  | [02:39:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743978600 Processing bulk payment job 127 with batchId batch-1755743945634-islksucfh containing 64 payments. Host: default[39m
+worker1-1  | [02:39:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743976601 Re-queuing 63 failed payments for individual retry[39m
+worker1-1  | [02:39:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743978606 Processing bulk payment job 128 with batchId batch-1755743946135-b6fyxxjvy containing 65 payments. Host: default[39m
+worker1-1  | [02:39:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743978583 Re-queuing 64 failed payments for individual retry[39m
+worker1-1  | [02:39:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743980590 Processing bulk payment job 129 with batchId batch-1755743946635-xe5yo55zd containing 65 payments. Host: default[39m
+worker1-1  | [02:39:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743978600 Re-queuing 64 failed payments for individual retry[39m
+worker1-1  | [02:39:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743980606 Processing bulk payment job 130 with batchId batch-1755743947136-5t4je7218 containing 66 payments. Host: default[39m
+worker1-1  | [02:39:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743978606 Re-queuing 65 failed payments for individual retry[39m
+worker1-1  | [02:39:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743980613 Processing bulk payment job 131 with batchId batch-1755743947636-shom2ytyb containing 66 payments. Host: default[39m
+worker1-1  | [02:39:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743980590 Re-queuing 65 failed payments for individual retry[39m
+worker1-1  | [02:39:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743982595 Processing bulk payment job 132 with batchId batch-1755743948135-ru1ryc6sf containing 67 payments. Host: default[39m
+worker1-1  | [02:39:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743980606 Re-queuing 66 failed payments for individual retry[39m
+worker1-1  | [02:39:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743982611 Processing bulk payment job 133 with batchId batch-1755743948636-utsmdup4c containing 67 payments. Host: default[39m
+worker1-1  | [02:39:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743980613 Re-queuing 66 failed payments for individual retry[39m
+worker1-1  | [02:39:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743982619 Processing bulk payment job 134 with batchId batch-1755743949136-2j6bhf41f containing 67 payments. Host: default[39m
+worker1-1  | [02:39:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743982595 Re-queuing 67 failed payments for individual retry[39m
+worker1-1  | [02:39:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743984600 Processing bulk payment job 135 with batchId batch-1755743949637-svxhwdgyt containing 69 payments. Host: default[39m
+worker1-1  | [02:39:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743982611 Re-queuing 67 failed payments for individual retry[39m
+worker1-1  | [02:39:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743984619 Processing bulk payment job 136 with batchId batch-1755743950138-mpj2pdu2o containing 68 payments. Host: default[39m
+worker1-1  | [02:39:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743982619 Re-queuing 67 failed payments for individual retry[39m
+worker1-1  | [02:39:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743984626 Processing bulk payment job 137 with batchId batch-1755743950638-jbqeyb6i5 containing 70 payments. Host: default[39m
+worker1-1  | [02:39:46 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743984600 Re-queuing 69 failed payments for individual retry[39m
+worker1-1  | [02:39:46 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743986606 Processing bulk payment job 138 with batchId batch-1755743951139-mi8cg0z33 containing 69 payments. Host: default[39m
+worker1-1  | [02:39:46 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743984619 Re-queuing 68 failed payments for individual retry[39m
+worker1-1  | [02:39:46 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743986626 Processing bulk payment job 139 with batchId batch-1755743951638-6j44h90jt containing 71 payments. Host: default[39m
+worker1-1  | [02:39:46 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743984626 Re-queuing 70 failed payments for individual retry[39m
+worker1-1  | [02:39:46 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743986633 Processing bulk payment job 140 with batchId batch-1755743952139-mi8se5ixu containing 70 payments. Host: default[39m
+worker1-1  | [02:39:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743986606 Re-queuing 69 failed payments for individual retry[39m
+worker1-1  | [02:39:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743988612 Processing bulk payment job 141 with batchId batch-1755743952638-83jribuic containing 71 payments. Host: default[39m
+worker1-1  | [02:39:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743986626 Re-queuing 71 failed payments for individual retry[39m
+worker1-1  | [02:39:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743988632 Processing bulk payment job 142 with batchId batch-1755743953139-0bgigyqyg containing 71 payments. Host: default[39m
+worker1-1  | [02:39:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743986633 Re-queuing 70 failed payments for individual retry[39m
+worker1-1  | [02:39:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743988639 Processing bulk payment job 143 with batchId batch-1755743953640-vge7fjpjz containing 73 payments. Host: default[39m
+worker1-1  | [02:39:50 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743988612 Re-queuing 71 failed payments for individual retry[39m
+worker1-1  | [02:39:50 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743990617 Processing bulk payment job 144 with batchId batch-1755743954139-admk20zen containing 72 payments. Host: default[39m
+worker1-1  | [02:39:50 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743988632 Re-queuing 71 failed payments for individual retry[39m
+worker1-1  | [02:39:50 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743990638 Processing bulk payment job 145 with batchId batch-1755743954639-lnyq3timf containing 74 payments. Host: default[39m
+worker1-1  | [02:39:50 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743988639 Re-queuing 73 failed payments for individual retry[39m
+worker1-1  | [02:39:50 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743990643 Processing bulk payment job 146 with batchId batch-1755743955140-04a20q140 containing 73 payments. Host: default[39m
+cache-1    | 1:M 21 Aug 2025 02:39:53.008 * 10000 changes in 60 seconds. Saving...
+cache-1    | 1:M 21 Aug 2025 02:39:53.008 * Background saving started by pid 95
+cache-1    | 95:C 21 Aug 2025 02:39:53.026 * DB saved on disk
+cache-1    | 95:C 21 Aug 2025 02:39:53.026 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+cache-1    | 1:M 21 Aug 2025 02:39:53.109 * Background saving terminated with success
+worker1-1  | [02:39:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743990617 Re-queuing 72 failed payments for individual retry[39m
+worker1-1  | [02:39:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743992623 Processing bulk payment job 147 with batchId batch-1755743955640-n42sbit1g containing 75 payments. Host: default[39m
+worker1-1  | [02:39:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743990638 Re-queuing 74 failed payments for individual retry[39m
+worker1-1  | [02:39:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743992643 Processing bulk payment job 148 with batchId batch-1755743956141-0nnricojp containing 74 payments. Host: default[39m
+worker1-1  | [02:39:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743990643 Re-queuing 73 failed payments for individual retry[39m
+worker1-1  | [02:39:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743992648 Processing bulk payment job 149 with batchId batch-1755743956642-pb11owr1g containing 76 payments. Host: default[39m
+worker1-1  | [02:39:54 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743992623 Re-queuing 75 failed payments for individual retry[39m
+worker1-1  | [02:39:54 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743994628 Processing bulk payment job 150 with batchId batch-1755743957142-ku37gcnio containing 75 payments. Host: default[39m
+worker1-1  | [02:39:54 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743992643 Re-queuing 74 failed payments for individual retry[39m
+worker1-1  | [02:39:54 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743994649 Processing bulk payment job 151 with batchId batch-1755743957642-mpmzgxkuw containing 77 payments. Host: default[39m
+worker1-1  | [02:39:54 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743992648 Re-queuing 76 failed payments for individual retry[39m
+worker1-1  | [02:39:54 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743994655 Processing bulk payment job 152 with batchId batch-1755743958142-3lob6n8ra containing 76 payments. Host: default[39m
+worker1-1  | [02:39:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743994628 Re-queuing 75 failed payments for individual retry[39m
+worker1-1  | [02:39:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743996634 Processing bulk payment job 153 with batchId batch-1755743958642-l7go0fnqq containing 78 payments. Host: default[39m
+worker1-1  | [02:39:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743994649 Re-queuing 77 failed payments for individual retry[39m
+worker1-1  | [02:39:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743996655 Processing bulk payment job 154 with batchId batch-1755743959143-k4449bh4g containing 72 payments. Host: default[39m
+worker1-1  | [02:39:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743994655 Re-queuing 76 failed payments for individual retry[39m
+worker1-1  | [02:39:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743996662 Processing bulk payment job 155 with batchId batch-1755743959643-jvtx9lyeo containing 83 payments. Host: default[39m
+worker1-1  | [02:39:58 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743996634 Re-queuing 78 failed payments for individual retry[39m
+worker1-1  | [02:39:58 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743998638 Processing bulk payment job 156 with batchId batch-1755743960144-x3cgemsww containing 74 payments. Host: default[39m
+worker1-1  | [02:39:58 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743996655 Re-queuing 72 failed payments for individual retry[39m
+worker1-1  | [02:39:58 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743998660 Processing bulk payment job 157 with batchId batch-1755743960644-3kp1m8ha1 containing 84 payments. Host: default[39m
+worker1-1  | [02:39:58 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743996662 Re-queuing 83 failed payments for individual retry[39m
+worker1-1  | [02:39:58 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743998668 Processing bulk payment job 158 with batchId batch-1755743961142-pu6vxw0i8 containing 75 payments. Host: default[39m
+worker1-1  | [02:40:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743998638 Re-queuing 74 failed payments for individual retry[39m
+worker1-1  | [02:40:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744000644 Processing bulk payment job 159 with batchId batch-1755743961645-qmpv01mng containing 85 payments. Host: default[39m
+worker1-1  | [02:40:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743998660 Re-queuing 84 failed payments for individual retry[39m
+worker1-1  | [02:40:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744000666 Processing bulk payment job 160 with batchId batch-1755743962144-l3vpgmfkx containing 76 payments. Host: default[39m
+worker1-1  | [02:40:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755743998668 Re-queuing 75 failed payments for individual retry[39m
+worker1-1  | [02:40:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744000682 Processing bulk payment job 161 with batchId batch-1755743962645-aaipvjqn4 containing 86 payments. Host: default[39m
+worker1-1  | [02:40:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744000644 Re-queuing 85 failed payments for individual retry[39m
+worker1-1  | [02:40:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744002650 Processing bulk payment job 162 with batchId batch-1755743963145-god4i3c54 containing 77 payments. Host: default[39m
+worker1-1  | [02:40:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744000666 Re-queuing 76 failed payments for individual retry[39m
+worker1-1  | [02:40:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744002672 Processing bulk payment job 163 with batchId batch-1755743963646-b5wudhorn containing 87 payments. Host: default[39m
+worker1-1  | [02:40:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744000682 Re-queuing 86 failed payments for individual retry[39m
+worker1-1  | [02:40:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744002689 Processing bulk payment job 164 with batchId batch-1755743964144-z1vev5qos containing 78 payments. Host: default[39m
+worker1-1  | [02:40:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744002650 Re-queuing 77 failed payments for individual retry[39m
+worker1-1  | [02:40:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744007659 Processing bulk payment job 165 with batchId batch-1755743964645-kz91ssiyk containing 88 payments. Host: default[39m
+worker1-1  | [02:40:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744002672 Re-queuing 87 failed payments for individual retry[39m
+worker1-1  | [02:40:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744007685 Processing bulk payment job 166 with batchId batch-1755743965146-utlnogfl9 containing 78 payments. Host: default[39m
+worker1-1  | [02:40:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744002689 Re-queuing 78 failed payments for individual retry[39m
+worker1-1  | [02:40:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744007701 Processing bulk payment job 167 with batchId batch-1755743965646-bnxfuelup containing 90 payments. Host: default[39m
+worker1-1  | [02:40:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744007659 Re-queuing 88 failed payments for individual retry[39m
+worker1-1  | [02:40:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744012666 Processing bulk payment job 168 with batchId batch-1755743966147-dllbflb2c containing 79 payments. Host: default[39m
+worker1-1  | [02:40:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744007685 Re-queuing 78 failed payments for individual retry[39m
+worker1-1  | [02:40:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744012694 Processing bulk payment job 169 with batchId batch-1755743966648-8ldhflx4u containing 91 payments. Host: default[39m
+worker1-1  | [02:40:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744007701 Re-queuing 90 failed payments for individual retry[39m
+worker1-1  | [02:40:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744012712 Processing bulk payment job 170 with batchId batch-1755743967148-pgtvc5v27 containing 80 payments. Host: default[39m
+worker1-1  | [02:40:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744012666 Re-queuing 79 failed payments for individual retry[39m
+worker1-1  | [02:40:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744017672 Processing bulk payment job 171 with batchId batch-1755743967649-791nxb4ku containing 92 payments. Host: default[39m
+worker1-1  | [02:40:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744012694 Re-queuing 91 failed payments for individual retry[39m
+worker1-1  | [02:40:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744017701 Processing bulk payment job 172 with batchId batch-1755743968149-c0qaas802 containing 80 payments. Host: default[39m
+worker1-1  | [02:40:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744012712 Re-queuing 80 failed payments for individual retry[39m
+worker1-1  | [02:40:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744017718 Processing bulk payment job 173 with batchId batch-1755743968652-u427ca612 containing 92 payments. Host: default[39m
+worker1-1  | [02:40:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744017672 Re-queuing 92 failed payments for individual retry[39m
+worker1-1  | [02:40:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744022678 Processing bulk payment job 174 with batchId batch-1755743969149-mszphrb6z containing 83 payments. Host: default[39m
+worker1-1  | [02:40:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744017701 Re-queuing 80 failed payments for individual retry[39m
+worker1-1  | [02:40:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744022709 Processing bulk payment job 175 with batchId batch-1755743969650-lxkt4wfc0 containing 93 payments. Host: default[39m
+worker1-1  | [02:40:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744017718 Re-queuing 92 failed payments for individual retry[39m
+worker1-1  | [02:40:22 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744022723 Processing bulk payment job 176 with batchId batch-1755743970149-40qploypg containing 84 payments. Host: default[39m
+worker1-1  | [02:40:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744022678 Re-queuing 83 failed payments for individual retry[39m
+worker1-1  | [02:40:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744027685 Processing bulk payment job 177 with batchId batch-1755743970649-yzwkc66ks containing 94 payments. Host: default[39m
+worker1-1  | [02:40:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744022709 Re-queuing 93 failed payments for individual retry[39m
+worker1-1  | [02:40:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744027713 Processing bulk payment job 178 with batchId batch-1755743971150-4c1e2y575 containing 84 payments. Host: default[39m
+worker1-1  | [02:40:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744022723 Re-queuing 84 failed payments for individual retry[39m
+worker1-1  | [02:40:27 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744027728 Processing bulk payment job 179 with batchId batch-1755743971650-w6rs0f3al containing 96 payments. Host: default[39m
+worker1-1  | [02:40:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744032859 Processing bulk payment job 180 with batchId batch-1755743972149-4ryg6y4qx containing 85 payments. Host: default[39m
+worker1-1  | [02:40:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744032865 Processing bulk payment job 184 with batchId batch-1755743972649-jq9i6hj4w containing 97 payments. Host: default[39m
+worker1-1  | [02:40:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744032893 Processing bulk payment job 185 with batchId batch-1755743973150-h36nc8sek containing 86 payments. Host: default[39m
+worker1-1  | [02:40:32 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744032975 Processing bulk payment job 186 with batchId batch-1755743973651-ijuwpxba5 containing 98 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033052 Processing bulk payment job 187 with batchId batch-1755743974150-kyxi6v6m0 containing 86 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033053 Processing bulk payment job 181 with batchId retry-batch-1755743972564-fenzjtvd1 containing 50 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033170 Processing bulk payment job 182 with batchId retry-batch-1755743972582-597h93b4j containing 57 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033186 Processing bulk payment job 183 with batchId retry-batch-1755743972588-hkitf0p5j containing 26 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033188 Processing bulk payment job 191 with batchId batch-1755743974652-znuada0be containing 100 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033290 Processing bulk payment job 192 with batchId batch-1755743975152-660e29vli containing 87 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033317 Processing bulk payment job 193 with batchId batch-1755743975652-c50pi5chy containing 101 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033364 Processing bulk payment job 194 with batchId batch-1755743976153-0f3jkhwwg containing 84 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033394 Processing bulk payment job 188 with batchId retry-batch-1755743974570-1f5qeiz42 containing 61 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033447 Processing bulk payment job 189 with batchId retry-batch-1755743974588-5s0p7kefi containing 58 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033448 Processing bulk payment job 190 with batchId retry-batch-1755743974594-dpxm1rer3 containing 61 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033456 Processing bulk payment job 198 with batchId batch-1755743976655-c90wmpfj7 containing 106 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033506 Processing bulk payment job 199 with batchId batch-1755743977154-arll7b4v7 containing 79 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033567 Processing bulk payment job 200 with batchId batch-1755743977656-f1knq0enf containing 113 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033611 Processing bulk payment job 201 with batchId batch-1755743978156-gxo78yc0q containing 80 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033659 Processing bulk payment job 195 with batchId retry-batch-1755743976576-2gu944e7d containing 60 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033694 Processing bulk payment job 196 with batchId retry-batch-1755743976594-niwfohbm0 containing 62 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033717 Processing bulk payment job 197 with batchId retry-batch-1755743976600-64tlaywdd containing 60 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033720 Processing bulk payment job 205 with batchId batch-1755743978656-30mxc9fr8 containing 114 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033817 Processing bulk payment job 206 with batchId batch-1755743979155-90hd78527 containing 81 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033850 Processing bulk payment job 207 with batchId batch-1755743979656-1cr1xmdvz containing 114 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033900 Processing bulk payment job 208 with batchId batch-1755743980155-xlttyz7j6 containing 83 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033903 Processing bulk payment job 202 with batchId retry-batch-1755743978582-ibt2z0yji containing 62 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033960 Processing bulk payment job 203 with batchId retry-batch-1755743978599-jvfegcyqh containing 63 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033991 Processing bulk payment job 204 with batchId retry-batch-1755743978606-6n44cfw2n containing 63 payments. Host: default[39m
+worker1-1  | [02:40:33 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744033993 Processing bulk payment job 212 with batchId batch-1755743980658-a0xfp2xsb containing 115 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034054 Processing bulk payment job 213 with batchId batch-1755743981156-6zi9j0bcg containing 84 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034107 Processing bulk payment job 214 with batchId batch-1755743981657-1o82bu578 containing 116 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034112 Processing bulk payment job 215 with batchId batch-1755743982156-85skna9q7 containing 85 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034158 Processing bulk payment job 209 with batchId retry-batch-1755743980589-6p4gm4nyl containing 64 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034207 Processing bulk payment job 210 with batchId retry-batch-1755743980604-tmrwr1m0a containing 64 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034248 Processing bulk payment job 211 with batchId retry-batch-1755743980612-01ztbavtq containing 65 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034250 Processing bulk payment job 219 with batchId batch-1755743982659-9wi2iwde8 containing 117 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034322 Processing bulk payment job 220 with batchId batch-1755743983158-n2po3lrcf containing 86 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034349 Processing bulk payment job 221 with batchId batch-1755743983659-hpw95i4xf containing 118 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034404 Processing bulk payment job 222 with batchId batch-1755743984160-p6norpmxw containing 87 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034442 Processing bulk payment job 216 with batchId retry-batch-1755743982594-c54rulsvc containing 65 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034470 Processing bulk payment job 217 with batchId retry-batch-1755743982610-ofg026dgk containing 66 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034492 Processing bulk payment job 218 with batchId retry-batch-1755743982618-zyfrpxh43 containing 66 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034514 Processing bulk payment job 226 with batchId batch-1755743984661-rcemand1t containing 119 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034575 Processing bulk payment job 227 with batchId batch-1755743985160-0xk5yrcfl containing 88 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034579 Processing bulk payment job 228 with batchId batch-1755743985662-zliua8jbc containing 117 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034654 Processing bulk payment job 229 with batchId batch-1755743986161-jq9rptthw containing 92 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034685 Processing bulk payment job 223 with batchId retry-batch-1755743984599-3bdvh9qzh containing 67 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034729 Processing bulk payment job 224 with batchId retry-batch-1755743984618-9m5xkoolk containing 67 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034735 Processing bulk payment job 225 with batchId retry-batch-1755743984625-a89yxx3z7 containing 67 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034773 Processing bulk payment job 233 with batchId batch-1755743986663-xfu3t7qmb containing 118 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034873 Processing bulk payment job 234 with batchId batch-1755743987161-yurhyeq4m containing 92 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034875 Processing bulk payment job 235 with batchId batch-1755743987663-h93ccenzl containing 120 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034935 Processing bulk payment job 236 with batchId batch-1755743988162-bdr9q6iat containing 93 payments. Host: default[39m
+worker1-1  | [02:40:34 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744034967 Processing bulk payment job 230 with batchId retry-batch-1755743986605-ylw8o04qm containing 69 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035008 Processing bulk payment job 231 with batchId retry-batch-1755743986624-h1bsir7rg containing 68 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035022 Processing bulk payment job 232 with batchId retry-batch-1755743986632-75c0wfgr0 containing 70 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035047 Processing bulk payment job 240 with batchId batch-1755743988662-higiki1sh containing 121 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035095 Processing bulk payment job 241 with batchId batch-1755743989164-1k937rhf6 containing 94 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035161 Processing bulk payment job 242 with batchId batch-1755743989664-gjgfeaj1k containing 122 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035181 Processing bulk payment job 243 with batchId batch-1755743990165-dznftom1m containing 95 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035215 Processing bulk payment job 237 with batchId retry-batch-1755743988611-pqeb2aoac containing 69 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035298 Processing bulk payment job 238 with batchId retry-batch-1755743988630-yh1i2wus8 containing 71 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035350 Processing bulk payment job 239 with batchId retry-batch-1755743988638-irc2wuk0q containing 70 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035352 Processing bulk payment job 247 with batchId batch-1755743990666-47am5turk containing 123 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035394 Processing bulk payment job 248 with batchId batch-1755743991166-vnga9xqov containing 96 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035424 Processing bulk payment job 249 with batchId batch-1755743991666-g1mtnlqei containing 124 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035478 Processing bulk payment job 250 with batchId batch-1755743992165-fv8ndjgee containing 97 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035505 Processing bulk payment job 244 with batchId retry-batch-1755743990616-i8f9275cx containing 71 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035588 Processing bulk payment job 245 with batchId retry-batch-1755743990637-eylh2uxv9 containing 71 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035592 Processing bulk payment job 246 with batchId retry-batch-1755743990642-hbkn7hvrb containing 73 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035606 Processing bulk payment job 254 with batchId batch-1755743992668-wa75389vb containing 125 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035677 Processing bulk payment job 255 with batchId batch-1755743993165-luax813gq containing 98 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035698 Processing bulk payment job 256 with batchId batch-1755743993666-8jwxjf1bj containing 126 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035745 Processing bulk payment job 257 with batchId batch-1755743994167-hmk24d4y1 containing 90 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035789 Processing bulk payment job 251 with batchId retry-batch-1755743992622-cu0ztu8l8 containing 72 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035886 Processing bulk payment job 252 with batchId retry-batch-1755743992642-jzm90k85j containing 74 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035907 Processing bulk payment job 253 with batchId retry-batch-1755743992647-6vh7bovc2 containing 73 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035919 Processing bulk payment job 261 with batchId batch-1755743994668-qa56s7ttb containing 136 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035971 Processing bulk payment job 262 with batchId batch-1755743995168-v3tr8poqy containing 91 payments. Host: default[39m
+worker1-1  | [02:40:35 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744035972 Processing bulk payment job 263 with batchId batch-1755743995675-ejw3dycc9 containing 137 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036048 Processing bulk payment job 264 with batchId batch-1755743996168-ztwpqzq56 containing 92 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036099 Processing bulk payment job 258 with batchId retry-batch-1755743994627-lor9ts0h2 containing 75 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036105 Processing bulk payment job 259 with batchId retry-batch-1755743994648-y4r54dlib containing 74 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036191 Processing bulk payment job 260 with batchId retry-batch-1755743994653-o4v5eb75z containing 76 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036194 Processing bulk payment job 268 with batchId batch-1755743996669-dlslygyz4 containing 138 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036222 Processing bulk payment job 269 with batchId batch-1755743997169-n0a8f7zyw containing 93 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036308 Processing bulk payment job 270 with batchId batch-1755743997672-48zkssuoq containing 139 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036370 Processing bulk payment job 271 with batchId batch-1755743998171-w6lnfhwkp containing 94 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036372 Processing bulk payment job 265 with batchId retry-batch-1755743996633-c4r8dqsqn containing 75 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036451 Processing bulk payment job 266 with batchId retry-batch-1755743996654-tyoamlncc containing 77 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036466 Processing bulk payment job 267 with batchId retry-batch-1755743996660-pvk9jdnrk containing 76 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036483 Processing bulk payment job 275 with batchId batch-1755743998675-ad9ax83lb containing 140 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036521 Processing bulk payment job 276 with batchId batch-1755743999172-z9guxvfd8 containing 95 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036556 Processing bulk payment job 277 with batchId batch-1755743999674-109gjp5qh containing 139 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036617 Processing bulk payment job 278 with batchId batch-1755744000173-hkguzx3ja containing 98 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036662 Processing bulk payment job 272 with batchId retry-batch-1755743998637-xo1wwqjxu containing 78 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036715 Processing bulk payment job 273 with batchId retry-batch-1755743998659-znndqm3hc containing 72 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036721 Processing bulk payment job 274 with batchId retry-batch-1755743998666-6gwf320kr containing 83 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036767 Processing bulk payment job 282 with batchId batch-1755744000679-avu81pfsy containing 137 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036801 Processing bulk payment job 283 with batchId batch-1755744001176-i8n4usfx9 containing 102 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036875 Processing bulk payment job 284 with batchId batch-1755744001678-znqzqcpba containing 138 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036966 Processing bulk payment job 285 with batchId batch-1755744002177-ghmrxqfiy containing 103 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036969 Processing bulk payment job 279 with batchId retry-batch-1755744000643-9fto6azv6 containing 74 payments. Host: default[39m
+worker1-1  | [02:40:36 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744036970 Processing bulk payment job 280 with batchId retry-batch-1755744000665-y11zuxtc4 containing 84 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037072 Processing bulk payment job 281 with batchId retry-batch-1755744000673-tbxeygb0w containing 75 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037085 Processing bulk payment job 289 with batchId batch-1755744002681-y1fpv3vlj containing 139 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037118 Processing bulk payment job 290 with batchId batch-1755744003177-h3z5lbjpv containing 104 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037171 Processing bulk payment job 291 with batchId batch-1755744003679-fq6jxfz4s containing 140 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037213 Processing bulk payment job 292 with batchId batch-1755744004177-voofr7f9x containing 105 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037229 Processing bulk payment job 293 with batchId batch-1755744004678-gaogkawl7 containing 141 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037345 Processing bulk payment job 294 with batchId batch-1755744005178-l20501mqi containing 106 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037379 Processing bulk payment job 295 with batchId batch-1755744005681-375pbgtyn containing 142 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037434 Processing bulk payment job 296 with batchId batch-1755744006181-m4wsagvpv containing 107 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037436 Processing bulk payment job 297 with batchId batch-1755744006683-m7pa5xmh8 containing 143 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037518 Processing bulk payment job 298 with batchId batch-1755744007180-e0hnazifh containing 108 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037574 Processing bulk payment job 286 with batchId retry-batch-1755744002649-8xbr19xwc containing 85 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037648 Processing bulk payment job 287 with batchId retry-batch-1755744002671-rwqgcxchg containing 76 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037654 Processing bulk payment job 288 with batchId retry-batch-1755744002688-jelqptm3v containing 86 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037684 Processing bulk payment job 301 with batchId batch-1755744007682-yxxbpg9b8 containing 144 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037729 Processing bulk payment job 303 with batchId batch-1755744008184-z8vta7f3u containing 109 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037737 Processing bulk payment job 304 with batchId batch-1755744008684-dy45yims0 containing 145 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037872 Processing bulk payment job 305 with batchId batch-1755744009183-frdqc8pjg containing 110 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037902 Processing bulk payment job 306 with batchId batch-1755744009685-q2o4m3qwn containing 146 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037966 Processing bulk payment job 307 with batchId batch-1755744010184-nw147gkoh containing 111 payments. Host: default[39m
+worker1-1  | [02:40:37 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744037970 Processing bulk payment job 308 with batchId batch-1755744010685-5xcd7eq2v containing 147 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038082 Processing bulk payment job 309 with batchId batch-1755744011185-1a6ctf4cx containing 112 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038103 Processing bulk payment job 310 with batchId batch-1755744011686-1tj1tmvkv containing 148 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038173 Processing bulk payment job 311 with batchId batch-1755744012185-spfcy2z9j containing 113 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038179 Processing bulk payment job 299 with batchId retry-batch-1755744007658-5daripnd4 containing 77 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038253 Processing bulk payment job 300 with batchId retry-batch-1755744007677-2a5td4szy containing 87 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038287 Processing bulk payment job 302 with batchId retry-batch-1755744007699-lt2xnz812 containing 78 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038370 Processing bulk payment job 314 with batchId batch-1755744012687-17dss1813 containing 149 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038372 Processing bulk payment job 316 with batchId batch-1755744013186-xssop7yvj containing 114 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038415 Processing bulk payment job 317 with batchId batch-1755744013688-dpybzob1a containing 150 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038472 Processing bulk payment job 318 with batchId batch-1755744014188-lpwzcw9vg containing 115 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038524 Processing bulk payment job 319 with batchId batch-1755744014688-ispoo4aa7 containing 151 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038605 Processing bulk payment job 320 with batchId batch-1755744015188-9rojc0m4r containing 116 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038610 Processing bulk payment job 321 with batchId batch-1755744015691-9dle689it containing 152 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038691 Processing bulk payment job 322 with batchId batch-1755744016191-5v3v7ui0q containing 117 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038734 Processing bulk payment job 323 with batchId batch-1755744016693-8by7pid4x containing 154 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038848 Processing bulk payment job 324 with batchId batch-1755744017192-pph5iukjc containing 118 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038849 Processing bulk payment job 312 with batchId retry-batch-1755744012665-371biprb6 containing 88 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038918 Processing bulk payment job 313 with batchId retry-batch-1755744012691-xfdwtbidj containing 78 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038958 Processing bulk payment job 315 with batchId retry-batch-1755744012711-9g8bnlcyj containing 90 payments. Host: default[39m
+worker1-1  | [02:40:38 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744038981 Processing bulk payment job 327 with batchId batch-1755744017694-almlbyx5g containing 153 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039050 Processing bulk payment job 329 with batchId batch-1755744018193-pi0an2qce containing 121 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039067 Processing bulk payment job 330 with batchId batch-1755744018695-mor0emq99 containing 150 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039151 Processing bulk payment job 331 with batchId batch-1755744019194-ayzf123co containing 126 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039199 Processing bulk payment job 332 with batchId batch-1755744019695-34iigkb8q containing 151 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039205 Processing bulk payment job 333 with batchId batch-1755744020194-4eg8o25qz containing 127 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039301 Processing bulk payment job 334 with batchId batch-1755744020697-abolclgkm containing 152 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039381 Processing bulk payment job 335 with batchId batch-1755744021195-q4piujo1x containing 128 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039442 Processing bulk payment job 336 with batchId batch-1755744021697-wvlp4irwp containing 153 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039445 Processing bulk payment job 337 with batchId batch-1755744022196-jg6hfz33r containing 128 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039565 Processing bulk payment job 325 with batchId retry-batch-1755744017671-iuvlcdqz3 containing 79 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039603 Processing bulk payment job 326 with batchId retry-batch-1755744017699-v248ljbzy containing 91 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039605 Processing bulk payment job 328 with batchId retry-batch-1755744017717-ndxgplx7z containing 80 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039664 Processing bulk payment job 340 with batchId batch-1755744022698-npvqlkcsc containing 155 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039682 Processing bulk payment job 342 with batchId batch-1755744023197-l86r3fo1q containing 129 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039744 Processing bulk payment job 343 with batchId batch-1755744023697-utzm2uziy containing 156 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039840 Processing bulk payment job 344 with batchId batch-1755744024198-eub3fwjr1 containing 130 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039868 Processing bulk payment job 345 with batchId batch-1755744024700-coe4i4qfb containing 157 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039962 Processing bulk payment job 346 with batchId batch-1755744025200-jmuykx5wd containing 131 payments. Host: default[39m
+worker1-1  | [02:40:39 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744039966 Processing bulk payment job 347 with batchId batch-1755744025701-61bvo9ayb containing 158 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040082 Processing bulk payment job 348 with batchId batch-1755744026201-3ac6x61gj containing 132 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040084 Processing bulk payment job 349 with batchId batch-1755744026703-eok9okrnk containing 159 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040185 Processing bulk payment job 350 with batchId batch-1755744027202-l5xfpr5so containing 133 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040187 Processing bulk payment job 338 with batchId retry-batch-1755744022677-e900vfeiu containing 92 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040277 Processing bulk payment job 339 with batchId retry-batch-1755744022708-gebw8wwb8 containing 80 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040324 Processing bulk payment job 341 with batchId retry-batch-1755744022721-opabdvwt7 containing 92 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040371 Processing bulk payment job 352 with batchId batch-1755744027703-kgsb8w43a containing 160 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040388 Processing bulk payment job 355 with batchId batch-1755744028204-r05d0dtux containing 134 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040471 Processing bulk payment job 356 with batchId batch-1755744028705-zzefbnazh containing 160 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040530 Processing bulk payment job 357 with batchId batch-1755744029204-em4hiq1jc containing 136 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040564 Processing bulk payment job 358 with batchId batch-1755744029706-fw8mn2suk containing 161 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040611 Processing bulk payment job 359 with batchId batch-1755744030204-6h1e30g5w containing 137 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040682 Processing bulk payment job 360 with batchId batch-1755744030706-bdltqu94g containing 162 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040783 Processing bulk payment job 361 with batchId batch-1755744031206-fs85lrfb6 containing 137 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040813 Processing bulk payment job 362 with batchId batch-1755744031706-a5yitbdxc containing 164 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040885 Processing bulk payment job 363 with batchId batch-1755744032206-bhxkjf6kn containing 138 payments. Host: default[39m
+worker1-1  | [02:40:40 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744040967 Processing bulk payment job 364 with batchId batch-1755744032710-gsmjaa5qc containing 165 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041019 Processing bulk payment job 351 with batchId retry-batch-1755744027683-bw67ls9dp containing 83 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041086 Processing bulk payment job 353 with batchId retry-batch-1755744027713-yt2t3kmvz containing 93 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041106 Processing bulk payment job 354 with batchId retry-batch-1755744027727-r2jxnv9f5 containing 84 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041107 Processing bulk payment job 365 with batchId batch-1755744033267-jeo2echd3 containing 147 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041196 Processing bulk payment job 366 with batchId batch-1755744033757-9rdby9h85 containing 169 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041230 Processing bulk payment job 367 with batchId batch-1755744034255-e53t3wxxv containing 137 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041351 Processing bulk payment job 368 with batchId batch-1755744034768-ty21m8ill containing 170 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041353 Processing bulk payment job 369 with batchId batch-1755744035267-4vo3amsqm containing 138 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041410 Processing bulk payment job 370 with batchId batch-1755744035773-66kdpcyna containing 171 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041517 Processing bulk payment job 371 with batchId batch-1755744036274-39jx1z0fu containing 139 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041566 Processing bulk payment job 372 with batchId batch-1755744036781-n9sdbtrgv containing 172 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041620 Processing bulk payment job 373 with batchId batch-1755744037292-j1bwjqd5 containing 140 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041701 Processing bulk payment job 374 with batchId batch-1755744037799-ayzjg5b78 containing 173 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041770 Processing bulk payment job 375 with batchId batch-1755744038284-0bz6grzxb containing 141 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041777 Processing bulk payment job 376 with batchId batch-1755744038791-qgd2a7i99 containing 174 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041950 Processing bulk payment job 377 with batchId batch-1755744039287-ic0vtnem5 containing 142 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041952 Processing bulk payment job 378 with batchId batch-1755744039795-qz2fc65zc containing 175 payments. Host: default[39m
+worker1-1  | [02:40:41 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744041979 Processing bulk payment job 379 with batchId batch-1755744040286-cfo4uod1t containing 143 payments. Host: default[39m
+worker1-1  | [02:40:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744042062 Processing bulk payment job 380 with batchId batch-1755744040792-ih8cgtbab containing 176 payments. Host: default[39m
+worker1-1  | [02:40:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744042173 Processing bulk payment job 381 with batchId batch-1755744041296-7gls7owc6 containing 145 payments. Host: default[39m
+worker1-1  | [02:40:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744042199 Processing bulk payment job 382 with batchId batch-1755744041797-rmruz7ztu containing 176 payments. Host: default[39m
+worker1-1  | [02:40:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744042312 Processing bulk payment job 383 with batchId batch-1755744042290-a6ptdvfbn containing 146 payments. Host: default[39m
+worker1-1  | [02:40:42 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744042798 Processing bulk payment job 384 with batchId batch-1755744042787-wh0n2ir4w containing 177 payments. Host: default[39m
+worker1-1  | [02:40:43 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744043294 Processing bulk payment job 385 with batchId batch-1755744043287-0upu163w3 containing 147 payments. Host: default[39m
+worker1-1  | [02:40:43 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744043796 Processing bulk payment job 386 with batchId batch-1755744043787-c77b4yqq5 containing 178 payments. Host: default[39m
+worker1-1  | [02:40:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744044294 Processing bulk payment job 387 with batchId batch-1755744044287-umuh63b43 containing 148 payments. Host: default[39m
+worker1-1  | [02:40:44 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744044799 Processing bulk payment job 388 with batchId batch-1755744044789-5ytaq8gon containing 179 payments. Host: default[39m
+worker1-1  | [02:40:45 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744045294 Processing bulk payment job 389 with batchId batch-1755744045287-0uhzz34e7 containing 148 payments. Host: default[39m
+worker1-1  | [02:40:45 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744045797 Processing bulk payment job 390 with batchId batch-1755744045789-i84rf8atv containing 181 payments. Host: default[39m
+worker1-1  | [02:40:46 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744046295 Processing bulk payment job 391 with batchId batch-1755744046287-irpvipcv9 containing 149 payments. Host: default[39m
+worker1-1  | [02:40:46 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744046798 Processing bulk payment job 392 with batchId batch-1755744046789-xl7wxmg3e containing 182 payments. Host: default[39m
+worker1-1  | [02:40:47 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744047298 Processing bulk payment job 393 with batchId batch-1755744047287-j8exasfn6 containing 150 payments. Host: default[39m
+worker1-1  | [02:40:47 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744047798 Processing bulk payment job 394 with batchId batch-1755744047790-ml8x3oz5q containing 177 payments. Host: default[39m
+worker1-1  | [02:40:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744048298 Processing bulk payment job 395 with batchId batch-1755744048290-fw4n60gdi containing 157 payments. Host: default[39m
+worker1-1  | [02:40:48 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744048799 Processing bulk payment job 396 with batchId batch-1755744048791-rtnkrhek4 containing 177 payments. Host: default[39m
+worker1-1  | [02:40:49 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744049300 Processing bulk payment job 397 with batchId batch-1755744049292-sa3uw75rf containing 159 payments. Host: default[39m
+worker1-1  | [02:40:49 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744049801 Processing bulk payment job 398 with batchId batch-1755744049793-7spn66o76 containing 178 payments. Host: default[39m
+worker1-1  | [02:40:50 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744050298 Processing bulk payment job 399 with batchId batch-1755744050291-fju38oltj containing 160 payments. Host: default[39m
+worker1-1  | [02:40:50 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744050802 Processing bulk payment job 400 with batchId batch-1755744050793-x3clrpti6 containing 179 payments. Host: default[39m
+worker1-1  | [02:40:51 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744051300 Processing bulk payment job 401 with batchId batch-1755744051292-1so5mzinl containing 161 payments. Host: default[39m
+worker1-1  | [02:40:51 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744051802 Processing bulk payment job 402 with batchId batch-1755744051792-aijwodhfb containing 180 payments. Host: default[39m
+worker1-1  | [02:40:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744052299 Processing bulk payment job 403 with batchId batch-1755744052292-0s7hvvpt9 containing 162 payments. Host: default[39m
+worker1-1  | [02:40:52 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744052808 Processing bulk payment job 404 with batchId batch-1755744052798-tml56n057 containing 177 payments. Host: default[39m
+worker1-1  | [02:40:53 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744053305 Processing bulk payment job 405 with batchId batch-1755744053297-3mkv17csw containing 160 payments. Host: default[39m
+worker1-1  | [02:40:53 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744053807 Processing bulk payment job 406 with batchId batch-1755744053798-fu1zeuq89 containing 170 payments. Host: default[39m
+cache-1    | 1:M 21 Aug 2025 02:40:54.088 * 10000 changes in 60 seconds. Saving...
+cache-1    | 1:M 21 Aug 2025 02:40:54.088 * Background saving started by pid 132
+cache-1    | 132:C 21 Aug 2025 02:40:54.119 * DB saved on disk
+cache-1    | 132:C 21 Aug 2025 02:40:54.119 * Fork CoW for RDB: current 1 MB, peak 1 MB, average 0 MB
+cache-1    | 1:M 21 Aug 2025 02:40:54.190 * Background saving terminated with success
+worker1-1  | [02:40:54 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744054308 Processing bulk payment job 407 with batchId batch-1755744054298-pnkgzbayw containing 156 payments. Host: default[39m
+[Kapi2-1 exited with code 137
+worker1-1  | [02:40:54 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744054804 Processing bulk payment job 408 with batchId batch-1755744054797-v125nprrz containing 161 payments. Host: default[39m
+worker1-1  | [02:40:55 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744055306 Processing bulk payment job 409 with batchId batch-1755744055298-0t124bre5 containing 172 payments. Host: default[39m
+worker1-1  | [02:40:55 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744055810 Processing bulk payment job 410 with batchId batch-1755744055798-usfun3phe containing 162 payments. Host: default[39m
+worker1-1  | [02:40:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744056307 Processing bulk payment job 411 with batchId batch-1755744056300-81n35ni1x containing 173 payments. Host: default[39m
+worker1-1  | [02:40:56 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744056806 Processing bulk payment job 412 with batchId batch-1755744056799-n2n387rli containing 168 payments. Host: default[39m
+worker1-1  | [02:40:57 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744057311 Processing bulk payment job 413 with batchId batch-1755744057301-rlfhlevw5 containing 184 payments. Host: default[39m
+worker1-1  | [02:40:57 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744057808 Processing bulk payment job 414 with batchId batch-1755744057800-dkk5xxssv containing 169 payments. Host: default[39m
+worker1-1  | [02:40:58 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744058308 Processing bulk payment job 415 with batchId batch-1755744058300-uajts27oc containing 185 payments. Host: default[39m
+worker1-1  | [02:40:58 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744058807 Processing bulk payment job 416 with batchId batch-1755744058800-7f60ttrhf containing 157 payments. Host: default[39m
+worker1-1  | [02:40:59 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744059310 Processing bulk payment job 417 with batchId batch-1755744059302-roxqok2zf containing 186 payments. Host: default[39m
+worker1-1  | [02:40:59 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744059809 Processing bulk payment job 418 with batchId batch-1755744059801-iboxzbmit containing 158 payments. Host: default[39m
+worker1-1  | [02:41:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744060310 Processing bulk payment job 419 with batchId batch-1755744060302-nfh1pcx0x containing 187 payments. Host: default[39m
+worker1-1  | [02:41:00 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744060809 Processing bulk payment job 420 with batchId batch-1755744060802-8qryqm3zh containing 155 payments. Host: default[39m
+worker1-1  | [02:41:01 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744061312 Processing bulk payment job 421 with batchId batch-1755744061303-3jffrmt05 containing 204 payments. Host: default[39m
+worker1-1  | [02:41:01 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744061811 Processing bulk payment job 422 with batchId batch-1755744061803-0dk1n8zpv containing 156 payments. Host: default[39m
+worker1-1  | [02:41:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744062318 Processing bulk payment job 423 with batchId batch-1755744062305-o5lg1tea3 containing 205 payments. Host: default[39m
+worker1-1  | [02:41:02 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744062812 Processing bulk payment job 424 with batchId batch-1755744062804-b8yxxqmul containing 146 payments. Host: default[39m
+worker1-1  | [02:41:03 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744063315 Processing bulk payment job 425 with batchId batch-1755744063306-8uy9zqjbj containing 204 payments. Host: default[39m
+worker1-1  | [02:41:04 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744064372 Processing bulk payment job 426 with batchId batch-1755744063805-f50ja9guu containing 147 payments. Host: default[39m
+worker1-1  | [02:41:04 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744064508 Processing bulk payment job 427 with batchId batch-1755744064306-t7tnsvswj containing 134 payments. Host: default[39m
+haproxy-1  | [WARNING]  (9) : Server backend_payments/api2 is DOWN, reason: Layer4 timeout, check duration: 2001ms. 1 active and 0 backup servers left. 69 sessions active, 0 requeued, 0 remaining in queue.
+worker1-1  | [02:41:05 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744065498 Processing bulk payment job 428 with batchId batch-1755744064808-k3k3a12hp containing 164 payments. Host: default[39m
+haproxy-1  | [WARNING]  (9) : Server backend_summary/api2 is DOWN, reason: Layer4 timeout, check duration: 2001ms. 1 active and 0 backup servers left. 0 sessions active, 0 requeued, 0 remaining in queue.
+worker1-1  | [02:41:05 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744065939 Processing bulk payment job 429 with batchId batch-1755744065306-xy769edmf containing 139 payments. Host: default[39m
+worker1-1  | [02:41:05 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744065961 Processing bulk payment job 430 with batchId batch-1755744065810-1k4cxamcv containing 175 payments. Host: default[39m
+worker1-1  | [02:41:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744067273 Processing bulk payment job 431 with batchId batch-1755744066307-t9ul9wmbj containing 140 payments. Host: default[39m
+worker1-1  | [02:41:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744067389 Processing bulk payment job 432 with batchId batch-1755744066812-gb35hssi5 containing 208 payments. Host: default[39m
+worker1-1  | [02:41:07 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744067840 Processing bulk payment job 433 with batchId batch-1755744067310-xt75oglls containing 164 payments. Host: default[39m
+worker1-1  | [02:41:08 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744068734 Processing bulk payment job 434 with batchId batch-1755744067813-c9bluy5ql containing 209 payments. Host: default[39m
+worker1-1  | [02:41:09 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744069571 Processing bulk payment job 435 with batchId batch-1755744068310-q63wj2ca6 containing 165 payments. Host: default[39m
+worker1-1  | [02:41:09 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744069596 Processing bulk payment job 436 with batchId batch-1755744068811-ghcq1q2a5 containing 210 payments. Host: default[39m
+worker1-1  | [02:41:10 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744070930 Processing bulk payment job 437 with batchId batch-1755744069309-5dlb3lhz9 containing 166 payments. Host: default[39m
+worker1-1  | [02:41:11 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744071350 Processing bulk payment job 438 with batchId batch-1755744069813-d61qxwgbw containing 211 payments. Host: default[39m
+worker1-1  | [02:41:11 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744071778 Processing bulk payment job 439 with batchId batch-1755744070317-orjejor0r containing 167 payments. Host: default[39m
+worker1-1  | [02:41:12 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744072707 Processing bulk payment job 440 with batchId batch-1755744070814-alana4gah containing 212 payments. Host: default[39m
+worker1-1  | [02:41:13 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744073564 Processing bulk payment job 441 with batchId batch-1755744071311-gu6p6tomh containing 168 payments. Host: default[39m
+worker1-1  | [02:41:13 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744073664 Processing bulk payment job 442 with batchId batch-1755744071812-0rd0fu71n containing 212 payments. Host: default[39m
+worker1-1  | [02:41:15 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744075004 Processing bulk payment job 443 with batchId batch-1755744072313-hgwkp6twf containing 170 payments. Host: default[39m
+worker1-1  | [02:41:15 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744075339 Processing bulk payment job 444 with batchId batch-1755744072813-qdibvk7za containing 209 payments. Host: default[39m
+worker1-1  | [02:41:15 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744075953 Processing bulk payment job 445 with batchId batch-1755744073311-788z06gw8 containing 175 payments. Host: default[39m
+[Kapi1-1 exited with code 137
+worker1-1  | [02:41:16 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744076773 Processing bulk payment job 446 with batchId batch-1755744073814-ibn281yj3 containing 208 payments. Host: default[39m
+worker1-1  | [02:41:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744077525 Processing bulk payment job 447 with batchId batch-1755744074312-bmx3ivc4h containing 178 payments. Host: default[39m
+worker1-1  | [02:41:17 UTC] [32mINFO[39m: [36m[process-bulk-payment]-1755744077836 Processing bulk payment job 448 with batchId batch-1755744074809-czft6fzrl containing 16 payments. Host: default[39m
+haproxy-1  | HAProxy version 2.9.15-e872a3f 2025/03/21 - https://haproxy.org/
+haproxy-1  | Status: End of life - please upgrade to branch 3.0.
+haproxy-1  | Known bugs: http://www.haproxy.org/bugs/bugs-2.9.15.html
+haproxy-1  | Running on: Linux 6.12.41+deb13-cloud-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12) x86_64
+haproxy-1  | [NOTICE]   (1) : haproxy version is 2.9.15-e872a3f
+haproxy-1  | [ALERT]    (1) : Current worker (9) exited with code 137 (Killed)
+haproxy-1  | [WARNING]  (1) : A worker process unexpectedly died and this can only be explained by a bug in haproxy or its dependencies.
+haproxy-1  | Please check that you are running an up to date and maintained version of haproxy and open a bug report.
+haproxy-1  | [ALERT]    (1) : exit-on-failure: killing every processes with SIGTERM
+haproxy-1  | [WARNING]  (1) : All workers exited. Exiting... (137)
+[Khaproxy-1 exited with code 137
+cache-1    | 1:M 21 Aug 2025 02:41:55.059 * 10000 changes in 60 seconds. Saving...
+cache-1    | 1:M 21 Aug 2025 02:41:55.059 * Background saving started by pid 169
+cache-1    | 169:C 21 Aug 2025 02:41:55.092 * DB saved on disk
+log truncated at line 1000
